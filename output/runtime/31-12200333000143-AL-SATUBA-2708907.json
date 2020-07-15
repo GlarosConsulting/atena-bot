@@ -1,0 +1,1389 @@
+{
+  "beginDate": "2020-07-14T21:28:13.799Z",
+  "endDate": "2020-07-14T21:39:37.317Z",
+  "data": {
+    "location": {
+      "city": "Satuba",
+      "uf": "AL",
+      "ibge": "2708907"
+    },
+    "agreements": [
+      {
+        "agreementId": "875653/2018",
+        "uf": "AL",
+        "city": "Satuba",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-18T02:00:00.000Z",
+        "end": "2021-12-18T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "054026/2018",
+            "organId": "54026/2018",
+            "processId": "540262018",
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "SATUBA ESTÁ LOCALIZADA NA REGIÃO METROPOLITANA DE MACEIÓ, TEM UMA POPULAÇÃO DE POUCO MAIS DE 14 MIL HABITANTES, CLIMA TEMPERADO, UMA ÁREA DE 43 QUILÔMETROS QUADRADOS E UMA RENDA PER CAPITA BAIXA. POR SER MARGEADA POR UMA IMPORTANTE RODOVIA, SERVE COMO VIA DE ESCOAMENTO DO TRANSITO, TENDO AINDA MUITAS RUAS NECESSITANDO DE PAVIMENTAÇÃO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Pavimentação em vias Urbanas",
+            "information": "O MUNICÍPIO DISPÕE EM SEU QUADRO TÉCNICO E GERENCIAL ENGENHEIRO CIVIL, ARQUITETO E PROFISSIONAIS QUE POSSAM ACOMPANHAR O CONVENIO.",
+            "proposalDate": "2018-06-25T03:00:00.000Z",
+            "biddingDate": "2018-12-18T02:00:00.000Z",
+            "homologationDate": "2018-12-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020180033",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 225000,
+              "details": {
+                "code": "5300020180033",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "007/2018",
+                "items": "Unidades Habitacionais, Equipamentos Comunitários, Pavimentação, Drenagem, Abastecimento de Água, Esgotamento Sanitário, Energia Elétrica e Iluminação, Coleta e Tratamento de Resíduos Sólidos, Contenção e Estabilização de Encostas, Regularização Fundiária, Aquisição de Terreno, Aquisição de Equipamentos e Insumos, Elaboração de Estudos e Projetos, Instrumentos e Ações em Planejamento e Gestão Pública, Ações Complementares de Obras, Gerenciamento, Trabalho Social, Transporte Público",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 225000,
+                "couterpartValues": {
+                  "total": 2142.86,
+                  "financial": 2142.86,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 222857.14,
+                  "amendment": "R$ 222.857,14 - Jhc"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "respProponent": "***.417.974-** - JOSE PAULINO ACIOLY DE ARAUJO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2019",
+              "type": "Licitação - Convite",
+              "date": "2019-08-27T03:00:00.000Z",
+              "processId": "2643",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "2643",
+                "biddingId": "03/2019",
+                "object": "Contratação de Empresa do rama da Engenharia para Prestação de Serviços de Pavimentação das Ruas E e F1 localizadas no Alto da Boa Vista, no Município de Satuba/AL",
+                "legalFoundation": "8.666/1993",
+                "justification": "Pavimentação",
+                "publishDate": "2019-08-27T03:00:00.000Z",
+                "beginDate": "2019-09-04T03:00:00.000Z",
+                "endDate": "2019-09-04T03:00:00.000Z",
+                "biddingValue": 224121.28,
+                "homologationDate": "2019-09-12T03:00:00.000Z",
+                "city": "2877 - SATUBA",
+                "analysisDate": "2019-11-18T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000049/2019",
+              "biddingId": "03/2019",
+              "date": "2019-09-19T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 29813710000112",
+                "hirerDocument": "CNPJ: 12200333000143",
+                "type": "Material e Serviço",
+                "object": "Contratação de Empresa do ramo da Engenharia para Prestação de Serviço de Pavimentação das Ruas E e F1, localizadas no Alto da Boa Vista, Município de Satuba Alagoas.",
+                "totalValue": 212701.68,
+                "publishDate": "2019-09-19T03:00:00.000Z",
+                "beginDate": "2019-09-12T03:00:00.000Z",
+                "endDate": "2020-09-11T03:00:00.000Z",
+                "signDate": "2019-09-12T03:00:00.000Z",
+                "executionProcessId": "03/2019 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "2643 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE SATUBA",
+            "documentNumber": "12.200.333/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "875653/2018",
+            "validity": "18/12/2018 a 18/12/2021",
+            "limitDate": "2022-02-16T03:00:00.000Z",
+            "totalValue": 225000,
+            "transferValue": 222857.14,
+            "counterpartValue": 2142.86,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "856936/2017",
+        "uf": "AL",
+        "city": "Satuba",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "079571/2017",
+            "organId": "79571/2017",
+            "processId": "0795712017",
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "SATUBA ESTA LOCALIZADA NA REGIÃO METROPOLITANA DE MACEIÓ, TEM UMA POPULAÇÃO DE POUCO MAIS DE 14 MIL HABITANTES, CLIMA TEMPERADO, UMA ÁREA DE 43 QUILÔMETROS QUADRADOS E UMA RENDA PER CAPITA BAIXA, POR SER MARGEADA POR UMA IMPORTANTE RODOVIA, SERVE COMO VIA DE ESCOAMENTO DE TRANSITO, TENDO AINDA MUITAS RUAS NECESSITANDO DE PAVIMENTAÇÃO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "DESENVOLVIMENTO URBANO, PAVIMENTAÇÃO E DRENAGEM",
+            "information": "Responsável pelo Gerenciamento: • VICTOR RICARDO DE AZEVEDO LOPES – CPF.: 041.709.804-92 Engenheiro Civil: • DANIEL BRITO DOS SANTOS – CREA: 12510 – D/PA – CPF.: 443.423.062-04",
+            "proposalDate": "2017-08-07T03:00:00.000Z",
+            "biddingDate": "2017-12-30T02:00:00.000Z",
+            "homologationDate": "2018-01-11T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 348908,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 348908,
+                "couterpartValues": {
+                  "total": 358,
+                  "financial": 358,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 348550,
+                  "amendment": "R$ 348.550,00 - Cícero Almeida"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "respProponent": "***.417.974-** - JOSE PAULINO ACIOLY DE ARAUJO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.672.604-** - BRUNO CAVALCANTI DE ARAUJO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-09-14T03:00:00.000Z",
+              "processId": "50272018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "50272018",
+                "biddingId": "02/2018",
+                "object": "Serviço de Pavimentação e Drenagem nas ruas A, C, C1 no Bairro Alto da Boa Vista I, Município de Satuba.",
+                "legalFoundation": "LEI 8.666/1993",
+                "justification": "Desenvolvimento Urbano",
+                "publishDate": "2018-09-14T03:00:00.000Z",
+                "beginDate": "2018-10-03T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 299139.3,
+                "homologationDate": "2018-10-24T03:00:00.000Z",
+                "city": "2877 - SATUBA",
+                "analysisDate": null,
+                "accepted": ""
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000046/2018",
+              "biddingId": "02/2018",
+              "date": "2018-10-31T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 13029361000102",
+                "hirerDocument": "CNPJ: 12200333000143",
+                "type": "Material e Serviço",
+                "object": "Serviço de Pavimentação e Drenagem nas ruas A, C, C1 no Bairro Alto da Boa Vista I, Município de Satuba.",
+                "totalValue": 299139.3,
+                "publishDate": "2018-10-31T03:00:00.000Z",
+                "beginDate": "2018-10-24T03:00:00.000Z",
+                "endDate": "2019-10-23T03:00:00.000Z",
+                "signDate": "2018-10-24T03:00:00.000Z",
+                "executionProcessId": "02/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "50272018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE SATUBA",
+            "documentNumber": "12.200.333/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "856936/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 348908,
+            "transferValue": 348550,
+            "counterpartValue": 358,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "856887/2017",
+        "uf": "AL",
+        "city": "Satuba",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-26T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "016888/2017",
+            "organId": "16888/2017",
+            "processId": "0168882017",
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "SATUBA ESTÁ LOCALIZADA NA REGIÃO METROPOLITANA DE MACEIÓ, TEM UMA POPULAÇÃO DE POUCO MAIS DE 14 MIL HABITANTES, CLIMA TEMPERADO, UMA ÁREA DE 43 QUILÔMETROS QUADRADOS E UMA RENDA PER CAPITA BAIXA. POR SER MARGEADA POR UMA IMPORTANTE RODOVIA, SERVE COMO VIA DE ESCOAMENTO DO TRANSITO, TENDO AINDA MUITAS RUAS NECESSITANDO DE PAVIMENTAÇÃO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO E DRENAGEM SUPERFICIAL EM DIVERSAS RUAS DO MUNICÍPIO DE SATUBA - AL.",
+            "information": "O MUNICIPIO DISPÕE EM SEU QUADRO TÉCNICO E GERENCIAL ENGENHEIRO CIVIL E PROFISSIONAIS QUE POSSAM ACOMPANHAR O CONVENIO.",
+            "proposalDate": "2017-03-17T03:00:00.000Z",
+            "biddingDate": "2017-12-26T02:00:00.000Z",
+            "homologationDate": "2017-12-28T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 390791,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 390791,
+                "couterpartValues": {
+                  "total": 391,
+                  "financial": 391,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390400,
+                  "amendment": "R$ 390.400,00 - Cícero Almeida"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "respProponent": "***.417.974-** - JOSE PAULINO ACIOLY DE ARAUJO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.672.604-** - BRUNO CAVALCANTI DE ARAUJO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-05-28T03:00:00.000Z",
+              "processId": "11762018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "11762018",
+                "biddingId": "01/2018",
+                "object": "Contratação de Empresa no Ramo de engenharia para Pavimentação e Drenagem em ruas Localizadas no Loteamento Alto da Boa Vista I.",
+                "legalFoundation": "LEI 8.666/1993",
+                "justification": "Pavimentação",
+                "publishDate": "2018-05-28T03:00:00.000Z",
+                "beginDate": "2018-07-03T03:00:00.000Z",
+                "endDate": "2018-08-10T03:00:00.000Z",
+                "biddingValue": 383420.53,
+                "homologationDate": "2018-08-10T03:00:00.000Z",
+                "city": "2877 - SATUBA",
+                "analysisDate": null,
+                "accepted": ""
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000029/2018",
+              "biddingId": "01/2018",
+              "date": "2018-08-10T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 29138502000165",
+                "hirerDocument": "CNPJ: 12200333000143",
+                "type": "Material",
+                "object": "Contratação de Empresa no Ramo de engenharia para Pavimentação e Drenagem em ruas Localizadas no Loteamento Alto da Boa Vista I, do municipio de Satuba, de conformidade com as especificações e discriminações que integram este instrumento.",
+                "totalValue": 383420.53,
+                "publishDate": "2018-08-10T03:00:00.000Z",
+                "beginDate": "2018-07-24T03:00:00.000Z",
+                "endDate": "2019-07-23T03:00:00.000Z",
+                "signDate": "2018-07-24T03:00:00.000Z",
+                "executionProcessId": "01/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "11762018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE SATUBA",
+            "documentNumber": "12.200.333/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "856887/2017",
+            "validity": "26/12/2017 a 30/10/2021",
+            "limitDate": "2019-12-18T03:00:00.000Z",
+            "totalValue": 12,
+            "transferValue": 390791,
+            "counterpartValue": 390400,
+            "yieldValue": 391
+          }
+        }
+      },
+      {
+        "agreementId": "802685/2014",
+        "uf": "AL",
+        "city": "Satuba",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2014-12-31T02:00:00.000Z",
+        "end": "2016-12-31T02:00:00.000Z",
+        "program": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "033769/2014",
+            "organId": "00010/2014",
+            "processId": "25100.010047/2014-98",
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 507/2011.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "População: 14.604 habitantes.Localização: Fica no Leste do Estado, na microrregião de Maceió. Possui 42,559 km² de área e está a 20 quilômetros de Maceió.Geografia: Possui clima tropical, com temperaturas entre 22°C e 32°C. A vegetação predominante é de Mata Atlântica.Histórico: As origens do atual Município de Satuba retroagem ao ano de 1893, no local conhecido como Carrapato, onde, existiam na época, 11 casas de taipa e palha.Segundo a professora Carmem Lúcia Dantas, “o povoado passou a ser chamado de Satuba, que se acredita ser uma corruptela de saúva, ou saúba, devido a uma espécie de formiga que muito incomodava os operários que construíam a trilha férrea da Great Western”. Devido ao alto índice de pobreza o Município possui ainda varias famílias vivendo em casas sem banheiros e sem a mínima condição sanitária, por este motivo esta proposta tem a intenção da construção de 45 banheiros em diversos bairros do Município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Melhorias Sanitárias Domiciliares.",
+            "information": "O Município possui toda capacidade tecnica e gerencial para a execução do empreendimento.",
+            "proposalDate": "2014-03-21T03:00:00.000Z",
+            "biddingDate": "2014-12-31T02:00:00.000Z",
+            "homologationDate": "2015-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120140019",
+              "name": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+              "value": 408000,
+              "details": {
+                "code": "3621120140019",
+                "name": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+                "cps": null,
+                "items": "Implantação de Melhorias Sanitárias Domiciliares para Prevenção e Controle de Doenças e Agravos",
+                "couterpartRule": "A contrapartida (no caso dos municípios) dependerá da comprovação, na forma definida pelo art. 60 da Lei 12.919/2013 (LDO 2014) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 408000,
+                "couterpartValues": {
+                  "total": 8000,
+                  "financial": 8000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 400000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "respProponent": "***.417.974-** - JOSE PAULINO ACIOLY DE ARAUJO",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.810.894-** - ANTONIO HENRIQUE DE CARVALHO PIRES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE SATUBA",
+            "documentNumber": "12.200.333/0001-43",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "802685/2014",
+            "validity": "31/12/2014 a 31/12/2016",
+            "limitDate": "2017-03-01T03:00:00.000Z",
+            "totalValue": 408000,
+            "transferValue": 400000,
+            "counterpartValue": 8000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "745079/2010",
+        "uf": "AL",
+        "city": "Satuba",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-23T02:00:00.000Z",
+        "end": "2012-08-23T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "068530/2010",
+            "organId": "68530/2010",
+            "processId": "068530/2010",
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "SATUBA ESTÁ LOCALIZADA NA REGIÃO DA GRANDE MACEIÓ, CONTA COM UMA POPULAÇÃO DE 15 MIL HABITANTES, UMA ÁREA DE 42,5 KM QUADRADOS, E POSSUI UM CLIMA QUENTE E ÚMIDO DURANTE TODO O ANO. DADA SUA PROXIMIDADE COM A CAPITAL, SÃO APENAS 15 QUILÔMETROS DE DISTÂNCIA, A CIDADE TEM CRESCIDO E COM O SEU CRESCIMENTO TEM ORIGINADO DEMANDAS QUE PRECISAM SER ATENDIDAS PELO PODER PÚBLICO LOCAL, QUE DEPENDE DOS REPASSES FEDERAIS PARA REALIZAR AS OBRAS E TRANSFORMAÇÕES SOCIAIS TÃO ALMEJADAS. DENTRO DESTE CONTEXTO, DE DESENVOLVIMENTO E CRESCIMENTO COM RESPONSABILIDADE, É QUE A PREFEITURA VEM APRESENTAR ESTA PROPOSTA PARA CONTRUÇÃO DE UM MERCADO PÚBLICO, LEVANDO, ASSIM, MAIS DIGNIDADE PARA O SEU POVO. ESSA OBRA, ENTÃO, É MAIS DO QUE FUNDAMENTAL PARA A CONCRETIZAÇÃO DO SONHO DE VER SATUBA COM UM MERCADO PÚBLICO MODELO. A VERBA SOLICITADA PARA CONSTRUÇÃO DO MERCADO PÚBLICO DO MUNICÍPIO DE SATUBA FUNDAMENTA-SE NA EXISTÊNCIA DE UMA FEIRA LIVRE EXISTENTE NO CENTRO DA CIDADE DO MUNICÍPIO QUE FUNCIONA AOS SÁBADOS E DOMINGOS AO LONGO DOS 49 ANOS DE EMANCIPAÇÃO DA CIDADE. A REFERIDA FEIRA POSSUI ATRATIVOS TURÍSTICOS NA SEGUINTE AREA, CULTURAL, COM A PRESENÇA DE ARTISTAS NAS ÁREAS, MÚSICAIS, ARTESANATO DE BARRO, LITERATURA DE CORDEL. O MERCADO PÚBLICO SERÁ LOCALIZADO NO PARQUE DA FEIRA LIVRE, E ACOMODARÁ TAMBÉM OS COMERCIANTES DA GASTRONOMIA TRADICIONAL DA REGIÃO, COMO: TAPIOCA, BEJÚ, PÉ DE MOLEQUE COCADA, BOLO DE MASSA-PUBA, BOLO DE MANDIOCA, BOLO DE MILHO, ALÉM DO TRADICIONAL CALDINHO DE MOCOTÓ, SIRI E CAMARÃO DE ÁGUA DOCE, ALÉM DE MOVIMENTAR INTERNAMENTE O COMERCIO DO MUNICÍPIO COM INTERCÂMBIO ENTRE OS MUNICIPIOS CIRCO-VIZINHO. COMO RESULTADO, ESTIMAMOS QUE AS APRESENTAÇÕES ARTISTICAS, AS ACOMODAÇÕES GASTRONOMICOS E CULTURAL, ASSIM COMO, OS FREQUENTADORES, SE ESTABELEÇAM EM LOCAIS ADEQUADOS DE VISIBILIDADE, HIGIENE, CONFORTO E PROTEGIDO DAS INTERPERES NATURAIS; QUE O FLUXO TURISTICO NO MUNICÍPIO SEJA DOBRADO NOS FINAIS DE SEMANA (SABADOS E DOMINGOS), POR OCASIÃO FEIRA LIVRE DO MUNICÍPIO, GERANDO EMPREGO E RENDE. O MERCADO PÚBLICO SE RELACIONARÁ COM O TURISMO DO MUNICÍPIO, TENDO EM VISTA QUE O MUNICÍPIO FAZ PARTE DA REGIÃO METROPOLITANA E RECEBE GRANDE FLUXO TURISTICO HOSPEDADOS EM MACEIÓ/AL, HAJA VISTA QUE A CIDADE É CORTADA PELA BR-316 E PELA MALHA FERROVIARIA, FAZENDO PARTE DA BACIA HIDROGRAFICA DO RIO MUNDAU E DA LAGOA MUNDAU. AS COMIDAS TIPICAS REGIONAL, AS APRESENTAÇÕES CULTURAIS E O ARTESANATO LOCAL, É UM ATRATIVO CO-RELACIONADO AO TURISMO DO ESTADO DE ALAGOAS, QUE DEVIDO A FÁCIL MOBILIDADE ATÉ O MUNICÍPIO, A FREQUÊNCIA TURISTICA DA CAPITAL ESTÁ SEMPRE PRESENTE.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUCÃO MERCADO PÚBLICO",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR A PRESENTE RPOPOSTA.",
+            "proposalDate": "2010-06-09T03:00:00.000Z",
+            "biddingDate": "2010-12-23T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100020",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 498500,
+              "details": {
+                "code": "5400020100020",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "Mercado ou feira pública",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 498500,
+                "couterpartValues": {
+                  "total": 11000,
+                  "financial": 11000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "respProponent": "***.277.964-** - CICERO FERREIRA DA SILVA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE SATUBA",
+            "documentNumber": "12.200.333/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "745079/2010",
+            "validity": "23/12/2010 a 23/08/2012",
+            "limitDate": "2012-09-22T03:00:00.000Z",
+            "totalValue": 498500,
+            "transferValue": 487500,
+            "counterpartValue": 11000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "743043/2010",
+        "uf": "AL",
+        "city": "Satuba",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-08-19T03:00:00.000Z",
+        "end": "2012-08-19T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "041579/2010",
+            "organId": "41579/2010",
+            "processId": "041579/2010",
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "SATUBA ESTÁ LOCALIZADA NA REGIÃO DA GRANDE MACEIÓ, CONTA COM UMA POPULAÇÃO DE 15 MIL HABITANTES, UMA ÁREA DE 42,5 KM QUADRADOS, E POSSUI UM CLIMA QUENTE E ÚMIDO DURANTE TODO O ANO. DADA SUA PROXIMIDADE COM A CAPITAL, SÃO APENAS 15 QUILÔMETROS DE DISTÂNCIA, A CIDADE TEM CRESCIDO E COM O SEU CRESCIMENTO TEM SURGIDO DEMANDAS QUE PRECISAM SER ATENDIDAS PELO PODER PÚBLICO LOCAL, QUE DEPENDE DOS REPASSES FEDERAIS PARA REALIZAR AS OBRAS E TRANSFORMAÇÕES SOCIAIS TÃO ALMEJADAS. DENTRO DESTE CONTEXTO, DE DESENVOLVIMENTO E CRESCIMENTO COM RESPONSABILIDADE, É QUE A PREFEITURA VEM APRESENTAR ESTA PROPOSTA PARA PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS DA CIDADE, LEVANDO, ASSIM, MAIS DIGNIDADE PARA O SEU POVO QUE HOJE, SOBRETUDO NO PERÍODO INVERNOSO, ENFRENTA A POEIRA, A LAMA E O ESGOTO NA PORTA DE SUAS CASAS. ESSA OBRA, ENTÃO, É MAIS DO QUE FUNDAMENTAL PARA A CONCRETIZAÇÃO DO SONHO DE VER SATUBA 100% PAVIMENTADA. O CONJUNTO A SER CONTEMPLADO SERÁ O MARGARIDA PROCÓPIO QUE TEM APROXIMADAMENTE 500 FAMILIAS COM RENDA MÉDIA DE R$ 300,00 (TREZENTOS REAIS) QUE SERÃO BENEFICIADAS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS NO MUNICÍPIO DE SATUBA-AL",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O OBJETO DA PRESENTE PROPOSTA",
+            "proposalDate": "2010-04-14T03:00:00.000Z",
+            "biddingDate": "2010-08-19T03:00:00.000Z",
+            "homologationDate": "2010-08-26T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020100168",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 1513.1,
+              "details": {
+                "code": "5600020100168",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infraestrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 1513.1,
+                "couterpartValues": {
+                  "total": 31000,
+                  "financial": 31000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1482.1,
+                  "amendment": "R$ 1.482.100,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "respProponent": "***.277.964-** - CICERO FERREIRA DA SILVA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE SATUBA",
+            "documentNumber": "12.200.333/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "743043/2010",
+            "validity": "19/08/2010 a 19/08/2012",
+            "limitDate": "2012-09-18T03:00:00.000Z",
+            "totalValue": 1513.1,
+            "transferValue": 1482.1,
+            "counterpartValue": 31000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "735445/2010",
+        "uf": "AL",
+        "city": "Satuba",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-08-19T03:00:00.000Z",
+        "end": "2012-08-19T03:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "030187/2010",
+            "organId": "30187/2010",
+            "processId": "030187/2010",
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "SATUBA ESTÁ LOCALIZADA NA REGIÃO METROPOLITANA DE MACEIÓ, TEM UMA POPULAÇÃO DE POUCO MAIS DE 14 MIL HABITANTES,CLIMA TEMPERADO, UMA ÁREA DE 43 QUILÔMETROS QUADRADOS E UMA RENDA PER CAPITA DE R$ 2.495,00. POR SER MARGEADA POR UMA IMPORTANTE RODOVIA E SER SEDE DA MAIOR ESCOLA AGRÍCOLA DO ESTADO, SATUBA RECEBE MUITOS JOVENS TODOS OS DIAS. MAS, O QUE DEVERIA TER SIDO PRIORIDADE EM OUTROS GOVERNOS, FICOU NO ESQUECIMENTO. O ESPORTE EM SATUBA ESTÁ ACONTECENDO AGORA, E NESSE PROJETO DE FOMENTAR O ESPORTE, QUE É A UMA FERRAMENTA EFICAZ DE INCLUSÃO E RESGATE SOCIAL, SATUBA VEM APRESENTAR A PRESENTE PROPOSTA PARA CONSTRUIR UM CAMPO DE FUTEBOL NA CIDADE, REALIZANDO ASSIM O SONHO DE TODA UMA JUVENTUDE ÁVIDA POR TER UM ESPAÇO VOLTADO PARA O DESENVOLVIMENTO DELA. COM A IMPLANTAÇÃO DESSA QUADRA POLIESPORTIVA, A PREFITURA ESPERA RESGATAR OS JOVENS, HOJE ENTREGUES AO ÓCIO; FOMENTAR O ESPORTE; DESENVOLVER NOVOS TALENTOS E REVELAR NOVOS CRAQUES PARA O BRASIL E QUIÇÁ O MUNDO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE UM CAMPO DE FUTEBOL NO MUNICÍPIO DE SATUBA",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O OBJETO DA PRESENTE PROPOSTA",
+            "proposalDate": "2010-03-31T03:00:00.000Z",
+            "biddingDate": "2010-08-19T03:00:00.000Z",
+            "homologationDate": "2010-08-26T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 402000,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 402000,
+                "couterpartValues": {
+                  "total": 12000,
+                  "financial": 12000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "respProponent": "***.277.964-** - CICERO FERREIRA DA SILVA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE SATUBA",
+            "documentNumber": "12.200.333/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "735445/2010",
+            "validity": "19/08/2010 a 19/08/2012",
+            "limitDate": "2012-09-18T03:00:00.000Z",
+            "totalValue": 402000,
+            "transferValue": 390000,
+            "counterpartValue": 12000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "732853/2010",
+        "uf": "AL",
+        "city": "Satuba",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2010-05-01T03:00:00.000Z",
+        "end": "2010-12-20T02:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "024883/2010",
+            "organId": "00236/2010",
+            "processId": "720310072802010-19",
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "legalFoundation": "Decreto 6170/2007, Portaria Interministerial 127/2008 e Portaria MTur 153/2009",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Em meio a verdejantes canaviais e uma mata atlântica rica e preservada, Satuba se prepara para receber mais de 10 mil visitantes no próximo dia 01 de maio, quando vai realizar o Festival Cultura e Paz, que já é um dos eventos mais esperados do ano, uma vez que vai unir cultura com música, música com turismo, turismo com arte e arte com natureza. Com a realização do Festival Cultura e Paz, em parceria com o Ministério do Turismo e o Governo Federal, Satuba pretende avançar no seu programa de desenvolvimento turístico, que busca fazer da cidade um destino para pessoas que primam pela paz do campo, pelas belezas do interior e pelas experiências únicas de conviver com gente simples, dona de uma enorme capacidade de superação, afeita às artes e à boa culinária. Ainda como resultados positivos trazidos pelo evento, Satuba aponta a geração real de emprego e renda (cerca de 500 empregos serão gerados direta e indiretamente), a melhoria da mão de obra dos agentes envolvidos com o turismo, a formação de redes de cooperação, o aquecimento da economia local e a promoção da cidade como um destino verdadeiramente aconchegante. Um evento como este é um grande gerador de fluxo turístico. Esperamos inserir Satuba no calendário nacional de eventos de grande porte, uma vez que nossa cidade já é conhecida por todos os alagoanos como lugar de festivais culturais e musicais. O ministério do Turismo como grande incentivador de novos destinos turísticos ganhará mais um grande evento, e Satuba por sua vez, realizará uma de suas maiores festas, pois a população está contando os dias para que esse grandioso evento aconteça. Satuba está localizada a dez minutos de Maceió e a pouco mais de 20 minutos do Aeroporto Internacional Zumbi dos Palmares, o que lhe deixa numa posição estratégica para seu crescimento. Com seus 42 quilômetros quadrados de área, uma população de cerca de 15 mil habitantes, uma economia voltada para o comércio e a agropecuária e com um clima quente e úmido o ano todo, a temperatura chega facilmente aos 35 graus no verão, Satuba esbanja alegria e se consolida como um lugar cheio de belezas e de paz, onde os visitantes podem viver novas emoções a cada instante. Satuba é conhecida como uma cidade que realiza grandes festas. O carnaval e os festejos juninos são dois bons exemplos de sucesso pois esse eventos costumam atrair mais de oito mil pessoas por dia que curtem a cidade e suas belezas sempre com muita cortesia. O Ministério do turismo apoiar mais esse grande evento é continuar dando oportunidades para que novos e interessantes destinos despontem no cenário turístico nacional.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "FESTIVAL CULTURA E PAZ",
+            "information": "DECLARAMOS QUE A PREFEITURA DE SATUBA POSSUI CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O PRESENTE PROJETO",
+            "proposalDate": "2010-03-25T03:00:00.000Z",
+            "biddingDate": "2010-04-30T03:00:00.000Z",
+            "homologationDate": "2010-08-02T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100019",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 105000,
+              "details": {
+                "code": "5400020100019",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "H) FESTIVAIS CULTURAIS;",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 105000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "respProponent": "***.277.964-** - CICERO FERREIRA DA SILVA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.797.948-** - CARLOS ALBERTO DA SILVA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE SATUBA",
+            "documentNumber": "12.200.333/0001-43",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "732853/2010",
+            "validity": "01/05/2010 a 20/12/2010",
+            "limitDate": "2011-01-19T02:00:00.000Z",
+            "totalValue": 105000,
+            "transferValue": 100000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "721306/2009",
+        "uf": "AL",
+        "city": "Satuba",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-08-30T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "100297/2009",
+            "organId": "10029/2009",
+            "processId": "100297/2009",
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "SATUBA ESTÁ LOCALIZADA NA REGIÃO DA GRANDE MACEIÓ, CONTA COM UMA POPULAÇÃO DE 15 MIL HABITANTES, UMA ÁREA DE 42,5 KM QUADRADOS, E POSSUI UM CLIMA QUENTE E ÚMIDO DURANTE TODO O ANO. DADA SUA PROXIMIDADE COM A CAPITAL, SÃO APENAS 15 QUILÔMETROS DE DISTÂNCIA, A CIDADE TEM CRESCIDO E COM O SEU CRESCIMENTO TEM SURGIDO DEMANDAS QUE PRECISAM SER ATENDIDAS PELO PODER PÚBLICO LOCAL, QUE DEPENDE DOS REPASSES FEDERAIS PARA REALIZAR AS OBRAS E TRANSFORMAÇÕES SOCIAIS TÃO ALMEJADAS. DENTRO DESTE CONTEXTO, DE DESENVOLVIMENTO E CRESCIMENTO COM RESPONSABILIDADE, É QUE A PREFEITURA VEM APRESENTAR ESTA PROPOSTA PARA PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS DA CIDADE, LEVANDO, ASSIM, MAIS DIGNIDADE PARA O SEU POVO QUE HOJE, SOBRETUDO NO PERÍODO INVERNOSO, ENFRENTA A POEIRA, A LAMA E O ESGOTO NA PORTA DE SUAS CASAS. ESSA OBRA, ENTÃO, É MAIS DO QUE FUNDAMENTAL PARA A CONCRETIZAÇÃO DO SONHO DE VER SATUBA 100% PAVIMENTADA. AS RUAS A SEREM CONTEMPLADAS SÃO: RUA GEORGE RAMOS DE LIMA, RUA SÃO BENTO, RUA JOSÉ MARIO E ESTRADA VICINAL, APROXIMADAMENTE 200 FAMILIAS COM RENDA MÉDIA DE R$ 300,00 (TREZENTOS REAIS) SERÃO BENEFICIADAS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS NO MUNICÍPIO DE SATUBA-AL.",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉNICA E GERENCIAL PARA EXECUTAR O OBJETO DESTE CONVÊNIO",
+            "proposalDate": "2009-11-18T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090103",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 363551.5,
+              "details": {
+                "code": "5300020090103",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 363551.5,
+                "couterpartValues": {
+                  "total": 18801.5,
+                  "financial": 18801.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 344750,
+                  "amendment": "R$ 344.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "respProponent": "***.417.974-** - JOSE PAULINO ACIOLY DE ARAUJO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2011",
+              "type": "Licitação -",
+              "date": "2011-05-31T03:00:00.000Z",
+              "processId": "0012011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "0012011",
+                "biddingId": "01/2011",
+                "object": "Contratação de empresa para execurção de serviço de pavimentação em paralelepípedo e drenagem de águas pluviais em ruas do Município de Satuba.",
+                "legalFoundation": "Lei federal nº 8.666",
+                "justification": "Para atendimento do Convênio 721306/2009, entre o Município e o Min. das Cidades.",
+                "publishDate": "2011-05-31T03:00:00.000Z",
+                "beginDate": "2011-06-15T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 363551.5,
+                "homologationDate": "2011-06-16T03:00:00.000Z",
+                "city": "2877 - SATUBA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2011",
+              "biddingId": "01/2011",
+              "date": "2011-06-17T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10783187000109",
+                "hirerDocument": "CNPJ: 12200333000143",
+                "type": "Obras",
+                "object": "Execução dos serviços de engenharia para pavimentação em paralelepípedo e drenagem de águas pluviais das ruas José Mario, Nova esperança, São Bento, Alto da Boa Vista e Travessa Santa Tereza, Centro, do Município de Satuba, conforme especificações anexo ao edital de tomada de preço nº 01/2011.",
+                "totalValue": 359542.91,
+                "publishDate": "2011-06-17T03:00:00.000Z",
+                "beginDate": "2011-06-16T03:00:00.000Z",
+                "endDate": "2011-11-16T02:00:00.000Z",
+                "signDate": "2011-06-16T03:00:00.000Z",
+                "executionProcessId": "01/2011 ",
+                "biddingModality": "Licitação - ",
+                "processId": "0012011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE SATUBA",
+            "documentNumber": "12.200.333/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "721306/2009",
+            "validity": "31/12/2009 a 30/08/2016",
+            "limitDate": "2016-08-30T03:00:00.000Z",
+            "totalValue": 363551.5,
+            "transferValue": 344750,
+            "counterpartValue": 18801.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "715542/2009",
+        "uf": "AL",
+        "city": "Satuba",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-01-10T02:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "INADIMPLENTE",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "101198/2009",
+            "organId": "10119/2009",
+            "processId": "101198/2009",
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "SATUBA ESTÁ LOCALIZADA NA REGIÃO DA GRANDE MACEIÓ, CONTA COM UMA POPULAÇÃO DE 15 MIL HABITANTES, UMA ÁREA DE 42,5 KM QUADRADOS, E POSSUI UM CLIMA QUENTE E ÚMIDO DURANTE TODO O ANO. DADA SUA PROXIMIDADE COM A CAPITAL, SÃO APENAS 15 QUILÔMETROS DE DISTÂNCIA, A CIDADE TEM CRESCIDO E COM O SEU CRESCIMENTO TEM SURGIDO DEMANDAS QUE PRECISAM SER ATENDIDAS PELO PODER PÚBLICO LOCAL, QUE DEPENDE DOS REPASSES FEDERAIS PARA REALIZAR AS OBRAS E TRANSFORMAÇÕES SOCIAIS TÃO ALMEJADAS. DENTRO DESTE CONTEXTO, DE DESENVOLVIMENTO E CRESCIMENTO COM RESPONSABILIDADE, É QUE A PREFEITURA VEM APRESENTAR ESTA PROPOSTA PARA PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS DA CIDADE, LEVANDO, ASSIM, MAIS DIGNIDADE PARA O SEU POVO QUE HOJE, SOBRETUDO NO PERÍODO INVERNOSO, ENFRENTA A POEIRA, A LAMA E O ESGOTO NA PORTA DE SUAS CASAS. AS RUAS E AVENIDAS A SEREM CONTEMPLADAS SÃO AV. ARI ALVES DOS SANTOS(POVOADO PORTAL DOS GREGORIOS), AV. CÉLIO BARATEITO (POVOADO STA APOLONIA), RUA DOS CANTOS( POVOADO STA APOLONIA) E RUA IDELFONSO FRANCINO (CENTRO) APROXIMADAMENTE 450 FAMILIAS COM RENDA MÉDIA DE 300,00 (TREZENTOS REAIS) SERÃO BENIFICIADAS, ENTÃO, É MAIS DO QUE FUNDAMENTAL PARA A CONCRETIZAÇÃO DO SONHO DE VER SATUBA 100% PAVIMENTADA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS NO MUNICÍPIO DE SATUBA-AL",
+            "information": "DECLARAMOS QUE POSSUIMOS CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O OBJETO DA PRESENTE PROPOSTA",
+            "proposalDate": "2009-11-19T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090170",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 362000,
+              "details": {
+                "code": "5300020090170",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 362000,
+                "couterpartValues": {
+                  "total": 17250,
+                  "financial": 17250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 344750,
+                  "amendment": "R$ 344.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "respProponent": "***.417.974-** - JOSE PAULINO ACIOLY DE ARAUJO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01762012",
+              "type": "Inexigibilidade",
+              "date": null,
+              "processId": "01762012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "01762012",
+                "biddingId": null,
+                "object": "Aquisição de Material para a execução do convênio 715542/2009",
+                "legalFoundation": "Lei federal nº 8.666 art24",
+                "justification": "Execução por administração direta, aquisição de material para serviço",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 23793.24,
+                "homologationDate": null,
+                "city": "2877 - SATUBA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE SATUBA",
+            "documentNumber": "12.200.333/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Inadimplente",
+            "number": "715542/2009",
+            "validity": "31/12/2009 a 10/01/2016",
+            "limitDate": "2016-01-10T02:00:00.000Z",
+            "totalValue": 362000,
+            "transferValue": 344750,
+            "counterpartValue": 17250,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "712734/2009",
+        "uf": "AL",
+        "city": "Satuba",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2014-08-13T03:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "074007/2009",
+            "organId": "74007/2009",
+            "processId": "074007/2009",
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "legalFoundation": "dec. .6170",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "SATUBA ESTÁ LOCALIZADA NA REGIÃO METROPOLITANA DE MACEIÓ, TEM UMA POPULAÇÃO DE POUCO MAIS DE 14 MIL HABITANTES,CLIMA TEMPERADO, UMA ÁREA DE 43 QUILÔMETROS QUADRADOS E UMA RENDA PER CAPITA DE R$ 2.495,00. POR SER MARGEADA POR UMA IMPORTANTE RODOVIA E SER SEDE DA MAIOR ESCOLA AGRÍCOLA DO ESTADO, SATUBA RECEBE MUITOS JOVENS TODOS OS DIAS. MAS, O QUE DEVERIA TER SIDO PRIORIDADE EM OUTROS GOVERNOS, FICOU NO ESQUECIMENTO. O ESPORTE EM SATUBA ESTÁ ACONTECENDO AGORA, E NESSE PROJETO DE FOMENTAR O ESPORTE, QUE É A UMA FERRAMENTA EFICAZ DE INCLUSÃO E RESGATE SOCIAL, SATUBA VEM APRESENTAR A PRESENTE PROPOSTA PARA CONSTRUIR A PRIMEIRA DE MUITAS QUADRAS DE ESPORTE NA CIDADE, REALIZANDO ASSIM O SONHO DE TODA UMA JUVENTUDE ÁVIDA POR TER UM ESPAÇO VOLTADO PARA O DESENVOLVIMENTO DELA. COM A IMPLANTAÇÃO DESSA QUADRA POLIESPORTIVA NO LOTEAMENTO FRIDOLIN WINTELER, APROXIMADAMENTE 450 FAMILIAS COM RENDA MÉDIA DE R$ 300 (TREZENTOS REAIS) SERÃO BENEFICIADAS, A PREFITURA ESPERA RESGATAR OS JOVENS, HOJE ENTREGUES AO ÓCIO; FOMENTAR O ESPORTE; DESENVOLVER NOVOS TALENTOS E REVELAR NOVOS CRAQUES PARA O BRASIL E QUIÇÁ O MUNDO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE QUADRA POLIESPORTIVA",
+            "information": "DECLARAÇÃO EM ANEXO",
+            "proposalDate": "2009-09-24T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 121000,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 121000,
+                "couterpartValues": {
+                  "total": 4000,
+                  "financial": 4000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 117000,
+                  "amendment": "R$ 117.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.333/0001-43 - MUNICIPIO DE SATUBA",
+            "respProponent": "***.417.974-** - JOSE PAULINO ACIOLY DE ARAUJO",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "042011",
+              "type": "Licitação - Convite",
+              "date": null,
+              "processId": "042011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "042011",
+                "biddingId": "042011",
+                "object": "CONSTRUÇÃO DE UMA QUADRA POLIESPORTIVA NO MUNICÍPIO DE SATUBA.",
+                "legalFoundation": "Lei federal nº 8.666",
+                "justification": "ATENDIMENTO AO CONVÊNIO Nº712734/2009.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 116662.23,
+                "homologationDate": "2011-06-17T03:00:00.000Z",
+                "city": "2877 - SATUBA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2011",
+              "biddingId": "042011",
+              "date": "2011-06-29T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10258434000140",
+                "hirerDocument": "CNPJ: 12200333000143",
+                "type": "Material e Serviço",
+                "object": "CONSTRUÇÃO DE UMA QUADRA POLIESPORTIVA NO MUNICÍPIO DE SATUBA.",
+                "totalValue": 116662.23,
+                "publishDate": "2011-06-29T03:00:00.000Z",
+                "beginDate": "2011-06-18T03:00:00.000Z",
+                "endDate": "2011-10-18T02:00:00.000Z",
+                "signDate": "2011-06-18T03:00:00.000Z",
+                "executionProcessId": "042011 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "042011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE SATUBA",
+            "documentNumber": "12.200.333/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "712734/2009",
+            "validity": "31/12/2009 a 13/08/2014",
+            "limitDate": "2019-02-02T02:00:00.000Z",
+            "totalValue": 121000,
+            "transferValue": 117000,
+            "counterpartValue": 4000,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

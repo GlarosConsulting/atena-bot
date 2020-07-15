@@ -1,0 +1,2567 @@
+{
+  "beginDate": "2020-07-14T20:54:49.173Z",
+  "endDate": "2020-07-14T23:45:10.686Z",
+  "data": {
+    "location": {
+      "city": "Pariconha",
+      "uf": "AL",
+      "ibge": "2706422"
+    },
+    "agreements": [
+      {
+        "agreementId": "858271/2017",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T02:00:00.000Z",
+        "end": "2021-07-11T03:00:00.000Z",
+        "program": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "099414/2017",
+            "organId": "04214/2017",
+            "processId": "25100.020426/2017-39",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 424/2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "A necessidade se configura principalmente pela disseminação presente das doenças proveniente da uso irregular dos banheiros. Com a construção desses módulos sanitários iriamos minimizar os riscos e focos de transmissão,contribuindo para a melhoria da qualidade de vida dessa população tao carente de políticas públicas. As comunidades beneficiadas serão: Campinhos, Caraibeiras dos Teodósios, Malhada Vermelha e Figueiredo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES NO MUNICÍPIO DE PARICONHA/AL",
+            "information": "",
+            "proposalDate": "2017-12-05T02:00:00.000Z",
+            "biddingDate": "2017-12-29T02:00:00.000Z",
+            "homologationDate": "2018-01-16T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170032",
+              "name": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+              "value": 500000,
+              "details": {
+                "code": "3621120170032",
+                "name": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+                "cps": null,
+                "items": "Implantação de Melhorias Sanitárias Domiciliares para Prevenção e Controle de Doenças e Agravos",
+                "couterpartRule": "Não será exigida a contrapartida, conforme Art. 79, §4, da Lei de Diretrizes Orçamentárias – LDO 2017 (Lei nº 13.408, de 26 de dezembro de 2016). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 500000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.096.555-** - FABIANO RIBEIRO DE SANTANA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "858271/2017",
+            "validity": "29/12/2017 a 11/07/2021",
+            "limitDate": "2021-09-09T03:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 500000,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "854652/2017",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T02:00:00.000Z",
+        "end": "2021-07-11T03:00:00.000Z",
+        "program": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "093354/2017",
+            "organId": "00964/2017",
+            "processId": "25100.016823/2017-14",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 424/2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de Pariconha, localizado a 320 km da Capital de Alagoas, no Alto Sertão Alagoano, incluído no Território da Cidadania possui uma população segundo IBGE 2010 de 10.264habitantes, sendo estes distribuídos em 2.796 habitantes na Zuna Urbana e 7.468 habitantes na Zona Rural (IBGE 2010), a renda mensal da população é proveniente da agricultura familiar, da Prefeitura e dos programas de transferência de renda do Governo Federal, girando em torno de um salário mínimo. Tem como característica importante a existência de três etnias indígenas, sendo elas: Geripankó, Katoquim e Karuazu; bem como quatro etnias quilombolas, sendo elas: Malhada Vermelha, Melancia, Burnil e Marcação. O Município de Pariconha possui o Conselho Municipal de Saúde, que se reúne periodicamente permitindo a participação popular. Em 2011, foi realizada a 3º Conferência Municipal de Saúde, que teve a participação de grande parte d a sociedade civil em suas discussões. O Saneamento básico em Pariconha não se efetiva, pois, dos quatro eixos que a sustenta, o Município apenas possui dois, precários e que não atende a demanda e responsabilidade imposta a eles, sendo eles: água e resíduos sólidos. O sistema de abastecimento de água feito por uma empresa Estadual conhecida como Companhia de Saneamento de Alagoas, onde, o que predomina seria a precariedade dos seus serviços, sendo maior na zona rural. Os resíduos sólidos são recolhidos pela Secretaria Municipal de Meio Ambiente, sendo diariamente na zona urbana e uma vez por semana na zona rural. O mesmo ao ser recolhido seria queimado na entrada da cidade, degradando o meio ambiente e, possibilitando o aumento de doenças respiratórias de todos os residentes da região. Quando falamos em esgotamento sanitário, o que vislumbramos são fossas sépticas construídas precariamente, sem existir nenhuma fiscalização. A necessidade se configura principalmente pela disseminação presente das doenças proveniente da moradia irregular em casas de taipa. Como a construção dessas casas iriamos minimizar os riscos e focos de transmissão, contribuindo para a melhoria da qualidade de vida dessa população tão carente de políticas públicas. Os povoados beneficiados saõ: Caraibeiras dos Teodósios, Campinhos, Malhada Vermelha, Figueiredo e Ouricuri. As mesmas estão descritos no inquérito sanitário, lista de beneficiários e relatório fotográfico em anexo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE MELHORIAS HABITACIONAIS DE CONTROLE A DOENÇAS DE CHAGAS NO MUNICÍPIO DE PARICONHA/AL",
+            "information": "",
+            "proposalDate": "2017-11-17T02:00:00.000Z",
+            "biddingDate": "2017-12-29T02:00:00.000Z",
+            "homologationDate": "2018-01-16T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170028",
+              "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+              "value": 494872.8,
+              "details": {
+                "code": "3621120170028",
+                "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+                "cps": null,
+                "items": "Implantação de Melhorias Habitacionais para Controle da Doença de Chagas (MHCDC).",
+                "couterpartRule": "Não será exigida a contrapartida, conforme Art. 79, §4, da Lei de Diretrizes Orçamentárias – LDO 2017 (Lei nº 13.408, de 26 de dezembro de 2016). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 494872.8,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 494872.8,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.096.555-** - FABIANO RIBEIRO DE SANTANA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "004/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-08-08T03:00:00.000Z",
+              "processId": "0042018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0042018",
+                "biddingId": "004/2018",
+                "object": "IMPLANTACAO DE 10 UNIDADES HABITACIONAIS PARA O CONTROLE DE CHAGAS NA ZONA RURAL DO MUNICIPIO DE PARICONHA",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "A IMPLANTACAO DO OBJETO IRA PROPORCIONAR MELHORES CONDICOES DE MORADIA E O CONTROLE DA DOENCA DE CHAGAS PARA A POPULACAO BENEFICIADA.",
+                "publishDate": "2018-08-08T03:00:00.000Z",
+                "beginDate": "2018-08-24T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 494872.8,
+                "homologationDate": null,
+                "city": "2645 - PARICONHA",
+                "analysisDate": "2019-09-03T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000428/2018",
+              "biddingId": "004/2018",
+              "date": "2018-09-17T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 19037895000167",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Serviço",
+                "object": "CONSTRUCAO DE 10 UNIDADES HABITACIONAIS",
+                "totalValue": 494872.8,
+                "publishDate": "2018-09-17T03:00:00.000Z",
+                "beginDate": "2017-12-29T02:00:00.000Z",
+                "endDate": "2020-09-29T03:00:00.000Z",
+                "signDate": "2017-12-29T02:00:00.000Z",
+                "executionProcessId": "004/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0042018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "854652/2017",
+            "validity": "29/12/2017 a 11/07/2021",
+            "limitDate": "2021-09-09T03:00:00.000Z",
+            "totalValue": 494872.8,
+            "transferValue": 494872.8,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "832183/2016",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-06-08T03:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "012707/2016",
+            "organId": "12707/2016",
+            "processId": "0127072016",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Pariconha distancia-se em 302 km da Capital do Estado de Alagoas, pertencente ao Território da Cidadania no Alto Sertão Alagoano, localizado na Microrregião Serrana do Estado, com uma área de 260, 858 km², limita-se com Água Branca e Delmiro Gouveia (Alagoas), Tacaratú-PE e Paulo Afonso-BA. Possui uma população de 10.264 habitantes (IBGE/2010), sendo estes divididos em 70% zona rural e 30% zona urbana. Tem como característica fundamental a existência de três etnias indígenas: Geripancó, Katoquim e Karuazu; bem como três etnias quilombolas: Malhada Vermelha, Burnil e Melancia. A renda mensal da população é resultante prioritariamente da agricultura familiar, complementados pelos programas de transferência de renda do Governo Federal, da Prefeitura ou de aposentadorias e pensões girando em torno de um salário mínimo. O município tem como seus principais atrativos o carnaval fora de época. Um referencial é a Praça Sagrado Coração de Jesus, localizada no centro do município que atrai diversos turistas, onde ocorre a festa do padroeiro Sagrado Coração de Jesus, o Reveillon, o aniversário de emancipação política, as gincanas de motocicletas, as Festividades de São Pedro, São João e arraias. O público alvo do empreendimento são os turistas e a população em geral do município que terão um local apropriado para a realização de eventos, práticas esportivas e o turismo. A população do Município de Pariconha é carente de um espaço cultural, onde as famílias possa se reunir para assistir a um bom filme ou a shows de artistas que passavam em turnê pelo Estado de Alagoas, além de peças teatrais. Com a Estruturação por meio da aquisição de equipamentos (acústico, sonorização e iluminação) para o Cine-Teatro, a população de Pariconha vai contar com um espaço para realização de eventos culturais, além de palestras e pequenas convenções. Público Alvo: A população do Município de Pariconha e de cidades vizinhas, que só encontram um espaço dedicado ao cinema, à arte e a cultura na Capital do Estado. Descrição do Objeto: Estruturação por meio da aquisição de equipamentos (acústico, sonorização e iluminação) para o Cine-Teatro. Resultados: Atrair para a cidade de Pariconha, visitantes de outras partes do Estado e do país, para no Cine Teatro assistirem a filmes, peças teatrais e espetáculos musicais, além de eventos que necessitem de um auditório de médio porte. O município vem com o intuito de preservar a cultura, disponibilizando para a população um espaço voltado para cultura, o teatro, o cinema e a música, de fomentar o turismo, preservar o patrimônio histórico, gerar emprego e renda para a população. ESSA PROPOSTA SERÁ DE GRANDE RELEVANCIA PARA O MUNICÍPIO QUE JÁ POSSUI UM PROJETO EM EXECUÇÃO COM OBJETO APOIO A INFRAESTRUTURA TURÍSTICA - CONSTRUÇÃO DO CINE TEATRO DO MUNICÍPIO DE PARICONHA/AL, CONTRATO DE REPASSE Nº 1011249-60/2013, DESENVOLVIDO POR ESSE MINISTÉRIO. O MESMO AMPLIARÁ A EFICIENCIA DA PROPOSTA REFERENCIADA, AO POSSIBILITAR A MELHORIA DO AMBIENTE TURISTICO ATRAVÉS DA AQUISIÇÃO DO OBJETO PLEITEADO. COORDENADAS GEOGRÁFICAS: S 9 15 12.62 O 38 0 13.58 .",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE EQUIPAMENTOS PARA O CINE TEATRO DO MUNICÍPIO DE PARICONHA/AL.",
+            "information": "",
+            "proposalDate": "2016-03-12T03:00:00.000Z",
+            "biddingDate": "2016-06-08T03:00:00.000Z",
+            "homologationDate": "2016-06-16T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020160008",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+              "value": 393900,
+              "details": {
+                "code": "5400020160008",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "O Programa de Infraestrutura Turística visa o desenvolvimento do turismo nos municípios brasileiros, principalmente por meio de adequação da infraestrutura, de forma que permita a expansão das atividades turísticas e a melhoria da qualidade do produto para o turista, bem como a consecução dos objetivos previstos no Plano Nacional de Turismo., XI - aquisição de mobiliário, equipamentos e material permanente, necessários à funcionalidade dos objetos apoiados.",
+                "couterpartRule": "1) Municípios com até cinquenta mil habitantes: mínimo 0,1% (um décimo por cento) e máximo 4% (quatro por cento) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 393900,
+                "couterpartValues": {
+                  "total": 3900,
+                  "financial": 3900,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.096.555-** - FABIANO RIBEIRO DE SANTANA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.774.458-** - NEUSVALDO FERREIRA LIMA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0521037/20",
+              "type": "Licitação -",
+              "date": "2019-05-28T03:00:00.000Z",
+              "processId": "142019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "142019",
+                "biddingId": "0521037/20",
+                "object": "AQUISICAO E INSTALAÇÃO DE EQUIPAMENTOS DO CINE TEATRO",
+                "legalFoundation": "8666/93",
+                "justification": "PROMOVER A SOCIALIZAÇÃO, CULTURA E LAZER A POPULAÇÃO",
+                "publishDate": "2019-05-28T03:00:00.000Z",
+                "beginDate": "2019-05-28T03:00:00.000Z",
+                "endDate": "2019-06-07T03:00:00.000Z",
+                "biddingValue": 160800.1,
+                "homologationDate": "2019-06-20T03:00:00.000Z",
+                "city": "2645 - PARICONHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000309/2019",
+              "biddingId": "0521037/20",
+              "date": "2019-09-19T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 32985743000154",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Material",
+                "object": "AQUISIÇÃO E INSTALAÇÃO DE EQUIPAMENTOS DO CINE TEATRO",
+                "totalValue": 160800.1,
+                "publishDate": "2019-09-19T03:00:00.000Z",
+                "beginDate": "2019-06-20T03:00:00.000Z",
+                "endDate": "2019-12-31T03:00:00.000Z",
+                "signDate": "2019-06-20T03:00:00.000Z",
+                "executionProcessId": "0521037/20 ",
+                "biddingModality": "Licitação - ",
+                "processId": "142019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "832183/2016",
+            "validity": "08/06/2016 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 393900,
+            "transferValue": 390000,
+            "counterpartValue": 3900,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "831812/2016",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2016-06-08T03:00:00.000Z",
+        "end": "2020-07-30T03:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "012733/2016",
+            "organId": "12733/2016",
+            "processId": "0127332016",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Pariconha, localizado a 320 km da Capital de Alagoas, no Alto Sertão Alagoano, incluído no Território da Cidadania possui uma população segundo IBGE 2010 de 10.264habitantes, sendo estes distribuídos em 2.796 habitantes na Zona Urbana e 7.468 habitantes na Zona Rural (IBGE 2010), a renda mensal da população é proveniente da agricultura familiar, da Prefeitura e dos programas de transferência de renda do Governo Federal, girando em torno de um salário mínimo. Tem como característica importante a existência de três etnias indígenas, sendo elas: Geripankó, Katoquim e Karuazu; bem como quatro etnias quilombolas, sendo elas: Malhada Vermelha, Melancia, Burnil e Marcação. Tendo em vista a falta de espaço para a prática esportiva em geral, a implantação de MELHORIAS NAS INFRA ESTRUTURAS ESPORTIVAS DO MUNICÍPIO DE PARICONHA/AL mudaria radicalmente esse quadro, gerando assim uma ampliação da qualidade de vida, pois os mesmos terão a oportunidade de realização de momentos de esporte e lazer, bem como para a abertura de um espaço para a implantação de núcleos dos programas como o Segundo Tempo, apresentação de shows musicais, peças teatrais e outros eventos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "MELHORIAS NAS INFRA ESTRUTURAS ESPORTIVAS DO MUNICÍPIO DE PARICONHA/AL",
+            "information": "",
+            "proposalDate": "2016-03-12T03:00:00.000Z",
+            "biddingDate": "2016-06-08T03:00:00.000Z",
+            "homologationDate": "2016-06-16T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020160020",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+              "value": 505532.24,
+              "details": {
+                "code": "5100020160020",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "a) 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com ATÉ cinquenta mil habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 505532.24,
+                "couterpartValues": {
+                  "total": 5005.26,
+                  "financial": 5005.26,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 500526.98,
+                  "amendment": "R$ 500.526,98 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.096.555-** - FABIANO RIBEIRO DE SANTANA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.069.025-** - GEORGE HILTON DOS SANTOS CECILIO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "831812/2016",
+            "validity": "08/06/2016 a 30/07/2020",
+            "limitDate": "2020-09-28T03:00:00.000Z",
+            "totalValue": 505532.24,
+            "transferValue": 500526.98,
+            "counterpartValue": 5005.26,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "794903/2013",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2020-10-30T03:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041756/2013",
+            "organId": "41756/2013",
+            "processId": "0417562013",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Pariconha distancia-se em 302 km da Capital do Estado de Alagoas, pertencente ao Território da Cidadania no Alto Sertão Alagoano, localizado na Microrregião Serrana do Estado, com uma área de 260, 858 km², limita-se com Água Branca e Delmiro Gouveia (Alagoas), Tacaratú-PE e Paulo Afonso-BA. Possui uma população de 10.264 habitantes (IBGE/2010), sendo estes divididos em 70% zona rural e 30% zona urbana. Tem como característica fundamental a existência de três etnias indígenas: Geripancó, Katoquim e Karuazu; bem como três etnias quilombolas: Malhada Vermelha, Burnil e Melancia. A renda mensal da população é resultante prioritariamente da agricultura familiar, complementados pelos programas de transferência de renda do Governo Federal, da Prefeitura ou de aposentadorias e pensões girando em torno de um salário mínimo. O município tem como seus principais atrativos o carnaval fora de época. Um referencial é a Praça Sagrado Coração de Jesus, localizada no centro do município que atrai diversos turistas, onde ocorre a festa do padroeiro Sagrado Coração de Jesus, o Reveillon, o aniversário de emancipação política, as gincanas de motocicletas, as Festividades de São Pedro, São João e arraias. O público alvo do empreendimento são os turistas e a população em geral do município que terão um local apropriado para a realização de eventos, práticas esportivas e o turismo. A população do Município de Pariconha é carente de um espaço cultural, onde as famílias possa se reunir para assistir a um bom filme ou a shows de artistas que passavam em turnê pelo Estado de Alagoas, além de peças teatrais. Com a Construção do Cine-Teatro, a população de Pariconha vai contar com um espaço para realização de eventos culturais, além de palestras e pequenas convenções. Público Alvo: A população do Município de Pariconha e de cidades vizinhas, que só encontram um espaço dedicado ao cinema, à arte e a cultura na Capital do Estado. Descrição do Objeto: Construção do Cine Teatro. Resultados: Atrair para a cidade de Pariconha, visitantes de outras partes do Estado e do país, para no Cine Teatro assistirem a filmes, peças teatrais e espetáculos musicais, além de eventos que necessitem de um auditório de médio porte. O município vem com o intuito de preservar a cultura, disponibilizando para a população um espaço voltado para cultura, o teatro, o cinema e a música, de fomentar o turismo, preservar o patrimônio histórico, gerar emprego e renda para a população. O lOCAL QUE SERÁ CONSTRUÍDO O CINE TEATRO SERÁ NA RUA ANTONIO MARIANO DA SILVA, CENTRO DE PARICONHA/AL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "APOIO A PROJETO DE INFRAESTRUTURA TURISTICA-Construção de um Cine-Teatro.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Penedo/Al, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc ..",
+            "proposalDate": "2013-07-17T03:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020130002",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 502386.5,
+              "details": {
+                "code": "5400020130002",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes: 2% (dois por cento) e 4% (quatro por cento) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 502386.5,
+                "couterpartValues": {
+                  "total": 14886.5,
+                  "financial": 14886.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.096.555-** - FABIANO RIBEIRO DE SANTANA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001/2015",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-04-17T03:00:00.000Z",
+              "processId": "0012015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0012015",
+                "biddingId": "001/2015",
+                "object": "CONSTRUÇÃO DO CINE TEATRO NO MUNICÍPIO DE PARICONHA/AL",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "CONSTRUÇÃO DO CINE TEATRO NO MUNICÍPIO DE PARICONHA/AL",
+                "publishDate": "2015-04-17T03:00:00.000Z",
+                "beginDate": "2015-05-05T03:00:00.000Z",
+                "endDate": "2015-05-11T03:00:00.000Z",
+                "biddingValue": 569746.62,
+                "homologationDate": "2015-05-11T03:00:00.000Z",
+                "city": "2645 - PARICONHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000127/2015",
+              "biddingId": "001/2015",
+              "date": "2015-06-08T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 21162446000192",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Material e Serviço",
+                "object": "CONSTRUÇÃO DO CINE TEATRO NO MUNICÍPIO DE PARICONHA/AL",
+                "totalValue": 569746.62,
+                "publishDate": "2015-06-08T03:00:00.000Z",
+                "beginDate": "2015-05-25T03:00:00.000Z",
+                "endDate": "2016-05-25T03:00:00.000Z",
+                "signDate": "2015-05-13T03:00:00.000Z",
+                "executionProcessId": "001/2015 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "794903/2013",
+            "validity": "31/12/2013 a 30/10/2020",
+            "limitDate": "2020-12-29T03:00:00.000Z",
+            "totalValue": 502386.5,
+            "transferValue": 487500,
+            "counterpartValue": 14886.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "786982/2013",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2017-06-30T03:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "050525/2013",
+            "organId": "50525/2013",
+            "processId": "050525/2013",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Pariconha, localizado a 320 km da Capital de Alagoas, no Alto Sertão Alagoano, incluído no Território da Cidadania possui uma população segundo IBGE 2010 de 10.223 habitantes, sendo estes distribuídos em 2.796 habitantes na Zuna Urbana e 7.468 habitantes na Zona Rural (IBGE 2010), a renda mensal da população é proveniente da agricultura familiar, da Prefeitura e dos programas de transferência de renda do Governo Federal, girando em torno de um salário mínimo. Tem como característica importante a existência de três etnias indígenas, sendo elas: Geripankó, Katoquim e Karuazu; bem como quatro etnias quilombolas, sendo elas: Malhada Vermelha, Melancia, Burnil e Marcação. O Povoado Caraibeiras dos Teodósios, município de Pariconha, localizado a aproximadamente 7 km (sete quilômetros) da sede do município, possui uma população em torno de 1.500 (hum mil e quinhentos) habitantes; e o Povoado Marcação, município de Pariconha, localizado a aproximadamente 2 km (dois quilômetros) da sede do município, possui uma população em torno de 1.000 (hum mil) habitantes, os dois Povoados possuem em sua maioria jovens e adolescentes, levando uma vida inativa esportiva e culturalmente, com predominância do uso de álcool e drogas, bem como o aumento das estatísticas de violência. Tendo em vista a falta de espaço para a prática esportiva em geral, a construção dessas duas quadras esportivas mudaria radicalmente esse quadro, gerando assim uma ampliação da qualidade de vida, pois os mesmos terão a oportunidade de realização de momentos de esporte e lazer, bem como para a abertura de um espaço para a implantação de núcleos dos programas como o Segundo Tempo, apresentação de shows musicais, peças teatrais e outros eventos. Diante do exposto o município de Pariconha está pleiteando recursos junto ao Ministério do Esporte para construção de 02 (duas) quadras esportivas descobertas em dois povoados Marcação e Caraibeiras dos Teodósios (cada um com uma quadra respectivamente) da zona rural do município com o intuito de promover a inclusão social daquela juventude através da prática esportiva.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "construção de 02 (duas) quadras esportivas descobertas nos povoados: Marcação e Caraibeiras dos Teodósios.",
+            "information": "",
+            "proposalDate": "2013-08-15T03:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020130002",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+              "value": 250000,
+              "details": {
+                "code": "5100020130002",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na Lei de Diretrizes Orçamentárias vigente. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 6250,
+                  "financial": 6250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.096.555-** - FABIANO RIBEIRO DE SANTANA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012014",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-02-28T03:00:00.000Z",
+              "processId": "0012014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0012014",
+                "biddingId": "0012014",
+                "object": "Execução dos serviços de Construção de 02 (duas) Quadras Poliesportiva nos Povoados: Caraibeiras dos Teodósios e Marcação.",
+                "legalFoundation": "8.666/93",
+                "justification": "Execução dos serviços de Construção de 02 (duas) Quadras Poliesportiva nos Povoados: Caraibeiras dos Teodósios e Marcação.",
+                "publishDate": "2014-02-28T03:00:00.000Z",
+                "beginDate": "2014-03-19T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 238531.79,
+                "homologationDate": "2014-05-13T03:00:00.000Z",
+                "city": "2645 - PARICONHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2016",
+              "biddingId": "0012014",
+              "date": "2014-05-19T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 14237514000170",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Obras",
+                "object": "Execução dos serviços de Construção de 02 (duas) Quadras Poliesportiva nos Povoados: Caraibeiras dos Teodósios e Marcação.",
+                "totalValue": 238531.79,
+                "publishDate": "2014-05-19T03:00:00.000Z",
+                "beginDate": "2014-05-19T03:00:00.000Z",
+                "endDate": "2016-01-19T02:00:00.000Z",
+                "signDate": "2014-05-19T03:00:00.000Z",
+                "executionProcessId": "0012014 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "786982/2013",
+            "validity": "31/12/2013 a 30/06/2017",
+            "limitDate": "2017-08-29T03:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 243750,
+            "counterpartValue": 6250,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "774552/2012",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2012-12-28T02:00:00.000Z",
+        "end": "2015-11-30T02:00:00.000Z",
+        "program": "2068- Saneamento Básico (Cooperação Técnica em Saneamento)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "010314/2012",
+            "organId": "00059/2012",
+            "processId": "25100.027710/2012-21",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto n° 6.170/2007 e Portaria Interministerial MP/MF/CGU n° 507/2011",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de Pariconha, localizado a 320 km da Capital de Alagoas, no Alto Sertão Alagoano, incluído no Território da Cidadania possui uma população segundo IBGE 2010 de 10.264habitantes, sendo estes distribuídos em 2.796 habitantes na Zuna Urbana e 7.468 habitantes na Zona Rural (IBGE 2010), a renda mensal da população é proveniente da agricultura familiar, da Prefeitura e dos programas de transferência de renda do Governo Federal, girando em torno de um salário mínimo. Tem como característica importante a existência de três etnias indígenas, sendo elas: Geripankó, Katoquim e Karuazu; bem como quatro etnias quilombolas, sendo elas: Malhada Vermelha, Melancia, Burnil e Marcação. O Município de Pariconha possui o Conselho Municipal de Saúde, que se reúne periodicamente permitindo a participação popular. Em 2011, foi realizada a 3º Conferência Municipal de Saúde, que teve a participação de grande parte d a sociedade civil em suas discussões. O Saneamento básico em Pariconha não se efetiva, pois, dos quatro eixos que a sustenta, o Município apenas possui dois, precários e que não atende a demanda e responsabilidade imposta a eles, sendo eles: água e resíduos sólidos. O sistema de abastecimento de água feito por uma empresa Estadual conhecida como Companhia de Saneamento de Alagoas, onde, o que predomina seria a precariedade dos seus serviços, sendo maior na zona rural. Os resíduos sólidos são recolhidos pela Secretaria Municipal de Obras, sendo diariamente na zona urbana e uma vez por semana na zona rural. O mesmo ao ser recolhido seria queimado na entrada da cidade, degradando o meio ambiente e, possibilitando o aumento de doenças respiratórias de todos os residentes da região. Quando falamos em esgotamento sanitário, o que vislumbramos são fossas sépticas construídas precariamente, sem existir nenhuma fiscalização. O Município de Pariconha se caracteriza por possuir sua população maior residente na zona rural, o que possibilita ao Plano Municipal de Saneamento Básico, ter como objetivo atingir 100% (cem por cento) da população do Município, possibilitando a participação social ampliada. Serão realizadas ações de mobilização em 05 pólos diferentes, sendo eles: Pariconha (sede do Município), Ouricuri, Marcação, Serra do Engenho e Caraibeiras dos Teodósios. Cada um abrangerá os povoados e sítios do entorno. O objetivo será abranger principalmente as áreas que possuem etnias indígenas 03 (três) e quilombolas (04). Portanto, a Elaboração do Plano Municipal de Saneamento Básico seria de grande relevância para o Município e sua população, possibilitando a aquisição de conhecimentos e de novos hábitos saudáveis, o que permitiria uma ampliação qualitativa e quantitativa da qualidade de vida da população em geral.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ELABORAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO BÁSICO",
+            "information": "O MUNICÍPIO POSSUI CAPACIDADE TÉCNICA E GERENCIAL",
+            "proposalDate": "2012-04-02T03:00:00.000Z",
+            "biddingDate": "2012-12-28T02:00:00.000Z",
+            "homologationDate": "2013-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120120001",
+              "name": "2068- Saneamento Básico (Cooperação Técnica em Saneamento)",
+              "value": 254011.3,
+              "details": {
+                "code": "3621120120001",
+                "name": "2068- Saneamento Básico (Cooperação Técnica em Saneamento)",
+                "cps": null,
+                "items": "Apoiar, técnica e financeiramente, o fortalecimento da gestão dos sistemas de saneamento e promover o desenvolvimento científico e tecnológico por meio de pesquisas aplicáveis ao contexto do saneamento dos pequenos municípios brasileiros.",
+                "couterpartRule": "Municípios com até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 254011.3,
+                "couterpartValues": {
+                  "total": 5080.24,
+                  "financial": 5080.24,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 248931.06,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.243.514-** - MOACIR VIEIRA DA SILVA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.191.096-** - GILSON DE CARVALHO QUEIROZ FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "102012",
+              "type": "Licitação -",
+              "date": "2012-11-09T02:00:00.000Z",
+              "processId": "102012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "102012",
+                "biddingId": "102012",
+                "object": "ELABORAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO BÁSICO",
+                "legalFoundation": "LEI 8.666/1993",
+                "justification": "A ELABORAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO BÁSICO SERIA DE GRANDE IMPORTANCIA PARA O MUNICIPIO DE PARICONHA/AL, ONDE O MESMO IRÁ CONHECER DE FORMA COMPLETA OS QUATRO COMPONENTES DO SANEAMENTO BÁSICO: SENDO ELES: água, esgoto, drenagem e resíduos sólidos.",
+                "publishDate": "2012-11-09T02:00:00.000Z",
+                "beginDate": "2012-11-28T02:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 254011.3,
+                "homologationDate": "2012-12-04T02:00:00.000Z",
+                "city": "2645 - PARICONHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000010/2013",
+              "biddingId": "102012",
+              "date": "2013-02-20T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 00696201000175",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Serviço",
+                "object": "ELABORAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO BÁSICO",
+                "totalValue": 253011.3,
+                "publishDate": "2013-02-20T03:00:00.000Z",
+                "beginDate": "2013-02-20T03:00:00.000Z",
+                "endDate": "2013-10-20T03:00:00.000Z",
+                "signDate": "2013-01-02T02:00:00.000Z",
+                "executionProcessId": "102012 ",
+                "biddingModality": "Licitação - ",
+                "processId": "102012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "774552/2012",
+            "validity": "28/12/2012 a 30/11/2015",
+            "limitDate": "2017-08-26T03:00:00.000Z",
+            "totalValue": 254011.3,
+            "transferValue": 248931.06,
+            "counterpartValue": 5080.24,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "773094/2012",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2012-12-31T02:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Liminar Judicial",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "033648/2012",
+            "organId": "33648/2012",
+            "processId": "033648/2012",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Pariconha, localizado a 320 km da Capital de Alagoas, no Alto Sertão Alagoano, incluído no Território da Cidadania possui uma população segundo IBGE 2010 de 10.223 habitantes, sendo estes distribuídos em 2.796 habitantes na Zuna Urbana e 7.468 habitantes na Zona Rural (IBGE 2010), a renda mensal da população é proveniente da agricultura familiar, da Prefeitura e dos programas de transferência de renda do Governo Federal, girando em torno de um salário mínimo. Tem como característica importante a existência de três etnias indígenas, sendo elas: Geripankó, Katoquim e Karuazu; bem como quatro etnias quilombolas, sendo elas: Malhada Vermelha, Melancia, Burnil e Marcação.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de Diversas Ruas da Zona Urbana do Município de Pariconha/AL",
+            "information": "O Município possui capacidade técnica e gerencial",
+            "proposalDate": "2012-06-28T03:00:00.000Z",
+            "biddingDate": "2012-12-31T02:00:00.000Z",
+            "homologationDate": "2013-01-16T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020120040",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 1036.776,
+              "details": {
+                "code": "5300020120040",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "SNSA - PAVIMENTAÇÃO COM CONSTRUÇÃO DE GUIAS E SARJETAS E CALÇADAS, SNSA - PAVIMENTAÇÃO COM CONSTRUÇÃO DE GUIAS E SARJETAS, CALÇADAS E DRENAGEM PLUVIAL",
+                "couterpartRule": "",
+                "totalValue": 1036.776,
+                "couterpartValues": {
+                  "total": 49176.96,
+                  "financial": 49176.96,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00 - Com. Desenv. Urbano"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.096.555-** - FABIANO RIBEIRO DE SANTANA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0032018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-06-20T03:00:00.000Z",
+              "processId": "0032018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0032018",
+                "biddingId": "0032018",
+                "object": "PAVIMENTACAO DE DIVERSAS RUAS DA ZONA URBANA DO MUNICIPIO DE PARICONHA",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "PROPORCIONAR A POPULACAO DO MUNICIPIO DE PARICONHA MELHOR ACESSIBILIDADE ATRAVES DE SERVICOS DE TERRAPLENAGEM, DRENAGEM E PAVIMENTACAO.",
+                "publishDate": "2018-06-20T03:00:00.000Z",
+                "beginDate": "2018-07-05T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 611966.06,
+                "homologationDate": "2018-07-11T03:00:00.000Z",
+                "city": "2645 - PARICONHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2018",
+              "biddingId": "0032018",
+              "date": "2013-01-16T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 21162446000192",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Obras",
+                "object": "EXECUCAO DE SERVICOS DE TERRAPLENAGEM, DRENAGEM, PAVIMENTACAO EM PARALELEPIPEDOS E ACESSIBILIDADE EM DIVERSAS RUAS DA ZONA URBANA DO MUNICIPIO DE PARICONHA",
+                "totalValue": 611966.06,
+                "publishDate": "2013-01-16T02:00:00.000Z",
+                "beginDate": "2012-12-31T02:00:00.000Z",
+                "endDate": "2019-01-30T02:00:00.000Z",
+                "signDate": "2012-12-31T02:00:00.000Z",
+                "executionProcessId": "0032018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0032018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "773094/2012",
+            "validity": "31/12/2012 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 1036.776,
+            "transferValue": 987600,
+            "counterpartValue": 49176.96,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "752243/2010",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-30T02:00:00.000Z",
+        "end": "2013-07-01T03:00:00.000Z",
+        "program": "1127 - SISTEMA UNICO DE SEGURANÇA PÚBLICA - Sistema Integrado de Prevenção da Violência e Criminalidade",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "090775/2010",
+            "organId": "00742/2010",
+            "processId": "08020.005232/2010-16",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Lei 8.666/93, LC 101/00, Decreto 6.170/07, Lei 10.201/01 e Portaria MPOG 127/08.",
+            "organ": "30000 - MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Pariconha, inserido no Território da Cidadania, pertencente ao Alto Sertão Alagoano, localizado a 320 km da capital, possui uma população segundo o IBGE, de aproximadamente 10.209 habitantes, sendo estes divididos em 70% que se encontra na zona rural e 30% na zona urbana. Seu marco diferencial seria a existência de três etnias indígenas reconhecidas, são elas: Geripankó, Katoquim e Karuazu e três etnias quilombolas: malhada vermelha, Melancia e burnil. A renda familiar é proveniente da agricultura familiar, o que gira em torno de um salário mínimo. O Índice de violência é crescente, pois o Município encontra-se na rota de fuga, já que faz divisa com Pernambuco e Bahia, o que facilitaria os assaltos. A Cada dia aumenta os casos de pequenos furtos/roubos ao patrimônio e a pessoas, bem como arrombamentos a lojas comerciais, sem deixar de destacar o uso e sua facilidade de acesso a drogas em escolas, casas de jogos e lan houses e os casos de exploração sexual infantil, violência doméstica. Pariconha é uma cidade aparentemente nova, pois possui apenas 18 anos de existência como tal, se caracteriza como acidentada (com muitas serras), o que dificulta o trabalho da guarda municipal que não possuí transporte, nem uma estrutura mínima para funcionar tais como: sede, equipamentos materiais, meio de transporte, entre outros, bem como, desde sua fundação em 2006, não passou por nenhum processo de qualificação para desenvolver suas atividades rotineiras. Outro agravante seria sua distância da capital, fazendo com que o olhar dos representantes públicos seja menor do ponto de vista de investimentos. Por ser uma cidade pequena, com poucas oportunidades de emprego e renda, muitos jovens ficam ociosos e quando não migram para cidades maiores em busca de uma melhor qualidade de vida, acabam (em sua grande maioria) por fazerem parte desse processo. Com efeito, pretende-se com essa proposta modernizar a Guarda Civil Municipal de Pariconha, por meio do reaparelhamento com aquisição de equipamentos permanentes, com a formação técnica e pedagógica dos profissionais e com uma articulação com a sociedade através de oficinas socioeducativas e culturais acerca da violência e da criminalidade, tendo como objetivos específicos: estruturar a Guarda Municipal e estimular seus profissionais a atuarem como agentes multiplicadores dos conhecimentos adquiridos; sensibilizar, por meio de oficinas, os alunos para atuarem como agentes de mudanças jovens levando informações sobre as drogas e sobre a violência; trabalhar para minimizar os índices de violência e de criminalidade na cidade; propiciar uma reflexão acerca das concepções de políticas de segurança pública numa sociedade democrática e os papéis dos diversos atores envolvidos; instruir e respaldar a Guarda Municipal quanto ao exercício de suas funções nos limites da Lei, contribuindo na construção da identidade profissional da Guarda Municipal, de suas funções e competências específicas, para criar e aperfeiçoar padrões comuns nacionais de organização, gestão e atuação; diagnosticar casos, relatos, situações e estatísticas de violência e criminalidade ocorridas no âmbito das escolas públicas municipais e estaduais; sensibilizar os parceiros envolvidos no projeto e demais atores sociais acerca da necessidade de mobilização conjunta para a busca de soluções para a questão da violência e da criminalidade nas escolas; prevenir a proliferação das drogas no meio dos jovens em situação de vulnerabilidade. As ações terão como público alvo o efetivo de 10 Guardas Civis Municipais (com a intenção do Representante Municipal em dobrar esse efetivo para 20), As ações de prevenção contemplarão 1.195 pessoas, entre alunos, profissionais da educação, conselheiros tutelares e comunidade e posteriormente as escolas e toda a sociedade civil da zona urbana, e, com a pretensão de estender para toda zona rural. Espera como resultados: modernização da Guarda Municipal de Pariconha com a formação técnica de seus profissionais, que serão dotados com melhores equipamentos; implementação de atividades voltadas a prevenção da violência e da criminalidade, estimulando a Guarda Municipal para atuar como agentes multiplicadores dos conhecimentos adquiridos nos ambientes de trabalho; capacitação e qualificação da Guarda Civil Municipal; sensibilização da sociedade, por meio de oficinas, para que atuarem como agentes de mudanças sociais. Com efeito, o fortalecimento da guarda municipal é fundamental para o sucesso das ações direcionadas para a Segurança Pública, que terá a missão difundir os conceitos para a população com base em práticas preventivas baseadas no policiamento comunitário, fortalecendo a interação constante entre os profissionais e a população, construindo assim uma relação de confiança entre os envolvidos e, obtendo maior credibilidade da sociedade em total consonância com as diretrizes do SUSP.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Modernizar a Guarda Municipal de Pariconha com aquisição de equipamentos permanentes, realização de formação técnica de seus profissionais, assim como a implementar atividades voltadas a prevenção da violência e da criminalidade através de encontros com a comunidade, oficinas sócioeducativas e culturais.",
+            "information": "O MUNICÍPIO POSSUI CAPACIDADE TÉCNICA E GERENCIAL CONFORME DECLARAÇÃO DO PREFEITO MUNICIPAL ANEXA",
+            "proposalDate": "2010-10-09T03:00:00.000Z",
+            "biddingDate": "2010-12-30T02:00:00.000Z",
+            "homologationDate": "2011-01-03T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3000020100117",
+              "name": "1127 - SISTEMA UNICO DE SEGURANÇA PÚBLICA - Sistema Integrado de Prevenção da Violência e Criminalidade",
+              "value": 160080,
+              "details": {
+                "code": "3000020100117",
+                "name": "1127 - SISTEMA UNICO DE SEGURANÇA PÚBLICA - Sistema Integrado de Prevenção da Violência e Criminalidade",
+                "cps": null,
+                "items": "Ampliar a eficiência, eficácia e a efetividade do Sistema de Segurança Pública e Defesa Civil mediante a reestruturação, integração e modernização de suas organizações em todo o território nacional para a prevenção e o controle da criminalidade.",
+                "couterpartRule": "Percentual de contrapartida: 1% Regiões Norte, Nordeste e Centro-Oeste. [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 160080,
+                "couterpartValues": {
+                  "total": 1600.8,
+                  "financial": 1600.8,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 158479.2,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.243.514-** - MOACIR VIEIRA DA SILVA",
+            "grantor": "30000 - MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+            "respGrantor": "***.472.810-** - RICARDO BRISOLLA BALESTRERI"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "010/2011",
+              "type": "Licitação - Pregão",
+              "date": "2011-07-08T03:00:00.000Z",
+              "processId": "010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "010",
+                "biddingId": "010/2011",
+                "object": "AQUISI��O DE CAPACITA��O PARA FORMA��O DA GUARDA MUNICIPAL.",
+                "legalFoundation": "LEI FEDERAL N�8.666",
+                "justification": "AQUISI��O DE CAPACITA��O PARA FORMA��O DA GUARDA MUNICIPAL.",
+                "publishDate": "2011-07-08T03:00:00.000Z",
+                "beginDate": "2011-07-20T03:00:00.000Z",
+                "endDate": "2011-10-03T03:00:00.000Z",
+                "biddingValue": 82118,
+                "homologationDate": "2011-09-15T03:00:00.000Z",
+                "city": "2645 - PARICONHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000050/2013",
+              "biddingId": "010/2011",
+              "date": "2011-10-06T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10714935000193",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE CAPACITAÇÃO PARA OPERADORES DA SEGURANÇA PÚBLICA MUNICIPAL COM FORMAÇÃO TÉCNICA ASSIM COMO IMPLEMENTAÇÃO DE ATIVIDADES VOLTADAS A PREVENÇÃO DA VIOLÊNCIA E CRIMINALIDADE.",
+                "totalValue": 82118,
+                "publishDate": "2011-10-06T03:00:00.000Z",
+                "beginDate": "2011-10-03T03:00:00.000Z",
+                "endDate": "2012-10-03T03:00:00.000Z",
+                "signDate": "2011-10-03T03:00:00.000Z",
+                "executionProcessId": "010/2011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "30000 - MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Análise",
+            "number": "752243/2010",
+            "validity": "30/12/2010 a 01/07/2013",
+            "limitDate": "2019-12-22T03:00:00.000Z",
+            "totalValue": 4,
+            "transferValue": 160080,
+            "counterpartValue": 158479.2,
+            "yieldValue": 1600.8
+          }
+        }
+      },
+      {
+        "agreementId": "747231/2010",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-17T02:00:00.000Z",
+        "end": "2011-11-30T02:00:00.000Z",
+        "program": "Construção de Cisternas para Armazenamento de Água – Emendas Parlamentares.",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "054115/2010",
+            "organId": "00119/2010",
+            "processId": "71000.053582/2010-55",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial nº 127/2008",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Pariconha é um município brasileiro do estado de Alagoas. Sua população estimada em 2004 era de 10.539 habitantes. Encravada no sertão alagoano, Pariconha tem sua história iniciada no início do século XIX, quando as famílias Teodósios, Vieira, Viana e Félix iniciaram sua povoação, estabelecendo-se com a agricultura e a pecuária, principalmente com a criação de animais de pequeno porte.: Fixando-se numa localidade denominada Povoado Caraibeiras dos Teodósios, às margens do rio Moxotó, a família Teodósios até hoje tem lá seus descendentes. Já o restante das famílias colonizadoras da região se estabeleceram no local onde hoje está a sede do município.: Cerca de 20 anos após a chegada desses primeiros colonizadores, um grupo de tribo de índios Geripancós, originários do município de Tacaratu, em Pernambuco, instalou uma aldeia na serra do Ouricuri, nas proximidades da atual cidade. O Distrito Judiciário de Pariconha e ser Cartório de Registro Civil foram criados prla Lei 2.240, de 1° de maio de 1962, embora este último só tenha sido instalado dez anos depois. Pertencente ao município de Água Branca, a comunidade passou à condição de município em 5 de outubro de 1989 pela Constituição Estadual, quando foi desmembrado de Água Branca, tendo sua emancipação realizada em 7 de abril de 1992. Segundo conta a história, no local onde cresceu a cidade havia um ouricuzeiro cujos frutos continham duas conhas como eram chamadas as polpas desse fruto, que popularmente ficou conhecido como par de conhas e, com o tempo, houve uma junção que derivou o nome Pariconha. O município de Pariconha comemorou a elevação da paróquia do Sagrado Coração de Jesus à condição de matriz, após 60 anos de espera. Com isso foi instalada uma secretaria que facilitará a marcação de casamentos, que até então era realizada pelo município de Água Branca. A festa do Padroeiro Sagrado Coração de Jesus é uma das grandes festas culturais do município, comemorada em novembro. O município de Pariconha está localizado no extremo oeste do Estado de Alagoas, limitandose a norte com Tacaratu (PE), a sul com Delmiro Gouveia, a leste com Água Branca e a oeste com Jatob á (PE). A área municipal é de 261,66 km2 (0,94% de AL), inserida na mesorregi ão do Sertão Alagoano e na microrregi ão Serrana do Sertão Alagoano, predominantemente na Folha Paulo Afonso (SC.24-XC-II) e, parcialmente, na Folha Delmiro Gouveia (SC.24-X-C-III), ambas na escala 1:100.000, editadas pelo MINTER/SUDENE, em 1985. A sede municipal tem uma altitude aproximada de 550 m e coordenadas geográficas de 9 25 28 de latitude sul e 38 00 47 de longitude oeste. O acesso, a partir de Maceió, é feito através das rodovias pavimentadas BR-104, BR-316, BR- 423, AL-145 e trecho em piçarra (8 km), com percurso total em torno de 314 km. O município foi criado em 05/10/1989, desmembrado do município de Água Branca. De acordo com o censo 2000 do IBGE, a população total residente é de 9.265 habitantes, dos quais 4.626 s ão do sexo masculino (49,93%) e 5.072 do sexo feminino (50,07%). A população urbana é de 2.329 habitantes (25,14%) e a população rural é da ordem de 6.936 habitantes (74,86%). A densidade demográfica é de 35,41 hab/km2. São 5.829 os eleitores cadastrados no município (62,9% da população). A rede p ública de sa úde n ão dispõe de hospitais, existem 03 unidades ambulatoriais, 02 postos de sa úde e 01 centro de saúde. Na área educacional, o município possui 13 escolas de ensino pré-escolar, com 416 alunos matriculados e 24 escolas de ensino fundamental. Da população total residente, 4.421 (47,72%) dos habitantes com idade acima de 10 anos, são alfabetizados. Existem no município 2.250 domicílios particulares permanentes, dos quais 1.247 possuem banheiro ou sanit ário (55,42%), nenhum possui esgotamento sanit ário, 859 são abastecidos pela rede geral de água (38,18%), 206 são abastecidos por poço ou nascente (9,15%) e a maioria utiliza outras formas de abastecimento (52,67%). Apenas 442 domicílios tem o lixo coletado (19.64%). O município possui 18 empresas com CNPJ, atuantes na unidade territorial, empregando 167 pessoas (1,80% da população). As atividades sócio-econômicas que predominam são: Comércio, administração pública e pecuária. A área de pecu ária, conta com os seguintes rebanhos (cabeças): bovinos – 3.120; suínos – 1.030; eqüinos – 600; asininos – 330; muares – 630; caprinos – 1.080; ovinos – 690, aves – 13.040. A produção leiteira é de 150.000 litros e a de ovos de galinha – 15.000 dúzias. Na área agrícola: Feijão – 1.020 ha (199 t). O extrativismo vegetal produz 86 t de carvão vegetal e 23.700 m3 de lenha, evidenciando a geração de grande impacto ambiental em uma região semi-árida. (IBGE 2000). Não h á infra-estrutura bancária no município. O município de Pariconha está inserido predominantemente na unidade geoambiental da Depressão Sertaneja (cerca de 55%), que representa a paisagem típica do semi-árido nordestino, caraccaracterizada por uma superfície de pediplan",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "O Projeto visa à dotação de infra-estrutura hídrica para consumo humano através da implementação de cisternas de placas. Realizar-se-á por meio do estabelecimento de vínculo de cooperação entre as partes, em benefício da população de baixa renda e com dificuldade no acesso a recursos hídricos, no Município de Pariconha na região semi-árida do Estado de Alagoas, desde que os beneficiários se enquadrem nos critérios de elegibilidade do Programa. O Projeto objetiva o acesso, o gerencia-mento e a valorização da água como um direito essencial à vida e cidadania, ampliando a compreensão e a prática da convivência sustentável e solidária com o ecossistema do semi-árido.",
+            "information": "",
+            "proposalDate": "2010-05-10T03:00:00.000Z",
+            "biddingDate": "2010-12-17T02:00:00.000Z",
+            "homologationDate": "2010-12-21T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020100035",
+              "name": "Construção de Cisternas para Armazenamento de Água – Emendas Parlamentares.",
+              "value": 353099.52,
+              "details": {
+                "code": "5500020100035",
+                "name": "Construção de Cisternas para Armazenamento de Água – Emendas Parlamentares.",
+                "cps": null,
+                "items": "Emenda nº 22890002 - 08.511.1049.11V1.0027 – Construção de Cisternas para Armazenamento de Água – No Estado de Alagoas – Renan Calheiros/PMDB., Emenda nº 25790001 - 08.511.1049.11V1.0027 – Construção de Cisternas para Armazenamento de Água – No Estado de Alagoas – Fernando Collor/PTB.",
+                "couterpartRule": "",
+                "totalValue": 353099.52,
+                "couterpartValues": {
+                  "total": 13680,
+                  "financial": 13680,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 339419.52,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.243.514-** - MOACIR VIEIRA DA SILVA",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.267.209-** - MARCIA HELENA CARVALHO LOPES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0021/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0021",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "0021",
+                "biddingId": null,
+                "object": "serviço de instrutoria técnica, contendo 09 (nove) cursos de Gerenciamento de Recursos Hídricos do programa cisternas de placas",
+                "legalFoundation": "8666/93",
+                "justification": "serviço de instrutoria técnica, contendo 09 (nove) cursos de Gerenciamento de Recursos Hídricos do programa cisternas de placas",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": null,
+                "city": "2645 - PARICONHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "010/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "0020/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0020",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "0001/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "003/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "003",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "04/2011",
+              "type": "Licitação - Pregão",
+              "date": "2011-03-14T03:00:00.000Z",
+              "processId": "0001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "018/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "017/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "017",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "016/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "007/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "007",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "005/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "005",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "011/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "002/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0002",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "013/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "013",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "006/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "006",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000021/2011",
+              "biddingId": "0021/2011",
+              "date": "2011-05-31T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 06438457477",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Material",
+                "object": "serviço de instrutoria técnica, contendo 09 (nove) cursos de Gerenciamento de Recursos Hídricos do programa cisternas de placas",
+                "totalValue": 3600,
+                "publishDate": "2011-05-31T03:00:00.000Z",
+                "beginDate": "2011-05-31T03:00:00.000Z",
+                "endDate": "2011-11-30T02:00:00.000Z",
+                "signDate": "2011-05-31T03:00:00.000Z",
+                "executionProcessId": "0021/2011 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "0021 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Análise",
+            "number": "747231/2010",
+            "validity": "17/12/2010 a 30/11/2011",
+            "limitDate": "2012-01-29T02:00:00.000Z",
+            "totalValue": 29,
+            "transferValue": 353099.52,
+            "counterpartValue": 339419.52,
+            "yieldValue": 13680
+          }
+        }
+      },
+      {
+        "agreementId": "745149/2010",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-21T02:00:00.000Z",
+        "end": "2012-12-21T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "070350/2010",
+            "organId": "70350/2010",
+            "processId": "070350/2010",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Pariconha encontra-se localizado no alto Sertão do Estado de Alagoas, possui uma população estimada em 10.539 habitantes, segundo o último censo do IBGE, com uma economia voltada para a agricultura familiar de subsistencia. Seus principais atrativos turísticos são o Pariconha Fast Folia (Carnaval fora de Época), Semana da Emancipação Política de Pariconha, São João, São Pedro, Festa dop Padroeiro do Sagrado Coração de Jesus, Gincanas Motocicletas, Reveillon, entre outros. O público alvo são os Turistas que sempre prestigiam os eventos do município bem como as belezas naturais e geograficas do município e a população local. A realização do Objeto resultará no aumento significativo dos serviços turísticos oferecidos a população e visitantes. O pleito em foco resultará na construção de um espaço físico adequado para a realização de eventos como: exposições artesanais, apresentação de filmes, danças folcloricas, shows de calouros, peças teatrais e outros. Portanto não temos dúvidas que o pleito impulsionará a economia local gerando emprego e renda.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de um Teatro/Cinema Público",
+            "information": "",
+            "proposalDate": "2010-06-11T03:00:00.000Z",
+            "biddingDate": "2010-12-21T02:00:00.000Z",
+            "homologationDate": "2010-12-27T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100020",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 298500,
+              "details": {
+                "code": "5400020100020",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "Teatro e/ou cinema público",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 298500,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.243.514-** - MOACIR VIEIRA DA SILVA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "745149/2010",
+            "validity": "21/12/2010 a 21/12/2012",
+            "limitDate": "2013-01-20T02:00:00.000Z",
+            "totalValue": 298500,
+            "transferValue": 292500,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "738789/2010",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-21T02:00:00.000Z",
+        "end": "2012-12-21T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "055786/2010",
+            "organId": "55786/2010",
+            "processId": "055786/2010",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Pariconha localizado no extremo sertão de Alagoas com uma população estimada em 10.209, habitantes, de acordo com o último censo do IBGE. O município tem em seus principais atrativos como o carnaval fora de época, a Praça Sagrado Coração de Jesus, localizada no centro do município que atrai diversos turistas, festa do padroeiro Sagrado Coração de Jesus, Reveion, aniversário de emancipação política, gincanas de motocicletas, Festividades de São Pedro e São João e arraias. O público alvo do empreendimento são os turistas e a população em geral do município que terão um local apropriado para a realização de eventos e o turismo. A implantação do objeto resolverá o problema de local apropriado para a realização dos eventos e recepção de turistas, com segurança e conforto para os turistas e a população, pois terá iluminação adequada e pavimentação. Esperamos potencializar o turismo local com um aumento em cerca de 20% nos serviços relacionados ao turismo, gerando emprego e rendo de forma direta e indireta por, e ainda alavancando a economia do município, possibilitando em dias próximos ser um indutor do turismo regional. O pleito em questão relaciona-se com o turismo municipal e regional por ser um local apropriado para a recepção do turista uma vez que contará com espaço confortável, seguro para o lazer, convivência para a população, ponto de encontro entre os turistas, que em muitas vezes recepciona o Motociclistas dos festivais regional de motocross do sertão alagoano, fato este que impuciona a economia municipal.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Urbanização da Orla do Açude Municipal",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Pariconha/Al. Possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-05-12T03:00:00.000Z",
+            "biddingDate": "2010-12-21T02:00:00.000Z",
+            "homologationDate": "2010-12-27T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100020",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 200000,
+              "details": {
+                "code": "5400020100020",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "Infraestrutura urbanística",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 200000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.243.514-** - MOACIR VIEIRA DA SILVA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "738789/2010",
+            "validity": "21/12/2010 a 21/12/2012",
+            "limitDate": "2013-01-20T02:00:00.000Z",
+            "totalValue": 200000,
+            "transferValue": 195000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "733088/2010",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-21T02:00:00.000Z",
+        "end": "2016-08-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "008402/2010",
+            "organId": "08402/2010",
+            "processId": "008402/2010",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A presente proposta visa a execução da 2ª etapa da Ampliação e Reforma da Praça Central Sagrado Coração de Jesus, localizada no centro do município,a qual foi executada pela proposta siconv n.º 705201/2009. O município de Pariconha, situado no Estado de Alagoas, cuja população é de 10.300 habitantes, é um município com grandes tradições em festividades que atraem grandes números de pessoas de toda região, principalmente com a realização do Carnaval fora de época, o Pariconha Fest Folia. As comemorações alusivas ao São João e principalmente ao Padroeiro da cidade são responsáveis pela grande concentração de pessoas que todos os anos prestigiam a programação devido ao show de grandes bandas que se apresentam na praça local. A Ampliação e Reforma da 2ª Etapa da Praça no Centro do Município visa prover o município de infra-estrutura adequada para expansão da atividades turística e melhoria dos produtos e serviços ofertados, conforme preconiza o Plano Nacional de Turismo 2007-2009. Desta forma, a obra solucionará problemas no âmbito do turismo, tais como, iluminação, paisagismo da praça dentre outros, atraindo assim, mais turistas nas ocasiões festivas no município. Portanto,o mesmo se faz necessário para que possamos melhorar a qualidade das festividades e promover de forma eficiente o fluxo turístico e o desenvolvimento cultural do município. Quando finalizada a obra trará novo incremento as festas realizadas no local e deverá atrair muitos turistas ao município, melhorando e alavancando o potencial turistico e econômico municipal. DESTE MODO, É IMPORTANTE RESSALTAR QUE O OBJETO PROPOSTO É DE INTERESSE TURÍSTICO PARA O MUNICÍPIO, TENDO EM VISTA QUE OS RESULTADOS ESPERADOS COM A IMPLANTAÇÃO DO OBJETO COMPREENDEM DOTAR O MUNICÍPIO DE IMPORTANTE INFRA-ESTRUTURA TURÍSTICA, MELHORANDO A QUALIDADE DE VIDA DA POPULAÇÃO COM A GERAÇÃO DE EMPREGO E RENDA E DISPONIBILIZANDO AO TURISTA CONFORTO E SEGURANÇA POTENCIALIZANDO E ALAVANCANDO O TURISMO MUNICIPAL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Ampliação e Reforma da 2º Etapa da Praça Central do Sagrado Coração de Jesus",
+            "information": "",
+            "proposalDate": "2010-03-02T03:00:00.000Z",
+            "biddingDate": "2010-12-21T02:00:00.000Z",
+            "homologationDate": "2010-12-27T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100020",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 300000,
+              "details": {
+                "code": "5400020100020",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "Praça publica",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 7500,
+                  "financial": 7500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.096.555-** - FABIANO RIBEIRO DE SANTANA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "007",
+              "type": "Licitação -",
+              "date": "2012-06-19T03:00:00.000Z",
+              "processId": "007",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "007",
+                "biddingId": "007",
+                "object": "constru��o da 2� etapa da pra�a central sagrado cora��o de jesus.",
+                "legalFoundation": "LEI FEDERAL N�8.666",
+                "justification": "LEI FEDERAL N�8.666",
+                "publishDate": "2012-06-19T03:00:00.000Z",
+                "beginDate": "2012-07-04T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 279285.97,
+                "homologationDate": null,
+                "city": "2645 - PARICONHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000058/2012",
+              "biddingId": "007",
+              "date": "2012-07-19T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04020209000178",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Serviço de Engenharia",
+                "object": "CONSTRUÇÃO DA 2ª ETAPA DA AMPLIAÇÃO E REFORMA DA PRAÇA CENTRAL SAGRADO CORAÇÃO DE JESUS.",
+                "totalValue": 279285.97,
+                "publishDate": "2012-07-19T03:00:00.000Z",
+                "beginDate": "2012-07-06T03:00:00.000Z",
+                "endDate": "2012-09-06T03:00:00.000Z",
+                "signDate": "2012-07-06T03:00:00.000Z",
+                "executionProcessId": "007 ",
+                "biddingModality": "Licitação - ",
+                "processId": "007 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "733088/2010",
+            "validity": "21/12/2010 a 30/08/2016",
+            "limitDate": "2016-09-29T03:00:00.000Z",
+            "totalValue": 300000,
+            "transferValue": 292500,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "732656/2010",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-28T02:00:00.000Z",
+        "end": "2020-10-30T03:00:00.000Z",
+        "program": "TERRITÓRIOS RURAIS - Infra-estrutura e Serviços - Contrato de Repasse",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "002217/2010",
+            "organId": "00221/2010",
+            "processId": "002217/2010",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Os municípios de Pariconha e Água Branca encontram-se localizados no extremo Sertão do Estado de Alagoas, somam uma população de 29.525 habitantes (SEGUNDO CENSO IBGE/2007), sendo 21.846 na zona rural e 6.900 na zona urbana (SEGUNDO CENSO IBGE/2007), sendo que dessas, certamente se beneficiará cerca de 2.000 famílias direta e indiretamente. Os município em foco possuem um grande potencial produtivo no que diz respeito a frutas nativas e exóticas que ano após ano não são exploradas comercialmente em virtude da falta de uma infra-estrutura capaz de possibilitar o processamento, armazenamento e comercialização dos seus derivados. Recentemente o colegiado do Território do Alto Sertão Alagoano composto por representantes dos 08 (oito) municípios, hoje reconhecido também como Território da Cidadania, tem se pautado nas discussões territoriais visando identificar focos promissores que possam gerar aumento na renda familiar dos agricultores familiares através da implantação de unidades de produção que se adéqüem as características territoriais e respeitem a vocação local. Neste intuito o colegiado identificou 2 grandes potenciais de produção de frutas localizados nos municípios de Pariconha e Água Branca, os quais fazem fronteira e por características edafoclimáticas possuem durante todo o ano ciclos de produção de diversas espécies de frutas nativas e exóticas que são comercializadas nas feiras livres dos municípios e região. Contudo, o quantitativo comercializado não represente nem 10% deste potencial produtivo anual e o que se vê todo o ano no período de produção são agricultores comercializando seus produtos com preços irrisórios e muitos deles perdem sua produção devido à inviabilização dos custos dos processos de colheita, transporte e venda. Apenas parte destes agricultores consegue agregar valor quando da transformação das frutas em polpas, sucos, doces e geléias que são facilmente comercializados, mesmo estes não conferindo certo grau de higiene. Paralelamente a este cenário alguns agricultores vêm enfrentando dificuldades em levar a proposta produtiva adiante por não dispor de recursos para investimento em instalações, capacitações, equipamentos e materiais de consumo fundamentais em garantir o padrão de higiene, qualidade e apresentação dos produtos. Sabemos que as ineficiências relacionadas à produção, gestão, comercialização de insumos e produtos são algumas das principais causas do subdesenvolvimento imperante no meio rural, o qual por sua vez contribui para o subdesenvolvimento territorial. Por outro lado, as famílias sensíveis a todo esse desperdício e vendo na possibilidade do aproveitamento/beneficiamento destes produtos a oportunidade de melhorar a oferta de alimentos visando a geração de ocupação e renda apóia esta ação. O colegiado territorial acredita que a grande maioria dos agricultores não pode continuar praticando uma agricultura arcaica e rudimentar, necessário se faz que estes agricultores possam introduzir inovações para eliminar estas ineficiências e aumentar seus baixos rendimentos, pois caso não haja uma mudança no processo produtivo migrando para a agroindustrialização será praticamente impossível que estes se tornem competitivos e se mantenham em suas propriedades. Baseado nestas condições é que o Colegiado Territorial pretende apoiar Assentados, Acampados, Quilombolas e Indígenas e Agricultores Familiares através da estruturação de uma CBF a qual será gerenciada por representantes destes grupos através da formalização de uma Associação de Produtores que no futuro poderá se transformar em uma Cooperativa de Produção e Comercialização. Uma vez que a preocupação pelo Colegiado Territorial pelos processos de desenvolvimento das Associações Rurais não reside na necessidade de cumprir determinados trâmites burocráticos, mas sim, na sua importância política, econômica e social, a efetivação e consolidação, organizacional e viabilidade das referidas localidades. Assim entende-se que o projeto permitirá que o trabalho coletivo e/ou individual das unidades de produção (famílias), se potencializem, gerando excedentes dos produtos básicos alimentares, através da execução de técnicas capazes de gerar a autonomia do sistema produtivo familiar.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de uma Central de Beneficiamento de Frutas",
+            "information": "",
+            "proposalDate": "2010-02-03T02:00:00.000Z",
+            "biddingDate": "2010-12-28T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020100162",
+              "name": "TERRITÓRIOS RURAIS - Infra-estrutura e Serviços - Contrato de Repasse",
+              "value": 407030,
+              "details": {
+                "code": "2200020100162",
+                "name": "TERRITÓRIOS RURAIS - Infra-estrutura e Serviços - Contrato de Repasse",
+                "cps": "",
+                "items": "Apoiar a implementação e expansão dos investimentos que beneficiem coletivamente os agricultores familiares.",
+                "couterpartRule": "Os limites de contrapartida são os definidos na LDO(Lei nº 12.017, de 12/08/09). A contrapartida de Estados e Municípios será apenas financeira. Para ONGs será aceita contrapartida em Bens e serviços. [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 407030,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 397030,
+                  "amendment": "R$ 397.030,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.096.555-** - FABIANO RIBEIRO DE SANTANA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "009/2012",
+              "type": "Licitação -",
+              "date": "2012-06-19T03:00:00.000Z",
+              "processId": "009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "Menor Preço",
+                "processId": "009",
+                "biddingId": "009/2012",
+                "object": "IMPLANTAÇÃO DE UMA CENTRAL DE BENEFICIAMENTO DE FRUTAS.",
+                "legalFoundation": "LEI FEDERAL Nº8.666",
+                "justification": "LEI FEDERAL Nº8.666",
+                "publishDate": "2012-06-19T03:00:00.000Z",
+                "beginDate": "2012-07-04T03:00:00.000Z",
+                "endDate": "2012-07-05T03:00:00.000Z",
+                "biddingValue": 155947.88,
+                "homologationDate": "2013-07-05T03:00:00.000Z",
+                "city": "2645 - PARICONHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000136/2014",
+              "biddingId": "009/2012",
+              "date": "2012-08-03T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04020209000178",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Serviço",
+                "object": "IMPLANTAÇÃO DE UMA CENTRAL DE BENEFICIAMENTO DE FRUTAS.",
+                "totalValue": 155947.88,
+                "publishDate": "2012-08-03T03:00:00.000Z",
+                "beginDate": "2012-07-05T03:00:00.000Z",
+                "endDate": "2012-11-05T02:00:00.000Z",
+                "signDate": "2012-07-05T03:00:00.000Z",
+                "executionProcessId": "009/2012 ",
+                "biddingModality": "Licitação - ",
+                "processId": "009 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "732656/2010",
+            "validity": "28/12/2010 a 30/10/2020",
+            "limitDate": "2020-11-29T03:00:00.000Z",
+            "totalValue": 407030,
+            "transferValue": 397030,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "731289/2009",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-01-30T02:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "094285/2009",
+            "organId": "09428/2009",
+            "processId": "094285/2009",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Pariconha localizado no alto sertão do Estado de Alagoas, inserido no Território da Cidadania, Programa do Governo Federal, com uma população de 10.209 habitantes, conforme último censo demográfico do IBGE em 2007 necessita de políticas voltadas para o esporte e lazer, tendo em vista sua população jovem que se encontra ociosa e sem espaço físico para a prática de esporte e lazer, além de possuírem uma renda familiar de no máximo um salário mínimo. Diante do exposto o município de Pariconha está pleiteando recursos junto ao Ministério do Esporte para construção de 02 (duas) quadras esportivas descobertas em dois povoados Marcação e Caraibeiras dos Teodósios (cada um com uma quadra respectivamente) da zona rural do município com o intuito de promover a inclusão social daquela juventude através da prática esportiva.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de 02 quadras esportivas descobertas.",
+            "information": "Declaramos para os fins que se fizerem necessários que a Prefeitura Municipal de Pariconha, Alagoas, possui capacidade técnica e gerencial para conduzir o Projeto de infraestrutura esportiva para construção de 02 (duas)quadras esportivas descobertas nos povoados Marcação e Caraibeiras dos Teodósios, neste município de Pariconha, sob o gerenciamento do Engenheiro Dr. Artur Lopes da Silva Filho, inscrito no Conselho Regional de Engenharia - CREA n. º 0200722590, portador do CPF n. º 208.135.114-53 e RG 341.100 - SSP/AL.",
+            "proposalDate": "2009-11-03T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-02-09T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 199000,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na LDO vigente, podendo haver redução para municípios incluídos nos bolsões de pobreza, conforme legislação em vigor. [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 199000,
+                "couterpartValues": {
+                  "total": 4000,
+                  "financial": 4000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.243.514-** - MOACIR VIEIRA DA SILVA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "731289/2009",
+            "validity": "31/12/2009 a 30/01/2012",
+            "limitDate": "2012-01-30T02:00:00.000Z",
+            "totalValue": 199000,
+            "transferValue": 195000,
+            "counterpartValue": 4000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "728679/2009",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-01-19T02:00:00.000Z",
+        "end": "2012-01-18T02:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "131870/2009",
+            "organId": "01364/2009",
+            "processId": "59050.004047/2009-46",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A População Total do Município era de 10.086,00 de habitantes, de acordo com o Censo Demográfico do IBGE (2000). Sua Área é de 260,86 km² representando 0,94 % do Estado, 0,02 % da Região e 0,00 % de todo o território brasileiro. Seu Índice de Desenvolvimento Humano (IDH) é de 0,55 segundo o Atlas de Desenvolvimento Humano/PNUD (2000) Informamos que Pariconha faz parte dos Territórios da Cidadania. O Município encontra-se em situação de emergência por seca.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de carro pipa completo",
+            "information": "O Município declara que possui capacidade técnica e gerencial para acompanhamento do convênio.",
+            "proposalDate": "2009-12-22T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090016",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 252550,
+              "details": {
+                "code": "5300020090016",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Alínea b, parágrafo 2º, do Artigo 40, da LDO/2009 - Os limites mínimos de contrapartida poderão ser reduzidos para 1%. (Portaria nº 58-A, de 26/03/2009, publicada no DOU de 08/04/2009) [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 252550,
+                "couterpartValues": {
+                  "total": 2550,
+                  "financial": 2550,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.243.514-** - MOACIR VIEIRA DA SILVA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.042.835-** - IVONE MARIA VALENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002/2011",
+              "type": "Licitação - Pregão",
+              "date": "2011-01-28T02:00:00.000Z",
+              "processId": "0022011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0022011",
+                "biddingId": "002/2011",
+                "object": "Aquisição de um carro pipa completo",
+                "legalFoundation": "10.520/2002 e 1.424/2003 e 8.666/1993",
+                "justification": "Aquisição de um carro pipa completo para a Secretaria de Agricultura Municipal, com o intuito de garantir agua em quantidade e qualidade necessária para a população pariconhense no período da seca.",
+                "publishDate": "2011-01-28T02:00:00.000Z",
+                "beginDate": "2011-01-31T02:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 250000,
+                "homologationDate": "2011-02-18T02:00:00.000Z",
+                "city": "2645 - PARICONHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2012",
+              "biddingId": "002/2011",
+              "date": "2011-02-27T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09236843000166",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE UM CARRO PIPA COMPLETO",
+                "totalValue": 250000,
+                "publishDate": "2011-02-27T03:00:00.000Z",
+                "beginDate": "2010-01-19T02:00:00.000Z",
+                "endDate": "2012-01-18T02:00:00.000Z",
+                "signDate": "2011-02-23T03:00:00.000Z",
+                "executionProcessId": "002/2011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0022011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "728679/2009",
+            "validity": "19/01/2010 a 18/01/2012",
+            "limitDate": "2012-02-17T02:00:00.000Z",
+            "totalValue": 252550,
+            "transferValue": 250000,
+            "counterpartValue": 2550,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "725799/2009",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-01-11T02:00:00.000Z",
+        "end": "2012-05-09T03:00:00.000Z",
+        "program": "SPR - DESENVOLVIMENTO INTEGRADO E SUSTENTÁVEL DO SEMI-ÁRIDO - CONVIVER",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "128540/2009",
+            "organId": "01143/2009",
+            "processId": "59200.000433/2009-06",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Sertão alagoano, onde está inserido o município de Pariconha, é uma região cujos municípios apresentam uma mesma base econômica - MILHO, FEIJÃO, PALMA, MANDIOCA, ALGODÃO, FRUTAS, LEITE E CRIAÇÃO DE PEQUENOS ANIMAIS (como aves caipiras, caprinos, ovinos e abelhas), sendo a bovinocultura de leite seu principal eixo de desenvolvimento econômico e que viabiliza outras atividades como palma, milho, feijão, mandioca; A estrutura fundiária é constituída basicamente de minifúndios - 82% do total de estabelecimentos estão abaixo de 10 Hectares, onde os produtores trabalham com agricultura e ou pecuária, mas não tem condições econômicas de adquirirem equipamentos e implementos que facilitem os seus trabalhos diários e aumentem a sua produtividade. Como consequência desta realidade os pequenos agricultores evitam plantar áreas maiores ou até mesmo deixam de plantar, por receio de não conseguirem preparar o solo no período adequado, já que o período das águas é reduzido, ou até mesmo de não conseguirem colher na época correta, que no caso de forragens perde o melhor período para ensilar, e com os grãos, colhe um produto de qualidade inferior. Na tentativa de driblar este problema, alguns agricultores recorrem ao aluguel desse maquinário para o preparo do solo, colheita e transporte, onerando a sua produção e muitas vezes não conseguindo executar os serviços a contento, visto que na época de maior necessidade há um déficit de tratores e implementos em relação à procura, causando inflação no custo da hora/máquina e quase sempre deixando alguns agricultores sem atendimento, pois os produtores maiores primeiro fazem os seus serviços para só então alugarem para terceiros, dando preferência àqueles que tem áreas maiores e deixando os pequenos produtores para o final da fila, visto que deslocar o maquinário para executar pequenos serviços algumas vezes não cobre os custos de operação.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Equipamentos e Implementos Agrícolas",
+            "information": "DECLARAMOS QUE O MUNICÍPIO DE PARICONHA/AL, DISPÕE DE PROFISSIONAIS CAPACITADOS NAS SECRETARIAS DE AGRICULTURA, FINANÇAS E ADMINISTRAÇÃO PARA A EXECUÇÃO DO PROJETO PROPOSTO. DESTA FORMA, ESTA MUNICIPALIDADE DISPÕE DE CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUÇÃO DO OBJETO.",
+            "proposalDate": "2009-12-17T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-11T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090029",
+              "name": "SPR - DESENVOLVIMENTO INTEGRADO E SUSTENTÁVEL DO SEMI-ÁRIDO - CONVIVER",
+              "value": 100000,
+              "details": {
+                "code": "5300020090029",
+                "name": "SPR - DESENVOLVIMENTO INTEGRADO E SUSTENTÁVEL DO SEMI-ÁRIDO - CONVIVER",
+                "cps": null,
+                "items": "Estruturação e Dinamização de Arranjos Produtivos Locais no Semi-Árido",
+                "couterpartRule": "Municípios do Semi-Árido com até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 100000,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 94000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.243.514-** - MOACIR VIEIRA DA SILVA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.669.809-** - MARCIA REGINA SARTORI DAMO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "06/2010",
+              "type": "Licitação -",
+              "date": "2010-05-21T03:00:00.000Z",
+              "processId": "023",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "",
+                "biddingType": "",
+                "processId": "023",
+                "biddingId": "06/2010",
+                "object": "aquisi��o de equipamentos e implementos agr�colas",
+                "legalFoundation": "Lei n� 10.520/2002, Decreto n� 1.424/2003 e Lei n� 8.666/93",
+                "justification": "A aquisi��o de equipamentos e implementos agr�colas permitir� aos agricultores familiares uma amplia��o da qualidade de vida, na medida em que eles possam ofertar seus produtos com a garantia de qualidade, gerando renda, entre outros.",
+                "publishDate": "2010-05-21T03:00:00.000Z",
+                "beginDate": "2010-06-04T03:00:00.000Z",
+                "endDate": "2010-06-29T03:00:00.000Z",
+                "biddingValue": 18800,
+                "homologationDate": "2010-07-29T03:00:00.000Z",
+                "city": "2645 - PARICONHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2010",
+              "biddingId": "06/2010",
+              "date": "2010-07-29T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05453608000195",
+                "hirerDocument": "CNPJ: 35634435000172",
+                "type": "Material",
+                "object": "debulhador e ensiladeira",
+                "totalValue": 18800,
+                "publishDate": "2010-07-29T03:00:00.000Z",
+                "beginDate": "2010-06-29T03:00:00.000Z",
+                "endDate": "2010-07-29T03:00:00.000Z",
+                "signDate": "2010-06-29T03:00:00.000Z",
+                "executionProcessId": "06/2010 ",
+                "biddingModality": "Licitação - ",
+                "processId": "023 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "725799/2009",
+            "validity": "11/01/2010 a 09/05/2012",
+            "limitDate": "2012-06-08T03:00:00.000Z",
+            "totalValue": 100000,
+            "transferValue": 94000,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "705201/2009",
+        "uf": "AL",
+        "city": "Pariconha",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-01-15T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "041784/2009",
+            "organId": "41784/2009",
+            "processId": "041784/2009",
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "legalFoundation": "Decreto 6170",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Pariconha é um município pequeno e sua população praticamente obtém sua renda média da agricultura familiar,sendo ele menor que um salário mínimo, porém, com grandes tradições em festividades que atraem grandes números de pessoas de toda região, principalmente com a realização do Carnaval fora de época, o Pariconha Fest Folia. As comemorações alusivas ao São João e principalmente ao Padroeiro da cidade são responsáveis pela grande concentração de pessoas que todos os anos prestigiam a programação devido ao show de grandes bandas que se apresentam na praça local. Apesar da praça localizar-se na zona urbana, toda população será beneficiada. Vale ressaltar que a falta de infraestrutura no local tem dificultado a realização dessas programações, portanto, se faz necessário a ampliação e reforma da Praça para que possamos melhorar a qualidade das festividades e promover de forma eficiente o fluxo turístico e o desenvolvimento cultural do município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Ampliação e reforma da Praça central Sagrado Coração de Jesus",
+            "information": "o município possuí capacidade técnica e gerencial.",
+            "proposalDate": "2009-06-23T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-28T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090006",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+              "value": 179500,
+              "details": {
+                "code": "5400020090006",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 179500,
+                "couterpartValues": {
+                  "total": 4500,
+                  "financial": 4500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 175000,
+                  "amendment": "R$ 175.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.634.435/0001-72 - MUNICIPIO DE PARICONHA",
+            "respProponent": "***.243.514-** - MOACIR VIEIRA DA SILVA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PARICONHA",
+            "documentNumber": "35.634.435/0001-72",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "705201/2009",
+            "validity": "31/12/2009 a 15/01/2012",
+            "limitDate": "2012-01-15T02:00:00.000Z",
+            "totalValue": 179500,
+            "transferValue": 175000,
+            "counterpartValue": 4500,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

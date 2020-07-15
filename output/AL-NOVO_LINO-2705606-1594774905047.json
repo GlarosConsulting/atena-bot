@@ -1,0 +1,405 @@
+{
+  "beginDate": "2020-07-14T21:41:28.516Z",
+  "endDate": "2020-07-14T21:42:55.768Z",
+  "data": {
+    "location": {
+      "city": "Novo Lino",
+      "uf": "AL",
+      "ibge": "2705606"
+    },
+    "agreements": [
+      {
+        "agreementId": "873609/2018",
+        "uf": "AL",
+        "city": "Novo Lino",
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2018-07-06T03:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "034693/2018",
+            "organId": "34693/2018",
+            "processId": "346932018",
+            "proponent": "CNPJ 12.248.878/0001-20 - MUNICIPIO DE NOVO LINO",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Novo Lino, localizado no Estado Alagoas, com uma população estimada em 12.060 habitantes, (IBGE 2010), Clima Tropical, limitando-se com os municípios de Colônia Leopoldina, Jundiá, Campestre e Joaquim Gomes. A finalidade desse objeto é proporcionar uma melhoria nas condições de lazer, controle social em seus vários tipos de ações sociais e lazer para população, além de incentivar a prática do esporte no município, melhorando, portanto o padrão da qualidade social para a população, notadamente dos jovens e adultos que gostam da prática salutar de esporte, como também alcançar a melhoria no convívio; melhoria da auto-estima, melhoria das capacidades e habilidades motoras, melhoria das condições de saúde, aumento do número de praticantes de atividades esportivas educacionais de todos os participantes, ou seja, jovens, adultos, crianças, e maiores de 60 anos. O município busca investir em infraestrutura como a Construção de Quadra Poliesportiva Coberta para atender a demanda a população adolescente, jovens e adultos que detêm de hábito saudáveis. Desta forma, esta proposta justifica-se pelo fato de dar uma estrutura física adequada para a pratica esportiva no município de Novo Lino.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Construção de Quadra Poliesportiva Coberta, no município de Novo Lino/AL.",
+            "information": "Em atendimento ao disposto no § 5.º, inciso II do Art.7º e o inciso V do Art. 16 da Portaria Interministerial 424/2016, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Novo Lino/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc. Desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2018-03-27T03:00:00.000Z",
+            "biddingDate": "2018-07-06T03:00:00.000Z",
+            "homologationDate": "2018-07-11T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020180051",
+              "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+              "value": 479390.47,
+              "details": {
+                "code": "5500020180051",
+                "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+                "cps": "001/2018",
+                "items": "Equipamentos Comunitários",
+                "couterpartRule": "a) 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com ATÉ cinquenta mil habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 479390.47,
+                "couterpartValues": {
+                  "total": 18438.09,
+                  "financial": 18438.09,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 460952.38,
+                  "amendment": "R$ 460.952,38 - Marx Beltrão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.248.878/0001-20 - MUNICIPIO DE NOVO LINO",
+            "respProponent": "***.128.104-** - LUCIENE MARIA FERREIRA",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.714.780-** - OSMAR GASPARINI TERRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE NOVO LINO",
+            "documentNumber": "12.248.878/0001-20",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "873609/2018",
+            "validity": "06/07/2018 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 479390.47,
+            "transferValue": 460952.38,
+            "counterpartValue": 18438.09,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "823735/2015",
+        "uf": "AL",
+        "city": "Novo Lino",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2015-12-30T02:00:00.000Z",
+        "end": "2019-11-30T03:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "046102/2015",
+            "organId": "46102/2015",
+            "processId": "0461022015",
+            "proponent": "CNPJ 12.248.878/0001-20 - MUNICIPIO DE NOVO LINO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Sua população jovem está desprovida de equipamentos de esporte e lazer acarretando ociosidade violência, para familiares e a comunidade. O Esporte e Lazer vem com prioridades e estratégia para minimizar os índices de violência, disponibilizando espaço para a prática esportiva. O Município vem com a necessidade de construir uma quadra descoberta no município, contribuindo assim com a redução, a exclusão e o risco social e para melhorar a qualidade de vida dos que serão assistidos pelo projeto. Os resultados esperados com o alcance desse pleito são: melhoria no convívio e na integração social; melhoria da auto-estima; melhoria das capacidades e habilidades motoras; melhoria das condições de saúde; aumento do número de praticantes de atividades esportivas educacionais de todos os participantes, ou seja, jovens, adultos, crianças, e maiores de 60 anos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Quadra Descoberta no município de Novo Lino-AL.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Novo Lino/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc ..",
+            "proposalDate": "2015-10-19T02:00:00.000Z",
+            "biddingDate": "2015-12-30T02:00:00.000Z",
+            "homologationDate": "2016-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020150003",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+              "value": 256326.35,
+              "details": {
+                "code": "5100020150003",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "a) 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com ATÉ cinquenta mil habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 256326.35,
+                "couterpartValues": {
+                  "total": 500,
+                  "financial": 500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 255826.35,
+                  "amendment": "R$ 255.826,35 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.248.878/0001-20 - MUNICIPIO DE NOVO LINO",
+            "respProponent": "***.139.994-** - ALDEMIR RUFINO DA SILVA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.069.025-** - GEORGE HILTON DOS SANTOS CECILIO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE NOVO LINO",
+            "documentNumber": "12.248.878/0001-20",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "823735/2015",
+            "validity": "30/12/2015 a 30/11/2019",
+            "limitDate": "2020-01-29T03:00:00.000Z",
+            "totalValue": 256326.35,
+            "transferValue": 255826.35,
+            "counterpartValue": 500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "753147/2010",
+        "uf": "AL",
+        "city": "Novo Lino",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-31T02:00:00.000Z",
+        "end": "2011-12-31T02:00:00.000Z",
+        "program": "8007 - Resíduos Sólidos Urbanos (Sistema de Resíduos Sólidos)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "041052/2010",
+            "organId": "00732/2010",
+            "processId": "25100.042553/2010-12",
+            "proponent": "CNPJ 12.248.878/0001-20 - MUNICIPIO DE NOVO LINO",
+            "legalFoundation": "Portaria Interministerial nº 127/2008",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O município de Novo Lino, localizado no estado Alagoas, com uma população estimada em 12.266 habitantes, segundo dados do IBGE (2008), com a vontade de atender melhor a comunidade, fazendo a remoção regular do lixo de maneira a evitar a proliferação de vetores causadores de doenças, ratos, baratas, moscas e demais vetores encontrados nos restos do que é consumido pela coletividade, almeja a compra de um caminhão compactador de lixo para auxiliar na coleta regular do lixo doméstico. Pois bem se sabe que se o lixo não é coletado regularmente os efeitos sobre a saúde pública só aparecem um pouco mais tarde e, quando as doenças ocorrem as comunidades nem sempre associam à sujeira. Quando o lixo não é recolhido, a cidade fica com mau aspecto e mau cheiro. É isto que costuma incomodar mais diretamente a população, por esses motivos e ciente que a coleta regular de lixo é primordial para manter a cidade limpa e a população afastada da possibilidade de contrair inúmeras doenças que o Município de Novo Lino necessita do CAMINHÃO COMPACTADOR DE LIXO, pois o mesmo oferece diversas vantagens para o transporte do lixo, dentre elas: • Capacidade de transportar muito mais lixo que as carrocerias sem compactação; • Baixa altura de carregamento (no nível da cintura), facilitando o serviço dos coletores que conseqüentemente apresentam maior produtividade; • Rapidez na operação de descarga do material, já que são providos de mecanismos de ejeção; • Eliminação dos inconvenientes sanitários decorrentes da presença de trabalhador arrumando o lixo na carroceria ou do espalhamento do material na via pública.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de um Caminhão Compactador de Lixo.",
+            "information": "",
+            "proposalDate": "2010-04-14T03:00:00.000Z",
+            "biddingDate": "2010-12-31T02:00:00.000Z",
+            "homologationDate": "2011-03-01T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120100023",
+              "name": "8007 - Resíduos Sólidos Urbanos (Sistema de Resíduos Sólidos)",
+              "value": 306122.45,
+              "details": {
+                "code": "3621120100023",
+                "name": "8007 - Resíduos Sólidos Urbanos (Sistema de Resíduos Sólidos)",
+                "cps": null,
+                "items": "Apoiar, técnica e financeiramente, os estados e municípios na implantação, ampliação ou melhoria dos sistemas de coleta, tratamento, destinação final de resíduos sólidos para prevenção e controle de agravos nas áreas mais carentes do país e com população inferior a 50.000 mil habitantes, preferencialmente, nos municípios acometidos de incidência de dengue.",
+                "couterpartRule": "Lei n.º 12.017, de 12/08/2009 - Municípios de até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 306122.45,
+                "couterpartValues": {
+                  "total": 6122.45,
+                  "financial": 6122.45,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 300000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.248.878/0001-20 - MUNICIPIO DE NOVO LINO",
+            "respProponent": "***.105.304-** - JOSE EVERALDO ALVES BARBOSA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.776.401-** - FAUSTINO BARBOSA LINS FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE NOVO LINO",
+            "documentNumber": "12.248.878/0001-20",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "753147/2010",
+            "validity": "31/12/2010 a 31/12/2011",
+            "limitDate": "2012-02-29T03:00:00.000Z",
+            "totalValue": 306122.45,
+            "transferValue": 300000,
+            "counterpartValue": 6122.45,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "724861/2009",
+        "uf": "AL",
+        "city": "Novo Lino",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-12-30T02:00:00.000Z",
+        "program": "0122 – Serviços Urbanos de Água e Esgoto Apoio à Gestão dos Sistemas de Saneamento Básico. (Cooperação Técnica em Saneamento)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "104161/2009",
+            "organId": "00261/2009",
+            "processId": "25100.066.767/2009-41",
+            "proponent": "CNPJ 12.248.878/0001-20 - MUNICIPIO DE NOVO LINO",
+            "legalFoundation": "Portaria Interministerial n° 127/08",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de Novo Lino localiza-se na Região norte-nordeste do Estado de Alagoas, limita-se a norte com o estado de Pernambuco, a sul com Matriz de Camaragibe, a Leste com Jundiá e a Oeste com Colônia de Leopoldina . O município tem área de 182km² e população estimada de 12.266 habitantes, de acordo com o Censo Demográfico do IBGE (2008). Seu Índice de Desenvolvimento Humano (IDH) é de 0,534 segundo o Atlas de Desenvolvimento Humano/PNUD (2000), ocupando a 91 posição no estado, sua economia é baseada na agricultura familiar cultura da cana de açúcar e maior produtora de bananas. O Município de Novo Lino apresenta uma gestão de saneamento através da Secretaria de Viação e Obras do Município. Por meio das visitas domiciliares realizadas pelos Agentes Comunitários de Saúde foram cadastradas 2.703 famílias das quais 42% dos domicílios têm abastecimento de água da rede pública; 32% destinam fezes e urina ao esgoto, 50% têm o lixo coletado.Para atender as diretrizes da Política Nacional de saneamento, Lei Nº11.445/2007, melhorar a eficiência da gestão e cobertura de serviços de saneamento e aprimorar políticas públicas urbanas com ênfase na gestão participativa, o Município propõe desenvolver e implantar Plano Local de Saneamento Básico. Seguindo o resultado do objeto proposto, será possível otimizar os investimentos para obtenção de melhor relação custo x benefício nas ações de saneamento básico. Será possível também trabalhar a preocupação ambiental para preservação e conservação dos recursos naturais e articular as ações propostas no plano com outros programas do governo federal.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Elaboração e Implantação de Plano Municipal de Saneamento Básico",
+            "information": "O Município de Novo Lino declara que possui capacidade técnica e gerencial conforme ofício em anexo",
+            "proposalDate": "2009-11-25T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120090020",
+              "name": "0122 – Serviços Urbanos de Água e Esgoto Apoio à Gestão dos Sistemas de Saneamento Básico. (Cooperação Técnica em Saneamento)",
+              "value": 103000,
+              "details": {
+                "code": "3621120090020",
+                "name": "0122 – Serviços Urbanos de Água e Esgoto Apoio à Gestão dos Sistemas de Saneamento Básico. (Cooperação Técnica em Saneamento)",
+                "cps": null,
+                "items": "Propiciar aos estados, municípios e Distrito Federal, um conjunto de processos, ações, atividades e procedimentos para melhorar a gestão dos serviços de saneamento, buscando a sustentabilidade dos serviços e a promoção da saúde humana.",
+                "couterpartRule": "Municípios com até 50.000 habitantes: de 2% a 4%. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 103000,
+                "couterpartValues": {
+                  "total": 3000,
+                  "financial": 3000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.248.878/0001-20 - MUNICIPIO DE NOVO LINO",
+            "respProponent": "***.105.304-** - JOSE EVERALDO ALVES BARBOSA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.191.096-** - GILSON DE CARVALHO QUEIROZ FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE NOVO LINO",
+            "documentNumber": "12.248.878/0001-20",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "724861/2009",
+            "validity": "31/12/2009 a 30/12/2012",
+            "limitDate": "2012-12-30T02:00:00.000Z",
+            "totalValue": 103000,
+            "transferValue": 100000,
+            "counterpartValue": 3000,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

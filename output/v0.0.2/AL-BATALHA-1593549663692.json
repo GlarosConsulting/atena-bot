@@ -1,0 +1,812 @@
+{
+  "startDate": "2020-06-30T20:37:29.444Z",
+  "endDate": "2020-06-30T20:41:03.692Z",
+  "data": {
+    "search": {
+      "uf": "AL",
+      "city": "BATALHA"
+    },
+    "agreements": [
+      {
+        "agreementId": "868625/2018",
+        "uf": "AL",
+        "city": "BATALHA",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-06-29T03:00:00.000Z",
+        "end": "2021-07-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "033117/2018",
+            "organId": "33117/2018",
+            "processId": "331172018",
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Batalha era, no início, conhecido por Belo Monte, situado à margem do rio São Francisco. O povoado cresceu de forma proporcional ao aumento da população. O nome Batalha foi dado, segundo a lenda, por causa de uma luta entre soldados da polícia estadual e fanáticos seguidores de um leigo que dominava o local através da religião. A freguesia foi criada em 1855 sob as bênçãos de Nossa Senhora do Bom Conselho. Fez parte de Traipu até 1886 quando foi elevada à condição de vila. Posteriormente, foi município com o nome de Belo Monte. Uma lei em 1893 tornou sem efeito esse ato e a vila voltou a pertencer a Traipu. Depois foi incorporada a Pão de Açúcar. Sucessivas leis marcaram o desmembramento da vila e sua posterior reintegração a outros municípios. Somente em dezembro de 1947, uma lei estadual transferiu a sede do então município de Belo Monte para a Vila da Batalha. Em 1949, finalmente, o município assegurou o nome de Batalha, transformando-se em comarca apenas em 1952. O rio Ipanema, um rio que corta toda a região, é seu principal acidente geográfico. Batalha é pólo centralizador da chamada Bacia Leiteira, a cooperativa e várias indústrias pasteurizam praticamente todo o leite que abastece o Estado. A cidade tem como pontos atrativos a Serrinha Via Sacra, o Monumento ao Cinquentenário e o Parque de Exposições. Seus principais eventos são: a festa da padroeira, Nossa Senhora da Penha (30 de agosto a 8 de setembro), a Emancipação Política (22 de dezembro) e a Exposição Agropecuária (em outubro). Gentílico: batalhense Formação Administrativa Distrito criado com a denominação de Batalha ex-povoado, pela lei nº 1473, de 17-091949, subordinado ao município de Belo Monte. Sob a mesma lei acima citado transfere a sede do município de Belo Monte para o distrito de Batalha assumindo à condição de município. Em divisão territorial datada de 1-VII-1950, o município já denominado Batalha é constituído de 2 distritos: Batalha e Belo Monte. Assim permanecendo em divisão territorial datada de 1-VII-1955. Pela lei estadual nº 2094, de 24-04-1958, desmembra do município de Batalha o distrito de Belo Monte. Elevado à categoria de município. Em divisão territorial datada de 1-VII-1960, o município é constituído do distrito sede. Dessa forma permanecendo em divisão territorial datada de 2007. O Município de Batalha possui uma população total de 18.757 habitantes, dos quais mais de (40%) residem em áreas rurais. O Poder Público Municipal, preocupado com o bem-estar de sua população constatou a necessidade da melhoria da qualidade de vida vivenciada no município, dessa maneira fica visível à necessidade de Pavimentação em Paralelepípedo no Bairro Novo Horizonte, das Ruas Projetadas trecho 01 e trecho 02, área urbana, no Município. A execução da obra solucionará problemas no âmbito de infraestrutura local tais como melhoria no tráfego e acessibilidade, desta maneira contribuindo para melhoria na saúde da população, evitando assim problemas de varias natureza, que vai do excesso de poeira durante o período de estiagem e grande acumulo de águas (possas) durante o inverno tornando a acessibilidade de seus moradores difíceis a suas necessidades básicas (saúde, educação e lazer), além de doenças causadas por fenômenos naturais, vale ressaltar que o objeto proposto é de suma importância para o município, tendo em vista que os resultados esperados do objeto compreende dotar o município de uma boa infraestrutura disponibilizando para os habitantes e visitantes mais conforto e segurança. As ruas são todas em perímetro urbano.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Pavimentação em Paralelepípedo no Bairro Novo Horizonte, das Rua Projetada Trecho 01 e Rua Projetada Trecho 02, no município de Batalha/AL.",
+            "information": "Em atendimento ao disposto no § 5.º, inciso II do Art.7º e o inciso V do Art. 16 da Portaria Interministerial 424/2016, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Batalha/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc. Desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2018-03-26T03:00:00.000Z",
+            "biddingDate": "2018-06-29T03:00:00.000Z",
+            "homologationDate": "2018-07-05T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020180033",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 225065.02,
+              "details": {
+                "code": "5300020180033",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "007/2018",
+                "items": "INFRAESTRUTURA URBANA, Unidades Habitacionais, Equipamentos Comunitários, Pavimentação, Drenagem, Abastecimento de Água, Esgotamento Sanitário, Energia Elétrica e Iluminação, Coleta e Tratamento de Resíduos Sólidos, Contenção e Estabilização de Encostas, Regularização Fundiária, Aquisição de Terreno, Aquisição de Equipamentos e Insumos, Elaboração de Estudos e Projetos, Instrumentos e Ações em Planejamento e Gestão Pública, Ações Complementares de Obras, Gerenciamento, Trabalho Social, Transporte Público",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 225065.02,
+                "couterpartValues": {
+                  "total": 2207.88,
+                  "financial": 2207.88,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 222857.14,
+                  "amendment": "R$ 222.857,14 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "respProponent": "***.681.634-** - MARINA THEREZA CINTRA DANTAS",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0032019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-05-20T03:00:00.000Z",
+              "processId": "0032019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0032019",
+                "biddingId": "0032019",
+                "object": "PAVIMENTAÇÃO EM PARALELEPÍPEDO DA RUA PROJETADA G",
+                "legalFoundation": "LEI N° 8666/93",
+                "justification": "PAVIMENTAÇÃO EM PARALELEPÍPEDO DA RUA PROJETADA G",
+                "publishDate": "2019-05-20T03:00:00.000Z",
+                "beginDate": "2019-06-13T03:00:00.000Z",
+                "endDate": "2019-06-13T03:00:00.000Z",
+                "biddingValue": 225065.02,
+                "homologationDate": "2019-07-10T03:00:00.000Z",
+                "city": "2713 - BATALHA",
+                "analysisDate": "2019-09-25T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000040/2019",
+              "biddingId": "0032019",
+              "date": "2019-07-26T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05011000000100",
+                "hirerDocument": "CNPJ: 12250056000183",
+                "type": "Obras",
+                "object": "PAVIMENTAÇÃO EM PARALELEPÍPEDO DA RUA PROJETADA G",
+                "totalValue": 225065.02,
+                "publishDate": "2019-07-26T03:00:00.000Z",
+                "beginDate": "2018-06-29T03:00:00.000Z",
+                "endDate": "2021-07-30T03:00:00.000Z",
+                "signDate": "2019-07-12T03:00:00.000Z",
+                "executionProcessId": "0032019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0032019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE BATALHA",
+            "documentNumber": "12.250.056/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "868625/2018",
+            "validity": "29/06/2018 a 30/07/2021",
+            "limitDate": "2021-09-28T03:00:00.000Z",
+            "totalValue": 225065.02,
+            "transferValue": 222857.14,
+            "counterpartValue": 2207.88,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "863078/2017",
+        "uf": "AL",
+        "city": "BATALHA",
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "ESTRUTURACAO DA REDE DE SERVICOS DE PROTECAO SOCIAL BASICA - VOLUNTÁRIAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "061335/2017",
+            "organId": "61335/2017",
+            "processId": "71000082502201745",
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "legalFoundation": "PORTARIA INTERMINISTERIAL Nª 424/2016",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "As informações gerais relativas ao mérito social da proposta encontram-se no formulário anexado na Aba Termo de Referência.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ESTRUTURACAO DA REDE DE SERVICOS DE PROTECAO SOCIAL BASICA – CONSTRUCAO DE CENTRO DE REFERENCIA DE ASSISTENCIA SOCIAL - CRAS",
+            "information": "Em conformidade com o que estabelece o inciso V, do art. 16, da Portaria Interministerial MP/MF/MTF-CGU Nº 424, de 30 de dezembro de 2016, declaro que este Ente dispõe de estrutura física e quadro de profissionais com capacidade técnica, administrativa e gerencial para a execução do objeto proposto, declarando, ainda, ter a experiência no desenvolvimento das atividades propostas pelo convênio a ser celebrado, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legal e juridicamente, inclusive no que tange à formalização, celebração, instrução, execução e a prestação de contas do convênio com a União.",
+            "proposalDate": "2017-06-15T03:00:00.000Z",
+            "biddingDate": "2017-12-30T02:00:00.000Z",
+            "homologationDate": "2018-01-22T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020170011",
+              "name": "ESTRUTURACAO DA REDE DE SERVICOS DE PROTECAO SOCIAL BASICA - VOLUNTÁRIAS",
+              "value": 350351,
+              "details": {
+                "code": "5500020170011",
+                "name": "ESTRUTURACAO DA REDE DE SERVICOS DE PROTECAO SOCIAL BASICA - VOLUNTÁRIAS",
+                "cps": "",
+                "items": "ESTRUTURACAO DA REDE SERVICOS DE PROTECAO SOCIAL ESPECIAL - PROJETOS, ESTRUTURACAO DA REDE DE SERVICOS DE PROTECAO SOCIAL BASICA - VOLUNTÁRIAS",
+                "couterpartRule": "",
+                "totalValue": 350351,
+                "couterpartValues": {
+                  "total": 351,
+                  "financial": 351,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 350000,
+                  "amendment": "R$ 350.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "respProponent": "***.681.634-** - MARINA THEREZA CINTRA DANTAS",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-04-30T03:00:00.000Z",
+              "processId": "0152019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0152019",
+                "biddingId": "0012019",
+                "object": "LICITAÇÃO PARA CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DE OBRA REFERENTE A CONSTRUÇÃO DO CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL - CRAS",
+                "legalFoundation": "LEI N° 8666/93",
+                "justification": "LICITAÇÃO PARA CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DE OBRA REFERENTE A CONSTRUÇÃO DO CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL - CRAS",
+                "publishDate": "2019-04-30T03:00:00.000Z",
+                "beginDate": "2019-04-08T03:00:00.000Z",
+                "endDate": "2019-04-08T03:00:00.000Z",
+                "biddingValue": 300885.01,
+                "homologationDate": "2019-04-25T03:00:00.000Z",
+                "city": "2713 - BATALHA",
+                "analysisDate": "2019-10-09T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000027/2019",
+              "biddingId": "0012019",
+              "date": "2019-04-30T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04020875000106",
+                "hirerDocument": "CNPJ: 12250056000183",
+                "type": "Obras",
+                "object": "LICITAÇÃO PARA CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DE OBRA REFERENTE A CONSTRUÇÃO DO CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL - CRAS",
+                "totalValue": 300885.01,
+                "publishDate": "2019-04-30T03:00:00.000Z",
+                "beginDate": "2017-12-30T02:00:00.000Z",
+                "endDate": "2021-10-30T03:00:00.000Z",
+                "signDate": "2019-04-25T03:00:00.000Z",
+                "executionProcessId": "0012019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0152019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE BATALHA",
+            "documentNumber": "12.250.056/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "863078/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 350351,
+            "transferValue": 350000,
+            "counterpartValue": 351,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "844334/2017",
+        "uf": "AL",
+        "city": "BATALHA",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-11-14T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "Alagoas - Emendas Parlamentares - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas em Complementação",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "022625/2017",
+            "organId": "22625/2017",
+            "processId": "0226252017",
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Batalha é um município brasileiro do estado de Alagoas. Localiza-se a uma latitude 09 40 40 sul e a uma longitude 37 07 29 oeste, estando a uma altitude de 120 metros. Sua população estimada em 2004 era de 15 705 habitantes. Com o objetivo de ajudar a esses produtores na melhoria das condições de trabalho e na dinamização da produção e do escoamento de seus produtos, a Secretaria de Agricultura, dentro de suas limitações, vem buscando caminhos e alternativas para que as famílias se mantenham produzindo para o município que depende de recursos e programas do governo. A propósito, a Patrulha Mecanizada torna-se imprescindível para que se viabilizem as condições necessárias ao melhor aproveitamento das terras utilizadas por pequenos produtores rurais, objetivando o abastecimento do mercado consumidor interno, merenda escolar, feiras livres, gerando assim emprego e renda para as pessoas envolvidas em nível local quer em municípios circunvizinho.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Máquinas e Equipamentos.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 16, da Portaria Interministerial nº 424, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Batalha/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc ..",
+            "proposalDate": "2017-03-23T03:00:00.000Z",
+            "biddingDate": "2017-11-14T02:00:00.000Z",
+            "homologationDate": "2017-11-21T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020170005",
+              "name": "Alagoas - Emendas Parlamentares - Investimento",
+              "value": 226990,
+              "details": {
+                "code": "2200020170005",
+                "name": "Alagoas - Emendas Parlamentares - Investimento",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário. Favor, verificar lista dos objetos contemplados na aba anexos.",
+                "couterpartRule": "Municípios até 50.000 habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 226990,
+                "couterpartValues": {
+                  "total": 31990,
+                  "financial": 31990,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "respProponent": "***.681.634-** - MARINA THEREZA CINTRA DANTAS",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.603.673-** - ALBERTO ALFREDO LEAL NUNES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0112018",
+              "type": "Licitação - Pregão",
+              "date": "2018-06-13T03:00:00.000Z",
+              "processId": "0312018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0312018",
+                "biddingId": "0112018",
+                "object": "AQUISIÇÃO DE UMA RETROESCAVADEIRA",
+                "legalFoundation": "Lei Nº 10.520, de 17 de julho de 2002.",
+                "justification": "AQUISIÇÃO DE UMA RETROESCAVADEIRA",
+                "publishDate": "2018-06-13T03:00:00.000Z",
+                "beginDate": "2018-06-26T03:00:00.000Z",
+                "endDate": "2018-06-26T03:00:00.000Z",
+                "biddingValue": 226990,
+                "homologationDate": "2018-06-28T03:00:00.000Z",
+                "city": "2713 - BATALHA",
+                "analysisDate": "2019-10-28T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000037/2018",
+              "biddingId": "0112018",
+              "date": "2018-07-04T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 24491429000359",
+                "hirerDocument": "CNPJ: 12250056000183",
+                "type": "Material e Serviço",
+                "object": "AQUISIÇÃO DE UMA RETROESCAVADEIRA",
+                "totalValue": 226990,
+                "publishDate": "2018-07-04T03:00:00.000Z",
+                "beginDate": "2017-11-14T02:00:00.000Z",
+                "endDate": "2021-10-30T03:00:00.000Z",
+                "signDate": "2018-07-03T03:00:00.000Z",
+                "executionProcessId": "0112018 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0312018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE BATALHA",
+            "documentNumber": "12.250.056/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas em Complementação",
+            "number": "844334/2017",
+            "validity": "14/11/2017 a 30/10/2021",
+            "limitDate": "2019-10-07T03:00:00.000Z",
+            "totalValue": 10,
+            "transferValue": 226990,
+            "counterpartValue": 195000,
+            "yieldValue": 31990
+          }
+        }
+      },
+      {
+        "agreementId": "779745/2012",
+        "uf": "AL",
+        "city": "BATALHA",
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2012-12-31T02:00:00.000Z",
+        "end": "2016-02-28T03:00:00.000Z",
+        "program": "REDE CEGONHA / AMBIENCIA DOS SERVIÇOS DE PARTO - REFORMA DE UNIDADE DE ATENCAO ESPECIALIZADA EM SAUDE - PROGRAMA/AÇÃO (2015.20R4) - ORGAO MUNICIPAL - ORÇAMENTO PROGRAMA - CP 2%",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "042080/2012",
+            "organId": "42080/2012",
+            "processId": "042080/2012",
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A Maternidade do Hospital Unidade Antonio Vieira Filho – CNES 201168-9, localizada no município de Batalha – Alagoas (270070), necessita de intervenção para reformar a ambiência do Centro Obstetrico. Atualmente a maternidade conta com 01 quarto pré-parto, 01 quarto para parto normal e 01 quarto pós-partos no centro obstétrico. A adequação da ambiência refere-se a reformas nos espaços físicos da maternidades no qual vamos transformar os quarto de pré-parto, parto e pós-parto em 02 quartos PPP irá conter apenas 01 cama por quarto e com banheiro exclusivo em anexo. O objetivo é modificar os tradicionais pré-partos coletivos em espaços individualizados de pré-parto/parto e pós-parto imediato (PPP) com acesso a banheiro, onde a mulher desenvolva todo o processo de trabalho de parto e parto, podendo ser transferida após o pós-parto imediato para o alojamento conjunto, quando em função da demanda não for possível que todo o período do pós-parto aconteça neste mesmo espaço sempre com a presença do acompanhante de livre escolha. Permitiremos a inclusão no ambiente de métodos não farmacológicos de alívio à dor e estímulo ao trabalho de parto ativo, criando condições na ambiência que garantam a mulher a escolha das diversas posições no trabalho de parto.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Reformar a ambiência do serviço de parto do Hospital Unidade Antônio Vieira Filho.",
+            "information": "",
+            "proposalDate": "2012-10-01T03:00:00.000Z",
+            "biddingDate": "2012-12-31T02:00:00.000Z",
+            "homologationDate": "2013-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020121013",
+              "name": "REDE CEGONHA / AMBIENCIA DOS SERVIÇOS DE PARTO - REFORMA DE UNIDADE DE ATENCAO ESPECIALIZADA EM SAUDE - PROGRAMA/AÇÃO (2015.20R4) - ORGAO MUNICIPAL - ORÇAMENTO PROGRAMA - CP 2%",
+              "value": 255102.04,
+              "details": {
+                "code": "3600020121013",
+                "name": "REDE CEGONHA / AMBIENCIA DOS SERVIÇOS DE PARTO - REFORMA DE UNIDADE DE ATENCAO ESPECIALIZADA EM SAUDE - PROGRAMA/AÇÃO (2015.20R4) - ORGAO MUNICIPAL - ORÇAMENTO PROGRAMA - CP 2%",
+                "cps": "",
+                "items": "REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE.",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 255102.04,
+                "couterpartValues": {
+                  "total": 5102.04,
+                  "financial": 5102.04,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": "R$ 250.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "respProponent": "***.046.604-** - ALOISIO RODRIGUES DE MELO",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.926.798-** - ALEXANDRE ROCHA SANTOS PADILHA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "MUNICIPIO DE BATALHA",
+            "documentNumber": "12.250.056/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "779745/2012",
+            "validity": "31/12/2012 a 28/02/2016",
+            "limitDate": "2016-04-28T03:00:00.000Z",
+            "totalValue": 255102.04,
+            "transferValue": 250000,
+            "counterpartValue": 5102.04,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "729146/2009",
+        "uf": "AL",
+        "city": "BATALHA",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2010-01-20T02:00:00.000Z",
+        "end": "2011-11-23T02:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "131746/2009",
+            "organId": "01388/2009",
+            "processId": "59050.004061/2009-40",
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A População Total do Município era de 14.799,00 de habitantes, de acordo com o Censo Demográfico do IBGE (2000). Sua Área é de 321,13 km² representando 1,16 % do Estado, 0,02 % da Região e 0,00 % de todo o território brasileiro. Seu Índice de Desenvolvimento Humano (IDH) é de 0,61 segundo o Atlas de Desenvolvimento Humano/PNUD (2000) Informamos que Batalha faz parte dos Territórios da Cidadania. O Município encontra-se em situação de emergência por seca.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de carro pipa completo",
+            "information": "O Município declara que possui capacidade técnica e gerencial para acompanhamento do convênio.",
+            "proposalDate": "2009-12-22T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090016",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 252550,
+              "details": {
+                "code": "5300020090016",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Alínea b, parágrafo 2º, do Artigo 40, da LDO/2009 - Os limites mínimos de contrapartida poderão ser reduzidos para 1%. (Portaria nº 58-A, de 26/03/2009, publicada no DOU de 08/04/2009) [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 252550,
+                "couterpartValues": {
+                  "total": 2550,
+                  "financial": 2550,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "respProponent": "***.550.784-** - PAULO SURUAGY DO AMARAL DANTAS",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.042.835-** - IVONE MARIA VALENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012011",
+              "type": "Licitação - Pregão",
+              "date": "2010-11-20T02:00:00.000Z",
+              "processId": "172011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "172011",
+                "biddingId": "012011",
+                "object": "Aquisição de um Caminhão Pipa equipado com o tanque inox com capacidade para 8000L.",
+                "legalFoundation": "866693",
+                "justification": "Abastecimento das populações do interior principalmente na época de seca.",
+                "publishDate": "2010-11-20T02:00:00.000Z",
+                "beginDate": "2011-02-09T02:00:00.000Z",
+                "endDate": "2011-02-09T02:00:00.000Z",
+                "biddingValue": 250000,
+                "homologationDate": "2013-02-14T02:00:00.000Z",
+                "city": "2713 - BATALHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000039/2011",
+              "biddingId": "012011",
+              "date": "2011-02-14T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 40455459568",
+                "hirerDocument": "CNPJ: 12250056000183",
+                "type": "Material",
+                "object": "Aquisição de um Caminhão Pipa equipado com o tanque inox com capacidade para 8000L.",
+                "totalValue": 250000,
+                "publishDate": "2011-02-14T02:00:00.000Z",
+                "beginDate": "2011-02-14T02:00:00.000Z",
+                "endDate": "2011-03-14T03:00:00.000Z",
+                "signDate": "2011-02-14T02:00:00.000Z",
+                "executionProcessId": "012011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "172011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE BATALHA",
+            "documentNumber": "12.250.056/0001-83",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "729146/2009",
+            "validity": "20/01/2010 a 23/11/2011",
+            "limitDate": "2011-12-23T02:00:00.000Z",
+            "totalValue": 252550,
+            "transferValue": 250000,
+            "counterpartValue": 2550,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "706337/2009",
+        "uf": "AL",
+        "city": "BATALHA",
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-10T02:00:00.000Z",
+        "end": "2011-03-31T03:00:00.000Z",
+        "program": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "027998/2009",
+            "organId": "00117/2009",
+            "processId": "71000.065918/2009-99",
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "legalFoundation": "Decreto Nº 6.170/2007 e Portaria Nº 127/2008",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Batalha era, no início, conhecido por Belo Monte, situado à margem do rio São Francisco. O povoado cresceu de forma proporcional ao aumento da população. O nome Batalha foi dado, segundo a lenda, por causa de uma luta entre soldados da polícia estadual e fanáticos seguidores de um leigo que dominava o local através da religião. A freguesia foi criada em 1855 sob as bênçãos de Nossa Senhora do Bom Conselho. Fez parte de Traipu até 1886 quando foi elevada à condição de vila. Posteriormente, foi município com o nome de Belo Monte. Uma lei em 1893 tornou sem efeito esse ato e a vila voltou a pertencer a Traipu. Depois foi incorporada a Pão de Açúcar. Sucessivas leis marcaram o desmembramento da vila e sua posterior reintegração a outros municípios. Somente em dezembro de 1947, uma lei estadual transferiu a sede do então município de Belo Monte para a Vila da Batalha. Em 1949, finalmente, o município assegurou o nome de Batalha, transformando-se em comarca apenas em 1952. O rio Ipanema, um rio que corta toda a região, é seu principal acidente geográfico. Batalha é pólo centralizador da chamada Bacia Leiteira, ma cooperativa e várias indústrias pasteurizam praticamente todo o leite que abastece o Estado. A cidade tem como pontos atrativos a Serrinha Via Sacra, o Monumento ao Cinqüentenário e o Parque de Exposições. Seus principais eventos são: a festa da padroeira, Nossa Senhora da Penha (30 de agosto a 8 de setembro), a Emancipação Política (22 de dezembro) e a Exposição Agropecuária (em outubro). Gentílico: batalhense Formação Administrativa Distrito criado com a denominação de Batalha ex-povaodo, pela lei nº 1473, de 17-091949, subordinado ao município de Belo Monte. Sob a mesma lei acima citado transfere a sede do município de Belo Monte para o distrito de Batalha assumindo à condição de município. Em divisão territorial datada de 1-VII-1950, o município já denominado Batalha é constituído de 2 distritos: Batalha e Belo Monte. Assim permanecendo em divisão territorial datada de 1-VII-1955. Pela lei estadual nº 2094, de 24-04-1958, desmembra do município de Batalha o distrito de Belo Monte. Elevado à categoria de município. Em divisão territorial datada de 1-VII-1960, o município é constituído do distrito sede. Dessa forma permanecendo em divisão territorial datada de 2007. A Prefeitura do Município de Batalha, região do Sertão de Alagoas, vem apresentar perante ao Ministério do Desenvolvimento Social e Combate a Fome - MDS/SESAN, este projeto para a melhoria da qualidade de vida da população rural do município a partir da construção de cisternas de placas para o acesso a captação das águas das chuvas, bem como visando o seu armazenamento adequado da água para o consumo da família. Nesta proposta, iremos trabalhar em parceria com os conselhos municipais e as organizações da sociedade civil organizada para um aperfeiçoamento das metodologias já desenvolvidas pela Articulação do Semi-Árido (ASA / AL), também contemplando a formação das famílias a partir de cursos teórico-práticos em manejo adequado dos recursos hídricos. Estes cursos são direcionados a desenvolver com as famílias conhecimento e novas práticas de conservação e preservação dos recursos naturais da região. O projeto pretende somar esforços aos trabalhos que a sociedade civil organizada vem desenvolvendo na região. O Município de Batalha possui uma população total de 16.247 habitantes, dos quais mais de (40%) residem em áreas rurais. Este município apresenta um grande número de pessoas analfabetas, devido a própria cultura dos mais antigos moradores deste município. A renda per capita da maioria da população não atinge 30% do valor do salário mínimo. O acesso das famílias ao abastecimento de água é muito critico. Apenas aproximadamente (40%) dos domicílios possuem água encanada que não atende a população com regularidade. As famílias residentes na área rural são as mais penalizadas com a escassez e falta de acesso à água para o consumo humano, o que coloca a população na situação de extrema vulnerabilidade Social. Diante desta realidade é de suma importância a parceria com o Ministério de Desenvolvimento Social e combate a Fome, no qual a mesma permitirá um canal de abertura para o acesso de famílias de baixa renda a instrumentos de captação de água de chuva através da construção de cisternas de placas e capacitação em gestão dos recursos hídricos para convivência com o semi-árido, além de aprofundar as relações de solidariedade no semi-árido contribuindo para novas conquista de direitos e acesso aos espaços de discussões políticos para o público beneficiário do projeto.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "O Projeto visa à dotação de infra-estrutura hídrica para consumo humano através da construção de cisternas de placas. Realizar-se-á por meio do estabelecimento de vínculo de cooperação entre as partes, em benefício da população de baixa renda e com dificuldade no acesso a recursos hídricos, no Município de Batalha, localizado na região semi-árida do Estado de Alagoas, desde que os beneficiários se enquadrem nos critérios de elegibilidade do Programa Bolsa Família do Governo Federal. (CadÚnico) O Projeto objetiva o acesso, o gerencia-mento e a valorização da água como um direito essencial da vida e da cidadania, ampliando a compreensão e a prática da convivência sustentável e solidária com o ecossistema do semi-árido.",
+            "information": "",
+            "proposalDate": "2009-05-18T03:00:00.000Z",
+            "biddingDate": "2009-12-08T02:00:00.000Z",
+            "homologationDate": "2009-12-10T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020090011",
+              "name": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+              "value": 530743.92,
+              "details": {
+                "code": "5500020090011",
+                "name": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+                "cps": null,
+                "items": "Universalizar as condições de acesso adequado à água potável das populações rurais de baixa renda no semi-árido a partir do armazenamento de água em cisternas, tendo como objeto padronizável: Apoio a construção de cisternas de placas de cimento;",
+                "couterpartRule": "Será exigida dos proponentes a apresentação de contrapartida financeira de acordo com os percentuais dispostos na Lei nº. 11.768 de 14 de agosto de 2008 (Lei de Diretrizes Orçamentárias) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 530743.92,
+                "couterpartValues": {
+                  "total": 20650,
+                  "financial": 20650,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 510093.92,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.056/0001-83 - MUNICIPIO DE BATALHA",
+            "respProponent": "***.550.784-** - PAULO SURUAGY DO AMARAL DANTAS",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.864.406-** - Patrus Ananias de Souza"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE BATALHA",
+            "documentNumber": "12.250.056/0001-83",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Concluída",
+            "number": "706337/2009",
+            "validity": "10/12/2009 a 31/03/2011",
+            "limitDate": "2012-05-31T03:00:00.000Z",
+            "totalValue": 530743.92,
+            "transferValue": 510093.92,
+            "counterpartValue": 20650,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2968 @@
+{
+  "beginDate": "2020-07-14T22:35:06.745Z",
+  "endDate": "2020-07-14T23:59:21.805Z",
+  "data": {
+    "location": {
+      "city": "Atalaia",
+      "uf": "AL",
+      "ibge": "2700409"
+    },
+    "agreements": [
+      {
+        "agreementId": "895208/2019",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2019-12-31T03:00:00.000Z",
+        "end": "2022-12-31T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "046954/2019",
+            "organId": "46954/2019",
+            "processId": "469542019",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": "A presente proposta tem como objeto a Pavimentação de Diversas Ruas no Município, é considerada de grande relevância para a população.",
+            "justification": null,
+            "targetAudience": "Para o município, as obras de pavimentação podem incrementar avanços no escoamento da produção rural, seja ela provinda do campo ou da pecuária, além de proporcionar melhorias na infraestrutura viária e, por fim, possibilitar o acesso de visitantes a áreas turísticas de sua região, melhorar a qualidade de vida dos moradores destas vias e também uma melhor aparência física para nossa cidade.",
+            "problem": "Durante os períodos chuvosos as ruas ficam intransitáveis com muita lama onde prejudica o deslocamento dos pedestres e deslocamento de suas mercadorias.",
+            "result": "Geração de emprego e renda, através da capacidade e organização produtiva. Melhoria da logística; Desenvolvimento da agricultura familiar; Aumento da qualidade de vida dos agricultores familiares e demais produtores rurais. Deste modo, pretendemos qualificar os sistemas de apoio ao agricultor dando suporte e logística para que facilite os processos de produção até o comércio ,ou seja, os benefícios são diretos, pois poderemos aumentar a capacidade de produção, e",
+            "proposalAndObjectivesRelation": "As melhorias a serem realizadas permitirão maior conforto aos munícipes em seus deslocamentos, maior integração territorial, melhoria significativa para na segurança, a redução do índice de doenças transmissíveis através de meios hídricos durante o período chuvoso ou pelo acúmulo de poeira verificada durante o período seco.",
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Pavimentação de Diversas Ruas no município de Atalaia/AL.",
+            "information": "Em atendimento a Portaria Interministerial nº 424, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Atalaia/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, , Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras.",
+            "proposalDate": "2019-10-22T03:00:00.000Z",
+            "biddingDate": "2019-12-31T03:00:00.000Z",
+            "homologationDate": "2020-01-06T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020190004",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 290000,
+              "details": {
+                "code": "5300020190004",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "007/2018",
+                "items": "Pavimentação",
+                "couterpartRule": "",
+                "totalValue": 290000,
+                "couterpartValues": {
+                  "total": 3500,
+                  "financial": 3500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 286500,
+                  "amendment": "R$ 286.500,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "895208/2019",
+            "validity": "31/12/2019 a 31/12/2022",
+            "limitDate": "2023-03-01T03:00:00.000Z",
+            "totalValue": 290000,
+            "transferValue": 286500,
+            "counterpartValue": 3500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "787008/2013",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2020-10-30T03:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "058153/2013",
+            "organId": "58153/2013",
+            "processId": "058153/2013",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA TEM HOJE UMA POPULAÇÃO EM TORNO DE 48.000 HABITANTES, FOI CRIADO EM 01/02/1764, COM ÁREA TERRITORIAL DE 528,77 KM2, CHEGA A SER EM EXTENSÃO MAIOR QUE A CAPITAL DE ALAGOAS, LOCALIZADA NA REGIÃO DA MATA ALAGOANA, DISTANTE CERCA DE 45 KM DE MACEIÓ. TEM NA SUA ECONOMIA O SETOR DA ADMINISTRAÇÃO PÚBLICA COM A MAIOR PARTICIPAÇÃO DO BIP, SEGUIDO DA SETOR DA AGROINDUSTRIA SUCOALCOOLEIRA. NÃO DIFERE DOS DEMAIS MUNICÍPIOS DE ALAGOAS, QUANDO SE TRATA DOS ÍNDICES SOCIAIS DO GOVERNO FEDERAL, POSSUI UM BAIXO IDH, UM ALTO ÍNDICE DE POBREZA, COM CERCA DE 60%, ALÉM DO QUE 78,86% DAS PESSOAS QUE ESTÃO CURSANDO O NÍVEL FUNDAMENTAL, ESTÃO ENTRE 07 E 14 ANOS DE IDADE, O QUE COLOCA EM NÍVEIS INFERIORES AO ESTADO E AO PAÍS. A PROPOSTA APRESENTADA ENCONTRA-SE RESPALDADA NO PROGRAMA ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA – SOB NÚMERO NO SICONV 5100020130002, TENDO COMO OBJETIVO A CONSTRUÇÃO DE UMA QUADRA POLIESPORTIVAS, QUE TRARÁ BENEFÍCIOS PARA A POPULAÇÃO DO MUNICÍPIO DE ATALAIA, DE FUNDAMENTAL IMPORTÂNCIA PARA O DESENVOLVIMENTO FÍSICO E TAMBÉM DE LAZER PARA AS CRIANÇAS, JOVENS, ADOLECENTES E ADULTOS, ALÉM DO QUE É COMPROVADO QUE ATRAVÉS DO ESPORTE PODEMOS FAZER A INTEGRAÇÃO SOCIAL, A INCLUSÃO DAQUELES MENOS ASSISTIDOS PELO PODER PÚBLICO, EDUCANDO O CIDADÃO ATALAENSE PARA MELHOR COMPETIR NO MERCADO DE TRABALHO, SEJA LOCAL OU FORA DELE.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Uma Quadra Poliesportiva no Município de Atalaia.",
+            "information": "A PREFEITURA DISPÕE EM SEU ORGANOGRAMA ADMINSTRATIVO DE UMA SECRETARIA DE INFRA-ESTRUTURA, COM CAPACIDADE TECNICA E GERENCIAL, COMO TAMBÉM DE MÁQUINAS, VEÍCULOS E EQUIPAMENTOS NECESSÁRIOS A FISCALIZAÇÃO DA OBRA, HAJA VISTA, QUE A MESMA SERÁ EXECUTADA ATRAVÉS DE EMPRESA ESPECIALIZADA NO RAMO DA CONSTRUÇÃO CIVIL, PROVENIENTE DE PROCESSO LICITATÓRIO.",
+            "proposalDate": "2013-09-11T03:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020130002",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+              "value": 250000,
+              "details": {
+                "code": "5100020130002",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na Lei de Diretrizes Orçamentárias vigente. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 6250,
+                  "financial": 6250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012014",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-06-05T03:00:00.000Z",
+              "processId": "0012014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0012014",
+                "biddingId": "0012014",
+                "object": "CONSTRUÇÃO DE QUADRA POLIESPORTIVA",
+                "legalFoundation": "LEI 8.666/1993",
+                "justification": "CONSTRUÇÃO DE QUADRA POLIESPORTIVA, QUE TRARÁ BENEFÍCIOS PARA A POPULAÇÃO DO MUNICÍPIO DE ATALAIA, DE FUNDAMENTAL IMPORTÂNCIA PARA O DESENVOLVIMENTO FÍSICO E TAMBÉM DE LAZER PARA AS CRIANÇAS, JOVENS, ADOLECENTES E ADULTOS, ALÉM DO QUE É COMPROVADO QUE ATRAVÉS DO ESPORTE PODEMOS FAZER A INTEGRAÇÃO SOCIAL, A INCLUSÃO DAQUELES MENOS ASSISTIDOS PELO PODER PÚBLICO, EDUCANDO O CIDADÃO ATALAENSE PARA MELHOR COMPETIR NO MERCADO DE TRABALHO, SEJA LOCAL OU FORA DELE.",
+                "publishDate": "2014-06-05T03:00:00.000Z",
+                "beginDate": "2014-06-20T03:00:00.000Z",
+                "endDate": "2014-06-20T03:00:00.000Z",
+                "biddingValue": 238174.57,
+                "homologationDate": "2014-06-20T03:00:00.000Z",
+                "city": "2707 - ATALAIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2014",
+              "biddingId": "0012014",
+              "date": "2014-06-20T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12825530000158",
+                "hirerDocument": "CNPJ: 12200143000126",
+                "type": "Material e Serviço",
+                "object": "CONSTRUÇÃO DE QUADRAS POLIESPORTIVAS",
+                "totalValue": 238174.57,
+                "publishDate": "2014-06-20T03:00:00.000Z",
+                "beginDate": "2014-06-20T03:00:00.000Z",
+                "endDate": "2016-01-30T02:00:00.000Z",
+                "signDate": "2014-06-20T03:00:00.000Z",
+                "executionProcessId": "0012014 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "787008/2013",
+            "validity": "31/12/2013 a 30/10/2020",
+            "limitDate": "2020-12-29T03:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 243750,
+            "counterpartValue": 6250,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "784424/2013",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "044396/2013",
+            "organId": "44396/2013",
+            "processId": "044396/2013",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO FOI CRIADO EM 1764, FICA CERCA DE 45 KM DE DISTÂNCIA DA CAPITAL DO ESTADO, MACEIÓ. TRADICIONAL CIDADE ALAGOANA, ATALAIA TEM SUA HISTÓRIA MARCADA COM O EPISÓDIO DA DESTRUIÇÃO DO QUILOMBO DOS PALMARES. NO ALTO DA SERRA, OS HOMENS QUE DESTRUÍRAM O QUILOMBO, SE REFUGIARAM E FICAVAM DE TOCAIA (ATALAIA), PARA MIRAR A SERRA DA BARRIGA, REFÚGIO DE ZUMBI E SEU GRUPO. POSSUI UMA POPULAÇÃO DE MAIS DE 51000 HABITANTES, NÃO DOS DEMAIS MUNICÍPIOS ALAGOANOS, POSSUI ÍNDICES SOCIAIS E ECONÔMICOS MUITOS BAIXOS, COM UM IDH-M DE 0,59 E DE POBREZA IGUAL A 59%. NA ECONOMIA SUA PRINCIPAL FONTE DE RENDA E EMPREGO É A PRESTAÇÃO DE SERVIÇOS, SEGUIDA DA AGROPECUÁRIA, ONDE A CULTURA DA CANA-DE-AÇÚCAR E A PECUÁRIA DE GADO DE CORTE, SE DESTACAM, PARA DEPOIS VIR OS SERVIÇOS PÚBLICOS. A FINALIDADE DA PROPOSTA É A PAVIMENTAÇÃO ASFÁLTICA DE VIAS NO BAIRRO DE SÃO SEBASTIÃO DE ATALAIA, ZONA URBANA DO MUNICÍPIO COM UMA POPULAÇÃO APROXIMADA DE 3500 HABITANTES QUE DIARIAMENTE CIRCULAM POR ESSAS VIAS E NECESSITAM SE DESLOCAR PARA O OUTRO LADO DA CIDADE, A FIM DE IREM TRABALHAR E DEPOIS RETORNAM A SUAS MORADIAS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO ASFÁLTICA",
+            "information": "o Município possui capacidade técnica e gerencial em fazer a gestão e execução do Objeto do Convênio.",
+            "proposalDate": "2013-07-25T03:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020130013",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 1020,
+              "details": {
+                "code": "5600020130013",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO), Implantação e recapeamento de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo IMPLANTAÇÃO E RECAPEAMENTO DE PAVIMENTAÇÃO).",
+                "couterpartRule": "Contrato de Repasse com valor igual ou superior a R$ 750.000,00, para Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1020,
+                "couterpartValues": {
+                  "total": 32400,
+                  "financial": 32400,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00 - Arthur Lira"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012016",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2016-06-08T03:00:00.000Z",
+              "processId": "012016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "012016",
+                "biddingId": "012016",
+                "object": "Contratação de Empresa especializada em serviços de Obras e Engenharia pertinente à Pavimentação e Terraplanagem de Ruas no município de Atalaia.",
+                "legalFoundation": "LEI 8666/93",
+                "justification": "Contratação de Empresa especializada em serviços de Obras e Engenharia pertinente à Pavimentação e Terraplanagem de Ruas no município de Atalaia.",
+                "publishDate": "2016-06-08T03:00:00.000Z",
+                "beginDate": "2016-07-21T03:00:00.000Z",
+                "endDate": "2016-07-21T03:00:00.000Z",
+                "biddingValue": 1141.489,
+                "homologationDate": "2016-07-21T03:00:00.000Z",
+                "city": "2707 - ATALAIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "0022014",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-06-05T03:00:00.000Z",
+              "processId": "0022014",
+              "status": "Concluído",
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "007001/2016",
+              "biddingId": "012016",
+              "date": "2017-08-23T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12316402000189",
+                "hirerDocument": "CNPJ: 12200143000126",
+                "type": "Serviço",
+                "object": "Contratação de Empresa especializada em serviços de Obras e Engenharia pertinente à Pavimentação e Terraplanagem de Ruas no município de Atalaia.",
+                "totalValue": 1141.489,
+                "publishDate": "2017-08-23T03:00:00.000Z",
+                "beginDate": "2013-12-31T02:00:00.000Z",
+                "endDate": "2018-10-30T03:00:00.000Z",
+                "signDate": "2016-07-25T03:00:00.000Z",
+                "executionProcessId": "012016 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "012016 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "784424/2013",
+            "validity": "31/12/2013 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 1020,
+            "transferValue": 987600,
+            "counterpartValue": 32400,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "745063/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-20T02:00:00.000Z",
+        "end": "2012-12-20T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "068356/2010",
+            "organId": "68356/2010",
+            "processId": "068356/2010",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA POSSUI UMA POPULAÇÃO DE APROXIMADAMENTE 50.323 HABITANTES, FOI CRIADO EM 01/02/1764, COM ÁREA TERRITORIAL DE 528,77 KM2, ÁREA FÍSICA MAIOR QUE O DA CAPITAL DE ALAGOAS, TEM UMA DENSIDADE DEMOGRÁFICA DE 95,17 HAB/KM2, ENCONTRA-SE LOCALIZADO NA REGIÃO DA MATA ALAGOANA, ACERCA DE 45 KM DA CAPITAL. POSSUI VÁRIOS PONTOS TURÍSTICOS, DESTACAMOS O MUSEU DO BANGUÊ, O PARQUE MARIA FUMAÇA, O SANTUÁRIO ECOLÓGICO DA FAZENDA TEREZA E A USINA TERMOELÉTRICA URUBA, COMO SENDO OS PRINCIPAIS PONTOS TURÍSTICOS. ALÉM DESSES MARAVILHOSOS PONTOS TURÍSTICOS, TEMOS AINDA COMO UMA DAS ATIVIDADES TURÍSTICAS O FAMOSO FESTIVAL DE QUADRILHA JUNINA ONDE QUADRILHAS DE TODO ESTADO SE APRESENTAM, E A GRANDE FESTA DA PADROEIRA DE NOSSA SENHORA DAS BROTAS, FESTA QUE ATRAI UMA QUANTIDADE CONSIDERÁVEL DE VISITANTES. A ECONOMIA DO MUNICÍPIO TEM NO SETOR DE SERVIÇO, SUA MAIOR FONTE DE RENDA, SEGUIDO DA INDÚSTRIA E DEPOIS DO SETOR PÚBLICO. NOSSO OBJETIVO É PROMOVER A MELHORIA DO SISTEMA VIÁRIO, ESTIMULANDO DESSA FORMA A CADEIA DO TURISMO LOCAL. A FINALIDADE DA PROPOSTA É REALIZAR A PAVIMENTAÇÃO DA AVENIDA JOSÉ TENÓRIO DE ALBUQUERQUE LINS E DA RUA FERNANDO GONDIN, PRINCIPAIS VIAS DE ACESSO A CASA DA CULTURA, SEM DÚVIDAS UM DOS MAIS IMPORTANTES CENTRO PÚBLICOS DESTINADOS A PROMOVER O TURISMO LOCAL. A PREFEITURA OFERTARÁ UMA MELHORIA NA QUALIDADE LOGÍSTICA DO TURISMO LOCAL, ESTIMULANDO O TURISTA A PERCORRER, ESSE TÃO MARAVILHOSO CENTRO CULTURAL, ONDE PODERÃO DESFRUTAR DE APRESENTAÇÕES ARTÍSTICAS E TAMBÉM DE ADQUIRIR PRODUTOS DO ARTESANATO LOCAL, AUMENTANDO SIGNIFICATIVAMENTE A OFERTA DE EMPREGO E RENDA FAMILIAR, DAQUELES QUE TRABALHAM DIRETAMENTE E INDIRETAMENTE COM O TURISMO. A CASA DA CULTURA, QUE INCLUSIVE NESTE MOMENTO ESTÁ FECHADA E ENCONTRA-SE EM REFORMA, LOCAL QUE APÓS SUA REINALGURAÇÃO IRÁ VOLTAR A RECEBER VISITANTES DE TODO ESTADO E FORA DELE, COMO ESTUDANTES, PROFESSORES, TURISTAS NOSSA EXPECTATIVA É QUE APÓS A SUA REFORMA E DEVIDA REINAUGURAÇÃO, SEJA VISITADO MENSALMENTE POR CERCA DE 100 PESSOAS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO, NAS PRINCIPAIS VIAS DE ACESSO A CASA DA CULTURA.",
+            "information": "A PREFEITURA MUNICIPAL DE ATALAIA/AL, DECLARA PARA OS FINS NECESSÁRIOS QUE TEM CAPACIDADES TECNICA E GERENCIAL PARA EXECUTAR O PROJETO EM QUESTÃO.",
+            "proposalDate": "2010-06-09T03:00:00.000Z",
+            "biddingDate": "2010-12-20T02:00:00.000Z",
+            "homologationDate": "2010-12-27T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100020",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 812500,
+              "details": {
+                "code": "5400020100020",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "Infraestrutura em ferrovias, rodovias, estradas, túneis, viadutos e pontes",
+                "couterpartRule": "Municípios acima de 50.000 (cinqüenta mil) habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE e da SUDAM e SUDECO [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 812500,
+                "couterpartValues": {
+                  "total": 32500,
+                  "financial": 32500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 780000,
+                  "amendment": "R$ 780.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "745063/2010",
+            "validity": "20/12/2010 a 20/12/2012",
+            "limitDate": "2013-01-19T02:00:00.000Z",
+            "totalValue": 812500,
+            "transferValue": 780000,
+            "counterpartValue": 32500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "744408/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2011-01-19T02:00:00.000Z",
+        "end": "2013-01-17T02:00:00.000Z",
+        "program": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "067028/2010",
+            "organId": "00541/2010",
+            "processId": "59200.000214/2010-52",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Dec 6.170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA, LOCALIZADO NA ZONA DA MATA ALAGOANA, DISTANTE CERCA DE 45 KM DA CAPITAL, POSSUI POPULAÇÃO APROXIMADAMENTE DE 52.000 HABITANTES, ÁREA TERRITORIAL DE 528,77 KM2, NÃO DIFERE DOS DEMAIS MUNICÍPIO DE ALAGOAS, APRESENTA ÍNDICES SOCIAIS E ECONÔMICOS MUITOS BAIXOS. O SETOR DE SERVIÇOS É A BASE DA ECONÔMICA, SEGUIDA DA AGROINDUSTRIA AÇUCAREIRA, PECUÁRIA E DO SETOR PÚBLICO. O MUNICÍPIO TEM POR OBJETO DA PROPOSTA A MELHORIA NA DRENAGEM DE ÁGUAS FLUVIAIS, ESPECIFICAMENTE NA LOCALIDADE DENOMINADA BAIRRO SANTO INÊS UM LOCAL QUE NÃO POSSUI SISTEMA DE DRENAGEM, TRAZENDO SÉRIOS PROBLEMAS PARA A POPULAÇÃO, POIS QUANDO CHOVE ACUMULA ÁGUA TRAZENDO DOENÇAS, COMO LEPTOSPIROSE, HEPATITE E DENGUE. INFORMAMOS QUE NESTE LOCAL TODAS AS RESIDÊNCIAS SÃO ABASTECIDAS COM ÁGUA PROVENIENTE DO SISTEMA DE ABASTECIMENTO D'ÁGUA DO MUNICÍPIO E QUE POSSUEM FOSSAS SÉPTICAS INDIVIDUAIS. RENDA MÉDIA FAMILIAR DE 1,5 SALÁRIOS MÍNIMOS, CERCA DE 1000 FAMÍLIAS SERÃO BENEFICIADAS. APROPOSTA TEM COMO FUNCIONAL PROGRAMÁTICA 15.244.10257K66.0092 EMENDA DE Nº 17.000004.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "DRENAGEM DE ÁGUAS FLUVIAIS NO BAIRRO SANTA INÊS MUNICÍPIO DE ATALAIA/AL.",
+            "information": "DECLARO QUE O MUNICÍPIO DE ATALAIA POSSUI CAPACIDADE TÉCNICA GERENCIAL.",
+            "proposalDate": "2010-06-02T03:00:00.000Z",
+            "biddingDate": "2010-12-31T02:00:00.000Z",
+            "homologationDate": "2011-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100012",
+              "name": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+              "value": 312500,
+              "details": {
+                "code": "5300020100012",
+                "name": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+                "cps": null,
+                "items": "Apoio à Implantação de Infra-Estrutura Social e Produtiva em Espaços Sub-Regionais",
+                "couterpartRule": "Municípios acima de 50.000 habitantes localizados nas Mesorregiões Prioritárias da PNDR [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 312500,
+                "couterpartValues": {
+                  "total": 12500,
+                  "financial": 12500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 300000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.669.809-** - MARCIA REGINA SARTORI DAMO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "744408/2010",
+            "validity": "19/01/2011 a 17/01/2013",
+            "limitDate": "2013-02-16T02:00:00.000Z",
+            "totalValue": 312500,
+            "transferValue": 300000,
+            "counterpartValue": 12500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "740243/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-24T02:00:00.000Z",
+        "end": "2012-09-24T03:00:00.000Z",
+        "program": "SEGURANÇA E EDUCAÇÃO DE TRÂNSITO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "068517/2010",
+            "organId": "68517/2010",
+            "processId": "068517/2010",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO FOI CRIADO EM 1764, FICA CERCA DE 45 KM DE DISTÂNCIA DA CAPITAL DO ESTADO, MACEIÓ. TRADICIONAL CIDADE ALAGOANA, ATALAIA TEM SUA HISTÓRIA MARCADA COM O EPISÓDIO DA DESTRUIÇÃO DO QUILOMBO DOS PALMARES. NO ALTO DA SERRA, OS HOMENS QUE DESTRUÍRAM O QUILOMBO, SE REFUGIARAM E FICAVAM DE TOCAIA (ATALAIA), PARA MIRAR A SERRA DA BARRIGA, REFÚGIO DE ZUMBI E SEU GRUPO. POSSUI UMA POPULAÇÃO DE MAIS DE 51000 HABITANTES, NÃO DIFERECIA DOS DEMAIS MUNICÍPIOS ALAGOANOS, POSSUI ÍNDICES SOCIAIS E ECONÔMICOS MUITOS BAIXOS, COM UM IDH-M DE 0,59 E DE POBREZA IGUAL A 59%. NA ECONOMIA SUA PRINCIPAL FONTE DE RENDA E EMPREGO É A PRESTAÇÃO DE SERVIÇOS, SEGUIDA DA AGROPECUÁRIA, ONDE A CULTURA DA CANA-DE-AÇÚCAR E A PECUÁRIA DE GADO DE CORTE, SE DESTACAM, PARA DESPOIS VIR OS SERVIÇOS PÚBLICOS. A FINALIDADE DA PROPOSTA É A CONSTRUÇÃO DE UMA PASSARELA PARA PEDESTRE, LOCALIZADA AS MARGENS DA BR 316 E DA PONTE SOBRE O RIO MUNDAÚ, NO TREVO DA ENTRADA QUE DÁ ACESSO A CIDADE. É UMA REGIÃO BASTANTE PROBLEMATICA, POIS DE UM LADO ENCONTRA-SE A BR 316 E DO OUTRO O RIO MUNDAÚ, QUE DIVIDE A CIDADE. DIARIAMENTE CIRCULAM PELA PONTE CERCA DE 1000 PESSOAS QUE NECESITAM SE DESLOCAR PARA O OUTRO LADO DA CIDADE, A FIM DE IREM TRABALHAR E DEPOIS RETORNAM A SUAS MORADIAS. COM A CONSTRUÇÃO DA PASSAELA OS PEDESTRES TERAM UM LOCAL APROPRIADO COM SEGURANÇA E QUE FACILITARÁ SUES DESLOCAMENTOS, POIS NÃO PRECISARÃO ESTÁ ATRAVESSANDO PELA PONTE, ARRISCANDO SUAS VIDAS COM O TRÂNSITO DE VEÍCULO QUE É BASTANTE INTENSO, EM FUNÇÃO DE LOCALIZA-SE AS MARGENS DA BR 316, UMA DAS PRINCIPAIS RODOVIAS FEDERAIS QUE FAZ A LIGAÇÃO ENTRE A REGIÃO DA MATA COM AS DEMAIS REGIÕES DO ESTADO, A DO AGRESTRE E SERTÃO",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE PASSARELA PARA PEDESTRE.",
+            "information": "DECLARAMOS QUE A PREFEITURA DISPÕE EM SEU QUADRO DE PESSOAL DE TÉCNICO CAPACITADO, COM ESPERIENCIA PROFISSIONAL PARA SER RESPONSÁVEL TÉCNICO E GERENCIAL DA OBRA DE ENGENHARIA.",
+            "proposalDate": "2010-06-09T03:00:00.000Z",
+            "biddingDate": "2010-12-24T02:00:00.000Z",
+            "homologationDate": "2010-12-29T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020101060",
+              "name": "SEGURANÇA E EDUCAÇÃO DE TRÂNSITO",
+              "value": 156250,
+              "details": {
+                "code": "5600020101060",
+                "name": "SEGURANÇA E EDUCAÇÃO DE TRÂNSITO",
+                "cps": "",
+                "items": "Segurança e Educação no Trânsito",
+                "couterpartRule": "",
+                "totalValue": 156250,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 146250,
+                  "amendment": "R$ 146.250,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "740243/2010",
+            "validity": "24/12/2010 a 24/09/2012",
+            "limitDate": "2012-10-24T02:00:00.000Z",
+            "totalValue": 156250,
+            "transferValue": 146250,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "738806/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-06-20T03:00:00.000Z",
+        "end": "2011-08-20T03:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas enviada para Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "042202/2010",
+            "organId": "00877/2010",
+            "processId": "720310102542010-60",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/2007, Portaria Interministerial 127/2008 e Portaria MTur 153/2009",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Festival de Quadrilhas Juninas de Atalaia/AL se realizará no período de 23 a 29 de junho de 2010. Atalaia possui estimativamente 53.023 (cinqüenta e três mil e vinte e três) habitantes, fica localizada na região da zona da mata, em um eixo rodoviário a aproximadamente 45 (quarenta e cinco) quilômetros da capital, tendo como fonte de renda o comércio local, a indústria do açúcar e o funcionalismo público. É observável que além das festividades (marca pessoal do município), um dos grandes atrativos turísticos da cidade vem da guloseima: o saboroso pitu, o camarão de água doce, extraído do Rio Paraíba que seduz multidões e auxilia na movimentação do comércio local. O festival de quadrilhas é um movimento cultural que almeja o resgate das tradições juninas e atualmente possui duas edições. A primeira foi no ano de 2009, que atingindo uma marca de aproximadamente dez mil pessoas diárias, conseguiu fazer do evento um estigma gravado na memória do povo alagoano. É importante salientar que nossa cidade é também a grande referência para os quadrilheiros de todo o Brasil, pois a Quadrilha Asa Branca de Atalaia já conquistou diversos títulos, entre eles o de campeã do nordeste em 2001. Com efeito, é inexorável a visualização da importância desta grande euforia popular para o município de Atalaia. As quadrilhas e bandas que vêem de todo nordeste atraem o público, envolvem a cidade e aumentam o potencial do fluxo turístico. É fácil perceber que uma animação desta magnitude proporcione diversos elementos responsáveis pela aceleração do lançamento do sentido turístico instigado pelo evento, uma vez que de forma direta e indireta serão gerados empregos para toda população, impulsionando o turismo local, acrescendo a ocupação hoteleira da região em aproximadamente 70% (setenta) por cento, ao exemplo da Pousada e Restaurante Gaúcho, localizada na cidade do Pilar, no bairro Chã do Pilar, a 12 quilômetros de nosso município (documento anexo). Por tanto, o êxito obtido no ano passado foi responsável pela grande movimentação comercial e turística da cidade durante o festival, crianças, jovens e idosos participaram do evento com afinco e muita emoção (fotos em anexo), grupo de pessoas e torcidas organizadas alugavam transportes (ônibus, taxi, Van, etc.) para prestigiar suas quadrilhas e bandas preferidas. Entretanto, o sucesso alcançado pelos resultados supracitados, incentiva ainda mais a comunidade em participar deste monumento cultural. A grande circulação de pessoas movimenta o comércio e incentiva o turismo, tornando público e notório o interesse público em realizar o evento. É preciso que sejam mantidas as parcerias do poder público, para não deixar esmorecer a cultura do povo brasileiro, visto que se espera para a segunda edição do Festival de Quadrilhas Juninas um avanço de pelo menos 25% em relação ao ano anterior. RESULTADOS ESPERADOS: 1 - Fomentar o aumento da demanda turística para o município de Atalaia e região; 2 - Estimular a cadeia produtiva do turismo proporcionando a geração de emprego e renda; e 3 - Valorização da cultura popular e da musica nordestina, viabilizando a consolidação da identidade cultural.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Festival de Quadrilhas Juninas",
+            "information": "",
+            "proposalDate": "2010-04-15T03:00:00.000Z",
+            "biddingDate": "2010-06-17T03:00:00.000Z",
+            "homologationDate": "2010-07-21T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100019",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 130437,
+              "details": {
+                "code": "5400020100019",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "E) FESTAS JUNINAS;",
+                "couterpartRule": "MUNICÍPIOS COM MAIS DE 50.000 HABITANTES SITUADOS NAS REGIÕES NORTE, NORDESTE E CENTRO-OESTE [Percentual Mínimo Contrapartida: 8.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 130437,
+                "couterpartValues": {
+                  "total": 10437,
+                  "financial": 10437,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 120000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.461.960-** - DORVALINO SANTANA ALVAREZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01-06/2010",
+              "type": "Licitação - Convite",
+              "date": "2010-06-11T03:00:00.000Z",
+              "processId": "4972010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "4972010",
+                "biddingId": "01-06/2010",
+                "object": "LOCAÇÃO DE ESTRUTURA PARA FÍSICA PARA O 4º FESTIVAL DE QUADRILHAS JUNINAS.",
+                "legalFoundation": "8666",
+                "justification": "LOCAÇÃO DE ESTRUTURA PARA FÍSICA PARA O 4º FESTIVAL DE QUADRILHAS JUNINAS.",
+                "publishDate": "2010-06-11T03:00:00.000Z",
+                "beginDate": "2010-06-21T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 52790,
+                "homologationDate": "2010-06-22T03:00:00.000Z",
+                "city": "2707 - ATALAIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000106/2010",
+              "biddingId": "01-06/2010",
+              "date": "2010-07-23T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 08754334000162",
+                "hirerDocument": "CNPJ: 12200143000126",
+                "type": "Serviço",
+                "object": "LOCAÇÃO DE ESTRUTURA PARA FÍSICA PARA O 4º FESTIVAL DE QUADRILHAS JUNINAS.",
+                "totalValue": 52790,
+                "publishDate": "2010-07-23T03:00:00.000Z",
+                "beginDate": "2010-06-22T03:00:00.000Z",
+                "endDate": "2010-07-22T03:00:00.000Z",
+                "signDate": "2010-06-22T03:00:00.000Z",
+                "executionProcessId": "01-06/2010 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "4972010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Enviada para Análise",
+            "number": "738806/2010",
+            "validity": "20/06/2010 a 20/08/2011",
+            "limitDate": "2011-08-20T03:00:00.000Z",
+            "totalValue": 130437,
+            "transferValue": 120000,
+            "counterpartValue": 10437,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "738071/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-10-01T03:00:00.000Z",
+        "end": "2013-01-30T02:00:00.000Z",
+        "program": "Apoio à Política Nacional de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "064077/2010",
+            "organId": "64077/2010",
+            "processId": "064077/2010",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA, LOCALIZADO NA ZONA DA MATA ALAGOANA, DISTANTE CERCA DE 45 KM DA CAPITAL, POSSUI POPULAÇÃO APROXIMADAMENTE DE 52.000 HABITANTES, ÁREA TERRITORIAL DE 528,77 KM2, NÃO DIFERE DOS DEMAIS MUNICÍPIO DE ALAGOAS, APRESENTA ÍNDICES SOCIAIS E ECONÔMICOS MUITOS BAIXOS, IDH-M DE 0,56, TEM NO SETOR DE SERVIÇOS A BASE DA ECONÔMICA, SEGUIDA DA AGROINDUSTRIA AÇUCAREIRA, PECUÁRIA E DO SETOR PÚBLICO. A PROPOSTA TEM AMPARO NO PROGRAMA DO MINISTÉRIO DAS CIDADES, SOB Nº 5600020100150, AÇÕES DE INFRA-ESTRUTURA URBANA, ONDE COM ISSO A PREFEITURA PROMOVERÁ A MELHORIA EM SEU SISTEMA VIÁRIO DO POVOADO ZÉ PAULINO, FAZENDO A COBERTURA DA VIA DE ROLAMENTO DE VEÍCULOS COM ASFALTO, ESTABELECENDO UMA CONDIÇÃO DE SEGURANÇA PARA O TRÂNSITO DE VEÍCULOS E PEDRESTRES. INFORMAMOS QUE NESSA A POPULAÇÃO É ASSISTIDA COM ÁGUA ENCANADA E QUE AS RESIDÊNCIAS POSSUI SISTEMA DE FOSSA ASÉPTICA PARA DEJETOS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO ASFÁLTICA NA VIA DE CIRCULAÇÃO DE VEÍCULOS, NO POVODO ZÉ PAULINO, MUNICÍPIO DE ATALAIA/AL.",
+            "information": "A PREFEITURA DECLARA QUE POSSUI PESSOAL TÉCNICO NECESSÁRIO PARA REALIZAR A FISCALIZAÇÃO E O GERENCIAMENTO DA OBRA, ALÉM DO QUE POSSUI VEÍCULOS, MÁQUINAS, MATERIAL DE INFORMÁTICA E QUALQUER COMPONETE NECESSÁRIO AO ATENDIMENTO DO OBJETO.",
+            "proposalDate": "2010-05-27T03:00:00.000Z",
+            "biddingDate": "2010-10-01T03:00:00.000Z",
+            "homologationDate": "2010-10-25T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100118",
+              "name": "Apoio à Política Nacional de Desenvolvimento Urbano",
+              "value": 719687.5,
+              "details": {
+                "code": "5300020100118",
+                "name": "Apoio à Política Nacional de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "INFRAESTRUTURA URBANA",
+                "couterpartRule": "",
+                "totalValue": 719687.5,
+                "couterpartValues": {
+                  "total": 28787.5,
+                  "financial": 28787.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 690900,
+                  "amendment": "R$ 690.900,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "738071/2010",
+            "validity": "01/10/2010 a 30/01/2013",
+            "limitDate": "2013-03-01T03:00:00.000Z",
+            "totalValue": 719687.5,
+            "transferValue": 690900,
+            "counterpartValue": 28787.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "737502/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-09-10T03:00:00.000Z",
+        "end": "2012-09-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "055838/2010",
+            "organId": "55838/5838",
+            "processId": "55838",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA POSSUI UMA POPULAÇÃO DE APROXIMADAMENTE 50.323 HABITANTES, FOI CRIADO EM 01/02/1764, COM ÁREA TERRITORIAL DE 528,77 KM2, ÁREA FÍSICA MAIOR QUE O DA CAPITAL DE ALAGOAS, TEM UMA DENSIDADE DEMOGRÁFICA DE 95,17 HAB/KM2, ENCONTRA-SE LOCALIZADO NA REGIÃO DA MATA ALAGOANA, ACERCA DE 45 KM DA CAPITAL. POSSUI VÁRIOS PONTOS TURÍSTICOS, DESTACAMOS O MUSEU DO BANGUÊ, O PARQUE MARIA FUMAÇA, O SANTUÁRIO ECOLÓGICO DA FAZENDA TEREZA E A USINA TERMOELÉTRICA URUBA, COMO SENDO OS PRINCIPAIS PONTOS TURÍSTICOS. ALÉM DESSES MARAVILHOSOS PONTOS TURÍSTICOS TEMOS AINDA COMO UMA DAS ATIVIDADES TURÍSTICAS O FAMOSO FESTIVAL DE QUADRILHA JUNINA ONDE QUADRILHAS DE TODO ESTADO SE APRESENTAM, OUTRA GRANDE FESTA QUE ATRAI UMA QUANTIDADE CONSIDERÁVEL DE VISITANTES É A FESTA DA PADROEIRA DE NOSSA SENHORA DAS BROTAS. A ECONOMIA DO MUNICÍPIO TEM NO SETOR DE SERVIÇO, SUA MAIOR FONTE DE RENDA, SEGUIDO DA INDÚSTRIA E DEPOIS DO SETOR PÚBLICO. NOSSO OBJETIVO É PROMOVER A MELHORIA DO SISTEMA VIÁRIO, ESTIMULANDO DESSA FORMA A CADEIA DO TURÍSMO LOCAL, ATRAVÉS DA PAVIMENTAÇÃO DA PRINCIPAL VIA DE ACESSO AO SANTUÁRIO ECOLÓGICO DA FAZENDA TEREZA, SEM DÚVIDAS UM DOS MAIS IMPORTANTES SANTUÁRIOS PÚBLICOS DA REGIÃO TENDO COMO A VIA EM PROJETO A SER PAVIMENTADA. COM A PAVIMENTAÇÃO NA PRINCIPAL VIA DE ACESSO AO SANTUÁRIO ECOLÓGICO DA FAZ. SANTA TEREZA, A PREFEITURA OFERTARÁ UMA MELHORIA NA QUALIDADE LOGÍSTICA DO TURISMO LOCAL, ESTIMULANDO O TURISTA A PERCORRER, ESSE TÃO MARAVILHOSO SANTUÁRIO, AUMENTANDO SIGNIFICATIVAMENTE A OFERTA DE EMPREGO E RENDA FAMILIAR, DAQUELES QUE TRABALHAM DIRETAMENTE E INDIRETAMENTE COM O TURÍSMO. O SANTUÁRIO ECOLÓGICO É UMA ÁREA DE MATA ATLÂNTICA QUE RECEBE VISITANTES DE TODO ESTADO E FORA DELE, COMO ESTUDANTES, PROFESSORES, TURISTAS COM VISÃO DE ECOLOGIA, ETC, É VISITADO MENSALMENTE POR CERCA DE 200 PESSOAS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO, NA PRINCIPAL VIA DE ACESSO AO SANTUÁRIO ECOLÓGICO FAZ. SANTA TEREZA.",
+            "information": "A PREFEITURA MUNICIPAL DE ATALAIA/AL, DECLARA PARA OS FINS NECESSÁRIOS QUE TEM CAPACIDADES TECNICA E GERENCIAL PARA EXECUTAR O PROJETO EM QUESTÃO.",
+            "proposalDate": "2010-05-12T03:00:00.000Z",
+            "biddingDate": "2010-09-10T03:00:00.000Z",
+            "homologationDate": "2010-09-24T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100020",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 510000,
+              "details": {
+                "code": "5400020100020",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "Infraestrutura urbanística",
+                "couterpartRule": "Municípios acima de 50.000 (cinqüenta mil) habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE e da SUDAM e SUDECO [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 510000,
+                "couterpartValues": {
+                  "total": 22500,
+                  "financial": 22500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "737502/2010",
+            "validity": "10/09/2010 a 30/09/2012",
+            "limitDate": "2012-10-30T02:00:00.000Z",
+            "totalValue": 510000,
+            "transferValue": 487500,
+            "counterpartValue": 22500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "736901/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-09-22T03:00:00.000Z",
+        "end": "2012-09-30T03:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "027193/2010",
+            "organId": "27193/7193",
+            "processId": "27193",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA TEM HOJE UMA POPULAÇÃO EM TORNO DE 52.000 HABITANTES, FOI CRIADO EM 01/02/1764, COM ÁREA TERRITORIAL DE 528,77 KM2, CHEGA A SER EM EXTENSÃO MAIOR QUE A CAPITAL DE ALAGOAS, LOCALIZADA NA REGIÃO DA MATA ALAGOANA, DISTANTE CERCA DE 45 KM DE MACEIÓ. TEM NA SUA ECONOMIA O SETOR DA ADMINISTRAÇÃO PÚBLICA COM A MAIOR PARTICIPAÇÃO DO BIP, SEGUIDO DA SETOR DA AGROINDUSTRIA SUCOALCOOLEIRA. NÃO DIFERE DOS DEMAIS MUNICÍPIOS DE ALAGOAS, QUANDO SE TRATA DOS ÍNDICES SOCIAIS DO GOVERNO FEDERAL, POSSUI UM BAIXO IDH, UM ALTO ÍNDICE DE POBREZA, COM CERCA DE 60%, ALÉM DO QUE 78,86% DAS PESSOAS QUE ESTÃO CURSANDO O NÍVEL FUNDAMENTAL, ESTÃO ENTRE 07 E 14 ANOS DE IDADE, O QUE COLOCA EM NÍVEIS INFERIORES AO ESTADO E AO PAÍS. A PROPOSTA APRESENTADA ENCONTRA-SE RESPALDADA NO PROGRAMA ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA – SOB NÚMERO NO SICONV 5100020080074, TENDO COMO OBJETIVO A CONSTRUÇÃO DE QUADRAS POLIESPORTIVAS, TRARÁ BENEFÍCIOS PARA A POPULAÇÃO DO MUNICÍPIO DE ATALAIA, HAJA VISTA O LOCAL ONDE SERÃO CONSTRUIDA AS QUADRAS, UMA NO POVOADO OLHO D'ÁGUA, ZONA RURAL, LOCAL TOTALMETE DESPROVIDO DE INFRA-ESTRUTURA PARA O DESENVOLVIMENTO DO ESPORTE E LAZER, E A OUTRA SERÁ CONSTRUÍDA NO POVOADO BOCA DA MATA, ZONA RURAL. AMBAS SERÃO DE FUNDAMENTAL IMPORTÂNCIA PARA O DESENVOLVIMENTO FÍSICO E TAMBÉM DE LAZER PARA AS CRIANÇAS, JOVENS, ADOLECENTES E ADULTOS, ALÉM DO QUE É COMPROVADO QUE ATRAVÉS DO ESPORTE PODEMOS FAZER A INTEGRAÇÃO SOCIAL, A INCLUSÃO DAQUELES MENOS ASSISTIDOS PELO PODER PÚBLICO, EDUCANDO O CIDADÃO ATALAENSE PARA MELHOR COMPETIR NO MERCADO DE TRABALHO, SEJA LOCAL OU FORA DELE. NA QUADRA DO POVOADO OLHO D'ÁGUA, SERÃO BENEFICIADAS CERCA DE 200 FAMÍLIAS E NA QUADRA DO POVOADO BOCA DA MATA, SERÃO BENEFICIADAS CERCA DE 150 FAMÍLIAS, OS PROJEOS ATENDERÃO UM PÚBLICO COM RENDA FAMILIAR DE 01 SALÁRIO MÍNIMO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Duas Quadras Poliesportivas, sendo uma no Povoado Olho D'água e a outra no povoado Boca da Mata, ambas na Zona Rural, no Município de Atalaia.",
+            "information": "A PREFEITURA DISPÕE EM SEU ORGANOGRAMA ADMINSTRATIVO DE UMA SECRETARIA DE INFRA-ESTRUTURA, COM CAPACIDADE TECNICA E GERENCIAL, COMO TAMBÉM DE MÁQUINAS, VEÍCULOS E EQUIPAMENTOS NECESSÁRIOS A FISCALIZAÇÃO DA OBRA, HAJA VISTA, QUE A MESMA SERÁ EXECUTADA ATRAVÉS DE EMPRESA ESPECIALIZADA NO RAMO DA CONSTRUÇÃO CIVIL, PROVENIENTE DE PROCESSO LICITATÓRIO.",
+            "proposalDate": "2010-03-29T03:00:00.000Z",
+            "biddingDate": "2010-09-22T03:00:00.000Z",
+            "homologationDate": "2010-10-04T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 253906.5,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na LDO vigente, podendo haver redução para municípios incluídos nos bolsões de pobreza, conforme legislação em vigor. [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 253906.5,
+                "couterpartValues": {
+                  "total": 10156.5,
+                  "financial": 10156.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "736901/2010",
+            "validity": "22/09/2010 a 30/09/2012",
+            "limitDate": "2012-10-30T02:00:00.000Z",
+            "totalValue": 253906.5,
+            "transferValue": 243750,
+            "counterpartValue": 10156.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "736365/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-09-10T03:00:00.000Z",
+        "end": "2012-09-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "027299/2010",
+            "organId": "27299/7299",
+            "processId": "027299",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA, LOCALIZADO NA ZONA DA MATA ALAGOANA FICA DISTANTE 45 km DA CAPITAL DE ALAGOAS. POSSUI SEGUNDO CENSO DO IBGE DE 2007, 50.323 HABITANTES, SEUS ÍNDICES SOCIAS SÃO MUITOS BAIXOS, DESTACAM-SE O DA PROBREZA COM 61,17% E O GENI COM 0,42. NOSSA CIDADE TEM COMO PONTOS TURÍSTICOS O MUSEU DO BANGUÊ, O PARQUE MARIA FUMAÇA, O SANTUÁRIO ECOLÓGICO DA FAZENDA TEREZA, A USINA TERMOELÉTRICA URUBA, DENTRE OUTROS. A IMPLANTAÇÃO DO OBJETO PLEITEADO VISA PROMOVER O MONICÍPIO DE INFRAESTRUTURA ADEQUADA PARA EXPANSÃO DA ATIVIDADE TURÍSTICA E DE MELHORIA DOS PRODUTOS E SERVIÇOS OFERTADOS, CONFORME PRECONIZA O PLANO NACIONAL DO TURISMO 2007/2010. A EXECUÇÃO DA OBRA SOLUCIONARÁ OU MINIMIZARÁ PROBLEMAS NO ÂMBITO DO TURISMO LOCAL, TAIS COMO: DE INFRAESTRUTURA, DOTANDO O MUNICÍPIO DE PONTOS ATRATIVO EM LOCAIS ESTRATÉGICOS, QUE VISEM A ESPANSÃO DO NÚMERO DE VISITANTES AOS NOSSOS PONTOS TURÍSTICOSM, ESPERAMOS UM INCREMENTO DE 15% A MAIS DO NÚMERO DE VISITANTES, ALGO EM TORNO DE 10.000 PESSOAS/ANO. É IMPORTANTE RESSALTAR QUE O OBJETO PROPOSTO É DE INTERESSE TURÍSTICO PARA O MUNICÍPIO, TENDO EM VISTA OS RESULTADOS ESPERADOS, POIS DOTARÁ O MUNICÍPIO DE LOCAL APROPRIADO PARA O RECEBIMENTO DO TURISTA, FAZENDO COM QUE ELE SE SINTA SEGURO, CONFORTÁVEL E SATISFEITO. A PRAÇA SERÁ CONSTRUIDA NO POVOADO JOSÉ PAULINO, EM FRETE AO POSTO DE SAÚDE DO PSF, VEM CONFERIR A ESSA COMUNIDADE UM ESPAÇO PÚBLICO ADEQUADO PARA QUE POSSAM CONVIVER EM EQUILÍBRIO SOCIAL, COM OPORTUNIDADES DE ESTIMULAR O DESENVOLVIMENTO DO TURÍSMO LOCAL. EMENDA PARLAMENTAR DO DEPUTADO JOAQUIM BELTRÃO, COM O NÚMERO 2403.0018, FUNCIONAL PROGRAMÁTICA 23.695.1166.10V0.0027.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE PRAÇA PÚBLICA, NO POVOADO JOSÉ PAULINO, ZONA URBANA DE ATALAIA/AL.",
+            "information": "O MUNICÍPIO DISPÕE DE INFRAESTRUTURA DE MÃO-DE-OBRA E DE VEÍCULOS NECESSÁRIOS AO ACOMPANHAMENTO DA OBRA DE ENGENHARIA",
+            "proposalDate": "2010-03-29T03:00:00.000Z",
+            "biddingDate": "2010-09-10T03:00:00.000Z",
+            "homologationDate": "2010-09-24T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100021",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+              "value": 304687.5,
+              "details": {
+                "code": "5400020100021",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+                "cps": "",
+                "items": "Praça publica",
+                "couterpartRule": "Municípios acima de 50.000 (cinqüenta mil) habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE e da SUDAM e SUDECO [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 304687.5,
+                "couterpartValues": {
+                  "total": 12187.5,
+                  "financial": 12187.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "736365/2010",
+            "validity": "10/09/2010 a 30/09/2012",
+            "limitDate": "2012-10-30T02:00:00.000Z",
+            "totalValue": 304687.5,
+            "transferValue": 292500,
+            "counterpartValue": 12187.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "736321/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-09-27T03:00:00.000Z",
+        "end": "2012-09-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "019283/2010",
+            "organId": "19283/9283",
+            "processId": "019283",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA POSSUI UMA POPULAÇÃO DE APROXIMADAMENTE 50.323 HABITANTES, FOI CRIADO EM 01/02/1764, COM ÁREA TERRITORIAL DE 528,77 KM2, ÁREA FÍSICA MAIOR QUE O DA CAPITAL DE ALAGOAS, TEM UMA DENSIDADE DEMOGRÁFICA DE 95,17 HAB/KM2, ENCONTRA-SE LOCALIZADO NA REGIÃO DA MATA ALAGOANA, ACERCA DE 45 KM DA CAPITAL. POSSUI VÁRIOS PONTOS TURÍSTICOS, DESTACAMOS O MUSEU DO BANGUÊ, O PARQUE MARIA FUMAÇA. O SANTUÁRIO ECOLÓGICO DA FAZENDA TEREZA, E A USINA TERMOELÉTRICA URUBA, COM SEUS PRINCIPAIS PONTOS TURÍSTICOS. A ECONOMIA DO MUNICÍPIO TEM NO SETOR DE SERVIÇO, SUA MAIOR FONTE DE RENDA, SEGUIDO DA INDÚSTRIA E DEPOIS DO SETOR PÚBLICO. A PROPOSTA APRESENTADA ENCONTRA-SE RESPALDADA NO PROGRAMA DE APOIO A INFRAESTUTURA TURÍSTICA DO GOVERNO FEDERAL, SOB NÚMERO 5400020100021, DENTRE SUAS FINALIDADES DESTACAMOS A QUE PROMOVE A MELHORIA DA INFRAESTRUTURA EM ESTRADAS. NOSSO OBJETIVO É PROMOVER A MELHORIA DO SISTEMA VIÁRIO, ESTIMULANDO DESSA FORMA A CADEIA DO TURÍSMO LOCAL, ATRAVÉS DA COBERTURA ASFÁLTICA DA PRINCIPAL VIA DE ACESSO AO PARQUE HISTÓRICO MUNICIPAL DA BRASILEIRA, PARQUE MARIA FUMAÇA, O MAIS IMPORTANTE DO MUNICÍPIO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "INFRAESTRUTURA TURÍSTICA - MELHORIA DO SISTEMA VIÁRIO - COBERTURA ASFÁLTICA, NA PRINCIPAL VIA DE ACESSO AO POVOADO BRANCA DE ATALAIA.",
+            "information": "A PREFEITURA DISPÕE DE EQUIPE TÉCNICA COMPOSTA DE ENGENHEIROS, TOPÓGRAFOS E DE APOIO ADMINISTRATIO E LOGÍSTICO.",
+            "proposalDate": "2010-03-16T03:00:00.000Z",
+            "biddingDate": "2010-09-27T03:00:00.000Z",
+            "homologationDate": "2010-10-04T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100021",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+              "value": 406250,
+              "details": {
+                "code": "5400020100021",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+                "cps": "",
+                "items": "Infraestrutura urbanística",
+                "couterpartRule": "Municípios acima de 50.000 (cinqüenta mil) habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE e da SUDAM e SUDECO [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 406250,
+                "couterpartValues": {
+                  "total": 16250,
+                  "financial": 16250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "736321/2010",
+            "validity": "27/09/2010 a 30/09/2012",
+            "limitDate": "2012-10-30T02:00:00.000Z",
+            "totalValue": 406250,
+            "transferValue": 390000,
+            "counterpartValue": 16250,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "735397/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-08-24T03:00:00.000Z",
+        "end": "2012-08-24T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "044116/2010",
+            "organId": "44116/4116",
+            "processId": "044116",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA, LOCALIZADO NA ZONA DA MATA ALAGOANA, DISTANTE CERCA DE 45 KM DA CAPITAL, POSSUI POPULAÇÃO APROXIMADAMENTE DE 52.000 HABITANTES, ÁREA TERRITORIAL DE 528,77 KM2, NÃO DIFERE DOS DEMAIS MUNICÍPIO DE ALAGOAS, APRESENTA ÍNDICES SOCIAIS E ECONÔMICOS MUITOS BAIXOS. O SETOR DE SERVIÇOS É A BASE DA ECONÔMICA, SEGUIDA DA AGROINDUSTRIA AÇUCAREIRA, PECUÁRIA E DO SETOR PÚBLICO. A PROPOSTA TEM AMPARO NO PROGRAMA DO MINISTÉRIO DAS CIDADES, SOB Nº 5600020100272, AÇÕES DE INFRA-ESTRUTURA URBANA, ONDE COM ISSO A PREFEITUA PROMOVERÁ A MELHORIA NA DRENAGEM DE ÁGUAS PLUVIAIS, ESPECIFICAMENTE NA LOCALIDADE DENOMINADA “BURACO DO JACARÉ”, LOCALIZADA NO PERÍMETRO URBANO, DO POVOADO BITENCUR. É UM LOCAL QUE RECEBE ÁGUAS PLUVIAIS DE VÁRIAS RUAS DO POVOADO, E NÃO POSSUI SISTEMA DE DRENAGEM, TRAZENDO SÉRIOS PROBLEMAS PARA A POPULAÇÃO, POIS QUANDO CHOVE ACUMULA ÁGUA TRAZENDO DOENÇAS, COMO LEPTOSPIROSE, HEPATITE E DENGUE. INFORMAMOS QUE NESTE LOCAL TODAS AS RESIDÊNCIAS SÃO ABASTECIDAS COM ÁGUA PROVENIENTE DO SISTEMA DE ABASTECIMENTO D'ÁGUA DO MUNICÍPIO E QUE POSSUEM FOSSAS SÉPTICAS INDIVIDUAIS. RENDA MÉDIA FAMILIAR DE 1,5 SALÁRIOS MÍNIMOS, CERCA DE 1000 FAMÍLIAS SERÃO BENEFICIADAS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Infraestrutura Urbana - Drenagem de Águas Pluviais",
+            "information": "A PREFEITURA DISPÕE DE INFRAESTRUTURA SUFICIENTE PARA REALIZAR A FISCALIZAÇÃO DA OBRA, TEM EM SEU QUADRO DE SERVIDORES, TÉCNICOS CAPACITADOS E TAMBÉM DISPÕE DE VEÍCULOS, MAQUINAS E EQUIPAMENTOS,TAIS COMO COMPUTADORES, CARROS, MOTOS, TRATORES, CAÇAMBA, ETC. A SECRETARIA DE INFRA ESTRUTURA SERÁ A RESPONSÁVEL PELA PARTE LOGÍSTICA E DE ACOMPANHAMENTO DO PROJETO.",
+            "proposalDate": "2010-04-19T03:00:00.000Z",
+            "biddingDate": "2010-08-24T03:00:00.000Z",
+            "homologationDate": "2010-10-04T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020100272",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 204584,
+              "details": {
+                "code": "5600020100272",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Infraestrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 204584,
+                "couterpartValues": {
+                  "total": 8184,
+                  "financial": 8184,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 196400,
+                  "amendment": "R$ 196.400,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "735397/2010",
+            "validity": "24/08/2010 a 24/08/2012",
+            "limitDate": "2012-08-24T03:00:00.000Z",
+            "totalValue": 204584,
+            "transferValue": 196400,
+            "counterpartValue": 8184,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "733497/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-08-24T03:00:00.000Z",
+        "end": "2012-07-12T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "026308/2010",
+            "organId": "26308/2010",
+            "processId": "026308/2010",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA, LOCALIZADO NA ZONA DA MATA ALAGOANA, DISTANTE CERCA DE 45 KM DA CAPITAL, POSSUI POPULAÇÃO APROXIMADAMENTE DE 52.000 HABITANTES, ÁREA TERRITORIAL DE 528,77 KM2, NÃO DIFERE DOS DEMAIS MUNICÍPIO DE ALAGOAS, APRESENTA ÍNDICES SOCIAIS E ECONÔMICOS MUITOS BAIXOS. O SETOR DE SERVIÇOS É A BASE DA ECONÔMICA, SEGUIDA DA AGROINDUSTRIA AÇUCAREIRA, PECUÁRIA E DO SETOR PÚBLICO. A PROPOSTA TEM AMPARO NO PROGRAMA DO MINISTÉRIO DAS CIDADES, SOB Nº 5600020100887, AÇÕES DE INFRA-ESTRUTURA URBANA, ONDE COM ISSO A PREFEITUA PROMOVERÁ A MELHORIA NA DRENAGEM DE ÁGUAS PLUVIAIS, ESPECIFICAMENTE NA LOCALIDADE DENOMINADA “BURACO DO JACARÉ”, LOCALIZADA NO PERÍMETRO URBANO, DO POVOADO BITENCUR. É UM LOCAL QUE RECEBE ÁGUAS PLUVIAIS DE VÁRIAS RUAS DO POVOADO, E NÃO POSSUI SISTEMA DE DRENAGEM, TRAZENDO SÉRIOS PROBLEMAS PARA A POPULAÇÃO, POIS QUANDO CHOVE ACUMULA ÁGUA TRAZENDO DOENÇAS, COMO LEPTOSPIROSE, HEPATITE E DENGUE. RENDA MÉDIA FAMILIAR DE 1,5 SALÁRIOS MÍNIMOS, CERCA DE 1000 FAMÍLIAS SERÃO BENEFICIADAS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Infraestrutura Urbana - Drenagem de Águas Pluviais",
+            "information": "A PREFEITURA DISPÕE DE INFRAESTRUTURA SUFICIENTE PARA REALIZAR A FISCALIZAÇÃO DA OBRA, TEM EM SEU QUADRO DE SERVIDORES, TÉCNICOS CAPACITADO E TAMBÉM DISPÕE DE VEÍCULOS, MAQUINAS E EQUIPAMENTOS,TAIS COMO COMPUTADORES, CARROS, MOTOS, TRATORES, CAÇAMBA, ETC. A SECRETARIA DE OBRAS SERÁ A RESPONSÁVEL PELO ACOMPANHAMENTO DO PROJETO.",
+            "proposalDate": "2010-03-27T03:00:00.000Z",
+            "biddingDate": "2010-08-24T03:00:00.000Z",
+            "homologationDate": "2010-08-26T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100103",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 307800,
+              "details": {
+                "code": "5300020100103",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "INFRAESTRUTURA URBANA",
+                "couterpartRule": "",
+                "totalValue": 307800,
+                "couterpartValues": {
+                  "total": 12500,
+                  "financial": 12500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "733497/2010",
+            "validity": "24/08/2010 a 12/07/2012",
+            "limitDate": "2012-08-11T03:00:00.000Z",
+            "totalValue": 307800,
+            "transferValue": 295300,
+            "counterpartValue": 12500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "733450/2010",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-20T02:00:00.000Z",
+        "end": "2012-12-20T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "028206/2010",
+            "organId": "28206/2010",
+            "processId": "028206/2010",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICIPIO DE ATALAIA ESTÁ LOCALIZADO NA ZONA DA MATA ALAGOANA FICA DISTANTE 45 KM DA CAPITAL DE ALAGOAS, SEGUNDO CENSO DO IBGE DE 2007, POSSUI CERCA DE 50.323 HABITANTES, SEUS ÍNDICES SOCIAS SÃO MUITOS BAIXOS, DESTACAM-SE O DA PROBREZA COM 61,17%. POSSUI UM GRANDE NÚMERO DE ASSENTAMENTOS RURAIS, ONDE O ARTESANATO DE BARRO E DO TRONCO DA BANANEIRA (FIBRAS) SE DESTACAM, SÃO PRODUZIDOS PANELAS, BONECOS, CESTAS, TAPETES, ETC, PRODUTOS QUE SÃO COMERCIALIZADOS NO MERCADO LOCAL OU NO PRÓPRIO ASSENTAMENTO, PORÉM AINDA DE FORMA MUITO RUDIMENTAR, NÃO ADEQUADA, HAJA VISTA, O MUNICÍPIO NÃO DISPÕE DE UMA INFREESTRUTURA FÍSICA ONDE O ARTESÃO POSSA COMERCIALIZAR SEUS PRODUTOS DIRETAMENTE COM O CONSUMIDOR, AGREGANDO VALORES AOS MESMOS. COM A CONSTRUÇÃO DO CENTRO DE PRODUÇÃO E COMERCIALIZAÇÃO DO ARTESANATO, A PREFEITURA DARÁ CONDIÇÕES DO ARTESÃO DIVULGAR MELHOR SEUS PRODUTOS, POIS EXISTIRÁ UM ENDEREÇO PRÓPRIO, EXCLUSIVO PARA A COMERCIALIZAÇÃO. NELE TAMBÉM SERÁ CRIADO LOCAL APROPRIADO PARA SE FAZER TREINAMENTOS, CAPACITAÇÃO, ONDE O ARTESÃO POSSA A CADA DIA SE APREFEIÇOAR MELHOR TÉCNICAMENTE, APRENDENDO NOVAS TÉCNICAS DE PRODUÇÃO, A FIM DE QUE POSSA MELHORAR SEU NÍVEL ECONÔMICO-SOCIAL. NO CENÁRIO URBANO, ESTA OBRA ASSEGURA A CONDIÇÕES DE OFERECER AINDA MAIS QUALIDADE AO ARTEANATO E, PRINCIPALMENTE, AOS FREQUENTADORES E CLIENTES, POIS TERÃO UM LOCAL AMPLO, NOVO E COM TODA A INFRAESTRUTURA FÍSICA E DE LOGÍSTICA NECESSÁRIA PARA ATRAIR O DESENVOLVIMENTO DO TURÍSMO LOCAL. AJA VISTA QUE ATALAIA POR TER SIDO UM DOS PRIMEIROS NUCLEOS POPULACIONAIS DE ALAGOAS, POSSUI UM VASTO ACERVO HISTORICO, POUCO EXPLORADO PELOS SEUS VISITANTES DENTRE ESTES DESTACAM-SE A CAPELA DE NOSSA SENHORA DE BROTAS, PRIMEIRA EDIFICAÇÃO CONSTRUIDA POR DOMINGOS JORGE VELHO EM 1697, TEMOS TAMBEM A IMPONENTE IGREJA MATRIZ DE NOSSA SENHORA DAS BROTAS, CONSTRUIDA POR DOMINGOS JORGE VELHO EM 1701, DENTRE OUTRAS COISAS QUE FAZEM COM QUE O MUNICIPIO SE DESTAQUE E QUE POSSA ASSIM BUSCAR MAIS UMA ALTERNATIVA DE INCENTIVAR O TURISMO E ALAVANCAR A ECONOMIA DESTE.PRETENDE-SE COM A EXECUÇÃO DESSA OBRA ATINGIR UM PÚBLICO DE APROXIMADAMENTE 50 FAMÍLIAS QUE TRABALHAM DIRETAMENTE, COM RENDA FAMILIAR EM TORNO DE UM SALÁRIO MÍNIMO. EMENDA PARLAMENTAR DO DEPUTADO JOAQUIM BELTRÃO, SOB NÚMERO 2403.0018, FUNÇÃO PROGRAMÁTICA Nº 23.695.1166.10V0.0027, CÓDIGO DO PROGRAMA 5400020100021.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DO CENTRO DE PRODUÇÃO E COMERCIALIZAÇÃO DO ARTESANATO LOCAL.",
+            "information": "A PREFEITURA DISPÕE DE PESSOAL, VEÍCULOS, MAQUINÁRIO E EQUIPAMENTOS NECESSÁRIOS AO ACOMPANHAMENTO E FISCALIZAÇÃO DO PROJETO, HAJA VISTA, QUE SUA EXECUÇÃO SE FARÁ POR EMPRESA TERCEIRIZADA.",
+            "proposalDate": "2010-03-30T03:00:00.000Z",
+            "biddingDate": "2010-12-20T02:00:00.000Z",
+            "homologationDate": "2010-12-24T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100021",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+              "value": 152344,
+              "details": {
+                "code": "5400020100021",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+                "cps": "",
+                "items": "Centro público de comercialização de produtos artesanais",
+                "couterpartRule": "Municípios acima de 50.000 (cinqüenta mil) habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE e da SUDAM e SUDECO [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 152344,
+                "couterpartValues": {
+                  "total": 6094,
+                  "financial": 6094,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 146250,
+                  "amendment": "R$ 146.250,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "733450/2010",
+            "validity": "20/12/2010 a 20/12/2012",
+            "limitDate": "2013-01-19T02:00:00.000Z",
+            "totalValue": 152344,
+            "transferValue": 146250,
+            "counterpartValue": 6094,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "731215/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-26T02:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "097091/2009",
+            "organId": "09709/2009",
+            "processId": "097091/2009",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA TEM HOJE UMA POPULAÇÃO EM TORNO DE 52.000 HABITANTES, FOI CRIADO EM 01/02/1764, COM ÁREA TERRITORIAL DE 528,77 KM2, CHEGA A SER EM EXTENSÃO MAIOR QUE A CAPITAL DE ALAGOAS, LOCALIZADA NA REGIÃO DA MATA ALAGOANA, DISTANTE CERCA DE 45 KM DE MACEIÓ. TEM NA SUA ECONOMIA O SETOR DA ADMINISTRAÇÃO PÚBLICA COM A MAIOR PARTICIPAÇÃO DO BIP, SEGUIDO DA SETOR DA AGROINDUSTRIA SUCOALCOOLEIRA, ENTRETANTO, NÃO DIFERE DOS DEMAIS MUNICÍPIOS DE ALAGOAS, QUANDO SE TRATA DOS ÍNDICES SOCIAIS DO GOVERNO FEDERAL, POSSUI UM BAIXO IDH, UM ALTO ÍNDICE DE POBREZA, COM CERCA DE 60%, ALÉM DO QUE 78,86% DAS PESSOAS QUE ESTÃO CURSANDO O NÍVEL FUNDAMENTAL, ESTÃO ENTRE 07 E 14 ANOS DE IDADE, O QUE COLOCA EM NÍVEIS INFERIORES AO ESTADO E AO PAÍS. A PROPOSTA APRESENTADA ENCONTRA-SE RESPALDADA NO PROGRAMA ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA – SOB NÚMERO NO SICONV 5100020080074, TENDO COMO OBJETIVO A CONSTRUÇÃO DE QUADRAS POLIESPORTIVAS, TRARÁ BENEFÍCIOS PARA A POPULAÇÃO DO MUNICÍPIO DE ATALAIA, HAJA VISTA O LOCAL ONDE SERÃO CONSTRUIDA AS QUADRAS, UMA NO POVOADO PORANGABA, ZONA RURAL, LOCAL TOTALMETE DESPROVIDO DE INFRA-ESTRUTURA PARA O DESENVOLVIMENTO DO ESPORTE E LAZER, E A OUTRA SERÁ CONSTRUÍDA DENTRO D ESPAÇO FÍSICO DO COLÉGIO MUNICIPAL ANTONIO AMÂNCIO, LOCALIZADA NO CENTRO DA CIDADE, AMBAS SERÃO DE FUNDAMENTAL IMPORTÂNCIA PARA O DESENVOLVIMENTO FÍSICO E TAMBÉM DE LAZER PARA AS CRIANÇAS, JOVENS, ADOLECENTES E ADULTOS, ALÉM DO QUE É COMPROVADO QUE É ATRAVÉS DO ESPORTE QUE PODEMOS FAZER A INTEGRAÇÃO SOCIAL, A INCLUSÃO DAQUELES MENOS ASSISTIDOS PELO PODER PÚBLICO, EDUCANDO O CIDADÃO ATALAENSE PARA MELHOR COMPETIR NO MERCADO DE TRABALHO, LOCAL E FORA DO MUNICÍPIO. NA QUADRA DO POVOADO PORONGABA SERÃO BENEFICIADAS CERCA DE 600 FAMÍLIAS E NA QUADRA DO COLÉGIO ANTONIO AMÂNCIO SERÃO BENEFICIADAS CERCA DE 5000 FAM´LIAS, POR TRATAR-SE DO MAIOR COLÉGIO DA REDE MUNICIPAL DE ENSINO, SENDO A RENDA ´MÉDIA FAMILIAR DE 01 SALÁRIO MÍNIMO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Duas Quadras Poliesportivas, sendo uma no Povoado Porangaba, Zona Rural e a outra no Colégio Antonio Amâncio, Centro, ambas no Município de Atalaia.",
+            "information": "A PREFEITURA DISPÕE EM SEU ORGANOGRAMA ADMINSTRATIVO, UMA SECRETARIA DE INFRA-ESTRUTURA, COM CAPACIDADE TECNICA E GERENCIAL, COMPOSTA DE ENGENHEIRO CIVIL E TÉCNICOS DE NÍVEL MÉDIO, COMO TAMBÉM DE MÁQUINAS, VEÍCULOS E EQUIPAMENTOS NECESSÁRIOS A FISCALIZAÇÃO DA OBRA, HAJA VISTA, QUE A MESMA SERÁ EXECUTADA ATRAVÉS DE EMPRESA ESPECIALIZADA NO RAMO DA CONSTRUÇÃO CIVIL, PROVENIENTE DE PROCESSO ADMINSTRATIVO",
+            "proposalDate": "2009-11-09T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 264062.5,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios acima de 50.000(cinqüenta mil) habitantes, se localizados nas áreas prioritárias definidas no âmbito da PNDR, SUDENE e SUDAM e Região Centro-Oeste (de 4% a 8%). [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 264062.5,
+                "couterpartValues": {
+                  "total": 10562.5,
+                  "financial": 10562.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 253500,
+                  "amendment": "R$ 253.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "731215/2009",
+            "validity": "31/12/2009 a 26/12/2011",
+            "limitDate": "2011-12-26T02:00:00.000Z",
+            "totalValue": 264062.5,
+            "transferValue": 253500,
+            "counterpartValue": 10562.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "726994/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-10-27T02:00:00.000Z",
+        "program": "Apoio a Projetos de Infra-estrutura e Serviços em Territórios Rurais - Emendas de Comissão",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "128302/2009",
+            "organId": "12830/2009",
+            "processId": "128302/2009",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Atalaia pertence ao Território da Cidadania - PTC. A sua economia é baseada no cultivo da cana de açúcar, fator que por si só é desempregador e não oportuniza emprego permanente (só há contratação nos períodos de plantio e colheita), fazendo com que os pequenos produtores rurais do município e região abandonem as suas terras e busquem melhores condições de sobrevivência nos grandes centros urbanos. Procurando solucionar este grave problema, o poder público municipal em parceria com os produtores rurais, especialmente os assentados de reforma agrária, vem propor ao MDA através do Território da Cidadania o fortalecimento dessa produção com a possibilidade de assegurar a comercialização, e para isto faz-se necessário a manutenção de estradas vicinais – responsabilidade do ente municipal. As fortes chuvas na zona da mata tornam estas estradas intransitáveis dificultando o acesso da população a todos os serviços básicos: educação, saúde, comercialização dos produtos dos assentados. Assim, a Prefeitura com a aquisição da citada máquina terá melhores condições de fornecer a manutenção das estradas vicinais beneficiando a população rural em todos os aspectos de sua locomoção, acesso aos bens públicos e melhoria de renda. As família a serem beneficiadas diretamenmte com a aquisição da máquina seram os produtores rurais e aquelas familias que estão localizadas na zona rural do Município, haja vista, que está aquisição será para trazer melhoria nas estrads vicinais e na construção de açudes e barragens. Estimamos que irá beneficiar diretamente cerca de 10.000 familias e indiretamente toda população do município além daquelas pessoas que trafegam pelas estradas. As familias que serao assim beneficiadas pela aquisição desta maquina retroescavadeira compreendem uma faixa media de renda de 01 salario minimo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE MÁQUINA RETROESCAVADEIRA",
+            "information": "",
+            "proposalDate": "2009-12-17T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090201",
+              "name": "Apoio a Projetos de Infra-estrutura e Serviços em Territórios Rurais - Emendas de Comissão",
+              "value": 100000,
+              "details": {
+                "code": "2200020090201",
+                "name": "Apoio a Projetos de Infra-estrutura e Serviços em Territórios Rurais - Emendas de Comissão",
+                "cps": "",
+                "items": "Apoiar a implementação e expansão dos investimentos que beneficiem coletivamente os agricultores familiares.",
+                "couterpartRule": "",
+                "totalValue": 100000,
+                "couterpartValues": {
+                  "total": 11000,
+                  "financial": 11000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 89000,
+                  "amendment": "R$ 89.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.694.306-** - TEREZA CRISTINA CORREA DA COSTA DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "726994/2009",
+            "validity": "31/12/2009 a 27/10/2011",
+            "limitDate": "2011-10-27T02:00:00.000Z",
+            "totalValue": 100000,
+            "transferValue": 89000,
+            "counterpartValue": 11000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "724280/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-09-29T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "118933/2009",
+            "organId": "11893/2009",
+            "processId": "118933/2009",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA, LOCALIZADO NA ZONA DA MATA ALAGOANA, DISTANTE CERCA DE 45 KM DA CAPITAL, POSSUI POPULAÇÃO APROXIMADAMENTE DE 52.000 HABITANTES, ÁREA TERRITORIAL DE 528,77 KM2, NÃO DIFERE DOS DEMAIS MUNICÍPIO DE ALAGOAS, APRESENTA ÍNDICES SOCIAIS E ECONÔMICOS MUITOS BAIXOS. O SETOR DE SERVIÇOS É A DA BASE ECONÔMICA, SEGUIDA DA AGROINDUSTRIA AÇUCAREIRA, PECUÁRIA E DO SETOR PÚBLICO. A PROPOSTA TEM AMPARO NO PROGRAMA DO MINISTÉRIO DAS CIDADES, SOB Nº 5600020094725, AÇÕES DE INFRA-ESTRUTURA URBANA, ONDE COM ISSO A PREFEITUA PROMOVERÁ A MELHORIA EM SEU SISTEMA VIÁRIO, ESPECIFICAMENTE EM UMA RUA, LOCALIZADA NO PERÍMETRO URBANO, DO POVOADO OURICURI, FAZENDO A COBERTURA DA VIA DE ROLAMENTO DE VEÍCULOS COM PARALELO E A CONSTRUÇÃO DE CALÇADA DAS CASAS, EM ALVENARIA (CONCRETO), ESTABELECENDO UMA CONDIÇÃO DE SEGURANÇA PARA O TRÂNSITO DE VEÍCULOS E PEDRESTRES. HAJA VISTA, AS DIFICULDADES QUE A COMUNIDADES PASSA TODO ANO, PRINCIPALMENTE NO PERÍODO DAS CHUVAS, NO INVERNO, ONDE A LAMA E O EMPOSSAMENTO DE ÁGUA SÃO OS GRANDES TRANSTORNOS PARA OS MORADORES E TRANSEUNTES.RENDA MÉDIA FAMILIAR 1,5 SALÁRIOS MÍNIMOS, ESSA OBRA SERÁ CONSTRUÍDA E BENEFICIARÁ OS MORADORES DO POVOADO OURICURI, LOCALIZADO NA ZONA RURAL DO MUNICÍPIO. CERCA DE 1000 FAMÍLIAS SERÃO BENEFICIADAS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "MELHORIA NO SISTEMA VIÁRIO, ATRAVÉS DA COBERTURA EM PARALELO DA VIA DE ROLAMENTO DE VEÍCULO E DA CONSTRUÇÃO DE CALÇADAS DAS CASAS, EM ALVENARIA.",
+            "information": "A PREFEITURA MUNICIPAL DE ATALAIA DISPÕE DE INFRAESTRUTURA TÉCNICA E DE VEÍCULO, ATRAVÉS DE SUA SECRETARIA MUNICIPAL DE OBRAS, EM SEU QUEDRO DE PESSOAL, CONSTA: ENGENHEIRO CIVIL, TOPÓGRAFO, TÉCNICOS DE NÍVEL MÉDIO E TAMBÉM DE UMA FROTA DE VEÍCULOS, COMO CAMINHÃO, RETROESCAVADEIRA E VEÍCULO DE PASSAGEIRO.",
+            "proposalDate": "2009-12-11T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020094725",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 256093.75,
+              "details": {
+                "code": "5600020094725",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana em Municípios",
+                "couterpartRule": "",
+                "totalValue": 256093.75,
+                "couterpartValues": {
+                  "total": 10243.75,
+                  "financial": 10243.75,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "724280/2009",
+            "validity": "31/12/2009 a 29/09/2012",
+            "limitDate": "2012-09-29T03:00:00.000Z",
+            "totalValue": 256093.75,
+            "transferValue": 245850,
+            "counterpartValue": 10243.75,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "723549/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-26T02:00:00.000Z",
+        "program": "Habitação de Interesse Social",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "022875/2009",
+            "organId": "02287/2009",
+            "processId": "022875/2009",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O PROBLEMA HABITACIONAL É SEGURAMENTE A QUESTÃO URBANA QUE MAIS AFLIGE A POPULAÇÃO BRASILEIRA. O DIREITO A MORADIA PASSOU A INTEGRAR O EXPRESSIVO ROL DOS DIREITOS SOCIAIS. APESAR DO CONJUNTO DE NORMAS QUE TRATAM ESPECIFICAMENTE DA QUESTÃO HABITACIONAL NO PAÍS, A FALTA DE MORADIA AINDA É PREOCUPANTE. DIANTE DESTE QUADRO, A PREFEITURA DE ATALAIA PRETENDE VIABILIZAR E PROMOVER O ACESSO A HABITAÇÃO À POPULAÇÃO CARENTE COM O OBJETIVO DE MELHORAR A QUALIDADE DE VIDA. A POPULAÇÃO QUE POR ORA IRA SER BENEFICIADA,POSSUI RENDA APROXIMADA DE R$465,00. DENTRE AS FAMILIAS BENEFICIADAS ESTAO CERCA DE 300 FAMILIAS QUE SERAO ATENDIDAS COM MORADIAS DIGNAS E COM QUALIDADE DE VIDA. RENDA MÉDIA FAMILIAR R$ 1 (UM) SALÁRIO MÍNIMO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE CASAS PARA A POPULAÇÃO CARENTE DO POVOADO BOCA DA MATA, ZONA RURAL NO MUNICÍPIO DE ATALAIA/AL.",
+            "information": "A PREFEITURA MUNICIPAL DE ATALAIA DECLARA AO MINISTERIO DAS CIDADES, QUE TEM UMA EQUIPE TECNICA CAPACITADA, PARA DESENVOLVER AÇOES QUE POSSAM CONTRIBUIR PARA O BOM ANDAMENTO DA OBRA.",
+            "proposalDate": "2009-05-05T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020090793",
+              "name": "Habitação de Interesse Social",
+              "value": 133528.5,
+              "details": {
+                "code": "5600020090793",
+                "name": "Habitação de Interesse Social",
+                "cps": "",
+                "items": "Construção de Habitações Populares",
+                "couterpartRule": "",
+                "totalValue": 133528.5,
+                "couterpartValues": {
+                  "total": 6358.5,
+                  "financial": 6358.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 127170,
+                  "amendment": "R$ 127.170,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "723549/2009",
+            "validity": "31/12/2009 a 26/12/2011",
+            "limitDate": "2011-12-26T02:00:00.000Z",
+            "totalValue": 133528.5,
+            "transferValue": 127170,
+            "counterpartValue": 6358.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "719559/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-26T02:00:00.000Z",
+        "program": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "093929/2009",
+            "organId": "93929/2009",
+            "processId": "093929/2009",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "DECRETO 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Atalaia, localizado na Zona da Mata Alagoana, distante cerca de 45 Km da Capital do Estado, possui população de aproximadamente 50.323 habitantes, foi criado em 01/02/1764, com área territorial de 528,77 Km2, maior que o Município de Maceió. A proposta apresentada possui respaldo no programa de Segurança e Educação: Direito e Responsabilidade de Todos, no SICON está classificado sob número 5600020094713, que tem por finalidade melhoria na Infra-Estrutura no Sistema Viario Para Promover a Redução de Acidentes no Transito. Nossa proposta será a de promover a melhoria na infraestrutura viária, atavés da implantação de calçamento no povoado Branca de Atalia, povoado bastante habitado, onde o fluxo de veículos é constante, e que se torna bastante deficitário no inverno, devido a pista de rolamento ainda ser de chão batido, onde a lama prejudica a condução do tráfego, prioncipalmente de veículos e pedestres. A RENDA MÉDIA DAS FAMILIAS A SEREM BENEFICIADAS COM O PROLETO ESTÁ EM TORNO DE 1,0 SALÁRIO MÍNIMO, BENEFICIARÁ CERCA DE 50 FAMÍLIAS, LOCALIZADO NA ZANOA RURAL DO MUNICÍPIO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Melhoria no Sistema Viário, através do calçamento com paralelepipedos, no Povoado da Branca de Atalia.",
+            "information": "A Prefeitura dispõe em seu organograma, a Secretaria de Infraestrutura, que é responsável, dentre outras obrigações, pela manutenção do sistema viário do município. Esta Secretaria é dotada em seu quadro de pessoal, de engenheiro civil, de pessoal técnico e também de máquinas e veículos, próprios adequados para realizar essa tarefa.",
+            "proposalDate": "2009-10-30T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020094713",
+              "name": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+              "value": 312500,
+              "details": {
+                "code": "5600020094713",
+                "name": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+                "cps": "",
+                "items": "Infra-Estrutura no Sistema Viario Para Promover a Redução de Acidentes no Transito - Recursos de Investimentos.",
+                "couterpartRule": "I - Municípios - 4% e 8%, para Municípios acima de 50.000 hab. localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE e da SUDAM e na Região Centro-Oeste [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 312500,
+                "couterpartValues": {
+                  "total": 12500,
+                  "financial": 12500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 300000,
+                  "amendment": "R$ 300.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "719559/2009",
+            "validity": "31/12/2009 a 26/12/2011",
+            "limitDate": "2011-12-26T02:00:00.000Z",
+            "totalValue": 312500,
+            "transferValue": 300000,
+            "counterpartValue": 12500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "715531/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-26T02:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "094036/2009",
+            "organId": "94036/2009",
+            "processId": "094036/2009",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "DECRETO 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA, LOCALIZADO NA ZONA DA MATA ALAGOANA, DISTANTE CERCA DE 45 KM DA CAPITAL, POSSUI POPULAÇÃO APROXIMADAMENTE DE 52.000 HABITANTES, ÁREA TERRITORIAL DE 528,77 KM2, NÃO DIFERE DOS DEMAIS MUNICÍPIO DE ALAGOAS, TEM ÍNDICES SOCIAIS E ECONÔMICOS MUITOS BAIXOS. TEM NO ETOR DE SERVIÇOS A BASE ECONÔMICA, SEGUIDA DA AGROINDUSTRIA AÇUCAREIRA, PECUÁRIA E DO SETOR PÚBLICO. A PROPOSTA TEM AMPARO NO PROGRAMA DO MINISTÉRIO DAS CIDADES, SOB Nº 5600020092613, AÇÕES DE INFRA-ESTRUTURA URBANA, ONDE COM ISSO A PREFEITUA PROMOVERÁ A MELHORIA EM SEU SISTEMA VIÁRIO, ESPECIFICAMENTE EM UMA RUA, LOCALIZADA NO PERÍMETRO URBANO, FAZENDO A COBERTURA DA VIA DE ROLAMENTO COM PARALELO, ESTABELECENDO UMA CONDIÇÃO DE SEGURANÇA PARA O TRÂNSITO DE VEÍCULOS E PEDRESTRES. HAJA VISTA, AS DIFICULDADES QUE A COMUNIDADES PASSA TODO ANO, PRINCIPALMENTE NO PERÍODO DA CHUVAS, NO INVERNO, ONDE A LAMA E O EMPOSSAMENTO DE ÁGUA SÃO OS GRANDES TRANSTORNOS PARA OS MORADORES E TRANSEUNTES.A RENDA FAMILIAR DAS PESSOAS QUE SERAO ASSITIDAS PELA RESPECTIVA OBRA É DE APROXIMADAMENTE 01 SALÁRIO MÍNIMO. DENTRE AS PESSOAS BENEFICIDAS PODE-SE INCLUIR TODA A POPULAÇÃO QUE COMPREENDE OS BAIRROS DE JOSE PAULINO E SANTO ANTONIO, CERCA DE 500 FAMÍLIAS. A RESPECTIVA AGENCIA QUE POR ORA ATENDERÁ ESTE É A AGENCIA 2049, COM A RESPECTIVA CONTA CORRENTE DE Nº 647044-2.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "GESTÃO DA POLITICA DE DESENVOLVIMENTO URBANO - Ações de Infra-estrutura Urbana MELHORIA NO SISTEMA VIÁRIO, ATRAVÉS DO CALÇAMENTO DA RUA COM PARALELEPIPEDO, AS OBRAS DE ENGENHARIA SERÃO EXECUTADAS NAS RUA DA LAVANDERIA, BAIRRO JOSÉ PAULINO E NA RUA SÃO SEBASTIÃO, BAIRRO SANTO ANTONIO, AMBAS NO MUNICÍPIO DE ATALAIA.",
+            "information": "A PREFEITURA MUNICIPAL DE ATALAIA, DISPÕE DE CAPACIDADE TÉCNICA NECESSÁRIA E EXECUÇÃO DA OBRA DE ENGENHARIA,EM SEU ORGANOGRAMA A SECRETARIA DE INFREESTRUTURA, SERÁ O ÓRGÃO RESPONSÁVEL PELA EXECUÇÃO E FISCALIZAÇÃO, POSSUI EM SEU QUADRO DE PESSOAL ENGENHEIRO CIVIL E EQUIPE TÉCNICA, COMO TAMBÉM DISPÕE DE MÁQUINAS E VEÍCULOS NECESSÁRIO AO PLENO ANDAMENTO DA OBRA. A REFERIDA OBRA SERÁ DELIBERADA PELO MINISTERIO DAS CIDADES.",
+            "proposalDate": "2009-10-31T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020092613",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 359115,
+              "details": {
+                "code": "5600020092613",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 359115,
+                "couterpartValues": {
+                  "total": 14365,
+                  "financial": 14365,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 344750,
+                  "amendment": "R$ 344.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "715531/2009",
+            "validity": "31/12/2009 a 26/12/2011",
+            "limitDate": "2011-12-26T02:00:00.000Z",
+            "totalValue": 359115,
+            "transferValue": 344750,
+            "counterpartValue": 14365,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "713359/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-25T02:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "029091/2009",
+            "organId": "29091/2009",
+            "processId": "029091/2009",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "VISANDO O BEM ESTAR DA POPULAÇÃO DE ATALAIA, NADA MELHOR QUE O ESPORTE PARA TRAZER OPORTUNIDADE DE INCLUSÃO SOCIAL. PODEMOS OBSERVAR QUE O ESPORTE E O LAZER TÊM PROFUNDA LIGAÇÃO COM OS VALORES MORAIS QUE PRODUZEM NA COMUNIDADE E SÃO CLARAMENTE PERCEBIDOS PELO ENORME PRAZER QUE SE VERIFICA NAS AÇÕES ESPORTIVAS PROMOVIDAS PELA PREFEITURA MUNICIPAL E OUTRAS ORGANIZAÇÕES CIVIS. UM ESPAÇO VOLTADO PARA ACOLHER OS MUNÍCIPES, SEJA EM MOVIMENTOS ESPORTIVOS OU NO LAZER MAIS SIMPLES E PURO, DEVOLVE A COMUNIDADE O SENTIDO DE VALORIZAÇÃO E RESPEITO DE ESTADO PARA COM O CIDADÃO. DIANTE DISSO, O MUNICÍPIO DE ATALAIA LANÇA A PRESENTE PROPOSTA DE CONVÊNIO, CONSTRUIR UMA QUADRA POLIESPORTIVA NO POVOADO SANTO ANTÔNIO, SOB O MISTER DE PROMOVER A AMPLIAÇÃO E A DIVERSIDADE DE OPÇÕES DE DIVERTIMENTO, CONFERINDO A ESSA COMUNIDADE UM ESPAÇO PÚBLICO PARA QUE POSSAM CONVIVER EM EQUILÍBRIO SOCIAL JÁ QUE ESTE MUNICÍPIO DISPÕE DE POUCAS ÁREAS PARA PROMOÇÃO DE ENCONTROS DE LAZER E ESPORTE. O OBJETO DESTA PROPOSTA VISA BENEFICIAR CERCA DE 1000 FAMÍLIAS DA ZONA RURAL, COM RENDA MÉDIA FAMILIAR DE APENAS 01 SALÁRIO MÍNIMO, BEM COMO OUTRAS FAMÍLIAS, INDIRETAMENTE, QUE FARÃO PARTE DOS EVENTOS ESPORTIVOS REALIZADOS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE QUADRA POLIESPORTIVA NO POVOADO SANTO ANTÔNIO.",
+            "information": "",
+            "proposalDate": "2009-05-20T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 143500,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 143500,
+                "couterpartValues": {
+                  "total": 7000,
+                  "financial": 7000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 136500,
+                  "amendment": "R$ 136.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "713359/2009",
+            "validity": "31/12/2009 a 25/12/2011",
+            "limitDate": "2011-12-25T02:00:00.000Z",
+            "totalValue": 143500,
+            "transferValue": 136500,
+            "counterpartValue": 7000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "710476/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-26T02:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "023458/2009",
+            "organId": "23458/2009",
+            "processId": "023458/2009",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "DECRETO 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA POSSUI UMA POPULAÇÃO DE APROXIMADAMENTE 50.323 HABITANTES, FOI CRIADO EM 01/02/1764, COM ÁREA TERRITORIAL DE 528,77 KM2, ÁREA FÍSICA MAIOR QUE O DA CAPITAL DE ALAGOAS, TEM UMA DENSIDADE DEMOGRÁFICA DE 95,17 HAB/KM2, ENCONTRA-SE LOCALIZADO NA REGIÃO DA MATA ALAGOANA, ACERCA DE 45 KM DA CAPITAL. O OBJETO DESTA PROPOSTA VISA CALÇAR RUAS DA CIDADES PARA MELHOR CIRCULAÇÃO DE PESSOAS E VEÍCULOS, MELHORANDO A QUALIDADE DE VIDA DOS MUNÍCIPES, BEM COMO FACILITANDO O ACESSO DE VISITANTES. COM O CALÇAMENTO EM PARALELEPÍPEDO NA RUA SÃO SEBASTIÃO, VILA JOSÉ PAULINO, NO MUNICÍPIO DE ATALAIA/AL, VISAMOS ATENDER DIRETAMENTE CERCA DE 1000 FAMÍLIAS DA ZONA URBANA E INDIRETAMENTE CERCA DE 2000 FAMÍLIAS, ALÉM DA POPULAÇÃO CIRCUVIZINHA QUE FREQUENTA O MUNICÍPIO, QUE TEM RENDA MÉDIA FAMILIAR DE 01 SALÁRIO MÍNIMO EM MÉDIA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CALÇAMENTO EM PARALELEPÍPEDO",
+            "information": "A PREFEITURA MUNICIPAL DE ATALAIA DECLARA AO MINISTERIO DAS CIDADES QUE TEM UMA EQUIPE TECNICA CAPACITADA, PARA DESENVOLVER AÇOES QUE POSSAM CONTRIBUIR PARA O BOM ANDAMENTO DA OBRA.",
+            "proposalDate": "2009-05-06T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020090788",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 256093.75,
+              "details": {
+                "code": "5600020090788",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 256093.75,
+                "couterpartValues": {
+                  "total": 10243.75,
+                  "financial": 10243.75,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "710476/2009",
+            "validity": "31/12/2009 a 26/12/2011",
+            "limitDate": "2011-12-26T02:00:00.000Z",
+            "totalValue": 256093.75,
+            "transferValue": 245850,
+            "counterpartValue": 10243.75,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "709084/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-25T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "069938/2009",
+            "organId": "69938/2009",
+            "processId": "069938/2009",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "DEC 6170",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA POSSUI UMA POPULAÇÃO DE APROXIMADAMENTE 50.323 HABITANTES, FOI CRIADO EM 01/02/1764, COM ÁREA TERRITORIAL DE 528,77 KM2, ÁREA FÍSICA MAIOR QUE O DA CAPITAL DE ALAGOAS, TEM UMA DENSIDADE DEMOGRÁFICA DE 95,17 HAB/KM2, ENCONTRA-SE LOCALIZADO NA REGIÃO DA MATA ALAGOANA, ACERCA DE 45 KM DA CAPITAL. DESTACAMOS O MUSEU DO BANGUÊ, O SANTUÁRIO ECOLÓGICO DA FAZENDA TEREZA, E A USINA TERMOELÉTRICA URUBA, COM SEUS PRINCIPAIS PONTOS TURÍSTICOS A ECONOMIA DO MUNICÍPIO TEM NO SETOR DE SERVIÇO, COMO MAIOR FONTE DE RENDA, SEGUIDO DA INDÚSTRIA E DEPOIS DO SETOR PÚBLICO, SENDO A RENDA MÉDIA FAMILIAR DE 01 SALÁRIO MÍNIMO. A PROPOSTA APRESENTADA ENCONTRA-SE RESPALDADA NO PROGRAMA DE APOIO A INFRAESTUTURA TURÍSTICA DO GOVERNO FEDERAL, SOB NÚMERO 5400020090050, DENTRE SUAS FINALIDADES DESTACAMOS A QUE PROMOVER A MELHORIA DA INFRAESTRUTURA EM CENTROS DE CULTURA. NOSSO MUNICÍPIO DISPÕE DE UMA ESTRUTURA FÍSICA DENOMIONADA CASA DA CULTURA, ATUALMENTE ENCONTRA-SE INATIVADA POR FALTA DE CONDIÇÕES DE USO POR MAIS DE 5 (CINCO) ANOS, ONDE NECESSITA DE UMA REFORMA FÍSCA ESTRUTURAL, QUE PROMOVA UMA MELHORIA NO PISO, NA ALVENARIA, NO TELHADO, NA PINTURA, ETC. DURANTE O PERÍODO EM QUE ESTAVA FUNCIONANDO ERA CONSIDERADA PELA POPULAÇÃO COMO ESPAÇO MAIS IMPORTANTE PARA O DESENVOLVIMENTO CULTURAL E TURÍSTICO, ESTIMULANDO DESSA FORMA A CADEIA DO TURÍSMO DA REGIÃO, VALORIZANDO A CULTURA POPULAR, INSERIDA NO FOLCLORE TRADICIONAL, DA MÚSICA, GENUINAMENTE NORDESTINA, DAS ARTES, DAS DANÇAS, PRINCIPALMENTE AS QUADRILHAS JUNINAS, RECONHECIDA NACIONALMENTE. NESSE ESPAÇO TAMBÉM SERÃO DISCUTIDOS E ESTIMULADOS A CRIAÇÃO DE INÚMEROS PROJETOS CULTURAIS. É NESSE SENTIDO QUE A ADMINISTRAÇÃO BUSCA PARCEIRIAS JUNTO AOS ÓRGÃOS QUE COMPÕEM A ADMINISTRAÇÃO DO GOVERNO FEDERAL QUE TENHA COMO OBJETIVO REFORMAR A INFRAESTURA FÍSICA DA CASA DA CULTURA. COM A REFORMA DA CASA DA CULTURA, O MUNICÍPIO INTEGRARÁ UM ESPAÇO FÍSICO DESTINADO A IDENTIFICAÇÃO DOS FATOS HISTÓRICO E CULTURAL, COM POTENCIALIDADES PARA VISITAÇÃO TURÍSTICA. ESPAÇO RESERVADO PARA AS DEMONSTRAÇÕES DAS ARTES POPULARES, COM CONFORTO E SEGURANÇA. PROMOVERÁ AINDA, PROJETOS LIGADOS AO INSENTIVO DO TURÍSMO, LOCAL DE APOIO AS INFORMAÇÕES SOBRE O TURÍSMO LOCAL E REGIONAL, COMO TAMBÉM SERVIRÁ DE APOIO À COMERCIALIZAÇÃO DO ARTESANATO LOCAL. O PUBLICO ALVO DIRETAMENTE BENEFICIADO SERÃO OS TURISTAS, COM A ESTIMATIVA DE ATENDER ANUALMENTE CERCA DE 3.0000 PESSOAS QUE VISITAM O LOCAL, BEM COMO CERCA DE 2000 FAMÍLIAS DA ZONA URBANA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Reforma e Ampliação da Casa da Cultura, localizada no Centro da Cidade do Município de Atalaia.",
+            "information": "O MUNICÍPIO DISPÕE DE UMA ESTRUTURA FÍSICA, UMA SECRETÁRIA VOLTADA PARA AS AÇÕES DA CULTURA E DO TURÍSMO, COM PESSOAL TÉCNICO QUALIFICADO, QUE HÁ MUITO TEMPO DESENVOLVE TRABALHOS JUNTO A COMUNIDADE.",
+            "proposalDate": "2009-09-04T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-15T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090005",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 304687.5,
+              "details": {
+                "code": "5400020090005",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "CENTRO DE CULTURA",
+                "couterpartRule": "Municípios acima de 50.000 (cinqüenta mil) habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE e da SUDAM e na Região Centro-Oeste [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 304687.5,
+                "couterpartValues": {
+                  "total": 12187.5,
+                  "financial": 12187.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "709084/2009",
+            "validity": "31/12/2009 a 25/12/2011",
+            "limitDate": "2011-12-25T02:00:00.000Z",
+            "totalValue": 304687.5,
+            "transferValue": 292500,
+            "counterpartValue": 12187.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "707529/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-30T02:00:00.000Z",
+        "end": "2011-10-27T02:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "023617/2009",
+            "organId": "23617/2009",
+            "processId": "023617/2009",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "decreto 6.170",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "VISANDO O BEM ESTAR DA POPULAÇÃO DE ATALAIA, NADA MELHOR QUE O ESPORTE PARA TRAZER OPORTUNIDADE DE INCLUSÃO SOCIAL. PODEMOS OBSERVAR QUE O ESPORTE E O LAZER TÊM PROFUNDA LIGAÇÃO COM OS VALORES MORAIS QUE PRODUZEM NA COMUNIDADE E SÃO CLARAMENTE PERCEBIDOS PELO ENORME PRAZER QUE SE VERIFICA NAS AÇÕES ESPORTIVAS PROMOVIDAS PELA PREFEITURA MUNICIPAL E OUTRAS ORGANIZAÇÕES CIVIS. UM ESPAÇO VOLTADO PARA ACOLHER OS MUNÍCIPES, SEJA EM MOVIMENTOS ESPORTIVOS OU NO LAZER MAIS SIMPLES E PURO, DEVOLVE A COMUNIDADE O SENTIDO DE VALORIZAÇÃO E RESPEITO DE ESTADO PARA COM O CIDADÃO. DIANTE DISSO, O MUNICÍPIO DE ATALAIA LANÇA A PRESENTE PROPOSTA DE CONVÊNIO, CONSTRUIR DUAS QUADRAS POLIESPORTIVAS, SOB O MISTER DE PROMOVER A AMPLIAÇÃO E A DIVERSIDADE DE OPÇÕES DE DIVERTIMENTO, CONFERINDO A ESSA COMUNIDADE UM ESPAÇO PÚBLICO PARA QUE POSSAM CONVIVER EM EQUILÍBRIO SOCIAL JÁ QUE ESTE MUNICÍPIO DISPÕE DE POUCAS ÁREAS PARA PROMOÇÃO DE ENCONTROS DE LAZER E ESPORTE. O PÚBLICO ALVO DIRETO SERÁ OS MORADORES DOS DOIS POVOADOS, SUAS RENDAS FAMILIARES VARIA EM MÉDIA DE 1 A 3 SALÁRIOS MÍNIMOS, ESPERAMOS ATENDER UMA MÉDIA DE 500 FAMÍLIAS E SERÃO CONSTRUÍDAS NA ZONA URBANA DA CIDADE DE ATALAIA/AL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE DUAS QUADRAS POLIESPORTIVAS NO POVOADO JENIPAPEIRO E NO POVOADO ZÉ PAULINO.",
+            "information": "",
+            "proposalDate": "2009-05-07T03:00:00.000Z",
+            "biddingDate": "2009-12-30T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 270900,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na LDO vigente, podendo haver redução para municípios incluídos nos bolsões de pobreza, conforme legislação em vigor. [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 270900,
+                "couterpartValues": {
+                  "total": 17400,
+                  "financial": 17400,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 253500,
+                  "amendment": "R$ 253.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "707529/2009",
+            "validity": "30/12/2009 a 27/10/2011",
+            "limitDate": "2011-10-27T02:00:00.000Z",
+            "totalValue": 270900,
+            "transferValue": 253500,
+            "counterpartValue": 17400,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "707218/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-10-27T02:00:00.000Z",
+        "program": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "033578/2009",
+            "organId": "33578/2009",
+            "processId": "033578/2009",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6.170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ATALAIA ESTÁ INSERIDO NA ZONA DA MATA ALAGOANA, DISTANTE CERCA DE 45 KM DA CAPITAL DO ESTADO, POSSUI CARACTERÍSTICAS DE RELEVO SUAVEMENTE ACIDENTADO, CLIMA QUENTE, COM PERÍODO DE CHUVA REGULAR, PIB BASICAMENTE AGRÍCOLA, DESTACANDO-SE A CULTURA DA CANA-DE-AÇÚCAR E SEUS PRODUTOS, ÁLCOOL E AÇÚCAR, COMO SENDO A PRINCIPAL FONTE DE RENDA. O MUNICÍPIO POSSUI 14 ASSENTAMENTOS AGRÍCOLAS, PROVENIENTES DA REFORMA AGRÁRIA, ONDE PRODUZEM AGRICULTURA DE SUBSISTÊNCIA, COMO FRUTAS, FEIJÃO, MILHO, MANDIOCA, ETC. O MUNICÍPIO É BASTANTE ASSISTIDO EM ÁGUA, POSSUI DIVERSAS NACENTES, FORMANDO PEQUENOS RIACHOS COM ÁGUA DURANTE O ANO TODO, SENDO FATO RELAVANTE PARA A PREFEITURA EXECUTAR A CONSTRUÇÃO DE PEQUENOS AÇUDES E COM ISSO PROMOVER O INCENTIVO DA CRIAÇÃO DE PEIXES, DESTINADOS AO AGRICULTORES RURAIS, FOMENTANDO O AGRONEGÓCIO COM A AQUISIÇÃO DA PATRULHA MECANIZADA A PREFEITURA TERÁ CONDIÇÕES DE MELHORAR O ESCOAMENTO DA PRODUÇÃO AGRÍCOLA, ATRAVÉS DA MELHORIA DAS ESTRADAS VICINAIS. O MUNICÍPIO DE ATALAIA POSSUI ÍNDICE DE POBREZA IGUAL A 62,17% E DE GINI IGUAL A 0,42%. Os beneficiados serão produtores rurais e moradores dos povoados que estão localizados na zona rural do município, suas rendas mensais médias está em torno de 1,5 salários mínimos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE UMA PATRULHA MECANIZADA.",
+            "information": "",
+            "proposalDate": "2009-05-29T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090055",
+              "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+              "value": 408600,
+              "details": {
+                "code": "2200020090055",
+                "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+                "cps": "",
+                "items": "Apoio ao Desenvolvimento do Setor Agropecuário",
+                "couterpartRule": "Municípios acima de 50.000 habitantes localizados em áreas definidas pela Política Nacional de Desenvolvimento Regional - PNDR, SUDENE, SUDAM e Região Centro-Oeste.(Lei 11768/08, art. 40 §1º, inc I-b) [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 408600,
+                "couterpartValues": {
+                  "total": 67350,
+                  "financial": 67350,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 341250,
+                  "amendment": "R$ 341.250,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012/2011",
+              "type": "Licitação - Pregão",
+              "date": "2011-06-07T03:00:00.000Z",
+              "processId": "1936",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "1936",
+                "biddingId": "012/2011",
+                "object": "AQUISIÇÃO DE UMA PATRULHA MECANICADA",
+                "legalFoundation": "10.520",
+                "justification": "ESCOAMENTO DE PRODUÇÃO AGRÍCOLA",
+                "publishDate": "2011-06-07T03:00:00.000Z",
+                "beginDate": "2011-06-22T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 375000,
+                "homologationDate": "2011-07-21T03:00:00.000Z",
+                "city": "2707 - ATALAIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000012/2011",
+              "biddingId": "012/2011",
+              "date": "2011-06-28T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 03079649000138",
+                "hirerDocument": "CNPJ: 12200143000126",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE UMA PATRULHA MECANIZADA",
+                "totalValue": 375000,
+                "publishDate": "2011-06-28T03:00:00.000Z",
+                "beginDate": "2011-06-22T03:00:00.000Z",
+                "endDate": "2011-09-22T03:00:00.000Z",
+                "signDate": "2011-06-22T03:00:00.000Z",
+                "executionProcessId": "012/2011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "1936 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "707218/2009",
+            "validity": "31/12/2009 a 27/10/2011",
+            "limitDate": "2012-10-29T02:00:00.000Z",
+            "totalValue": 408600,
+            "transferValue": 341250,
+            "counterpartValue": 67350,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "703680/2009",
+        "uf": "AL",
+        "city": "Atalaia",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-06-15T03:00:00.000Z",
+        "end": "2009-09-14T03:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "009560/2009",
+            "organId": "00455/2009",
+            "processId": "72000.002516/2009-46",
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "legalFoundation": "Decreto 6170/2007 e Portaria Interministerial 127/2008",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O projeto de festividades Juninas de Atalaia se realizará no período de 20 a 30 de junho de 2009. Durante este tempo haverá apresentações das melhores quadrilhas do nordeste e shows com diversas bandas locais e regionais. Este grande evento objetiva promover a integração cultural e desencadear as multidões artísticas de nossa terra e nossa gente, tendo por escopo o resgate das tradições juninas de toda a comunidade e das comunidades vizinhas, visto que Atalaia fica localizada em um eixo rodoviário a 45 km de Maceió, nossa capital. É importante salientar que nossa cidade é também a grande referência para os quadrilheiros de todo o Brasil, pois a Quadrilha Asa Branca de Atalaia já conquistou diversos títulos, entre eles o de campeã do nordeste em 2001, realizado pela rede globo, além de várias participações na mídia nacional, com destaque os programas fantástico e domingão do Faustão. É preciso ressaltar que com a qualidade das bandas e a dimensão das quadrilhas que virão de todo nordeste, nossa cidade terá um fluxo bombástico de visitantes que durante este período servirá para fomentar nossa economia, gerando de forma direta e indireta empregos para toda a população, impulsionando o turismo local, acrescendo a ocupação da rede hoteleira da região em aproximadamente 25%. OBJETIVOS: Promover o desenvolvimento da atividade turística no município de Atalaia, com o propósito de divulgar a cultura local agregando valor aos festejos de São João, uma vez que este é um evento de grande movimentação no setor turístico, beneficiando todos os segmentos ligados à oferta de serviços; Aumentar o desenvolvimento do mercado econômico da região, gerando emprego e renda para a comunidade local. RESULTADOS ESPERADOS: Fomentar o aumento da demanda turística para o município de Atalaia e região; Incrementar o crescimento da oferta turística em geral, assim como a ampliação dos serviços do mercado turístico; Estimular a cadeia produtiva do turismo para investimentos proporcionando a geração de emprego e renda; Valorização da cultura popular e da musica nordestina, viabilizando a consolidação da identidade cultural do Penedo. PROGRAMAÇÃO Dia 20/06 – Abertura do Festival de Quadrilhas e Banda Dia 21/06 – Apresentação de Quadrilhas e Bandas Dia 22/06 – Apresentação de Quadrilhas Juninas Dia 23/06 – Apresentação de Quadrilhas Juninas e Bandas Dia 24/06 – Casamento Matuto, Apresentação de Quadrilhas Juninas e Bandas Dia 25/06 – Apresentação de Quadrilhas Juninas Dia 25/06 – Apresentação de Quadrilhas Juninas Dia 26/06 – Apresentação de Quadrilhas Juninas Dia 27/06 – Apresentação de Quadrilhas Juninas e Bandas Dia 28/06 – Apresentação de Quadrilhas Juninas e Bandas Dia 29/06 – Apresentação de Quadrilhas Juninas e Bandas Dia 30/06 – Final do Festival de Quadrilhas Juninas e Premiação das Quadrilhas Campeãs e Bandas",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "FESTIVIDADES JUNINAS DE TRADIÇÃO DE ATALAIA",
+            "information": "",
+            "proposalDate": "2009-04-06T03:00:00.000Z",
+            "biddingDate": "2009-06-15T03:00:00.000Z",
+            "homologationDate": "2009-07-10T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090049",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 165000,
+              "details": {
+                "code": "5400020090049",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "EVENTOS JUNINOS",
+                "couterpartRule": "MUNICÍPIOS COM MAIS DE 50.000 HABITANTES SITUADOS NAS REGIÕES NORTE, NORDESTE E CENTRO-OESTE. [Percentual Mínimo Contrapartida: 8.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 165000,
+                "couterpartValues": {
+                  "total": 15000,
+                  "financial": 15000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 150000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.200.143/0001-26 - MUNICIPIO DE ATALAIA",
+            "respProponent": "***.768.704-** - FRANCISCO LUIZ DE ALBUQUERQUE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03062009",
+              "type": "Licitação - Convite",
+              "date": null,
+              "processId": "03062009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "03062009",
+                "biddingId": "03062009",
+                "object": "FESTIVIDADES JUNINAS",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "Promover o desenvolvimento da atividade turística no município de Atalaia, com o propósito de divulgar a cultura local agregando valor aos festejos de São João, uma vez que este é um evento de grande movimentação no setor turístico, beneficiando todos os segmentos ligados à oferta de serviços; Aumentar o desenvolvimento do mercado econômico da região, gerando emprego e renda para a comunidade local. RESULTADOS ESPERADOS: Fomentar o aumento da demanda turística para o município de Atalaia e região; Incrementar o crescimento da oferta turística em geral, assim como a ampliação dos serviços do mercado turístico; Estimular a cadeia produtiva do turismo para investimentos proporcionando a geração de emprego e renda; Valorização da cultura popular e da musica nordestina, viabilizando a consolidação da identidade cultural do Penedo.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 56614,
+                "homologationDate": null,
+                "city": "2707 - ATALAIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "0004",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "00042009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "0001",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "00012009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "0003",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "00032009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2009",
+              "biddingId": "03062009",
+              "date": "2009-06-22T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 00322044000138",
+                "hirerDocument": "CNPJ: 12200143000126",
+                "type": "Material",
+                "object": "INSTALAÇÃO DE ESTRUTURA FÍSICA PARA O EVENTO JUNINO NAS DATAS 20, 23, 24, 27, 28, 29 E 30 DO MêS DE JUNHO DE 2009, DISTRIBUÍDAS DA SEGUINTE FORMA:\n\nLOCAÇÃO DE EQUIPAMENTO DE SOM + ILUMINAÇÃO;\nLOCAÇÃO DE PALCO 12X12;\nGERADOR 180 KWA\nCAMAROTE VIP PARA 100 PESSOAS;\nARQUIBANCADAS COM 6 DEGRAUS;\nLOCAÇÃO DE BANQHEIROS QUÍMICOS.",
+                "totalValue": 56614,
+                "publishDate": "2009-06-22T03:00:00.000Z",
+                "beginDate": "2009-06-15T03:00:00.000Z",
+                "endDate": "2009-09-14T03:00:00.000Z",
+                "signDate": "2009-06-10T03:00:00.000Z",
+                "executionProcessId": "03062009 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "03062009 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE ATALAIA",
+            "documentNumber": "12.200.143/0001-26",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "703680/2009",
+            "validity": "15/06/2009 a 14/09/2009",
+            "limitDate": "2009-09-14T03:00:00.000Z",
+            "totalValue": 165000,
+            "transferValue": 150000,
+            "counterpartValue": 15000,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

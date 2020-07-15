@@ -1,0 +1,1968 @@
+{
+  "beginDate": "2020-07-14T20:13:06.799Z",
+  "endDate": "2020-07-14T20:31:50.184Z",
+  "data": {
+    "location": {
+      "city": "São Brás",
+      "uf": "AL",
+      "ibge": "2708204"
+    },
+    "agreements": [
+      {
+        "agreementId": "857347/2017",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T02:00:00.000Z",
+        "end": "2021-07-11T03:00:00.000Z",
+        "program": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "093499/2017",
+            "organId": "00967/2017",
+            "processId": "25100.016826/2017-40",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto nº 6.170, de 25 de julho de 2007, e Portaria Interministerial nº 424, de 30 de dezembro de 2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de São Brás, localizado no Agreste Alagoano, nasce a partir de um pequena povoação ribeirinha do Rio São Francisco pertencente a Porto Real do Colégio. Suas terras foram habitadas pelos índios das tribos Tupinambás, Carapotas, Aconás e Cariris. Com a presença dos bandeirantes a partir do século XVII, a região começou a ser colonizada com o surgimento de várias fazendas de gado, e, aos poucos, foi surgindo o povoado de São Brás. Segundo os mais antigos, uma imagem de São Brás foi achada em uma ilha próxima por um grupo de jovens em passeio. O achado causou forte impressão na população, que resolveu construir uma capela em sua devoção, tornando o santo padroeiro do lugar. O nome do município foi tomado do padroeiro, São Brás. Sua data comemorativa é 28 de junho de 1889, quando foi elevado a vila e desmembrado de Porto Real do Colégio. Entretanto, sua emancipação definitiva acontece apenas em 9 de julho de 1947. Depois cedeu parte de seu território para a criação dos Municípios de Feira Grande, Campo Grande e Olho D’Água Grande. Sua população total é de 6.718 habitantes, de acordo com o Censo Demográfico do IBGE (2010). Seu Índice de Desenvolvimento Humano (IDH) é de 0,572 segundo o Atlas de Desenvolvimento Humano/PNUD (2010), sua economia é baseada na agricultura e pesca. Muitas famílias do município não possuem condições mínimas de saneamento em seus domicílios, essa falta de saneamento expõe a saúde da população a diversos perigos, além de gerar muitos transtornos e constrangimento às pessoas que vivem nessa situação. A implantação deste projeto beneficiará as famílias do município, em condições precárias, que não dispõem de um local adequado em suas residências para realizarem suas necessidades fisiológicas e higiênicas, e são obrigadas a improvisar banheiros, que não oferecem o mínimo conforto ou privacidade, com materiais como palha, madeira, sacos de nylon, entre outros; ou realizam suas necessidades a céu aberto, em locais inadequados como leito de riachos, rios e próximo a barragens, gerando riscos ainda maiores de contaminação e doenças à população. Serão beneficiadas, com este projeto, famílias das áreas das microrregiões do Povoado Tibiri e Mão de Engenho. As Melhorias Sanitárias certamente irão amenizar o sofrimento da população, que tanto carece destas benfeitorias, e garantir uma melhor qualidade de vida.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Melhorias Sanitárias Domiciliares - MSD, no Município de São Brás/AL.",
+            "information": "Em atendimento ao disposto no artigo 26 da Portaria Interministerial n.º 507, de 24 de novembro de 2011, declaro, para os devidos fins, perante a Fundação Nacional de Saúde, FUNASA, que A PREFEITURA MUNICIPAL DE SÃO BRÁS possui Capacidade Técnica e Gerencial para celebrar, executar e prestar contas de convênio com a União, nos termos da Proposta de Convênio n.º 093499/2017, cadastrada no Sistema de Gestão de Convênios e Contratos de Repasse (SICONV).",
+            "proposalDate": "2017-11-17T02:00:00.000Z",
+            "biddingDate": "2017-12-29T02:00:00.000Z",
+            "homologationDate": "2018-01-16T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170027",
+              "name": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+              "value": 500000,
+              "details": {
+                "code": "3621120170027",
+                "name": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+                "cps": null,
+                "items": "Implantação de Melhorias Sanitárias Domiciliares para Prevenção e Controle de Doenças e Agravos",
+                "couterpartRule": "Não será exigida a contrapartida, conforme Art. 79, §4, da Lei de Diretrizes Orçamentárias – LDO 2017 (Lei nº 13.408, de 26 de dezembro de 2016). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 500000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.368.795-** - MARCOS SANDES",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "857347/2017",
+            "validity": "29/12/2017 a 11/07/2021",
+            "limitDate": "2021-09-09T03:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 500000,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "857054/2017",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "025273/2017",
+            "organId": "25273/2017",
+            "processId": "0252732017",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE SÃO BRÁS LOCALIZADO NO AGRESTE ALAGOANO. SUA POPULAÇÃO TOTAL É DE 6.718 HABITANTES, DE ACORDO COM O CENSO DEMOGRÁFICO DO IBGE (2010). SEU ÍNDICE DE DESENVOLVIMENTO HUMANO (IDH) É DE 0,572 SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2010), SUA ECONOMIA É BASEADA NA AGRICULTURA E PESCA. O PODER PÚBLICO MUNICIPAL DEFINIU QUE ATRAVÉS DE LEVANTAMENTOS DE PRIORIDADES DO PLANEJAMENTO URBANO QUE A EXECUÇÃO DA PAVIMENTAÇÃO DAS RUAS, GARANTIRÁ MELHORIAS DE ACESSIBILIDADE E MOBILIDADE QUE VISA MELHOR QUALIDADE DE VIDA AOS NOSSOS MUNÍCIPES QUE BUSCAM LAZER E ENTRETENIMENTO ONDE O MUNICÍPIO POSSUI COMO PRINCIPAIS ATRATIVOS: AS MARGENS DO RIO SÃO FRANCISCO, ONDE A POPULAÇÃO COSTUMA CHAMAR DE “PRAINHA” PARA SI BANHAR EM SUAS ÁGUAS , FEIRAS DE ARTESANATOS, FESTA DO PADROEIRO SÃO BRÁS, FESTAS FOLCLÓRICAS COMO REISADO, DANÇA DE COCO, PASTORIL, FESTA DE SANTOS REIS, CAVALGADA DOS AMIGOS, FESTAS JUNINAS, EMANCIPAÇÃO POLÍTICA DA CIDADE, SHOWS DURANTE O CARNAVAL, CAMPEONATO DE FUTEBOL AMADOR, CAMPEONATO DE VÔLEI DE PRAIA QUE CONTA COM ATLETAS DE MUITOS MUNICÍPIOS DE ALAGOAS E ATÉ DE SERGIPE E ENTRE OUTRAS. COM TODOS ESSES EVENTOS NA CIDADE O CRESCIMENTO SUBSTANCIAL DE TRÁFEGO NAS RUAS VÊM AUMENTANDO A CADA DIA E AQUECENDO A ECONOMIA LOCAL GERANDO EMPREGO E RENDA NO MUNICÍPIO. A PAVIMENTAÇÃO DAS RUAS GARANTIRÁ A CONTINUAÇÃO DA EXPLORAÇÃO ECONÔMICA COM MAIS QUALIDADE OFERECENDO UM ACESSO COM MAIS QUALIDADE DE VIDA. PORTANTO PEDIMOS APROVAÇÃO DESTA PROPOSTA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO DAS RUAS NO MUNICÍPIO DE SÃO BRÁS - AL",
+            "information": "Em atendimento ao disposto no artigo 26 da Portaria Interministerial n.º 507, de 24 de novembro de 2011, declaro, para os devidos fins, perante o Ministério do Turismo, que a PREFEITURA MUNICIPAL DE SÃO BRÁS possui Capacidade Técnica e Gerencial para celebrar, executar e prestar contas de convênios com a União, nos termos da Proposta de Convênio n.º 025273/2017, cadastrada no Sistema de Gestão de Convênios e Contratos de Repasse (SICONV).",
+            "proposalDate": "2017-03-27T03:00:00.000Z",
+            "biddingDate": "2017-12-30T02:00:00.000Z",
+            "homologationDate": "2018-01-15T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 258000,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 258000,
+                "couterpartValues": {
+                  "total": 5080.63,
+                  "financial": 5080.63,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 252919.37,
+                  "amendment": "R$ 252.919,37 - Pedro Vilela"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.368.795-** - MARCOS SANDES",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.672.604-** - BRUNO CAVALCANTI DE ARAUJO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-02-15T02:00:00.000Z",
+              "processId": "012019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "012019",
+                "biddingId": "01/2019",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DOS SERVIÇOS DE PAVIMENTAÇÃO EM PARALELEPÍPEDO, NO MUNICÍPIO DE SÃO BRÁS.",
+                "legalFoundation": "Lei 8.666/93 e suas alterações, e ao Decreto nº 7.983 de 08/04/2013",
+                "justification": "Serviço que se faz em cumprimento ao objeto do Convênio nº 857054/2017",
+                "publishDate": "2019-02-15T02:00:00.000Z",
+                "beginDate": "2019-03-07T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 229291.43,
+                "homologationDate": "2019-05-15T03:00:00.000Z",
+                "city": "2863 - SAO BRAS",
+                "analysisDate": "2019-08-05T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "402001/2019",
+              "biddingId": "01/2019",
+              "date": "2019-05-17T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 31262709000199",
+                "hirerDocument": "CNPJ: 12207437000180",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DOS SERVIÇOS DE PAVIMENTAÇÃO EM PARALELEPÍPEDO, NO MUNICÍPIO DE SÃO BRÁS.",
+                "totalValue": 229291.43,
+                "publishDate": "2019-05-17T03:00:00.000Z",
+                "beginDate": "2019-05-15T03:00:00.000Z",
+                "endDate": "2020-05-15T03:00:00.000Z",
+                "signDate": "2019-05-15T03:00:00.000Z",
+                "executionProcessId": "01/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "012019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "857054/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 258000,
+            "transferValue": 252919.37,
+            "counterpartValue": 5080.63,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "854012/2017",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-26T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "024817/2017",
+            "organId": "24817/2017",
+            "processId": "0248172017",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de São Brás, localizado no Agreste Alagoano, nasce a partir de um pequena povoação ribeirinha do Rio São Francisco pertencente a Porto Real do Colégio. Suas terras foram habitadas pelos índios das tribos Tupinambás, Carapotas, Aconás e Cariris. Com a presença dos bandeirantes a partir do século XVII, a região começou a ser colonizada com o surgimento de várias fazendas de gado, e, aos poucos, foi surgindo o povoado de São Brás. Segundo os mais antigos, uma imagem de São Brás foi achada em uma ilha próxima por um grupo de jovens em passeio. O achado causou forte impressão na população, que resolveu construir uma capela em sua devoção, tornando o santo padroeiro do lugar. O nome do município foi tomado do padroeiro, São Brás. Sua data comemorativa é 28 de junho de 1889, quando foi elevado a vila e desmembrado de Porto Real do Colégio. Entretanto, sua emancipação definitiva acontece apenas em 9 de julho de 1947. Depois cedeu parte de seu território para a criação dos Municípios de Feira Grande, Campo Grande e Olho D’Água Grande. Sua população total é de 6.718 habitantes, de acordo com o Censo Demográfico do IBGE (2010). Seu Índice de Desenvolvimento Humano (IDH) é de 0,572 segundo o Atlas de Desenvolvimento Humano/PNUD (2010), sua economia é baseada na agricultura e pesca. O Poder Público Municipal acredita que a Construção da Praça Multieventos, localizada na Rua Monsenhor Francisco de Assis – Centro (coordenadas geográficas 10º07’38.0”S; 36º53’45.6”W), irá proporcionar um espaço que visa recepcionar os turistas municipais e regionais que veem até nosso município em busca de lazer e entretenimento onde o Município possui como principais atrativos turísticos: as margens do Rio São Francisco, onde a população costuma chamar de “Prainha” para se banhar em suas águas; a festa do Padroeiro São Brás; festa de Emancipação Política da cidade; a festa de Carnaval Tradicional, com diversos shows e atrações, atraindo turistas de todo o estado de Alagoas e até de estados vizinhos; a tradicional festa junina, que durante todo o mês de junho gera um grande fluxo de visitantes ao município; feiras de artesanatos; a cavalgada dos amigos; campeonato de futebol amador; festas folclóricas como reisado, dança de coco, pastoril, festa de santos reis; entre outras. Com todos esses eventos na cidade o número de turistas vem aumentando substancialmente e aquecendo a economia local gerando emprego e renda no município. Com a construção da Praça Multieventos o município continuará a explorar o turismo com mais qualidade oferecendo um espaço com mais conforto e segurança ao público em geral. A praça irá contar com uma área de convivência aberta onde serão incluídos quiosques de serviços e bancos com caramanchões espaçados de forma a atender diversos públicos, contará também com uma área coberta contendo palco de apresentações, salas de produção e camarins de apoio, disponibilizando um espaço adequado para eventos e apresentações diversas, ou seja, um ambiente propício para a convivência onde todos os eventos no município passarão a ser realizados. Para isto, o Poder Público Municipal necessita da cooperação deste Ministério para realizar as obras previstas nesta proposta, garantindo melhor conforto, comodidade e segurança para a realização dos eventos, possibilitando aproveitar melhor o potencial turístico e alcançar um maior fluxo de visitantes para o município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DA PRAÇA MULTIEVENTOS NO MUNICÍPIO DE SÃO BRÁS - AL",
+            "information": "Em atendimento ao disposto no artigo 26 da Portaria Interministerial n.º 507, de 24 de novembro de 2011, declaro, para os devidos fins, perante o Ministério do Turismo, que a PREFEITURA MUNICIPAL DE SÃO BRÁS possui Capacidade Técnica e Gerencial para celebrar, executar e prestar contas de convênios com a União, nos termos da Proposta de Convênio n.º 024817/2017, cadastrada no Sistema de Gestão de Convênios e Contratos de Repasse (SICONV).",
+            "proposalDate": "2017-03-27T03:00:00.000Z",
+            "biddingDate": "2017-12-26T02:00:00.000Z",
+            "homologationDate": "2017-12-28T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170004",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+              "value": 833750,
+              "details": {
+                "code": "5400020170004",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+                "cps": "",
+                "items": "I – construção, revitalização e reforma de infraestrutura urbana para adequação de espaços de interesse turístico (saneamento básico, sistemas de drenagem urbana, paisagismo, sinalização turística e praças; parques urbanos, pavimentação, execução de calçadas, passeios, iluminação pública e ciclovias/ciclofaixas, se os projetos estiverem associados a parques, praças, orlas e outros atrativos turísticos, sendo necessária a apresentação de mapa (croqui) que evidencie a associação àqueles atrativos",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 833750,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 828750,
+                  "amendment": "R$ 828.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.368.795-** - MARCOS SANDES",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-05-09T03:00:00.000Z",
+              "processId": "022019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "022019",
+                "biddingId": "02/2019",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DOS SERVIÇOS DE CONSTRUÇÃO DE UMA PRAÇA MULTIEVENTOS, NO MUNICÍPIO DE SÃO BRÁS.",
+                "legalFoundation": "Lei 8.666/93 e suas alterações, e ao Decreto nº 7.983 de 08/04/2013",
+                "justification": "Serviço que se faz em cumprimento ao objeto do Convênio nº 854012/2017.",
+                "publishDate": "2019-05-09T03:00:00.000Z",
+                "beginDate": "2019-05-24T03:00:00.000Z",
+                "endDate": "2019-05-24T03:00:00.000Z",
+                "biddingValue": 766847.48,
+                "homologationDate": "2019-05-27T03:00:00.000Z",
+                "city": "2863 - SAO BRAS",
+                "analysisDate": "2019-08-12T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "508001/2019",
+              "biddingId": "02/2019",
+              "date": "2019-05-29T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 31262709000199",
+                "hirerDocument": "CNPJ: 12207437000180",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DOS SERVIÇOS DE CONSTRUÇÃO DE UMA PRAÇA MULTIEVENTOS, NO MUNICÍPIO DE SÃO BRÁS,",
+                "totalValue": 766847.48,
+                "publishDate": "2019-05-29T03:00:00.000Z",
+                "beginDate": "2019-05-27T03:00:00.000Z",
+                "endDate": "2020-05-27T03:00:00.000Z",
+                "signDate": "2019-05-27T03:00:00.000Z",
+                "executionProcessId": "02/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "022019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "854012/2017",
+            "validity": "26/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 833750,
+            "transferValue": 828750,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "839840/2016",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-30T02:00:00.000Z",
+        "end": "2020-02-29T03:00:00.000Z",
+        "program": "2015 - Aperfei�oamento do Sistema �nico de Sa�de (a��o: 3921 - Melhorias Habitacionais para Controle da Doen�a de Chagas)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "037607/2016",
+            "organId": "00481/2016",
+            "processId": "25100.017866/2016-28",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 507/2011.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "A implantação deste projeto beneficiará as famílias do município em condições precárias de saúde expostas aos ataques de vários tipos de insetos nocivos, os quais, além de causarem várias enfermidades, podem ainda levar a morte. Estes beneficiários não dispõem de um local adequado, em suas moradias, para realizar suas necessidades fisiológicas e higiênicas, e são obrigadas a improvisar banheiros com palha, madeira, sacos de nylon, entre outros materiais; ou realizam suas necessidades a céu aberto, em locais inadequados como leito de riachos, rios e próximo a barragens sem qualquer privacidade e total desconforto. Tendo em vista que este Programa atende atentamente aos requisitos mínimos solicitados, requestamos aprovação desta Proposta.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Melhorias Habitacionais para Controle da Doença de Chagas no Município de São Brás - AL.",
+            "information": "Em atendimento ao disposto no artigo 26 da Portaria Interministerial n.º 507, de 24 de novembro de 2011, declaro, para os devidos fins, perante a Secretaria de Direitos Humanos da Presidência da República (SDH/PR), que A PREFEITURA MUNICIPAL DE SÃO BRÁS possui Capacidade Técnica e Gerencial para celebrar, executar e prestar contas de convênio com a União, nos termos da Proposta de Convênio n.º 037607/2016, cadastrada no Sistema de Gestão de Convênios e Contratos de Repasse (SICONV).",
+            "proposalDate": "2016-12-09T02:00:00.000Z",
+            "biddingDate": "2016-12-30T02:00:00.000Z",
+            "homologationDate": "2017-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120160014",
+              "name": "2015 - Aperfei�oamento do Sistema �nico de Sa�de (a��o: 3921 - Melhorias Habitacionais para Controle da Doen�a de Chagas)",
+              "value": 828500,
+              "details": {
+                "code": "3621120160014",
+                "name": "2015 - Aperfei�oamento do Sistema �nico de Sa�de (a��o: 3921 - Melhorias Habitacionais para Controle da Doen�a de Chagas)",
+                "cps": null,
+                "items": "2015 - Aperfeiçoamento do Sistema Único de Saúde (ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+                "couterpartRule": "2015 - Aperfeiçoamento do Sistema Único de Saúde (ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas) [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 828500,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 828500,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.368.795-** - MARCOS SANDES",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-05-16T03:00:00.000Z",
+              "processId": "022018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "022018",
+                "biddingId": "02/2018",
+                "object": "Obras e Serviços de engenharia para Construção de Melhorias Habitacionais para Controle da Doença de Chagas no Município de São Brás - AL.",
+                "legalFoundation": "Lei Federal nº 8.666/93",
+                "justification": "Serviço que se faz em cumprimento ao objeto do Convênio nº 839840/2016.",
+                "publishDate": "2018-05-16T03:00:00.000Z",
+                "beginDate": "2018-06-06T03:00:00.000Z",
+                "endDate": "2018-06-07T03:00:00.000Z",
+                "biddingValue": 730091.14,
+                "homologationDate": "2018-06-20T03:00:00.000Z",
+                "city": "2863 - SAO BRAS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000018/2018",
+              "biddingId": "02/2018",
+              "date": "2018-06-22T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09629106000123",
+                "hirerDocument": "CNPJ: 12207437000180",
+                "type": "Serviço",
+                "object": "Contratação de empresa especializada em Obras e Serviços de engenharia para Construção de Melhorias Habitacionais para Controle da Doença de Chagas no Município de São Brás - AL.",
+                "totalValue": 730091.14,
+                "publishDate": "2018-06-22T03:00:00.000Z",
+                "beginDate": "2018-06-20T03:00:00.000Z",
+                "endDate": "2019-06-20T03:00:00.000Z",
+                "signDate": "2018-06-20T03:00:00.000Z",
+                "executionProcessId": "02/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "022018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Convênio",
+            "status": "Aguardando Prestação de Contas",
+            "number": "839840/2016",
+            "validity": "30/12/2016 a 29/02/2020",
+            "limitDate": "2020-04-29T03:00:00.000Z",
+            "totalValue": 828500,
+            "transferValue": 828500,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "835440/2016",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-14T02:00:00.000Z",
+        "end": "2021-02-26T03:00:00.000Z",
+        "program": "Alagoas -Emendas Parlamentares - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "010838/2016",
+            "organId": "10838/2016",
+            "processId": "0108382016",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de São Brás era um pequeno povoado cujo território, jurisdição civil e eclesiástica, pertencia a Porto Real de Colégio. E sua história se desenvolveu paralela a de Porto Real de Colégio. Após ter sido determinado como município, São Brás foi anexado e desmembrado por várias vezes de outros municípios, voltando a ter definitivamente autonomia política somente com a constituição de 1947. São Brás atualmente apresenta uma área territorial de aproximadamente 140Km ², ficou classificada em extensão territorial em 66° lugar no estado de Alagoas. Encontra- se localizado na região do agreste no baixo São Francisco. Limita-se ao norte, com Olho D’água Grande; ao leste com Porto Real de Colégio, a oeste, com Traipú, ao sul com o Rio São Francisco com 31 metros acima do nível do mar. O acesso ao município se dá pela AL 115 distanciando 202 km da capital alagoana, sendo composto por sete povoados, são eles: Tibiri, Sampaio, Girau do Itiuba, Sucupira, Massaranduba, Mão de Engenho e Lagoa Comprida. (IBGE,2010/Plano Mun. de Assistência Social 2010/2013) De acordo com o censo 2010 São Brás possui uma população de 6.720 habitantes, sendo 3.183 na zona urbana e 2.389 na zona rural. Com relação ao Índice de Desenvolvimento Humano, dentre os 102 municípios alagoanos, no ano de 2000 São Brás ocupa a 38ª posição com IDH de 0,606. No quesito educação seu índice era de 0,648, longevidade 0,701 e renda 0,469. (Associação Mun. Alagoanos) De acordo com os dados fornecidos pelo Sindicato dos Trabalhadores Rurais a quantidade de produtores rurais que serão beneficiados é de aproximadamente 1.000, produzindo arroz, inhame, mandioca, amendoim, e outras em pequenas quantidades, ou seja, para o próprio consumo. Já as produções de milho e feijão em grandes quantidades, sendo os mesmos as principais fontes econômicas do município, de acordo com levantamentos feitos pelo IBGE, no ano de 2007, foram contabilizadas as produções de: feijão (em grãos) produziu 70 toneladas e de milho (em grão) produziu 86 toneladas. O município prever para o aumentos da produção, AQUISIÇÃO DE PATRULHA MECANIZDA, para garanti o desenvolvimento da agricultura familiar no município. OBJETIVO de desenvolver ação conjunta entre o Governo Federal, através do Ministério da Agricultura Pecuária e Abastecimento e o Municipal de São Brás/AL na aquisição de patrulha mecanizada para auxiliar nos seguintes serviços: escoamento da produção, manutenção das estradas vicinais, preparação do solo e Transporte de Ração Animal, O PÚBLICO ALVO BENEFICIADO será de aproximadamente 1000 produtores rurais. Os RESULTADOS ESPERADOS da proposta em questão serão; incremento de receita por conta dos serviços de qualidade e em quantidade que serão disponibilizados aos agricultores, sendo que os mesmos produzirão mais produtos agrícolas e alimentos, diversificando sua propriedade, geração de empregos, melhoria na qualidade de vida, aumento da autoestima, melhores condições de trabalho, diminuição do êxodo rural, aumento nos próximos 3 anos em 5% da produtividade agrícola deste Município principalmente na produção de feijão, milho. Comunico que a emenda parlamentar e de autoria do Senador RENAN CALHEIROS, Emenda 22890002.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE PATRULHA MECANIZADA NO MUNICÍPIO DE SÃO BRÁS -AL",
+            "information": "Declaro, para os devidos fins administrativos e efeitos legais, que a Secretaria Municipal de Agricultura, por seu (sua) Secretário (a) José Luiz Tomé dos Santos, CPF nº 050.187.524-75, assume a responsabilidade pelo gerenciamento do objeto constante do Plano de Trabalho da proposta de contrato de repasse nº 010838/2016, aquisição de Patrulha Mecanizada. Que a Prefeitura dispõe de servidores com capacidade administrativa, técnica e gerencial, (01 agrônomos,01 veterinários, 01 tratoristas, 02 operadores de máquinas etc), habilitados para operar com o objeto pactuado. Que possui espaço físico para guarda dos bens adquiridos, situado à rua vereador Alfredo santos, e seguirá as recomendações do fabricante no concernente às manutenções preventivas. Que assume inteira responsabilidade por todos os gastos com salário de pessoal envolvido diretamente com o uso da Patrulha Mecanizada, com combustível e os provenientes das manutenções preventiva e corretiva.",
+            "proposalDate": "2016-03-10T03:00:00.000Z",
+            "biddingDate": "2016-12-14T02:00:00.000Z",
+            "homologationDate": "2016-12-22T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020160005",
+              "name": "Alagoas -Emendas Parlamentares - Investimento",
+              "value": 202410,
+              "details": {
+                "code": "2200020160005",
+                "name": "Alagoas -Emendas Parlamentares - Investimento",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário. Favor, verificar lista dos objetos contemplados na aba anexos.",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 202410,
+                "couterpartValues": {
+                  "total": 7410,
+                  "financial": 7410,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.945.764-** - ANTONIO COSTA BORGES NETO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "12/2018",
+              "type": "Licitação - Pregão",
+              "date": "2018-08-03T03:00:00.000Z",
+              "processId": "0122018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0122018",
+                "biddingId": "12/2018",
+                "object": "Aquisição de Trator 0Km, conforme Contrato de Repasse nº 835440/2016/MAPA/CAIXA.",
+                "legalFoundation": "Lei Federal nº 8.666/93 e suas alterações, inclusive quanto à forma de publicação, e Lei nº 10.520/2002",
+                "justification": "Serviço que se faz em cumprimento ao objeto constante do Contrato de Repasse nº 835440/2016/MAPA/CAIXA.",
+                "publishDate": "2018-08-03T03:00:00.000Z",
+                "beginDate": "2018-08-15T03:00:00.000Z",
+                "endDate": "2018-08-15T03:00:00.000Z",
+                "biddingValue": 122000,
+                "homologationDate": "2018-08-17T03:00:00.000Z",
+                "city": "2863 - SAO BRAS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2018",
+              "biddingId": "01/2018",
+              "date": "2018-09-13T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05453608000195",
+                "hirerDocument": "CNPJ: 12207437000180",
+                "type": "Material",
+                "object": "Aquisição de uma Carreta Tanque nova de fábrica, com capacidade mínima para 5.000 L, com molas, com 04 rodas e com pneus, e Aquisição de uma Grade Niveladora nova de fábrica, com Controle Remoto, 36 discos x 20”, com mancal a graxa, conforme contrato de repasse nº 835440/2016/MAPA/CAIXA.",
+                "totalValue": 36685,
+                "publishDate": "2018-09-13T03:00:00.000Z",
+                "beginDate": "2018-08-07T03:00:00.000Z",
+                "endDate": "2018-12-31T02:00:00.000Z",
+                "signDate": "2018-08-07T03:00:00.000Z",
+                "executionProcessId": "01/2018 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "012018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "835440/2016",
+            "validity": "14/12/2016 a 26/02/2021",
+            "limitDate": "2021-04-27T03:00:00.000Z",
+            "totalValue": 202410,
+            "transferValue": 195000,
+            "counterpartValue": 7410,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "830880/2016",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-05T02:00:00.000Z",
+        "end": "2019-11-20T03:00:00.000Z",
+        "program": "SDR/MI - 2029 - PROGRAMA TEMATICO, DESENVOLVIMENTO TERRITORIAL E REGIONAL - EMENDAS DISPONIVEL",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "013973/2016",
+            "organId": "00097/2016",
+            "processId": "59553.000089/2016-76",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Dec. 6.170/2007 e Port 507/2011",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE SÃO BRÁS ERA UM PEQUENO POVOADO CUJO TERRITÓRIO, JURISDIÇÃO CIVIL E ECLESIÁSTICA, PERTENCIA A PORTO REAL DE COLÉGIO. E SUA HISTÓRIA SE DESENVOLVEU PARALELA A DE PORTO REAL DE COLÉGIO. APÓS TER SIDO DETERMINADO COMO MUNICÍPIO, SÃO BRÁS FOI ANEXADO E DESMEMBRADO POR VÁRIAS VEZES DE OUTROS MUNICÍPIOS, VOLTANDO A TER DEFINITIVAMENTE AUTONOMIA POLÍTICA SOMENTE COM A CONSTITUIÇÃO DE 1947. SÃO BRÁS ATUALMENTE APRESENTA UMA ÁREA TERRITORIAL DE APROXIMADAMENTE 140KM ², FICOU CLASSIFICADA EM EXTENSÃO TERRITORIAL EM 66° LUGAR NO ESTADO DE ALAGOAS. ENCONTRA- SE LOCALIZADO NA REGIÃO DO AGRESTE NO BAIXO SÃO FRANCISCO. LIMITA-SE AO NORTE, COM OLHO D’ÁGUA GRANDE; AO LESTE COM PORTO REAL DE COLÉGIO, A OESTE, COM TRAIPÚ, AO SUL COM O RIO SÃO FRANCISCO COM 31 METROS ACIMA DO NÍVEL DO MAR. O ACESSO AO MUNICÍPIO SE DÁ PELA AL 115 DISTANCIANDO 202 KM DA CAPITAL ALAGOANA, SENDO COMPOSTO POR SETE POVOADOS, SÃO ELES: TIBIRI, SAMPAIO, GIRAU DO ITIUBA, SUCUPIRA, MASSARANDUBA, MÃO DE ENGENHO E LAGOA COMPRIDA. (IBGE,2010/PLANO MUN. DE ASSISTÊNCIA SOCIAL 2010/2013) DE ACORDO COM O CENSO 2010 SÃO BRÁS POSSUI UMA POPULAÇÃO DE 6.720 HABITANTES, SENDO 3.183 NA ZONA URBANA E 2.389 NA ZONA RURAL. COM RELAÇÃO AO ÍNDICE DE DESENVOLVIMENTO HUMANO, DENTRE OS 102 MUNICÍPIOS ALAGOANOS, NO ANO DE 2000 SÃO BRÁS OCUPA A 38ª POSIÇÃO COM IDH DE 0,606. NO QUESITO EDUCAÇÃO SEU ÍNDICE ERA DE 0,648, LONGEVIDADE 0,701 E RENDA 0,469. (ASSOCIAÇÃO MUN. ALAGOANOS) DE ACORDO COM OS DADOS FORNECIDOS PELO SINDICATO DOS TRABALHADORES RURAIS A QUANTIDADE DE PRODUTORES RURAIS QUE SERÃO BENEFICIADOS É DE APROXIMADAMENTE 1.000, PRODUZINDO ARROZ, INHAME, MANDIOCA, AMENDOIMO. JÁ AS PRODUÇÕES DE MILHO E FEIJÃO EM GRANDES QUANTIDADES, SENDO OS MESMOS AS PRINCIPAIS FONTES ECONÔMICAS DO MUNICÍPIO, DE ACORDO COM LEVANTAMENTOS FEITOS PELO IBGE, NO ANO DE 2007, FORAM CONTABILIZADAS AS PRODUÇÕES DE: FEIJÃO (EM GRÃOS) PRODUZIU 70 TONELADAS E DE MILHO (EM GRÃO) PRODUZIU 86 TONELADAS. VENDO TODO ESSA PRODUÇÃO NO MUNICÍPIO. O PODER PÚBLICO MUNICIPAL VER A NECESSIDADE DA PAVIMENTAÇÃO EM PARALELEPÍPEDO EM ALGUNS TRECHO DAS ESTRADAS VICINAIS NO POVOADO SAMPAIO, LAGOA COMPRIDA E GIRAU DO ITIUBA, QUE LIGA OS POVOADOS A ZONA URBANA. OS POVOADOS CONCENTRA UMA GRANDE QUANTIDADE DE AGRICULTOR FAMILIAR QUE GERAR A PRODUÇÃO ORIUNDO DA AGRICULTURA FAMILIAR NO MUNICÍPIO E REGIÃO. NO MUNICÍPIO DE SÃO BRÁS (AL) EXISTEM INÚMERAS VIAS SEM PAVIMENTAÇÃO QUE SERVEM DE ACESSO DA ZONA RURAL A ZONA URBANA. A DIFICULDADE DE LOCOMOÇÃO DOS AGRICULTORES DOS POVOADOS OCASIONADA PELA MÁ QUALIDADE DO PISO NATURAL QUE DEPENDENDO DO PERÍODO DO ANO SE TORNA INTRANSITÁVEL COMO ACÚMULO DE ÁGUA DIFICULTANDO A ESCOAMENTO DA PRODUÇÃO GERANDO PREJUÍZO ECONÔMICO NO MUNICÍPIO E REGIÃO. COM A IMPLANTAÇÃO DA PAVIMENTAÇÃO NOS TRECHO CRITICO IRA GARANTIR UM ESCOAMENTO DA PRODUÇÃO COM MAIS SEGURANÇA DA ZONA RURAL A ZONA URBANA GERANDO UMA ECONOMIA EFICAZ NO MUNICÍPIO E UM ARRANJO PRODUTIVO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE PAVIMENTAÇÃO EM PARALELEPÍPEDO NO POVOADO LAGOA COMPRIDA, GIRAU DO ITIUBA E SAMPAIO ZONA RURAL,PARA ESTIMULAR O FORTALECIMENTO E O CRESCIMENTO DOS ARRANJOS PRODUTIVOS LOCAIS DO MUNICIPIO DE SÃO BRAS -AL",
+            "information": "Declaro Para os devidos fins administrativos e efeitos legais declaro junto ao Ministério da Integração Nacional, por intermédio da Secretaria de Desenvolvimento Regional – SDR/MI, que a Prefeitura Municipal de São Brás, inscrita no CNPJ sob o dispõe de pessoal com capacidade administrativa e técnica para execução do objeto constante do Plano nº 12.207.437/0001-80, de Trabalho IMPLANTAÇÃO DE PAVIMENTAÇÃO EM PARALELEPÍPEDO NO POVOADO LAGOA COMPRIDA, GIRAU DO ITIÚBA E SAMPAIO ZONA RURAL DO MUNICÍPIO DE SÃO BRAS -AL, proposto para formalização de Convênio. Esclareço, ainda, que este Proponente assume a responsabilidade pela execução do objeto proposto em todas as fases exigidas legalmente, licitação, acompanhamento da execução e prestação de contas.",
+            "proposalDate": "2016-03-14T03:00:00.000Z",
+            "biddingDate": "2016-11-17T02:00:00.000Z",
+            "homologationDate": "2016-12-05T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020160008",
+              "name": "SDR/MI - 2029 - PROGRAMA TEMATICO, DESENVOLVIMENTO TERRITORIAL E REGIONAL - EMENDAS DISPONIVEL",
+              "value": 252500,
+              "details": {
+                "code": "5300020160008",
+                "name": "SDR/MI - 2029 - PROGRAMA TEMATICO, DESENVOLVIMENTO TERRITORIAL E REGIONAL - EMENDAS DISPONIVEL",
+                "cps": null,
+                "items": "7K66 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 252500,
+                "couterpartValues": {
+                  "total": 2500,
+                  "financial": 2500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.945.764-** - ANTONIO COSTA BORGES NETO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.013.663-** - MARLON CARVALHO CAMBRAIA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-05-16T03:00:00.000Z",
+              "processId": "012018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "012018",
+                "biddingId": "01/2018",
+                "object": "Realização de obras e serviços de engenharia para Pavimentação de Ruas na Zona Rural do Município de São Brás/AL.",
+                "legalFoundation": "Lei Federal nº 8.666/93",
+                "justification": "Serviço que se faz em cumprimento ao objeto do Convênio nº 830880/2016",
+                "publishDate": "2018-05-16T03:00:00.000Z",
+                "beginDate": "2018-06-05T03:00:00.000Z",
+                "endDate": "2018-06-06T03:00:00.000Z",
+                "biddingValue": 240714.14,
+                "homologationDate": "2018-06-11T03:00:00.000Z",
+                "city": "2863 - SAO BRAS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000017/2018",
+              "biddingId": "01/2018",
+              "date": "2018-06-18T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09629106000123",
+                "hirerDocument": "CNPJ: 12207437000180",
+                "type": "Serviço",
+                "object": "Contratação de empresa especializada em obras e serviços de engenharia para Pavimentação de Ruas na Zona Rural do Município de São Brás/AL.",
+                "totalValue": 240714.14,
+                "publishDate": "2018-06-18T03:00:00.000Z",
+                "beginDate": "2018-06-08T03:00:00.000Z",
+                "endDate": "2019-06-08T03:00:00.000Z",
+                "signDate": "2018-06-08T03:00:00.000Z",
+                "executionProcessId": "01/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "012018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Convênio",
+            "status": "Aguardando Prestação de Contas",
+            "number": "830880/2016",
+            "validity": "05/12/2016 a 20/11/2019",
+            "limitDate": "2020-01-19T03:00:00.000Z",
+            "totalValue": 252500,
+            "transferValue": 250000,
+            "counterpartValue": 2500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "805295/2014",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2014-06-25T03:00:00.000Z",
+        "end": "2018-10-30T03:00:00.000Z",
+        "program": "Apoio a Projetos de Infraestrutura Tur?stica - Contrato de Repasse - Emendas Parlamentares",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "020194/2014",
+            "organId": "20194/2014",
+            "processId": "0201942014",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE SÃO BRÁS LOCALIZADO NO AGRESTE ALAGOANO. SUA POPULAÇÃO TOTAL É DE 6.718 HABITANTES, DE ACORDO COM O CENSO DEMOGRÁFICO DO IBGE (2010). SEU ÍNDICE DE DESENVOLVIMENTO HUMANO (IDH) É DE 0,572 SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2010), SUA ECONOMIA É BASEADA NA AGRICULTURA E PESCA. O PODER PÚBLICO MUNICIPAL DEFINIU QUE A CONSTRUÇÃO DA PRAÇA MULTIEVENTOS, LOCALIZADA NA RAU MONSENHOR FRANCISCO DE ASIS CENTRO , IRA PROPORCIONAR UM ESPAÇO QUE VISA RECEPCIONAR OS TURISTAS MUNICIPAL E REGIONAL QUE VEM ATÉ NOSSO MUNICÍPIO EM BUSCA DE LAZER E ENTRETENIMENTO ONDE O MUNICÍPIO POSSUI COMO PRINCIPAIS ATRATIVOS TURÍSTICOS: AS MARGENS DO RIO SÃO FRANCISCO, ONDE A POPULAÇÃO COSTUMA CHAMAR DE “PRAINHA” PARA SI BANHAR EM SUAS ÁGUAS , FEIRAS DE ARTESANATOS, FESTA DO PADROEIRO SÃO BRÁS, FESTAS FOLCLÓRICAS COMO REISADO, DANÇA DE COCO, PASTORIL, FESTA DE SANTOS REIS, CAVALGADA DOS AMIGOS, FESTAS JUNINAS, EMANCIPAÇÃO POLÍTICA DA CIDADE, SHOWS DURANTE O CARNAVAL, CAMPEONATO DE FUTEBOL AMADOR, CAMPEONATO DE VÔLEI DE PRAIA QUE CONTA COM ATLETAS DE MUITOS MUNICÍPIOS DE ALAGOAS E ATÉ DE SERGIPE E ENTRE OUTRAS. COM TODOS ESSES EVENTOS NA CIDADE O CRESCIMENTO DE TURISTA VEM AUMENTANDO A CADA DIA E AQUECENDO A ECONOMIA LOCAL GERANDO EMPREGO E RENDA NO MUNICIPIO. COM A CONSTRUÇÃO DA PRAÇA MULTIEVENTOS O MUNICÍPIO CONTINUARÁ A EXPLORAR O TURISMO COM MAIS QUALIDADE OFERECENDO UM ESPAÇO COM MAIS CONFORTO POSSIBILITANDO ESPAÇO ADEQUADO COM ARBORIZAÇÃO, BANCO, GRAMA,PALCO PARA EVENTOS E APRESENTAÇÃO DE PEÇAS TEATRAIS, OU SEJA, UM AMBIENTE PROPÍCIO PARA A CONVIVÊNCIA ONDE TODOS OS EVENTOS NO MUNICÍPIO PASSARÃO A SER REALIZADO NA REFERIDA PRAÇA MULTE EVENTOS. Emenda: 22890007 Do Senador Federal Renana Calheiros.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DA PRAÇA MULTIEVENTOS NO MUNICÍPIO DE SÃO BRÁS -AL",
+            "information": "DECLARO PARA OS DEVIDOS FINS QUE O MUNICÍPIO DE SÃO BRAS DISPÕE DE CAPACIDADE TÉCNICA PARA A EXECUÇÃO DO OBJETO.",
+            "proposalDate": "2014-02-23T03:00:00.000Z",
+            "biddingDate": "2014-06-25T03:00:00.000Z",
+            "homologationDate": "2014-07-17T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020140008",
+              "name": "Apoio a Projetos de Infraestrutura Tur?stica - Contrato de Repasse - Emendas Parlamentares",
+              "value": 796000,
+              "details": {
+                "code": "5400020140008",
+                "name": "Apoio a Projetos de Infraestrutura Tur?stica - Contrato de Repasse - Emendas Parlamentares",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes: mínimo 0,1% (um décimo por cento) e máximo 4% (quatro por cento) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 796000,
+                "couterpartValues": {
+                  "total": 16000,
+                  "financial": 16000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 780000,
+                  "amendment": "R$ 780.000,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.945.764-** - ANTONIO COSTA BORGES NETO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.656.699-** - VINICIUS RENE LUMMERTZ SILVA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "805295/2014",
+            "validity": "25/06/2014 a 30/10/2018",
+            "limitDate": "2018-12-29T02:00:00.000Z",
+            "totalValue": 796000,
+            "transferValue": 780000,
+            "counterpartValue": 16000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "801201/2014",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-07-14T03:00:00.000Z",
+        "end": "2019-08-30T03:00:00.000Z",
+        "program": "Fomento ao Setor Agropecuario - Programacao",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "034089/2014",
+            "organId": "34089/2014",
+            "processId": "0340892014",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Portaria nº 507",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de São Brás era um pequeno povoado cujo território, jurisdição civil e eclesiástica, pertencia a Porto Real de Colégio. E sua história se desenvolveu paralela a de Porto Real de Colégio. Após ter sido determinado como município, São Brás foi anexado e desmembrado por várias vezes de outros municípios, voltando a ter definitivamente autonomia política somente com a constituição de 1947. São Brás atualmente apresenta uma área territorial de aproximadamente 140Km ², ficou classificada em extensão territorial em 66° lugar no estado de Alagoas. Encontra- se localizado na região do agreste no baixo São Francisco. Limita-se ao norte, com Olho D’água Grande; ao leste com Porto Real de Colégio, a oeste, com Traipú, ao sul com o Rio São Francisco com 31 metros acima do nível do mar. O acesso ao município se dá pela AL 115 distanciando 202 km da capital alagoana, sendo composto por sete povoados, são eles: Tibiri, Sampaio, Girau do Itiuba, Sucupira, Massaranduba, Mão de Engenho e Lagoa Comprida. (IBGE,2010/Plano Mun. de Assistência Social 2010/2013) De acordo com o censo 2010 São Brás possui uma população de 6.720 habitantes, sendo 3.183 na zona urbana e 2.389 na zona rural. Com relação ao Índice de Desenvolvimento Humano, dentre os 102 municípios alagoanos, no ano de 2000 São Brás ocupa a 38ª posição com IDH de 0,606. No quesito educação seu índice era de 0,648, longevidade 0,701 e renda 0,469. (Associação Mun. Alagoanos) De acordo com os dados fornecidos pelo Sindicato dos Trabalhadores Rurais a quantidade de produtores rurais que serão beneficiados é de aproximadamente 500, produzindo arroz, inhame, mandioca, ,feijão,milho,amendoim, estes em pequenas quantidades, ou seja, para o próprio consumo. Já as produções de milho e feijão em grandes quantidades, sendo os mesmos as principais fontes econômicas do município, de acordo com levantamentos feitos pelo IBGE, no ano de 2007, foram contabilizadas as produções de: feijão (em grãos) produziu 70 toneladas e de milho (em grão) produziu 86 toneladas. com a construção das 03(três) passagem molhadas no povoado lagoa do boi gavião e maçaranduba e a melhoria de estradas vicinais do Povoado Lagoa Comprida maçaranduba trará grande beneficio para o escoamento da produção dos agricultores familiares para o mercado e facilitara o acesso a zona urbana tendo em vista que no período chuvoso fica impossibilitado de trafegar por motivo da grande quantidade d´água,impossibilitando o escoamento da produção,a assistência medica da área da saúde, os alunos fica impossibilitado de ir a escola por motivo do transposto não chegar ao seu destino com tudo isso o agricultor familiar fica totalmente prejudicado.como o poder publico municipal tem grande preocupação em relação a essa situação mais que não poder executar a construção das passagem molhada cem o apoio desse argurado ministério.com o apoio do ministério será de fundamental importância para o município, pois irá elevar os ganhos dos produtores com o escoamento dos produtos e conseguintemente melhorar a economia do município,e a melhoria na assistência na qual será atingido indiretamente todos os munícipes.comunico que esta emenda é de autoria do Deputado Federal Renan Filho.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "MELHORIAS DE ESTRADAS VICINAIS NO MUNICÍPIO DE SÃO BRÁS -AL",
+            "information": "Declaramos, para devidos fins e a quem possa interessar, e sob as penalidades da Lei, que este Município dispõe de capacidade Técnica com quadro de profissionais, GMC – Gestor Municipal de Convênio e contratos, Engenheiro Civil, para a CONSTRUÇÃO DE 03(TRÊS) PASSAGEM MOLHADA E RECUPERAÇÃO DE ESTRADAS VICINAIS NO MUNICÍPIO DE SÃO BRÁS -AL, conforme preceitua as exigências do Número da Proposta 034089/2014; para maior clareza e veracidade dos fatos, esclarecemos outro sim, que a execução dos serviços serão acompanhado e fiscalizados pelo Engenheiro Civil, Herbert Wagner Valeriano Nunes ,CREA N°020029781-3.",
+            "proposalDate": "2014-03-25T03:00:00.000Z",
+            "biddingDate": "2014-07-14T03:00:00.000Z",
+            "homologationDate": "2014-07-17T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020140033",
+              "name": "Fomento ao Setor Agropecuario - Programacao",
+              "value": 500000,
+              "details": {
+                "code": "2200020140033",
+                "name": "Fomento ao Setor Agropecuario - Programacao",
+                "cps": "",
+                "items": "Realização de Obras de Engenharia",
+                "couterpartRule": "Administração Estadual - Outras Regiões [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 12500,
+                  "financial": 12500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.368.795-** - MARCOS SANDES",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0062015",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-07-14T03:00:00.000Z",
+              "processId": "00062015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "00062015",
+                "biddingId": "0062015",
+                "object": "Execução de Melhoria da Estrada Vicinal que dá acesso ao Distrito de Lagoa Comprida – Município de São Brás/AL.",
+                "legalFoundation": "Lei 8.666, de 21/06/1993 e suas alterações, inclusive quanto à forma de publicação, e ao Decreto nº 7.983, de 08/04/2013.",
+                "justification": "Para execução de Melhoria da Estrada Vicinal que dá acesso ao Distrito de Lagoa Comprida – Município de São Brás/AL do Contrato de Repasse que serão executadas por meio desta licitação, no âmbito do Contrato de Repasse de Repasse nº 1019744-42/2014, firmado com SL CONSTRUTORA LTDA EPP, atendeu a todos os dispositivos constantes na legislação em vigor, em especial à Lei 8.666, de 21/06/1993 e suas alterações, inclusive quanto à forma de publicação, e ao Decreto nº 7.983, de 08/04/2013.",
+                "publishDate": "2015-07-14T03:00:00.000Z",
+                "beginDate": "2015-07-29T03:00:00.000Z",
+                "endDate": "2015-07-29T03:00:00.000Z",
+                "biddingValue": 43724.85,
+                "homologationDate": "2015-08-04T03:00:00.000Z",
+                "city": "2863 - SAO BRAS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000035/2015",
+              "biddingId": "062015",
+              "date": "2015-08-12T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 18286438000143",
+                "hirerDocument": "CNPJ: 12207437000180",
+                "type": "Obras",
+                "object": "Melhorias da Estrada Vicinal que dá acesso ao Distrito de Lagoa Comprida no Município de São Brás/AL.",
+                "totalValue": 43724.85,
+                "publishDate": "2015-08-12T03:00:00.000Z",
+                "beginDate": "2015-08-05T03:00:00.000Z",
+                "endDate": "2017-08-12T03:00:00.000Z",
+                "signDate": "2015-08-04T03:00:00.000Z",
+                "executionProcessId": "062015 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0062015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "801201/2014",
+            "validity": "14/07/2014 a 30/08/2019",
+            "limitDate": "2019-10-29T03:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 487500,
+            "counterpartValue": 12500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "796209/2013",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-05-13T03:00:00.000Z",
+        "end": "2019-03-22T03:00:00.000Z",
+        "program": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 -Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas - (EMENDA)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "092258/2013",
+            "organId": "50096/2013",
+            "processId": "59550.001335/2013-94",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto nº 6.170/2007 c/ Portaria Interministerial CGU/MF/MP nº 507/2011",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "O Município de São Brás era um pequeno povoado cujo território, jurisdição civil e eclesiástica, pertencia a Porto Real de Colégio. E sua história se desenvolveu paralela a de Porto Real de Colégio. Após ter sido determinado como município, São Brás foi anexado e desmembrado por várias vezes de outros municípios, voltando a ter definitivamente autonomia política somente com a constituição de 1947. São Brás atualmente apresenta uma área territorial de aproximadamente 140Km ², ficou classificada em extensão territorial em 66° lugar no estado de Alagoas. Encontra- se localizado na região do agreste no baixo São Francisco. Limita-se ao norte, com Olho D’água Grande; ao leste com Porto Real de Colégio, a oeste, com Traipú, ao sul com o Rio São Francisco com 31 metros acima do nível do mar. O acesso ao município se dá pela AL 115 distanciando 202 km da capital alagoana, sendo composto por sete povoados, são eles: Tibiri, Sampaio, Girau do Itiuba, Sucupira, Massaranduba, Mão de Engenho e Lagoa Comprida. (IBGE,2010/Plano Mun. de Assistência Social 2010/2013) De acordo com o censo 2010 São Brás possui uma população de 6.720 habitantes, sendo 3.183 na zona urbana e 2.389 na zona rural. Com relação ao Índice de Desenvolvimento Humano, dentre os 102 municípios alagoanos, no ano de 2000 São Brás ocupa a 38ª posição com IDH de 0,606. No quesito educação seu índice era de 0,648, longevidade 0,701 e renda 0,469. (Associação Mun. Alagoanos) De acordo com os dados fornecidos pelo Sindicato dos Trabalhadores Rurais a quantidade de produtores rurais que serão beneficiados é de aproximadamente 1.000, produzindo arroz, inhame, mandioca, amendoim, e outras em pequenas quantidades, ou seja, para o próprio consumo. Já as produções de milho e feijão em grandes quantidades, sendo os mesmos as principais fontes econômicas do município, de acordo com levantamentos feitos pelo IBGE, no ano de 2007, foram contabilizadas as produções de: feijão (em grãos) produziu 70 toneladas e de milho (em grão) produziu 86 toneladas. Vendo todo essa produção no município o poder publico municipal ver a necessidade da aquisição de caminhão carroceria para o escoamento da produção diversificada dando a oportunidade ao fortalecimento da agricultura familiar para o comercio local e regional onde ira garantir uma boa renda eliminado os atravessadores que anda pela região comprando a produção num valor abaixo do preço de mercado e do governo federal também garantir o transporte de ração para os animais dos criador de pequeno porte. O veiculo de pequeno porte é de extrema necessidade onde ira garantir uma boa assistência técnica na área dos agricultores onde o transporte ficara a disposição dos técnicos e veterinários para o deslocamento da sede do município área rural levando conhecimento para uma boa produção.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE VEÍCULOS PARA ATENDER O PROGRAMA DE AGRICULTURA FAMILIAR DO MUNICÍPIO DE SÃO BRÁS- AL.",
+            "information": "Declaramos, para devidos fins e a quem possa interessar, e sob as penalidades da Lei, que este Município dispõe de capacidade Técnica com quadro de profissionais: GMC – Gestor Municipal de Convênios, Comissão de Licitação, equipe de contabilidade.",
+            "proposalDate": "2013-12-11T02:00:00.000Z",
+            "biddingDate": "2014-05-13T03:00:00.000Z",
+            "homologationDate": "2014-05-23T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320130008",
+              "name": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 -Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas - (EMENDA)",
+              "value": 230751,
+              "details": {
+                "code": "2220320130008",
+                "name": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 -Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas - (EMENDA)",
+                "cps": null,
+                "items": "g) Aquisição de equipamentos agrícolas e de apoio ao município - colhetadeira, trator de pneu, grade, arado, plantadeira, picador de forragem, tanque de resfriamento, etc",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 230751,
+                "couterpartValues": {
+                  "total": 9751,
+                  "financial": 9751,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 221000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.368.795-** - MARCOS SANDES",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0162017",
+              "type": "Licitação - Pregão",
+              "date": null,
+              "processId": "0010152017",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial para Registro de Preço",
+                "processId": "0010152017",
+                "biddingId": "0162017",
+                "object": "Aquisição de veículo pick-up.",
+                "legalFoundation": "Normas das Leis nos 10.520/2002 e 8.666/93 e, também, por suas cláusulas e condições.",
+                "justification": "Justificamos o referido procedimento devido aos CERTAMES anteriores terem sidos fracassados e desertos o que ocasionou na formalização deste processo de adesão à Ata de Registro de Preços do Pregão Presencial nº 015/2017, cujo objeto é fornecimento de veículos, destinados às secretarias municipais, conforme especificações estabelecidas no Anexo I do edital do Pregão Presencial nº 015/2017, Aderindo apenas o item 03 (01 - VEICULO TIPO PICK-UP, CABINE DUPLA...), da respectiva Ata, sendo a detentora a empresa NOVA ARAVEL - COMÉRCIO DE VEÍCULOS, PEÇAS E SERVIÇOS LTDA, INSCRITA NO CNPJ SOB O Nº 17.495.269/0001-99. Com valor de R$ 63.500,00 (sessenta e três mil e quinhentos reais), despesa custeada pela dotação orçamentária: Secretaria Municipal de Agricultura; Manutenção da Secretaria Municipal de Agricultura - 44.90.52.00; Fonte de Recurso: 2000.09 - Convênio 796.209/2013 - Órgão Gerenciador: PREFEITURA MUNICIPAL DE CAMPO ALEGRE-ALAGOAS. Para mais informações, através do e-mail: prefeitura.saobras@gmail.com, ou pelo telefone (82) 3555-1162.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 63500,
+                "homologationDate": "2017-05-22T03:00:00.000Z",
+                "city": "2863 - SAO BRAS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000023/2014",
+              "biddingId": "047/2013",
+              "date": "2014-12-31T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 01844555000506",
+                "hirerDocument": "CNPJ: 12207437000180",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE VEÍCULOS PARA ATENDER O PROGRAMA DE AGRICULTURA FAMILIAR DO MUNICÍPIO DE SÃO BRÁS- AL.",
+                "totalValue": 161000,
+                "publishDate": "2014-12-31T02:00:00.000Z",
+                "beginDate": "2014-12-02T02:00:00.000Z",
+                "endDate": "2015-12-02T02:00:00.000Z",
+                "signDate": "2014-12-02T02:00:00.000Z",
+                "executionProcessId": "047/2013 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "59510001266201395 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Concluída",
+            "number": "796209/2013",
+            "validity": "13/05/2014 a 22/03/2019",
+            "limitDate": "2019-07-03T03:00:00.000Z",
+            "totalValue": 240900,
+            "transferValue": 221000,
+            "counterpartValue": 9751,
+            "yieldValue": 10149
+          }
+        }
+      },
+      {
+        "agreementId": "786984/2013",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-11-08T02:00:00.000Z",
+        "end": "2017-11-07T02:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "050537/2013",
+            "organId": "50537/2013",
+            "processId": "050537/2013",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de São Brás localizado no agreste alagoano. Sua população total é de 6.718,00 de habitantes, de acordo com o Censo Demográfico do IBGE (2010). Seu Índice de Desenvolvimento Humano (IDH) é de 0,61 segundo o Atlas de Desenvolvimento Humano/PNUD (2000), sua economia é baseada na agricultura e pesca. Sua população jovem está desprovida de equipamentos de esporte e lazer acarretando ociosidade violência, para familiares e a comunidade. O Poder Público Municipal definiu o Esporte e Lazer como uma das prioridades como estratégia para minimizar os índices de violência, disponibilizando um espaço para construção de uma quadra poliesportiva descoberta e a reforma do estádio municipal para prática esportiva, porem o Município necessita da Cooperação financeira para construir uma quadra e reforma o estádio municipal no municipio, com a construção e a reforma certificamos que ira contribuir para redução a exclusão e o risco social, e ira proporcionar uma melhor qualidade de vida dos munícipes.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE UMA QUADRA POLIESPORTIVA DESCOBERTA E REFORMA DO ESTÁDIO MUNICIPAL YVISSOM FERREIRA NO MUNICÍPIO DE SÃO BRAS.",
+            "information": "declaro que o municipio dispõem de capacidade técnica para execução do objeto.",
+            "proposalDate": "2013-08-15T03:00:00.000Z",
+            "biddingDate": "2013-11-08T02:00:00.000Z",
+            "homologationDate": "2013-11-25T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020130002",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+              "value": 253750,
+              "details": {
+                "code": "5100020130002",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na Lei de Diretrizes Orçamentárias vigente. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 253750,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.945.764-** - ANTONIO COSTA BORGES NETO",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "04/2015",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-05-12T03:00:00.000Z",
+              "processId": "00042015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "00042015",
+                "biddingId": "04/2015",
+                "object": "CONSTRUÇÃO DE 01(UMA)QUADRA POLIESPORTIVA DESCOBERTA NO DISTRITO DE  GIRAU DO ITIÚBA,MUNICÍPIO DE SÃO BRÁS -AL",
+                "legalFoundation": "LEI DE N°8.666/93",
+                "justification": "O Prefeito Municipal de São Brás/AL, usando de suas atribuições legais e de conformidade com o que dispõe a Lei de nº 8.666 de 21 de Junho de 1993 e suas alterações posteriores passa a homologar e adjudicar da decisão da comissão de licitação referente ao Processo Licitatório.",
+                "publishDate": "2015-05-12T03:00:00.000Z",
+                "beginDate": "2015-05-28T03:00:00.000Z",
+                "endDate": "2015-05-28T03:00:00.000Z",
+                "biddingValue": 142977.9,
+                "homologationDate": "2015-06-02T03:00:00.000Z",
+                "city": "2863 - SAO BRAS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000027/2015",
+              "biddingId": "003/2015",
+              "date": "2015-06-08T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 18286438000143",
+                "hirerDocument": "CNPJ: 12207437000180",
+                "type": "Obras",
+                "object": "CONTRATAÇÃO DE UMA EMPRESA ESPECIALIZADA EM OBRAS E SERVIÇOS DE ENGENHARIA PARA REFORMA DO ESTADIO IVISOM FERREIRA NO MUNICÍPIO DE SÃO BRÁS -AL.",
+                "totalValue": 108612.31,
+                "publishDate": "2015-06-08T03:00:00.000Z",
+                "beginDate": "2015-06-03T03:00:00.000Z",
+                "endDate": "2015-09-03T03:00:00.000Z",
+                "signDate": "2015-06-03T03:00:00.000Z",
+                "executionProcessId": "003/2015 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0032015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "786984/2013",
+            "validity": "08/11/2013 a 07/11/2017",
+            "limitDate": "2018-01-06T02:00:00.000Z",
+            "totalValue": 253750,
+            "transferValue": 243750,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "744232/2010",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-20T02:00:00.000Z",
+        "end": "2012-12-20T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "068839/2010",
+            "organId": "68839/2010",
+            "processId": "068839/2010",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de São Brás localizado no agreste alagoano. Sua população total é de 7.062 habitantes, de acordo com o Censo Demográfico do IBGE (2009). Seu Índice de Desenvolvimento Humano (IDH) é de 0,61 segundo o Atlas de Desenvolvimento Humano/PNUD (2000). O povoado de Lagoa Comprida, municipio de São Brás é banhado pelo o famoso rio São Francisco, e principalmente nos finais de semana o povoado fica repleto de turistas vindo de outros municipios, contudo algumas ruas que dão acesso ao mesmo não dispõe de pavimentação fazendo com que os turistas não possuam uma estrutura boa e necessária. Por isso tudo vimos através dessa proposta solicitar ao ministério do turismo recurso para pavimentação e estrutura das ruas que dão acesso ao Rio São Francisco. As Ruas que serão contempladas serão: A RUA DE ACESSO AO POVOADO (PRINCIPAL), a RUA DE BAIXO, que fica as margens do rios, e RUA CIDADE DOS ANJOS. Todas estas ruas dão acesso ao Rio. Nestas ruas deverão ser feito aterro e drenagem para um escoamento das águas proveniente das chuvas, além de melhorar o passeio dos turistas que circulam pelo povoado. O povoado de Lagoa Comprida é o maior povoado do municipio de São Brás, tem uma população equivalente ao da cidade e tem um privilégio enorme de está as margens do Rio São Francisco, neste se formam várias prainhas de água doce. A população local vive da pesca, do artesanato e da renda do turistas que visitam o local e gastam em diversas coisas, como o artesanato, das comidas servidas, dos bares e etc. Um dos principais motivos para pavimentação e estruturação, é que quando chega épocas de chuvas a uma dificuldade de trafegar por estas ruas, fazendo com que a população tenha uma baixa na sua renda devido a falta de turistas e dificuldade da população em ir a cidade.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação das ruas que dão acesso ao Rio São Francisco.",
+            "information": "O municipio dispõe de toda capacidade técnica e gerencial necessaria.",
+            "proposalDate": "2010-06-09T03:00:00.000Z",
+            "biddingDate": "2010-12-20T02:00:00.000Z",
+            "homologationDate": "2011-12-27T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100020",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 300000,
+              "details": {
+                "code": "5400020100020",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "Infraestrutura urbanística",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 7500,
+                  "financial": 7500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.945.764-** - ANTONIO COSTA BORGES NETO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "744232/2010",
+            "validity": "20/12/2010 a 20/12/2012",
+            "limitDate": "2013-01-19T02:00:00.000Z",
+            "totalValue": 300000,
+            "transferValue": 292500,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "737015/2010",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-21T02:00:00.000Z",
+        "end": "2013-08-14T03:00:00.000Z",
+        "program": "ALAGOAS - OGU 2010",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "038759/2010",
+            "organId": "38759/8759",
+            "processId": "38759",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de São Brás era um pequeno povoado cujo território, jurisdição civil e eclesiástica, pertencia a Porto Real de Colégio. E sua história se desenvolveu paralela a de Porto Real de Colégio. Após ter sido determinado como município, São Brás foi anexado e desmembrado por várias vezes de outros municípios, voltando a ter definitivamente autonomia política somente com a constituição de 1947. São Brás atualmente apresenta uma área territorial de aproximadamente 140Km ², ficou classificada em extensão territorial em 66° lugar no estado de Alagoas. Encontra- se localizado na região do agreste no baixo São Francisco. Limita-se ao norte, com Olho D’água Grande; ao leste com Porto Real de Colégio, a oeste, com Traipú, ao sul com o Rio São Francisco com 31 metros acima do nível do mar. O acesso ao município se dá pela AL 115 distanciando 202 km da capital alagoana, sendo composto por sete povoados, são eles: Tibiri, Sampaio, Girau do Itiuba, Sucupira, Massaranduba, Mão de Engenho e Lagoa Comprida. (IBGE,2010/Plano Mun. de Assistência Social 2010/2013) De acordo com o censo 2010 São Brás possui uma população de 6.720 habitantes, sendo 3.183 na zona urbana e 2.389 na zona rural. Com relação ao Índice de Desenvolvimento Humano, dentre os 102 municípios alagoanos, no ano de 2000 São Brás ocupa a 38ª posição com IDH de 0,606. No quesito educação seu índice era de 0,648, longevidade 0,701 e renda 0,469. (Associação Mun. Alagoanos) De acordo com os dados fornecidos pelo Sindicato dos Trabalhadores Rurais a quantidade de produtores rurais que serão beneficiados é de aproximadamente 150, produzindo arroz, inhame, mandioca, amendoim, estes em pequenas quantidades, ou seja, para o próprio consumo. Já as produções de milho e feijão em grandes quantidades, sendo os mesmos as principais fontes econômicas do município, de acordo com levantamentos feitos pelo IBGE, no ano de 2007, foram contabilizadas as produções de: feijão (em grãos) produziu 70 toneladas e de milho (em grão) produziu 86 toneladas. O Solo do Município tem algumas ondulações, porém pode ser usada tranquilamente a mecanização. Aproveito para informar que não existe nenhum convênio firmado entre a Prefeitura de São Brás/AL e o Ministério da Agricultura, Pecuária e Abastecimento. Porém o município foi agraciado com a emenda do Senador Renan Calheiros para aquisição de patrulha mecanizada, fato este que irá proporcionar uma melhora na produção da agricultura familiar, tendo em vista que a média do tamanho das propriedades é de 22,5 hectares e a renda familiar desses produtores é de aproximadamente 1 salário mínimo. Desta forma a Patrulha Mecânica é de fundamental importância para o município, pois irá elevar os ganhos dos produtores e conseguentemente melhorar a economia do município, na qual será atingido indiretamente todos os munícipes.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Patrulha Mecanizada.",
+            "information": "O município dispõe de tratorista, tecnicos agricola, galpão para guardar todos objetos e maquina e se compromete em fazer manunteção dos mesmos.",
+            "proposalDate": "2010-04-11T03:00:00.000Z",
+            "biddingDate": "2010-12-21T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020100069",
+              "name": "ALAGOAS - OGU 2010",
+              "value": 180000,
+              "details": {
+                "code": "2200020100069",
+                "name": "ALAGOAS - OGU 2010",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra- Estrutura Agropecuária",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 180000,
+                "couterpartValues": {
+                  "total": 4500,
+                  "financial": 4500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 175500,
+                  "amendment": "R$ 175.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.945.764-** - ANTONIO COSTA BORGES NETO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0062011",
+              "type": "Licitação - Pregão",
+              "date": "2011-08-16T03:00:00.000Z",
+              "processId": "0062011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0062011",
+                "biddingId": "0062011",
+                "object": "AQUISIÇÃO DE PRATRULHA MECANIZADA",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "O Prefeito Municipal de São Brás/AL, usando de suas atribuições legais e de conformidade com o que dispõe a Lei de nº 8.666 de 21 de Junho de 1993 e suas alterações posteriores passa a homologar e adjudicar da decisão da comissão de licitação referente ao Processo Licitatório.",
+                "publishDate": "2011-08-16T03:00:00.000Z",
+                "beginDate": "2011-08-26T03:00:00.000Z",
+                "endDate": "2011-08-26T03:00:00.000Z",
+                "biddingValue": 155530,
+                "homologationDate": "2011-08-30T03:00:00.000Z",
+                "city": "2863 - SAO BRAS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000101/2012",
+              "biddingId": "0062011",
+              "date": "2011-09-08T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 13383768000133",
+                "hirerDocument": "CNPJ: 12207437000180",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE PATRULHA MECANIZADA",
+                "totalValue": 25530,
+                "publishDate": "2011-09-08T03:00:00.000Z",
+                "beginDate": "2011-08-31T03:00:00.000Z",
+                "endDate": "2012-08-31T03:00:00.000Z",
+                "signDate": "2011-08-31T03:00:00.000Z",
+                "executionProcessId": "0062011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0062011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas em Análise",
+            "number": "737015/2010",
+            "validity": "21/12/2010 a 14/08/2013",
+            "limitDate": "2019-10-15T03:00:00.000Z",
+            "totalValue": 20,
+            "transferValue": 180000,
+            "counterpartValue": 175500,
+            "yieldValue": 4500
+          }
+        }
+      },
+      {
+        "agreementId": "727808/2009",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2014-12-22T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas em Complementação",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "061984/2009",
+            "organId": "06198/2009",
+            "processId": "061984/2009",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de São Brás localizado no agreste alagoano. Sua população total é de 6.551 habitantes, de acordo com o Censo Demográfico do IBGE (2000). Seu Índice de Desenvolvimento Humano (IDH) é de 0,61 segundo o Atlas de Desenvolvimento Humano/PNUD (2000), sua economia é baseada na agricultura e pesca. Sua população jovem está desprovida de área onde as familiares e a comunidade possam passear e conversar e fazer eventuais eventos. O Poder Público Municipal definiu a praça de eventos, localizada no centro da cidade, como área para população poder fazer seus provalveis eventos, passear e conversar. Possui como principais atrativos turísticos: as margens do Rio São Francisco, onde a população costuma chamar de “prainha”, diversos tipos de feiras, festa do padroeiro São Brás, Festa de Santos Reis, Cavalgada dos amigos, Emancipação política da cidade, shows durante o carnaval, campeonato de futebol amador, campeonato de vôlei de praia que conta com atletas de muitos municípios de Alagoas e até de Sergipe e entre outras. A execução da obra solucionará problemas no âmbito do turismo, tais como: Falta de espaço para efetuar feiras de artesanato, pequenos shows artísticos, de peças teatrais e outros eventos turísticos. Os resultados esperados com a implantação do objeto compreendem dotar o município desta importante infra-estrutura turísticas, melhorando a qualidade de vida da população, por meio da geração de emprego e renda e disponibilizando ao turista conforto e segurança. Emenda: 2403.0003 do deputado federal Joaquim Beltrão. As pessoas que serão benefeciadas serão de toda a região, englobando a zona rural e urbana. E a renda média da cidade de São Brás é 1 salário minimo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de uma praça para eventos, na rua São José,s/n, Centro, São Brás-AL.",
+            "information": "",
+            "proposalDate": "2009-08-14T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090006",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+              "value": 119400,
+              "details": {
+                "code": "5400020090006",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "cps": "",
+                "items": "Praça publica",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 119400,
+                "couterpartValues": {
+                  "total": 2400,
+                  "financial": 2400,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 117000,
+                  "amendment": "R$ 117.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.945.764-** - ANTONIO COSTA BORGES NETO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0072010",
+              "type": "Licitação - Convite",
+              "date": "2010-06-18T03:00:00.000Z",
+              "processId": "0072010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "0072010",
+                "biddingId": "0072010",
+                "object": "Construção de uma praça para eventos, na rua São José,s/n, Centro, São Brás-AL.",
+                "legalFoundation": "LEI DE N°8.666/93",
+                "justification": "O Prefeito Municipal de São Brás/AL, usando de suas atribuições legais e de conformidade com o que dispõe a Lei de nº 8.666 de 21 de Junho de 1993 e suas alterações posteriores passa a homologar e adjudicar da decisão da comissão de licitação referente ao Processo Licitatório.",
+                "publishDate": "2010-06-18T03:00:00.000Z",
+                "beginDate": "2010-06-30T03:00:00.000Z",
+                "endDate": "2010-06-30T03:00:00.000Z",
+                "biddingValue": 119255.31,
+                "homologationDate": "2010-07-01T03:00:00.000Z",
+                "city": "2863 - SAO BRAS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000091/2010",
+              "biddingId": "0072010",
+              "date": "2010-07-02T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10702260000162",
+                "hirerDocument": "CNPJ: 12207437000180",
+                "type": "Material e Serviço",
+                "object": "CONSTRUÇÃO DE UMA PRAÇA PARA EVENTOS,NA RUA  SÃO JOSE,S/N,CENTRO,MUNICÍPIO DE SÃO BRAS -AL",
+                "totalValue": 119255.31,
+                "publishDate": "2010-07-02T03:00:00.000Z",
+                "beginDate": "2011-07-01T03:00:00.000Z",
+                "endDate": "2014-06-24T03:00:00.000Z",
+                "signDate": "2010-07-01T03:00:00.000Z",
+                "executionProcessId": "0072010 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "0072010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas em Complementação",
+            "number": "727808/2009",
+            "validity": "31/12/2009 a 22/12/2014",
+            "limitDate": "2020-07-06T03:00:00.000Z",
+            "totalValue": 119400,
+            "transferValue": 117000,
+            "counterpartValue": 2400,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "713358/2009",
+        "uf": "AL",
+        "city": "São Brás",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-07-03T03:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "061903/2009",
+            "organId": "61903/2009",
+            "processId": "061903/2009",
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de São Brás localizado no agreste alagoano. Sua população total é de 6.551,00 de habitantes, de acordo com o Censo Demográfico do IBGE (2000). Seu Índice de Desenvolvimento Humano (IDH) é de 0,61 segundo o Atlas de Desenvolvimento Humano/PNUD (2000), sua economia é baseada na agricultura e pesca. Sua população jovem está desprovida de equipamentos de esporte e lazer acarretando ociosidade violência, para familiares e a comunidade. O Poder Público Municipal definiu o Esporte e Lazer como uma das prioridades como estratégia para minimizar os índices de violência, disponibilizando um espaço para a prática esportiva, porem o Município necessita da Cooperação financeira para construir e equipar uma Quadra Poliesportiva, no povoado de Lagoa Comprida (Zona Rural), contribuindo para reduzir a exclusão e o risco social e para melhorar a qualidade de vida. A renda média de parte de 55% da população do povoado é de 1 salário mínimo. Vão ser beneficiada direta ou indiretamente 260 familias.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de uma Quadra poliesportiva descoberta.",
+            "information": "",
+            "proposalDate": "2009-08-14T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 120796.09,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 120796.09,
+                "couterpartValues": {
+                  "total": 3796.09,
+                  "financial": 3796.09,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 117000,
+                  "amendment": "R$ 117.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.437/0001-80 - MUNICIPIO DE SAO BRAS",
+            "respProponent": "***.945.764-** - ANTONIO COSTA BORGES NETO",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "08/2010",
+              "type": "Licitação - Convite",
+              "date": null,
+              "processId": "082010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "082010",
+                "biddingId": "08/2010",
+                "object": "Construção de uma Quadra Poliesportiva Descoberta.",
+                "legalFoundation": "Lei 8.666 de 21 de junho de 1993",
+                "justification": "O Prefeito Municipal de São Brás/AL, usando de suas atribuições legais e de conformidade com o que dispõe a Lei de nº 8.666 de 21 de Junho de 1993 e suas alterações posteriores passa a homologar e adjudicar da decisão da comissão de licitação referente ao Processo Licitatório.",
+                "publishDate": null,
+                "beginDate": "2010-06-30T03:00:00.000Z",
+                "endDate": "2010-07-01T03:00:00.000Z",
+                "biddingValue": 120796.09,
+                "homologationDate": "2010-07-01T03:00:00.000Z",
+                "city": "2863 - SAO BRAS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000008/2010",
+              "biddingId": "08/2010",
+              "date": "2010-07-02T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10545595000114",
+                "hirerDocument": "CNPJ: 12207437000180",
+                "type": "Material e Serviço",
+                "object": "Construção de uma Quadra Poliesportiva Descoberta.",
+                "totalValue": 120796.09,
+                "publishDate": "2010-07-02T03:00:00.000Z",
+                "beginDate": "2009-12-31T02:00:00.000Z",
+                "endDate": "2012-07-03T03:00:00.000Z",
+                "signDate": "2010-07-01T03:00:00.000Z",
+                "executionProcessId": "08/2010 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "082010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE SAO BRAS",
+            "documentNumber": "12.207.437/0001-80",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "713358/2009",
+            "validity": "31/12/2009 a 03/07/2012",
+            "limitDate": "2012-07-03T03:00:00.000Z",
+            "totalValue": 120796.09,
+            "transferValue": 117000,
+            "counterpartValue": 3796.09,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

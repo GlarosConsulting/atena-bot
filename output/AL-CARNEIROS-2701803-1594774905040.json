@@ -1,0 +1,1944 @@
+{
+  "beginDate": "2020-07-14T20:32:44.421Z",
+  "endDate": "2020-07-14T20:52:02.156Z",
+  "data": {
+    "location": {
+      "city": "Carneiros",
+      "uf": "AL",
+      "ibge": "2701803"
+    },
+    "agreements": [
+      {
+        "agreementId": "855299/2017",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-22T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "015083/2017",
+            "organId": "15083/2017",
+            "processId": "0150832017",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Carneiros do Estado do Alagoas. Os habitantes se chamam carneirenses.O município se estende por 113,1 km² e contava com 8 290 habitantes no último censo. A densidade demográfica é de 73,3 habitantes por km² no território do município. Vizinho dos municípios de São José da Tapera, Senador Rui Palmeira e Olho d'Água das Flores, Carneiros se situa a 8 km a Norte-Leste de São José da Tapera a maior cidade nos arredores.A cidade tem uma enorme tradição na realização de grandes eventos como São João e São Pedro, festa da padroeira, e a maior de todos a Nossa Senhora da Conceição e a da emancipação, ambas bem movimentadas e não possui local apropriado para a realização desses eventos, que normalmente são realizados no meio da rua com vários Turistas . E com certeza a construção dessas praças próximo do local onde são realizados todos esses eventos, irá em muito contribuir para uma melhor recepção aos milhares de turistas que todos os anos visitam Carneiros durante a realização destas festas. A adaptação destes espaços irá atrair um público ainda maior, de todas as idades, e será mais um fator para o desenvolvimento do turismo em nosso município, além de proporcionar um incremento de empregos e renda. A reforma da Praça do Conjunto Frei Damião será um estímulo para intensificar ainda mais as iniciativas para consolidar o turismo local, pois, além de atrair visitantes, tem como objetivo divulgar, promover e fortalecer as tradições locais, e mais, a geração direta e indireta de empregos e renda, além de proporcionar e compartilhar informações sobre as melhores praticas em turismo comunitário. Pois é um local onde temos a concentração de fies devido a Igreja católica que está próximo a ela. Localizam-se no centro da cidade, e como resultado, espera-se fortalecer ainda mais a centralidade regional e promover o desenvolvimento do município em sua área de atuação e influência, incrementar o mercado turístico, proporcionar lazer e descontração à comunidade, ampliar as possibilidades de acesso no campo da musica e da dança mantendo as tradições locais. O objeto será a Revitalização e Reforma da Praça do Conjunto Frei Damião , através da EMENDA 22890008 , PARLAMENTA RENAN CALHEIROS . Os resultados esperados com a realização da obra será consolidar o turismo local como vetor indutor ao desenvolvimento socioeconômico do município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Revitalização e reforma da Praça do Conjunto Frei Damião",
+            "information": "Declaramos, para devidos fins e a quem possa interessar, e sob as penalidades da Lei, que este Município dispõe de capacidade Técnica com quadro de profissionais, GMC – Gestor Municipal de Convênio e contratos, CPL – Comissão Permanente de Licitações, para gerenciar o Convênio .",
+            "proposalDate": "2017-03-15T03:00:00.000Z",
+            "biddingDate": "2017-12-22T02:00:00.000Z",
+            "homologationDate": "2018-01-10T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170005",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+              "value": 250000,
+              "details": {
+                "code": "5400020170005",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+                "cps": "",
+                "items": "I – construção, revitalização e reforma de infraestrutura urbana para adequação de espaços de interesse turístico (saneamento básico, sistemas de drenagem urbana, paisagismo, sinalização turística e praças; parques urbanos, pavimentação, execução de calçadas, passeios, iluminação pública e ciclovias/ciclofaixas, se os projetos estiverem associados a parques, praças, orlas e outros atrativos turísticos, sendo necessária a apresentação de mapa (croqui) que evidencie a associação àqueles atrativos",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 6250,
+                  "financial": 6250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.349.854-** - GERALDO NOVAIS AGRA FILHO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.774.458-** - NEUSVALDO FERREIRA LIMA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-01-28T02:00:00.000Z",
+              "processId": "0020141800119",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0020141800119",
+                "biddingId": "01/2019",
+                "object": "REVITALIZAÇÃO E REFORMA DA PRAÇA DO CONJUNTO FREI DAMIÃO",
+                "legalFoundation": "8.666/1993",
+                "justification": "Tomada de preços é a modalidade de licitação entre interessados devidamente cadastrados ou que atenderem a todas as condições exigidas para cadastramento até o terceiro dia anterior à data do recebimento das propostas, observada a necessária qualificação.",
+                "publishDate": "2019-01-28T02:00:00.000Z",
+                "beginDate": "2019-02-12T02:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 156356.74,
+                "homologationDate": "2019-02-22T03:00:00.000Z",
+                "city": "2761 - IGACI",
+                "analysisDate": "2019-04-16T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2019",
+              "biddingId": "01/2019",
+              "date": "2019-02-28T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05091789000157",
+                "hirerDocument": "CNPJ: 12250684000169",
+                "type": "Material",
+                "object": "REVITALIZAÇÃO E REFORMA DA PRAÇA DO CONJUNTO FREI DAMIÃO",
+                "totalValue": 156356.74,
+                "publishDate": "2019-02-28T03:00:00.000Z",
+                "beginDate": "2019-02-28T03:00:00.000Z",
+                "endDate": "2019-10-28T03:00:00.000Z",
+                "signDate": "2019-02-22T03:00:00.000Z",
+                "executionProcessId": "01/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0020141800119 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "855299/2017",
+            "validity": "22/12/2017 a 30/10/2021",
+            "limitDate": "2020-02-28T03:00:00.000Z",
+            "totalValue": 25,
+            "transferValue": 250000,
+            "counterpartValue": 243750,
+            "yieldValue": 6250
+          }
+        }
+      },
+      {
+        "agreementId": "797510/2013",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2015-12-31T02:00:00.000Z",
+        "program": "2068 - Saneamento Básico (7652 - Melhorias Sanitárias Domiciliares - MSD)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "080962/2013",
+            "organId": "00173/2013",
+            "processId": "25100.031168/2013-92",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 507/2011.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "Localizado a 220km da Capital, no alto no sertão alagoano, com a maioria de sua população de baixa renda que sofre com a seca, que castiga quase o ano todo. Objetivando o mínimo de qualidade de vida para as pessoas que ainda são atingidas pela falta Saneamento Básico de alguns domicílio do Município. Buscando junto ao Governo Federal e a Funasa a adequação da infraestrutura do município, começando pelas residências, oferecendo Melhorias Sanitárias assim contribuindo para redução de doenças, promover hábitos higiênicos para toda a população Carneirense.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Melhorias Sanitárias Domiciliares",
+            "information": "",
+            "proposalDate": "2013-11-20T02:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120130008",
+              "name": "2068 - Saneamento Básico (7652 - Melhorias Sanitárias Domiciliares - MSD)",
+              "value": 382500,
+              "details": {
+                "code": "3621120130008",
+                "name": "2068 - Saneamento Básico (7652 - Melhorias Sanitárias Domiciliares - MSD)",
+                "cps": null,
+                "items": "Dotar os domicílios e estabelecimentos coletivos de condições sanitárias adequadas visando à prevenção e controle de doenças e agravos.",
+                "couterpartRule": "Municípios com até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 382500,
+                "couterpartValues": {
+                  "total": 7650,
+                  "financial": 7650,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 374850,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.220.634-** - LUIZ MEDEIROS NOBRE",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.191.096-** - GILSON DE CARVALHO QUEIROZ FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "797510/2013",
+            "validity": "31/12/2013 a 31/12/2015",
+            "limitDate": "2016-02-29T03:00:00.000Z",
+            "totalValue": 382500,
+            "transferValue": 374850,
+            "counterpartValue": 7650,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "787204/2013",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2019-06-28T03:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "049200/2013",
+            "organId": "49200/2013",
+            "processId": "049200/2013",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Situada no sertão alagoano, Carneiros dica a 220 km da capital, com um clima quente, árido, sua população sofre com a seca como a maioria das cidades localizadas no sertão nordestino. Buscando a adequação da infraestrutura do município para melhorar a qualidade de vida dos moradores e visitantes, vem procurar junto ao Governo Federal parceria para execução de projetos que melhorem a mobilidade do cidadão no município, através de pavimentação de ruas na zona urbana dando mais conforto e segurança aos moradores.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em diversas ruas na zona urbana do município de Carneiros.",
+            "information": "",
+            "proposalDate": "2013-08-12T03:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-08T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020130013",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 502962,
+              "details": {
+                "code": "5600020130013",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação e requalificação de infraestrutura de sistemas de transporte público coletivo urbano de passageiros ( Vide aba ANEXOS - Arquivo MOBILIDADE URBANA), Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "Contrato de Repasse com valor inferior a R$ 750.000,00,para Estado e Distrito Federal, exceto quando necessário à funcionalidade do objeto e à cobertura de despesas não apoiadas com recursos da União. [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 502962,
+                "couterpartValues": {
+                  "total": 9862,
+                  "financial": 9862,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 493100,
+                  "amendment": "R$ 493.100,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.349.854-** - GERALDO NOVAIS AGRA FILHO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-05-28T03:00:00.000Z",
+              "processId": "005014030518",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "005014030518",
+                "biddingId": "01/2018",
+                "object": "Pavimentação em Paralelepípedos de Vias Urbanas",
+                "legalFoundation": "Art. 22 da lei 8666/93",
+                "justification": "Tomada de preços é a modalidade de licitação entre interessados devidamente cadastrados ou que atenderem a todas as condições exigidas para cadastramento até o terceiro dia anterior à data do recebimento das propostas, observada a necessária qualificação.",
+                "publishDate": "2018-05-28T03:00:00.000Z",
+                "beginDate": "2018-06-13T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 174040.29,
+                "homologationDate": "2018-06-25T03:00:00.000Z",
+                "city": "2735 - CARNEIROS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2018",
+              "biddingId": "01/2018",
+              "date": "2018-07-05T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 26399954000102",
+                "hirerDocument": "CNPJ: 12250684000169",
+                "type": "Material",
+                "object": "Pavimentação em diversas ruas na zona urbana do município de Carneiros.",
+                "totalValue": 174040.29,
+                "publishDate": "2018-07-05T03:00:00.000Z",
+                "beginDate": "2018-06-03T03:00:00.000Z",
+                "endDate": "2018-06-03T03:00:00.000Z",
+                "signDate": "2018-06-26T03:00:00.000Z",
+                "executionProcessId": "01/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "005014030518 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "787204/2013",
+            "validity": "31/12/2013 a 28/06/2019",
+            "limitDate": "2019-06-27T03:00:00.000Z",
+            "totalValue": 27,
+            "transferValue": 502962,
+            "counterpartValue": 493100,
+            "yieldValue": 9862
+          }
+        }
+      },
+      {
+        "agreementId": "729137/2009",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-01-19T02:00:00.000Z",
+        "end": "2011-11-09T02:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "131521/2009",
+            "organId": "01387/2009",
+            "processId": "59050.004030/2009-99",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Minimizar as consequências do extenso período de estiagem",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Caminhões Pipa",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Carneiros/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-12-22T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090016",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 256000,
+              "details": {
+                "code": "5300020090016",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Todos os municípios, com população abaixo de 50.000 habitantes, localizados em todas as regiões do Brasil. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 256000,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.349.854-** - GERALDO NOVAIS AGRA FILHO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.042.835-** - IVONE MARIA VALENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0062010",
+              "type": "Licitação - Pregão",
+              "date": "2010-12-06T02:00:00.000Z",
+              "processId": "0332010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0332010",
+                "biddingId": "0062010",
+                "object": "Aquisição de um Caminhão Pipa.",
+                "legalFoundation": "Art.4º inciso VII da Lei 10.520/2002",
+                "justification": "Art. 4º A fase externa do pregão será iniciada com a convocação dos interessados e observará as seguintes regras:\nVII - aberta a sessão, os interessados ou seus representantes, apresentarão declaração dando ciência de que\ncumprem plenamente os requisitos de habilitação e entregarão os envelopes contendo a indicação do objeto e do preço\noferecidos, procedendo-se à sua imediata abertura e à verificação da conformidade das propostas com os requisitos\nestabelecidos no instrumento convocatório;",
+                "publishDate": "2010-12-06T02:00:00.000Z",
+                "beginDate": "2010-12-16T02:00:00.000Z",
+                "endDate": "2010-12-23T02:00:00.000Z",
+                "biddingValue": 244500,
+                "homologationDate": "2010-12-23T02:00:00.000Z",
+                "city": "2735 - CARNEIROS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000006/2010",
+              "biddingId": "0062010",
+              "date": "2010-12-23T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12268249000161",
+                "hirerDocument": "CNPJ: 12250684000169",
+                "type": "Material",
+                "object": "Aquisição de um Caminhão Pipa.",
+                "totalValue": 244500,
+                "publishDate": "2010-12-23T02:00:00.000Z",
+                "beginDate": "2010-01-19T02:00:00.000Z",
+                "endDate": "2011-11-09T02:00:00.000Z",
+                "signDate": "2010-12-23T02:00:00.000Z",
+                "executionProcessId": "0062010 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0332010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "729137/2009",
+            "validity": "19/01/2010 a 09/11/2011",
+            "limitDate": "2011-12-09T02:00:00.000Z",
+            "totalValue": 256000,
+            "transferValue": 250000,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "726010/2009",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2017-06-30T03:00:00.000Z",
+        "program": "1214.8581.0048 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - No Estado de Alagoas - Emenda Parlamentar - 20670007.",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "075662/2009",
+            "organId": "07566/2009",
+            "processId": "075662/2009",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Melhorar a assistência médica a todos os moradores do município proporcionando um atendimento de qualidade. As famílias que residem no conjunto e nas imediações, que se localiza na zona urbana, têm renda média em torno de 2 salários mínimos. No conjunto Manoel da Loja já existem 97 famílias residentes e serão construídas mais 144 casas perfazendo um total de 241 casas no conjunto. Nas imediações do conjunto residem outras 300 famílias que também serão beneficiadas, ou seja, diretamente 241 famílias e indiretamente 300 famílias.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção do Posto de Saúde do Conjunto Manoel da Loja com equipamentos",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Carneiros/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato (01 Gerente), CPL – Comissão Permanente de Licitação (03 membros), Engenheiro (01), Técnico Social (02), e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-09-29T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020091477",
+              "name": "1214.8581.0048 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - No Estado de Alagoas - Emenda Parlamentar - 20670007.",
+              "value": 255880.76,
+              "details": {
+                "code": "3600020091477",
+                "name": "1214.8581.0048 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - No Estado de Alagoas - Emenda Parlamentar - 20670007.",
+                "cps": "",
+                "items": "Construção de Unidade de Atenção Básica de Saúde.",
+                "couterpartRule": "Municípios com até 50 mil habitantes. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 4.0%]",
+                "totalValue": 255880.76,
+                "couterpartValues": {
+                  "total": 5880.76,
+                  "financial": 5880.76,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": "R$ 250.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.220.634-** - LUIZ MEDEIROS NOBRE",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2013",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-05-14T03:00:00.000Z",
+              "processId": "04230062013",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "04230062013",
+                "biddingId": "02/2013",
+                "object": "Construção de uma Unidade Básica de Saúde no conjunto Manoel da Loja.",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "ART.23  da Lei 8.666/1993",
+                "publishDate": "2014-05-14T03:00:00.000Z",
+                "beginDate": "2014-05-29T03:00:00.000Z",
+                "endDate": "2014-06-06T03:00:00.000Z",
+                "biddingValue": 197891.41,
+                "homologationDate": "2014-06-11T03:00:00.000Z",
+                "city": "2735 - CARNEIROS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000215/2014",
+              "biddingId": "02/2013",
+              "date": "2013-06-21T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04918243000164",
+                "hirerDocument": "CNPJ: 12250684000169",
+                "type": "Material",
+                "object": "Construção de Unidade Básica de Saúde, no conjunto Manoel da Loja no Município de Carneiros-AL.",
+                "totalValue": 197891.41,
+                "publishDate": "2013-06-21T03:00:00.000Z",
+                "beginDate": "2013-06-17T03:00:00.000Z",
+                "endDate": "2015-01-09T02:00:00.000Z",
+                "signDate": "2013-06-17T03:00:00.000Z",
+                "executionProcessId": "02/2013 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "04230062013 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "726010/2009",
+            "validity": "31/12/2009 a 30/06/2017",
+            "limitDate": "2017-06-30T03:00:00.000Z",
+            "totalValue": 255880.76,
+            "transferValue": 250000,
+            "counterpartValue": 5880.76,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "722433/2009",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-08-30T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "041046/2009",
+            "organId": "04104/2009",
+            "processId": "041046/2009",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Melhorar as condições de transito de veiculos, além de diminuir de modo consideravel a poeira oriunda do barro do meio da rua. O município de Carneiros tem uma das menores rendas per capita do estado e sua população tem uma renda média abaixo dos 2 salários mínimos. Nestas obras de pavimentação serão atendidas cerca de 100 famílias na área urbana do município e no povoado Alto dos Ancelmos na zona rural.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de ruas no município de Carneiros",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Carneiros/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-06-20T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090206",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 253460,
+              "details": {
+                "code": "5300020090206",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 253460,
+                "couterpartValues": {
+                  "total": 7610,
+                  "financial": 7610,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.220.634-** - LUIZ MEDEIROS NOBRE",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "003.2011",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2011-09-06T03:00:00.000Z",
+              "processId": "0102012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0102012",
+                "biddingId": "003.2011",
+                "object": "Pavimentação em paralelepípedo de diversas ruas na sede do município de Carneiros.",
+                "legalFoundation": "8666.93",
+                "justification": "8666.93",
+                "publishDate": "2011-09-06T03:00:00.000Z",
+                "beginDate": "2011-09-22T03:00:00.000Z",
+                "endDate": "2011-09-22T03:00:00.000Z",
+                "biddingValue": 238587.75,
+                "homologationDate": "2011-09-23T03:00:00.000Z",
+                "city": "2735 - CARNEIROS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2011",
+              "biddingId": "003.2011",
+              "date": "2011-09-26T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04020209000178",
+                "hirerDocument": "CNPJ: 12250684000169",
+                "type": "Material",
+                "object": "Contrata��o de empresa para execu��o de obras de pavimenta��o.",
+                "totalValue": 238587.75,
+                "publishDate": "2011-09-26T03:00:00.000Z",
+                "beginDate": "2011-09-26T03:00:00.000Z",
+                "endDate": "2011-12-31T02:00:00.000Z",
+                "signDate": "2011-09-26T03:00:00.000Z",
+                "executionProcessId": "003.2011 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0102012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "722433/2009",
+            "validity": "31/12/2009 a 30/08/2016",
+            "limitDate": "2016-08-30T03:00:00.000Z",
+            "totalValue": 253460,
+            "transferValue": 245850,
+            "counterpartValue": 7610,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "716098/2009",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-28T02:00:00.000Z",
+        "end": "2013-04-30T03:00:00.000Z",
+        "program": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO-Ação-15.244.1025.7K66.0092-AL (Emenda)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "INADIMPLENTE",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "051035/2009",
+            "organId": "50126/2009",
+            "processId": "59550.000495/2009-30",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/MCT nº 165/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "Os povoados do municipio de Carneiros são interligados à sua sede, através de estradas vicinais de terra. Devido as chuvas que ocorreram em maio de 2009, essas estradas sofreram graves erosões, de forma que ficaram intransitáveis, e diversos riachos impediram totalmente o transito nelas. No aspecto socio - economico, essas estradas são fundamentais para as comunidades rurais do municipio, onde está a maioria da população. Através delas é escoada a produção agrícola, principal fonte de renda do municipio. Desta forma, as obras de construçào da Passagem Molhada são urgentes e fundamentais, para atendimento às necessidades essenciais da população do municipio de Carneiros, em especial o Povoado Várzea da Esteira, onde habitam cerca de 150 famílias que sofrem diariamente no trajeto até a sede do município, principalmente os estudantes e trabalhadores que necessitam se locomover todos os dias.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Passagem Molhada na Estrada Vicinal de acesso ao Povoado Várzea da Esteira.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Carneiros/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-07-16T03:00:00.000Z",
+            "biddingDate": "2009-12-28T02:00:00.000Z",
+            "homologationDate": "2009-12-29T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320090002",
+              "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO-Ação-15.244.1025.7K66.0092-AL (Emenda)",
+              "value": 100000,
+              "details": {
+                "code": "2220320090002",
+                "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO-Ação-15.244.1025.7K66.0092-AL (Emenda)",
+                "cps": null,
+                "items": "Aumentar a sustentabilidade de espaços sub-regionais da Política Nacional de Desenvolvimento Regional, para a redução das desigualdades inter e intra-regionais.",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 100000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 95000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.349.854-** - GERALDO NOVAIS AGRA FILHO",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0204/2012",
+              "type": "Licitação - Convite",
+              "date": "2012-04-09T03:00:00.000Z",
+              "processId": "0172012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "0172012",
+                "biddingId": "0204/2012",
+                "object": "Construção de uma Passagem Molhada sobre o Riacho Salgadinho-Sítio Várzea da Esteira no município de Carneiros, medindo 5,00m de largura por 31,00m de comprimento perfazendo uma área total de 155m².",
+                "legalFoundation": "8666/93",
+                "justification": "Construção de uma Passagem Molhada sobre o Riacho Salgadinho-Sítio Várzea da Esteira no município de Carneiros, medindo 5,00m de largura por 31,00m de comprimento perfazendo uma área total de 155m².",
+                "publishDate": "2012-04-09T03:00:00.000Z",
+                "beginDate": "2012-04-17T03:00:00.000Z",
+                "endDate": "2012-04-17T03:00:00.000Z",
+                "biddingValue": 115126.94,
+                "homologationDate": "2012-05-08T03:00:00.000Z",
+                "city": "2735 - CARNEIROS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000204/2012",
+              "biddingId": "0204/2012",
+              "date": "2012-05-22T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04918243000164",
+                "hirerDocument": "CNPJ: 12250684000169",
+                "type": "Serviço",
+                "object": "Construção de uma Passagem Molhada sobre o Riacho Salgadinho-Sítio Várzea da Esteira no município de Carneiros, medindo 5,00m de largura por 31,00m de comprimento perfazendo uma área total de 155m².",
+                "totalValue": 115126.94,
+                "publishDate": "2012-05-22T03:00:00.000Z",
+                "beginDate": "2012-05-08T03:00:00.000Z",
+                "endDate": "2012-06-20T03:00:00.000Z",
+                "signDate": "2012-05-08T03:00:00.000Z",
+                "executionProcessId": "0204/2012 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "0172012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Convênio",
+            "status": "Inadimplente",
+            "number": "716098/2009",
+            "validity": "28/12/2009 a 30/04/2013",
+            "limitDate": "2013-04-30T03:00:00.000Z",
+            "totalValue": 100000,
+            "transferValue": 95000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "714670/2009",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-23T02:00:00.000Z",
+        "end": "2013-08-10T03:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "INADIMPLENTE",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "095428/2009",
+            "organId": "50109/2009",
+            "processId": "59550.000991/2009-93",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/MCT nº 165/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "Os povoados do município de Carneiros são interligados à sua sede através de estradas vicinais de terra. Devido as chuvas que ocorreram em maio de 2009, essas estradas sofreram graves erosões de forma que ficaram intransitáveis. No aspecto socioeconômico, essas estradas são fundamentais para as comunidades rurais do município, onde está a maioria da população. Através delas é escoada a produção agrícola, principal fonte de renda do município. Por elas os estudantes trafegam diariamente para sede, onde se localiza a maioria das escolas instaladas no município. Nos Povoados Furnas, Salgadinho e Sítio Panasco, houve, ainda, a invasão das águas nas escolas municipais, que ficaram bastante prejudicadas. Desta forma, as obras de recuperação dessas escolas e a construção da Passagem Molhada sobre o riacho, são urgentes e fundamentais para atendimento às necessidades essenciais da população do município de Carneiros, em especial os Povoados que foram atingidos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Recuperação das escolas Joaquim José de Souza no Povoado Furnas, Vereador Abdon Francisco de Lima no Povoado Salgadinho e Antonio Vitorino dos Santos no Sítio Panaco, na zona rural do município, e construção de uma Passagem Molhada na estrada de acesso aos Povoados Furnas e Salgadinho, na zona rural do município",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Carneiros/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-11-05T02:00:00.000Z",
+            "biddingDate": "2009-12-23T02:00:00.000Z",
+            "homologationDate": "2009-12-24T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320090122",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 200000,
+              "details": {
+                "code": "2220320090122",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Todos os municípios, com população abaixo de 50.000 habitantes, localizados em todas as regiões do Brasil. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 200000,
+                "couterpartValues": {
+                  "total": 4000,
+                  "financial": 4000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 196000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.349.854-** - GERALDO NOVAIS AGRA FILHO",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.822.515-** - LUIZ ALBERTO NOGUEIRA MOREIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001/2010",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0032010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "0032010",
+                "biddingId": null,
+                "object": "Contratação de Engenheiro Civil, para execução de serviços para levantamento de campo, topografia e elaboração de projetos técnicos para as obras de recuperação das escolas Joaquim José da Souza no povoado furnas; Escola Vereador Abdon Francisco de Lima no Povoado Salgadinho e Escola Antônio Vitorino dos Santos no Sítio Panasco além de projeto para construção de passagem molhada na estrada de acesso aos Povoados Furnas e Salgadinho.",
+                "legalFoundation": "artigo 24",
+                "justification": "De acordo com o artigo 24, inciso 1 da Lei 8666/93 é dispensada a licitação para obras e serviços de engenharia de valor até 15.000,00, desde que não se refiram a parcelas de uma mesma obra ou serviço ou ainda para obras e serviços da mesma natureza e no mesmo local que possam ser realizadas conjuntas e concomitantemente (Redação dada pela Lei número 9.648 de 1991.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": "2010-03-12T03:00:00.000Z",
+                "city": "2735 - CARNEIROS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2010",
+              "biddingId": "001/2010",
+              "date": "2010-06-07T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 20813511453",
+                "hirerDocument": "CNPJ: 12250684000169",
+                "type": "Serviço de Engenharia",
+                "object": "Serviços de Engenharia para levantamento de campo, topografia e elaboração de projetos técnicos para as obras de recuperação das escolas Joaquim José da Souza no Povoado Furnas; Escola Vereador Abdon Francisco de Lima no Povoado Salgadinho e Escola Antônio Vitorino dos Santos no Sítio Panasco além de projeto para construção de uma Passagem Molhada na estrada de acesso aos Povoados Furnas e Salgadinho.",
+                "totalValue": 6000,
+                "publishDate": "2010-06-07T03:00:00.000Z",
+                "beginDate": "2010-03-12T03:00:00.000Z",
+                "endDate": "2010-04-11T03:00:00.000Z",
+                "signDate": "2010-03-12T03:00:00.000Z",
+                "executionProcessId": "001/2010 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "0032010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Convênio",
+            "status": "Inadimplente",
+            "number": "714670/2009",
+            "validity": "23/12/2009 a 10/08/2013",
+            "limitDate": "2013-08-10T03:00:00.000Z",
+            "totalValue": 200000,
+            "transferValue": 196000,
+            "counterpartValue": 4000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "707784/2009",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-30T02:00:00.000Z",
+        "end": "2016-08-30T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041086/2009",
+            "organId": "41086/2009",
+            "processId": "041086/2009",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "decreto 6170",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Melhorar as condições de infra estrutura do município minimizando as dificuldades da população. Ruas a serem beneficiadas: - Rua Floriano Peixoto - Lado Direito - Rua Floriano Peixoto - Lado Esquerdo - Rua Floriano Peixoto - Abertura entre canteiros - Rua Santo Amaro - trecho 1 - Rua Santo Amaro - trecho 2 - Travessa Santo Amaro - Rua Aristeu Rodrigues dos Anjos - Travessa Aristeu Rodrigues dos Anjos - Rua Duque de Caxias (complemento) - Travessa Getúlio Vargas - Travessa Ormínio Joaquim Santana - Rua do Cemitério Santa Terezinha Todas as ruas situam-se na zonaurbana do município e vai beneficiar uma população de mais ou menos 1.500 habitantes com renda média inferior a dois salários mínimos",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de diversas ruas do município de Carneiros",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Carneiros/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-06-20T03:00:00.000Z",
+            "biddingDate": "2009-12-30T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090081",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 304440,
+              "details": {
+                "code": "5300020090081",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 304440,
+                "couterpartValues": {
+                  "total": 9140,
+                  "financial": 9140,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.220.634-** - LUIZ MEDEIROS NOBRE",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "003.2011",
+              "type": "Licitação -",
+              "date": "2011-09-06T03:00:00.000Z",
+              "processId": "034",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "034",
+                "biddingId": "003.2011",
+                "object": "Contratação de empresa especializada para realização de obras de infraestrutura em pavimentação",
+                "legalFoundation": "8.666",
+                "justification": "Lei 8.666 93",
+                "publishDate": "2011-09-06T03:00:00.000Z",
+                "beginDate": "2011-09-22T03:00:00.000Z",
+                "endDate": "2011-11-22T02:00:00.000Z",
+                "biddingValue": 261510.9,
+                "homologationDate": "2011-09-23T03:00:00.000Z",
+                "city": "2735 - CARNEIROS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2011",
+              "biddingId": "003.2011",
+              "date": "2011-09-26T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04020209000178",
+                "hirerDocument": "CNPJ: 12250684000169",
+                "type": "Obras",
+                "object": "Contrata��o de empresa especializada para executar obras de infraestrutura.",
+                "totalValue": 261510.9,
+                "publishDate": "2011-09-26T03:00:00.000Z",
+                "beginDate": "2011-09-26T03:00:00.000Z",
+                "endDate": "2012-12-23T02:00:00.000Z",
+                "signDate": "2011-09-23T03:00:00.000Z",
+                "executionProcessId": "003.2011 ",
+                "biddingModality": "Licitação - ",
+                "processId": "034 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "707784/2009",
+            "validity": "30/12/2009 a 30/08/2016",
+            "limitDate": "2016-08-30T03:00:00.000Z",
+            "totalValue": 304440,
+            "transferValue": 295300,
+            "counterpartValue": 9140,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "707538/2009",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-28T02:00:00.000Z",
+        "end": "2011-12-26T02:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041617/2009",
+            "organId": "41617/2009",
+            "processId": "041617/2009",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "decreto 6.170",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O povoado Alto dos Paulos não possui nenhum local para prática de atividades esportivas o que se tornará possível com a implantação desta quadra. O Povoado Alto dos Paulos situa-se na zona urbana do município e possui cerca de 150 famílias com renda familiar média entre 1 e 2 salários mínimos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Quadra Poli-Esportiva",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Carneiros/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-06-22T03:00:00.000Z",
+            "biddingDate": "2009-12-28T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 122450,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na LDO vigente, podendo haver redução para municípios incluídos nos bolsões de pobreza, conforme legislação em vigor. [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 122450,
+                "couterpartValues": {
+                  "total": 5450,
+                  "financial": 5450,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 117000,
+                  "amendment": "R$ 117.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.349.854-** - GERALDO NOVAIS AGRA FILHO",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01-05/2010",
+              "type": "Licitação - Convite",
+              "date": null,
+              "processId": "0232010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "0232010",
+                "biddingId": "01-05/2010",
+                "object": "Construção de uma Quadra Poliesportiva.",
+                "legalFoundation": "Lei 8.666 de 21 de junho de 1993",
+                "justification": "A presente licitação e a contratação dela decorrente tem fundamentação legal na Lei Federal nº 8.666 de 21 de junho de 1993, e suas alterações posteriores.",
+                "publishDate": null,
+                "beginDate": "2010-06-01T03:00:00.000Z",
+                "endDate": "2010-06-10T03:00:00.000Z",
+                "biddingValue": 122450,
+                "homologationDate": "2010-06-10T03:00:00.000Z",
+                "city": "2735 - CARNEIROS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000023/2010",
+              "biddingId": "01-05/2010",
+              "date": "2010-06-10T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10547648000136",
+                "hirerDocument": "CNPJ: 12250684000169",
+                "type": "Material e Serviço",
+                "object": "Construção de uma Quadra Poliesportiva.",
+                "totalValue": 112781.52,
+                "publishDate": "2010-06-10T03:00:00.000Z",
+                "beginDate": "2009-12-28T02:00:00.000Z",
+                "endDate": "2011-12-26T02:00:00.000Z",
+                "signDate": "2009-12-28T02:00:00.000Z",
+                "executionProcessId": "01-05/2010 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "0232010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "707538/2009",
+            "validity": "28/12/2009 a 26/12/2011",
+            "limitDate": "2017-03-08T03:00:00.000Z",
+            "totalValue": 122450,
+            "transferValue": 117000,
+            "counterpartValue": 5450,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "703702/2009",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-06-16T03:00:00.000Z",
+        "end": "2009-08-29T03:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "004129/2009",
+            "organId": "00465/2009",
+            "processId": "72000.002511/2009-13",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "Decreto 6170/2007 e Portaria Interministerial 127/2008",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A realização e a inserção deste evento denominado Festa Junina que acontecerá nos dias 22 e 29 de junho de 2009, no calendário turístico do município, significará para a sua população uma excelente alternativa na promoção, incentivo e incremento do turismo local, além de estabelecer a interrelação da cultura e do turismo para alavancar o crescimento e o desenvolvimento do município. O município de Carneiros com uma população de aproximadamente 8.000 pessoas, está localizado aproximadamente a 220 km da capital, na região do sertão alagoano, tem sua economia centralizada na criação de caprinos, seu pequeno comércio local, sua agricultura familiar e principalmente na Prefeitura. O evento tem como objetivo principal incentivar a comunidade valorizando e fortalecendo a sua cultura através da apresentação de grupos de quadrilhas, músicas e danças, com a participação de pessoas de várias faixas etárias e comunidades. Eventos desta natureza são considerados como um estímulo para intensificar ainda mais as iniciativas para consolidar o turismo local, pois, além de atrair visitantes, o evento tem como objetivo divulgar, promover e fortalecer as tradições folclóricas, a musicalidade sertaneja, o forró, suas danças e comidas típicas local e a alegria de festejar as festas juninas, e mais, a geração direta e indireta de empregos e renda, além de proporcionar e compartilhar informações sobre as melhores práticas em turismo comunitário. Como resultado, espera-se fortalecer a centralidade regional e promover o desenvolvimento do município em sua área de atuação e influência; incrementar o mercado turístico; proporcionar lazer e descontração à comunidade; ampliar as possibilidades de acesso à cultura, especialmente no campo da música e da dança, mantendo a tradição cultural local.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Festa Junina do município de Carneiros",
+            "information": "",
+            "proposalDate": "2009-03-13T03:00:00.000Z",
+            "biddingDate": "2009-06-16T03:00:00.000Z",
+            "homologationDate": "2009-07-13T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090003",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 104170,
+              "details": {
+                "code": "5400020090003",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "EVENTOS JUNINOS",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 104170,
+                "couterpartValues": {
+                  "total": 4170,
+                  "financial": 4170,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.349.854-** - GERALDO NOVAIS AGRA FILHO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Análise",
+            "number": "703702/2009",
+            "validity": "16/06/2009 a 29/08/2009",
+            "limitDate": "2009-08-29T03:00:00.000Z",
+            "totalValue": null,
+            "transferValue": 104170,
+            "counterpartValue": 100000,
+            "yieldValue": 4170
+          }
+        }
+      },
+      {
+        "agreementId": "700558/2008",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2008-12-18T02:00:00.000Z",
+        "end": "2010-03-08T03:00:00.000Z",
+        "program": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0100 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "008005/2008",
+            "organId": "50105/2008",
+            "processId": "59550.000655/2008-60",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "Decreto 6.170/2007 e Portaria Interministerial 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "Os povoados localizados na zona rural de Carneiros são interligados à sede do município de estradas vicinais, que cortam riachos intermitentes da região, que ficam intransitáveis na época de chuvas. Nessas ocasiões a população dos povoados fica com dificuldades de locomoção e em determinadas ocasiões a população dos povoados fica com dificuldades de locomoção e em determinadas ocasiões completamente ilhada. A construção da passagem molhada no riacho Salgadinho irá proporcionar maior conforto e segurança à população da região, stando plenamente justificada esta proposição.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Elaboração do projeto básico e construção da passagem molhada no riacho Salgadinho beneficiando os povoados de Salgadinho, furnas, Bom Consolo, Alto da Boa Vista, Panaço e Buenos Aires, localizados na zona rural do município de Carneiros, estado de Alagoas, beneficiando uma população de cerca de 3.000 habitantes.",
+            "information": "",
+            "proposalDate": "2008-11-12T02:00:00.000Z",
+            "biddingDate": "2008-12-18T02:00:00.000Z",
+            "homologationDate": "2008-12-22T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320080045",
+              "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0100 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas",
+              "value": 149878,
+              "details": {
+                "code": "2220320080045",
+                "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0100 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas",
+                "cps": null,
+                "items": "Atenuar nítidas desigualdades intra e inter-regionais agindo, sobretudo, sobre as seguintes necessidades: a) de que a atuação do Governo Federal se dê, de forma integrada, em novas escalas espaciais, preferencialmente em sub-regiões; b) de que as demandas e as possíveis soluções sejam identificadas com a participação efetiva da sociedade civil, que, para tanto, deve estar organizada e legitimamente representada; e c) de consolidação, segundo as diretrizes da PNDR, formulada pelo MI.",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 3.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 149878,
+                "couterpartValues": {
+                  "total": 16878,
+                  "financial": 16878,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 133000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.349.854-** - GERALDO NOVAIS AGRA FILHO",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "032008",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "192008",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "192008",
+                "biddingId": null,
+                "object": "Elaboração de projeto básico da passagem molhada no riacho Salgadinho, zona rural do município de Carneiros.",
+                "legalFoundation": "Lei 8666/93",
+                "justification": "Contratação empresa para elaboração de projeto básico da passagem molhada no riacho Salgadinho, zona rural do município de Carneiros.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": "2008-12-22T02:00:00.000Z",
+                "city": "2735 - CARNEIROS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000019/2009",
+              "biddingId": "032008",
+              "date": "2009-08-21T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 20813511453",
+                "hirerDocument": "CNPJ: 12250684000169",
+                "type": "Serviço",
+                "object": "Elaboração de projeto básico da passagem molhada no riacho Salgadinho, zona rural do município de Carneiros.",
+                "totalValue": 5000,
+                "publishDate": "2009-08-21T03:00:00.000Z",
+                "beginDate": "2008-12-22T02:00:00.000Z",
+                "endDate": "2009-01-21T02:00:00.000Z",
+                "signDate": "2008-12-22T02:00:00.000Z",
+                "executionProcessId": "032008 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "192008 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "700558/2008",
+            "validity": "18/12/2008 a 08/03/2010",
+            "limitDate": "2012-12-24T02:00:00.000Z",
+            "totalValue": 149878,
+            "transferValue": 133000,
+            "counterpartValue": 16878,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "628362/2008",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-27T03:00:00.000Z",
+        "end": "2009-10-02T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Adimplente no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "077558/2008",
+            "organId": "CR.NR.0255116-73",
+            "processId": "CR.NR.0255116-73",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTACAO EM PARALELEPIPEDO",
+            "information": "",
+            "proposalDate": "2008-06-27T03:00:00.000Z",
+            "biddingDate": "2008-06-27T03:00:00.000Z",
+            "homologationDate": "2008-07-03T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.349.854-** - GERALDO NOVAIS AGRA FILHO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "628362/2008",
+            "validity": "27/06/2008 a 02/10/2009",
+            "limitDate": "2009-10-02T03:00:00.000Z",
+            "totalValue": 102833.37,
+            "transferValue": 98200,
+            "counterpartValue": 4633.37,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "628312/2008",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-30T03:00:00.000Z",
+        "end": "2009-10-02T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Adimplente no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "077508/2008",
+            "organId": "CR.NR.0256778-02",
+            "processId": "CR.NR.0256778-02",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTACAO EM PARALELEPIPEDO COM DRENAGEM SUPERFICIAL",
+            "information": "",
+            "proposalDate": "2008-06-30T03:00:00.000Z",
+            "biddingDate": "2008-06-30T03:00:00.000Z",
+            "homologationDate": "2008-07-03T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.349.854-** - GERALDO NOVAIS AGRA FILHO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "628312/2008",
+            "validity": "30/06/2008 a 02/10/2009",
+            "limitDate": "2009-10-02T03:00:00.000Z",
+            "totalValue": 314291.49,
+            "transferValue": 295300,
+            "counterpartValue": 18991.49,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "628285/2008",
+        "uf": "AL",
+        "city": "Carneiros",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-27T03:00:00.000Z",
+        "end": "2009-06-27T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Concluído no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "077481/2008",
+            "organId": "CR.NR.0258374-69",
+            "processId": "CR.NR.0258374-69",
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "legalFoundation": "",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTACAO EM PARALELEPIPEDO COM DRENAGEM SUPERFICIAL",
+            "information": "",
+            "proposalDate": "2008-06-27T03:00:00.000Z",
+            "biddingDate": "2008-06-27T03:00:00.000Z",
+            "homologationDate": "2008-07-03T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.250.684/0001-69 - MUNICIPIO DE CARNEIROS",
+            "respProponent": "***.349.854-** - GERALDO NOVAIS AGRA FILHO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CARNEIROS",
+            "documentNumber": "12.250.684/0001-69",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "628285/2008",
+            "validity": "27/06/2008 a 27/06/2009",
+            "limitDate": "2009-06-27T03:00:00.000Z",
+            "totalValue": 152118.74,
+            "transferValue": 146950,
+            "counterpartValue": 5168.74,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

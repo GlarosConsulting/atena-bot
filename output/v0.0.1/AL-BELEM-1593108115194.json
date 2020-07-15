@@ -1,0 +1,1126 @@
+{
+  "startDate": "2020-06-25T17:56:58.570Z",
+  "endDate": "2020-06-25T18:01:55.194Z",
+  "data": {
+    "search": {
+      "uf": "AL",
+      "city": "BELEM"
+    },
+    "agreements": [
+      {
+        "agreementId": "870717/2018",
+        "uf": "AL",
+        "city": "BELEM",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-31T02:00:00.000Z",
+        "end": "2021-12-31T03:00:00.000Z",
+        "program": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "048847/2018",
+            "organId": "00817/2018",
+            "proccessId": "25100.007663/2018-95",
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "legalFoundation": "Decreto nº 6.170, de 25 de julho de 2007 e suas alterações, combinado com a Portaria Interministerial nº 424, de 30 de dezembro de 2016 e suas alterações.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de BELÉM, está inserido no território da zona da mata alagoana, localizado na Mesorregião do Agreste Alagoano, seu principal acesso é através da BR 316, distante 106 Km da Capital, possui uma área de 48,196 km2, população de 4.551 habitantes, conforme Censo (IBGE 2010), fazendo fronteira com os municípios de Palmeira dos Índios, Tanque D’arca e Taquarana. A população de Belém enfrenta problemas de ordem social, com grande carência, principalmente na zona rural do município, onde existem unidades de taipa, o que ocasiona sérios problemas a saúde da população. A principal atividade econômica dessa população é a agricultura; Segundo levantamentos realizados o Município de Belém possui diversas localidades onde se predomina as construções rudimentares de taipa, o que necessita urgente de investimentos para melhorar as condições de habitabilidade, ações de promoção e vigilância em saúde, erradicar o veículo transmissor da doença, e construir habitações de qualidade para oferecer uma vida digna a população do município. O investimento para melhoria da situação precária que se encontram as comunidades a serem beneficiadas, além da preocupação eminente que o vetor se propague a atinja novas áreas, piorando ainda mais a situação do município, e a vida dos munícipes. Com base nos estudos o Município encontra-se na área de prioritários para investimentos para melhorar a qualidade de vida destas pessoas que ainda não possuem uma moradia digna; para garantir em primeiro lugar a saúde e qualidade de vida. As comunidades a serem atendidas com este convênio são: Povoado Barro Vermelho, Povoado Cabeça Dantas e Povoado Monte Douro, áreas rurais do Município de Belém.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Implantação de Melhorias Habitacionais para o Controle da Doença de Chagas.",
+            "information": "Pelo presente instrumento, o MUNICÍPIO DE BELÉM/ALAGOAS, pessoa jurídica de direito público, inscrita no CNPJ sob nº. 12.227.641/0001-62, com sede na Rua do Comércio, s/n – centro – CEP: 57.630-000, neste ato representado por seu (sua) Prefeito (a) Municipal, Sr(a) Ana Paula Antero Santa Rosa Barbosa, divorciada, Advogada, CPF nº 027.851.274-71 e Residente e domiciliada à Fazenda São Miguel – Zona Rural – Belém/AL, CEP: 57.630-000, em conformidade com o art.1º, §1º, XXIX, da Portaria Interministerial nº 424, de 30.12.2016, DECLARO, para fins de formalização de convênio com a Fundação Nacional de Saúde Funasa, que possui experiência nas atividades referentes à matéria relacionada ao convênio, bem como que possui capacidade técnica e gerencial para celebrar, executar e prestar contas, observadas as condições previstas no convênio e no Plano de Trabalho.",
+            "proposalDate": "2018-05-29T03:00:00.000Z",
+            "biddingDate": "2018-12-31T02:00:00.000Z",
+            "homologationDate": "2019-01-17T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": 3621120180019,
+              "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+              "value": 500000
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "respProponent": "***.851.274-** - ANA PAULA ANTERO SANTA ROSA BARBOSA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": {
+            "list": [
+              {
+                "goalId": 1,
+                "specification": "Reconstrução de 08 Unidades Habitacionais de 2 quartos no Povoado Barro Vermelho.",
+                "value": 400000,
+                "startDate": "2018-12-31T02:00:00.000Z",
+                "endDate": "2021-12-31T03:00:00.000Z",
+                "income": "Não"
+              },
+              {
+                "goalId": 2,
+                "specification": "Reconstrução de 01 Unidade Habitacional de 2 quartos no Povoado Cabeça Dantas.",
+                "value": 50000,
+                "startDate": "2018-12-31T02:00:00.000Z",
+                "endDate": "2021-12-31T03:00:00.000Z",
+                "income": "Não"
+              },
+              {
+                "goalId": 3,
+                "specification": "Reconstrução de 01 Unidade Habitacional de 2 quartos no Povoado Monte Douro - Vilinha I.",
+                "value": 50000,
+                "startDate": "2018-12-31T02:00:00.000Z",
+                "endDate": "2021-12-31T03:00:00.000Z",
+                "income": "Não"
+              }
+            ],
+            "values": {
+              "registered": 500000,
+              "register": 0,
+              "global": 500000
+            }
+          },
+          "disbursementChrono": {
+            "list": [
+              {
+                "portionId": 1,
+                "type": "CONCEDENTE",
+                "month": "Março",
+                "year": 2019,
+                "value": 100000
+              },
+              {
+                "portionId": 2,
+                "type": "CONCEDENTE",
+                "month": "Novembro",
+                "year": 2019,
+                "value": 250000
+              },
+              {
+                "portionId": 3,
+                "type": "CONCEDENTE",
+                "month": "Março",
+                "year": 2020,
+                "value": 150000
+              }
+            ],
+            "values": {
+              "registered": {
+                "granting": null,
+                "convenient": null,
+                "yield": 2019
+              },
+              "register": {
+                "granting": null,
+                "convenient": null,
+                "yield": 2019
+              },
+              "total": {
+                "granting": null,
+                "convenient": null,
+                "yield": 2020
+              }
+            }
+          },
+          "detailedApplicationPlan": {
+            "list": [
+              {
+                "type": "OBRA",
+                "description": "Reconstrução de 08 Unidades Habitacionai",
+                "natureExpenseCode": 44905199,
+                "natureAcquisition": "Recursos do convênio",
+                "un": "UN",
+                "amount": 8,
+                "unitValue": 50000,
+                "totalValue": 400000,
+                "status": "Aprovado"
+              },
+              {
+                "type": "OBRA",
+                "description": "Reconstrução de 01 Unidade Habitacional",
+                "natureExpenseCode": 44905199,
+                "natureAcquisition": "Recursos do convênio",
+                "un": "UN",
+                "amount": 1,
+                "unitValue": 50000,
+                "totalValue": 50000,
+                "status": "Aprovado"
+              },
+              {
+                "type": "OBRA",
+                "description": "Reconstrução de 01 Unidade Habitacional",
+                "natureExpenseCode": 44905199,
+                "natureAcquisition": "Recursos do convênio",
+                "un": "UN",
+                "amount": 1,
+                "unitValue": 50000,
+                "totalValue": 50000,
+                "status": "Aprovado"
+              }
+            ],
+            "values": {
+              "assets": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "tributes": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "construction": {
+                "total": 500000,
+                "resource": 500000,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "services": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "others": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "administrative": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "total": {
+                "total": 500000,
+                "resource": 500000,
+                "counterpart": 0,
+                "yield": 0
+              }
+            }
+          },
+          "consolidatedApplicationPlan": {
+            "list": [
+              {
+                "classification": "449051",
+                "resources": 500000,
+                "counterpart": 0,
+                "yield": 0,
+                "total": 500000
+              }
+            ],
+            "total": {
+              "classification": "Total",
+              "resources": 500000,
+              "counterpart": 0,
+              "yield": 0,
+              "total": 500000
+            }
+          },
+          "attachments": {
+            "proposalList": [
+              {
+                "name": "DIPLOMA.pdf",
+                "description": "DIPLOMA GESTORA",
+                "date": "2019-01-10T02:00:00.000Z"
+              }
+            ],
+            "executionList": [
+              {
+                "name": "(10) JULIA TEIXEIRA.pdf",
+                "description": "DECLARAÇÃO DE DOMINIALIDADE - BENEFICIÁRIO 10.",
+                "date": "2020-06-09T03:00:00.000Z"
+              },
+              {
+                "name": "(09) Mª CICERA IZIDIO.pdf",
+                "description": "DECLARAÇÃO DOMINIALIDADE - BENEFICIÁRIO 09",
+                "date": "2020-06-09T03:00:00.000Z"
+              },
+              {
+                "name": "(08) JOSÉ CÍCERO.pdf",
+                "description": "DECLARAÇÃO DOMINIALIDADE - BENEFICIÁRIO 08",
+                "date": "2020-06-09T03:00:00.000Z"
+              },
+              {
+                "name": "(07) AUGUSTO.pdf",
+                "description": "DECLARAÇÃO DOMINIALIDADE - BENEFICIÁRIO 07",
+                "date": "2020-06-09T03:00:00.000Z"
+              },
+              {
+                "name": "(06) CICERO VITALINO.pdf",
+                "description": "DECLARAÇÃO DOMINIALIDADE - BENEFICIÁRIO 06",
+                "date": "2020-06-09T03:00:00.000Z"
+              },
+              {
+                "name": "(05) Mª CÍCERA.pdf",
+                "description": "DECLARAÇÃO DOMINIALIDADE - BENEFICIÁRIO 05",
+                "date": "2020-06-09T03:00:00.000Z"
+              },
+              {
+                "name": "(04) Mª DE LOURDES.pdf",
+                "description": "DECLARAÇÃO DOMINIALIDADE - BENEFICIÁRIO - 04",
+                "date": "2020-06-09T03:00:00.000Z"
+              },
+              {
+                "name": "(03) EDILEUZA.pdf",
+                "description": "DECLARAÇÃO DOMINIALIDADE - BENEFICIÁRIO - 03",
+                "date": "2020-06-09T03:00:00.000Z"
+              },
+              {
+                "name": "(02) JOSE GOMES.pdf",
+                "description": "DECLARAÇÃO DOMINIALIDADE - BENEFICIÁRIO - 02",
+                "date": "2020-06-09T03:00:00.000Z"
+              },
+              {
+                "name": "(01) ANTONIO.pdf",
+                "description": "DECLARAÇÃO DOMINIALIDADE - BENEFICIÁRIO 01",
+                "date": "2020-06-09T03:00:00.000Z"
+              },
+              {
+                "name": "CERTIDAO IMA.pdf",
+                "description": "CERTIDÃO IMA",
+                "date": "2020-06-08T03:00:00.000Z"
+              },
+              {
+                "name": "RELATÓRIO E INFORMAÇÕES BENEFICIÁRIOS COM FOTOS -10 ASSINADO_compressed.pdf",
+                "description": "LAUDO TÉCNICO DE ENGENHARIA - ASSINADO",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Projeto_hidrossanitário_geral.pdf",
+                "description": "PROJETO HIDROSSANITÁRIO GERAL - ASSINADO",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Projeto_estrutural_fundação.pdf",
+                "description": "PROJETO ESTRUTURAL - ASSINADO",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Projeto_elétrico.pdf",
+                "description": "PROJETO ELÉTRICO - ASSINADO",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Projeto_arquitetônico2_casas_funasa.pdf",
+                "description": "PROJETO ARQUITETÔNICO - 2 FUNASA - ASSINADO",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Projeto_arquitetônico_corte3_fachada_casas_funasa.pdf",
+                "description": "PROJETO ARQUITETÔNICO - CORTE FACHADA - 3 - ASSINADO",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Projeto_arquitetônico_corte2_fachada_casas_funasa.pdf",
+                "description": "PROJETO CORTE - FACHADA 2 - ASSINADO",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Projeto_arquitetônico_corte1_fachada_casas_funasa.pdf",
+                "description": "PROJETO CORTE FACHADA - ASSINADA",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Projeto_arquitetônico_casas_funasa.pdf",
+                "description": "PROJETO ARQUITETÔNICO - FUNASA ASSINADO",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Planilha orçamentaria_Funasa_Rev05.pdf",
+                "description": "PLANILHA ORÇAMENTÁRIA - ASSINADA",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Model_ListaBeneficiarios_at_BARRO VERMELHO.pdf",
+                "description": "LISTA BENEFICIÁRIO - ASSINADA",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Model_Inquerito_BARRO VERMELHO.pdf",
+                "description": "INQUÉRITO SANITÁRIO - ASSINADO",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Memória_de_calculo - ASSINADO.pdf",
+                "description": "MEMÓRIA CALCULO - ASSINADA",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "Cronograma_fisico_financeiro - ASSINADO.pdf",
+                "description": "CRONOGRAMA FÍSICO-FINANCEIRO - ASSINADO",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "BDI -ASSINADO.pdf",
+                "description": "BDI ASSINADO",
+                "date": "2020-05-12T03:00:00.000Z"
+              },
+              {
+                "name": "ART - ASSINADA.pdf",
+                "description": "ART ASSINADA",
+                "date": "2020-05-12T03:00:00.000Z"
+              }
+            ]
+          },
+          "notions": {
+            "proposalList": [
+              {
+                "date": "2018-12-13T02:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "RODRIGO SERGIO DIAS",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "Presidente"
+              },
+              {
+                "date": "2018-12-12T02:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "CLESIVANIA SANTOS RODRIGUES",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "Analista de Infraestrutura"
+              },
+              {
+                "date": "2018-12-07T02:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "CLESIVANIA SANTOS RODRIGUES",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "Analista de Infraestrutura"
+              },
+              {
+                "date": "2018-12-07T02:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "CLESIVANIA SANTOS RODRIGUES",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "Analista de Infraestrutura"
+              },
+              {
+                "date": "2018-12-04T02:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "CLESIVANIA SANTOS RODRIGUES",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "Analista de Infraestrutura"
+              },
+              {
+                "date": "2018-12-04T02:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "CLESIVANIA SANTOS RODRIGUES",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "Analista de Infraestrutura"
+              }
+            ],
+            "workPlanList": [
+              {
+                "date": "2020-06-15T03:00:00.000Z",
+                "type": "De Mérito",
+                "responsible": "CARLOS HUMBERTO SANTOS",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "Auxiliar de Saneamento"
+              },
+              {
+                "date": "2020-06-15T03:00:00.000Z",
+                "type": "De Mérito",
+                "responsible": "CARLOS HUMBERTO SANTOS",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "Auxiliar de Saneamento"
+              },
+              {
+                "date": "2018-12-13T02:00:00.000Z",
+                "type": "",
+                "responsible": "RODRIGO SERGIO DIAS",
+                "assignment": "Gestor de Convênio do Concedente",
+                "occupation": "Presidente"
+              },
+              {
+                "date": "2018-12-12T02:00:00.000Z",
+                "type": "De Mérito",
+                "responsible": "CLESIVANIA SANTOS RODRIGUES",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "Analista de Infraestrutura"
+              }
+            ]
+          }
+        },
+        "convenientExecution": {
+          "executionProcesses": []
+        }
+      },
+      {
+        "agreementId": "868624/2018",
+        "uf": "AL",
+        "city": "BELEM",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-06-21T03:00:00.000Z",
+        "end": "2021-07-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "032839/2018",
+            "organId": "32839/2018",
+            "proccessId": "328392018",
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de BELÉM, está inserido no território da zona da mata alagoana, localizado na Mesorregião do Agreste Alagoano, seu principal acesso é através da BR 316, distante 106 Km da Capital, possui uma área de 48,196 km2, população em torno de 4.517 habitantes, segundo estimativa do IBGE 2016, , fazendo fronteira com os municípios de Palmeira dos Índios, Tanque D’arca e Taquarana. A agricultura da região é pautada no cultivo de milho, mandioca e feijão. Sua economia é baseada principalmente por atividades agrícolas e pecuárias, onde prevalece a agricultura familiar. O Município de Belém está com carência de investimentos em infraestrutura urbana, todos os equipamentos públicos da cidade estão em péssimo estado de conservação, devido ao tempo sem manutenção; desta forma, a gestão após assumir em janeiro de 2017, elaborou um plano de ação para recuperação dos equipamentos e para buscar recursos para construção de novos o que trará condições ao município de proporcionar melhor qualidade de vida a sua população oferecendo ambientes públicos de qualidade. Desta forma, o objeto ora pleiteado de Pavimentação e drenagem de ruas do Município, será de fundamental importância não só para a população que reside na cidade, mas também para atrair novos visitantes; pois durante o período chuvoso existe o problema da trafegabilidade, bem como no período de seca que a poeira assola os moradores. A pavimentação e drenagem é obra de fundamental importância para melhorar a qualidade de vida dos moradores, tanto em relação a saúde; o Município vem enfrentando uma seca que assola a vários meses o município o que faz com que a poeira aumente cada dia mais. Esta obra vai facilitar além da trafegabilidade o escoamento da produção. É necessário investimentos na área de infraestrutura afim de garantir essa melhoria a toda população da cidade, principalmente os que residem diretamente na área. A área a ser beneficiada com a pavimentação fica localizada no perímetro urbano do Município de Belém/Alagoas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Pavimentação e Drenagem de Ruas do Município de Belém/AL.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº. 424, de 30 de dezembro de 2016, atesto para os devidos fins, que a Prefeitura Municipal de Belém/AL, possui quadro de profissionais, da área de engenharia, GMC – Gerente Municipal de Convênios, CPL – Comissão Permanente de Licitação, contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de Capacidade Técnica e Gerencial para Gestão e Execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto, tais como: licitações, execução e fiscalização de obras, prestação de contas.",
+            "proposalDate": "2018-03-26T03:00:00.000Z",
+            "biddingDate": "2018-06-21T03:00:00.000Z",
+            "homologationDate": "2018-07-04T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": 5300020180033,
+              "name": "PLANEJAMENTO URBANO",
+              "value": 225357.14
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "respProponent": "***.851.274-** - ANA PAULA ANTERO SANTA ROSA BARBOSA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": {
+            "list": [
+              {
+                "goalId": 1,
+                "specification": "Pavimentação e Drenagem de Ruas do Município de Belém/AL.",
+                "value": 225357.14,
+                "startDate": "2019-03-11T03:00:00.000Z",
+                "endDate": "2020-04-10T03:00:00.000Z",
+                "income": "Não"
+              }
+            ],
+            "values": {
+              "registered": 225357.14,
+              "register": 0,
+              "global": 225357.14
+            }
+          },
+          "disbursementChrono": {
+            "list": [
+              {
+                "portionId": 1,
+                "type": "CONCEDENTE",
+                "month": "Maio",
+                "year": 2019,
+                "value": 222857.14
+              },
+              {
+                "portionId": 2,
+                "type": "CONVENENTE",
+                "month": "Maio",
+                "year": 2019,
+                "value": 2500
+              }
+            ],
+            "values": {
+              "registered": {
+                "granting": null,
+                "convenient": null,
+                "yield": 2019
+              },
+              "register": {
+                "granting": null,
+                "convenient": null,
+                "yield": 2019
+              },
+              "total": {
+                "granting": 222857.14,
+                "convenient": 2500,
+                "yield": 0
+              }
+            }
+          },
+          "detailedApplicationPlan": {
+            "list": [
+              {
+                "type": "OBRA",
+                "description": "Pavimentação e Drenagem de Ruas do Munic",
+                "natureExpenseCode": 44905199,
+                "natureAcquisition": "Recursos do convênio",
+                "un": "UN",
+                "amount": 1,
+                "unitValue": 225357.14,
+                "totalValue": 225357.14,
+                "status": "Aprovado"
+              }
+            ],
+            "values": {
+              "assets": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "tributes": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "construction": {
+                "total": 225357.14,
+                "resource": 225357.14,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "services": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "others": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "administrative": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "total": {
+                "total": 225357.14,
+                "resource": 225357.14,
+                "counterpart": 0,
+                "yield": 0
+              }
+            }
+          },
+          "consolidatedApplicationPlan": {
+            "list": [
+              {
+                "classification": "449051",
+                "resources": 225357.14,
+                "counterpart": 0,
+                "yield": 0,
+                "total": 225357.14
+              }
+            ],
+            "total": {
+              "classification": "Total",
+              "resources": 225357.14,
+              "counterpart": 0,
+              "yield": 0,
+              "total": 225357.14
+            }
+          },
+          "attachments": {
+            "proposalList": [
+              {
+                "name": "Protocolo TCE e Declaração 07.06.18.pdf",
+                "description": "Protocolo TCE e Declaração",
+                "date": "2018-06-07T03:00:00.000Z"
+              },
+              {
+                "name": "Decl. Contrapartida.pdf",
+                "description": "Declaração Contrapartida",
+                "date": "2018-06-06T03:00:00.000Z"
+              },
+              {
+                "name": "Lei Orçamentária.pdf",
+                "description": "Lei Orçamentária 365-2018",
+                "date": "2018-05-29T03:00:00.000Z"
+              },
+              {
+                "name": "Proposta 25.05.18.pdf",
+                "description": "Plano de Trabalho",
+                "date": "2018-05-29T03:00:00.000Z"
+              },
+              {
+                "name": "QDD.pdf",
+                "description": "QDD",
+                "date": "2018-03-26T03:00:00.000Z"
+              },
+              {
+                "name": "RG - CPF.pdf",
+                "description": "RG e CPF",
+                "date": "2018-03-26T03:00:00.000Z"
+              },
+              {
+                "name": "TERMO POSSE P. 5.pdf",
+                "description": "Termo Posse p. 5",
+                "date": "2018-03-26T03:00:00.000Z"
+              },
+              {
+                "name": "TERMO POSSE P. 4.pdf",
+                "description": "Termo de Posse p. 4",
+                "date": "2018-03-26T03:00:00.000Z"
+              },
+              {
+                "name": "TERMO POSSE P. 3.pdf",
+                "description": "Termo de Posse p. 3",
+                "date": "2018-03-26T03:00:00.000Z"
+              },
+              {
+                "name": "TERMO POSSE P. 2.pdf",
+                "description": "Termo de Posse p. 2",
+                "date": "2018-03-26T03:00:00.000Z"
+              },
+              {
+                "name": "TERMO POSSE P. 1.pdf",
+                "description": "Termo de Posse 1",
+                "date": "2018-03-26T03:00:00.000Z"
+              }
+            ],
+            "executionList": [
+              {
+                "name": "Autorização IMA.pdf",
+                "description": "Autorização Ambiental",
+                "date": "2019-03-20T03:00:00.000Z"
+              },
+              {
+                "name": "DECLARAÇÃO DE TITULARIDADE DE ÁREA.pdf",
+                "description": "DECLARAÇÃO DE TITULARIDADE DA ÁREA DE INTERVENÇÃO DO OBJETO",
+                "date": "2019-03-19T03:00:00.000Z"
+              },
+              {
+                "name": "Of. Caixa Pav..pdf",
+                "description": "Ofício GP 029/2019 - Pedido de Prorrogação de prazo Cláusula suspensiva",
+                "date": "2019-03-08T03:00:00.000Z"
+              }
+            ]
+          },
+          "notions": {
+            "proposalList": [
+              {
+                "date": "2018-04-13T03:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "LUIZ EDUARDO PARANAGUA BORGES",
+                "assignment": "Gestor de Convênio do Concedente",
+                "occupation": "ENGENHEIRO CIVIL"
+              },
+              {
+                "date": "2018-04-02T03:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "LUIZ EDUARDO PARANAGUA BORGES",
+                "assignment": "Gestor de Convênio do Concedente",
+                "occupation": "ENGENHEIRO CIVIL"
+              }
+            ],
+            "workPlanList": [
+              {
+                "date": "2018-05-11T03:00:00.000Z",
+                "type": "",
+                "responsible": "KLEBER ESTEVES XAVIER",
+                "assignment": "Gestor de Convênio da Instituição Mandatária",
+                "occupation": "Gerente de Serviço"
+              },
+              {
+                "date": "2018-05-11T03:00:00.000Z",
+                "type": "",
+                "responsible": "KLEBER ESTEVES XAVIER",
+                "assignment": "Analista Técnico da Instituição Mandatária",
+                "occupation": "Gerente de Serviço"
+              }
+            ]
+          }
+        },
+        "convenientExecution": {
+          "executionProcesses": []
+        }
+      },
+      {
+        "agreementId": "864450/2018",
+        "uf": "AL",
+        "city": "BELEM",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-06-01T03:00:00.000Z",
+        "end": "2021-05-01T03:00:00.000Z",
+        "program": "2068 - Saneamento Basico (Acao: 10GD - Sistemas Publicos de Abastecimento de Agua)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "025395/2018",
+            "organId": "00222/2018",
+            "proccessId": "25100.004389/2018-01",
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "legalFoundation": "Decreto nº 6.170, de 25 de julho de 2007, e Portaria Interministerial nº 424, de 30 de dezembro de 2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de BELÉM, está inserido no território da zona da mata alagoana, localizado na Mesorregião do Agreste Alagoano, seu principal acesso é através da BR 316, distante 106 Km da Capital, possui uma área de 48,196 km2, população de 4.551 habitantes, conforme Censo (IBGE 2010), , fazendo fronteira com os municípios de Palmeira dos Índios, Tanque D’arca e Taquarana. A agricultura da região é pautada no cultivo de milho, mandioca e feijão. Sua economia é baseada principalmente por atividades agrícolas e pecuárias, onde prevalece a agricultura familiar. A administração elaborou um plano de ação para recuperação dos equipamentos e construção de novos o que trará condições ao Município de proporcionar melhor qualidade aos nossos municipes, os quais terão acesso a equipamentos de qualidade. Desta forma, foi identificado uma grande prioridade que é o fornecimento de água potável a população, pois é um dos princípios básicos o acesso a água de qualidade; é vislumbrando a implantação de um sistema de abastecimento de água para atender a área urbana da cidade de Belém. A água bem mais precioso do ser humano e que é fundamental a sua existência, se não for utilizada com boa qualidade trará problemas de saúde para população, desta forma, como a Gestão preza pela saúde e bem estar é que priorizamos este projeto para garantir que as águas que cheguem as torneiras das residências sejam propicias para o consumo humano. A implantação do sistema de abastecimento de água irá suprir a carência, com nova estrutura para atender a nossa população.A importância sanitária da água é muito importante; a implantação ou melhoria dos serviços de abastecimento de água traz como resultado uma rápida e sensível melhoria na saúde e nas condições de vida de uma comunidade, principalmente através do controle e prevenção de doenças, da promoção de hábitos higiênicos e a melhoria da limpeza pública; reflete-se também, no estabelecimento de meios que importam em melhoria do conforto e da segurança coletiva e constitui o melhor investimento em benefício da saúde pública. Ressalta-se, conforme tem sido constatado em muitos lugares, que a implantação ou melhoria dos sistemas de abastecimento de água traz como consequência uma diminuição sensível na incidência das doenças relacionadas a água. Estes efeitos benéficos se acentuam bastante com a implantação e melhoria dos sistemas de esgotos sanitários .O Município de Belém não possui hoje um sistema implantado de abastecimento de água, sendo o abastecimento feito a população da área urbana através de poços artesianos e ligações rudimentares, com isso a carência para implantar um sistema completo e adequado é primordial para melhoria nos serviços e atendimento a população. Com a conclusão da obra estimasse atender a cerca de três mil pessoas de forma ampla, levando água das residências de qualidade através de um sistema funcional.Foi escolhida a sede do Município para implantar o sistema, pois o mesmo é item fundamental para implementação dos outros componentes que compõe o saneamento, como: esgoto, pavimentação e drenagem , para que assim possamos reduzir a carência nos serviços. O Município está buscando junto a FUNASA parceria para capacitação dos profissionais que compõe a equipe técnica do Município designada para levantamentos e estudos para elaboração do Plano de Saneamento que é peça fundamental para garantir investimentos na área.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Implantação do Sistema de Abastecimento de Água (Elaboração de Projeto e Execução de obra) no Município de Belém/Alagoas.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº. 424, de 30 de dezembro de 2016, atesto para os devidos fins, que a Prefeitura Municipal de Belém/AL, possui quadro de profissionais, da área de engenharia, GMC – Gerente Municipal de Convênios, Engenheiro Civil, Assistente Social, CPL – Comissão Permanente de Licitação, contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de Capacidade Técnica e Gerencial para Gestão e Execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto da Proposta nº 025395/2018, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2018-03-07T03:00:00.000Z",
+            "biddingDate": "2018-05-31T03:00:00.000Z",
+            "homologationDate": "2018-06-20T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": 3621120180001,
+              "name": "2068 - Saneamento Basico (Acao: 10GD - Sistemas Publicos de Abastecimento de Agua)",
+              "value": 4000
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "respProponent": "***.851.274-** - ANA PAULA ANTERO SANTA ROSA BARBOSA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": {
+            "list": [
+              {
+                "goalId": 1,
+                "specification": "Implantação do Sistema de Abastecimento de Água (Elaboração de Projeto e Execução de obra) no Município de Belém/Alagoas.",
+                "value": 4000,
+                "startDate": "2019-01-01T02:00:00.000Z",
+                "endDate": "2020-12-01T03:00:00.000Z",
+                "income": "Não"
+              }
+            ],
+            "values": {
+              "registered": 4000,
+              "register": 0,
+              "global": 4000
+            }
+          },
+          "disbursementChrono": {
+            "list": [
+              {
+                "portionId": 1,
+                "type": "CONCEDENTE",
+                "month": "Janeiro",
+                "year": 2019,
+                "value": 800000
+              },
+              {
+                "portionId": 2,
+                "type": "CONCEDENTE",
+                "month": "Junho",
+                "year": 2019,
+                "value": 800000
+              },
+              {
+                "portionId": 3,
+                "type": "CONCEDENTE",
+                "month": "Dezembro",
+                "year": 2019,
+                "value": 1600
+              },
+              {
+                "portionId": 4,
+                "type": "CONCEDENTE",
+                "month": "Junho",
+                "year": 2020,
+                "value": 800000
+              }
+            ],
+            "values": {
+              "registered": {
+                "granting": null,
+                "convenient": null,
+                "yield": 2019
+              },
+              "register": {
+                "granting": null,
+                "convenient": null,
+                "yield": 2019
+              },
+              "total": {
+                "granting": null,
+                "convenient": null,
+                "yield": 2019
+              }
+            }
+          },
+          "detailedApplicationPlan": {
+            "list": [
+              {
+                "type": "OBRA",
+                "description": "Execução de Obra para Implantação do Sis",
+                "natureExpenseCode": 44905199,
+                "natureAcquisition": "Recursos do convênio",
+                "un": "UN",
+                "amount": 1,
+                "unitValue": 3800,
+                "totalValue": 3800,
+                "status": "Aprovado"
+              },
+              {
+                "type": "OBRA",
+                "description": "Elaboração de Projetos para Implantação",
+                "natureExpenseCode": 44905199,
+                "natureAcquisition": "Recursos do convênio",
+                "un": "UN",
+                "amount": 1,
+                "unitValue": 200000,
+                "totalValue": 200000,
+                "status": "Aprovado"
+              }
+            ],
+            "values": {
+              "assets": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "tributes": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "construction": {
+                "total": 4000,
+                "resource": 4000,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "services": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "others": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "administrative": {
+                "total": 0,
+                "resource": 0,
+                "counterpart": 0,
+                "yield": 0
+              },
+              "total": {
+                "total": 4000,
+                "resource": 4000,
+                "counterpart": 0,
+                "yield": 0
+              }
+            }
+          },
+          "consolidatedApplicationPlan": {
+            "list": [
+              {
+                "classification": "449051",
+                "resources": 4000,
+                "counterpart": 0,
+                "yield": 0,
+                "total": 4000
+              }
+            ],
+            "total": {
+              "classification": "Total",
+              "resources": 4000,
+              "counterpart": 0,
+              "yield": 0,
+              "total": 4000
+            }
+          },
+          "attachments": {
+            "proposalList": [
+              {
+                "name": "Comprovante Residência.jpg",
+                "description": "Comprovante de Residencia.",
+                "date": "2018-03-07T03:00:00.000Z"
+              },
+              {
+                "name": "RG - CPF.pdf",
+                "description": "RG e CPF",
+                "date": "2018-03-07T03:00:00.000Z"
+              },
+              {
+                "name": "TERMO POSSE P. 5.pdf",
+                "description": "Termo de Posse p. 5",
+                "date": "2018-03-07T03:00:00.000Z"
+              },
+              {
+                "name": "TERMO POSSE P. 4.pdf",
+                "description": "Termo de Posse p. 4",
+                "date": "2018-03-07T03:00:00.000Z"
+              },
+              {
+                "name": "TERMO POSSE P. 3.pdf",
+                "description": "Termo de Posse p. 3",
+                "date": "2018-03-07T03:00:00.000Z"
+              },
+              {
+                "name": "TERMO POSSE P. 2.pdf",
+                "description": "Termo de Posse p. 2",
+                "date": "2018-03-07T03:00:00.000Z"
+              },
+              {
+                "name": "TERMO POSSE P. 1.pdf",
+                "description": "Termo de Posse p. 1",
+                "date": "2018-03-07T03:00:00.000Z"
+              }
+            ],
+            "executionList": [
+              {
+                "name": "Rel.Técnico (Adt. F3) - memo. 04-2020.pdf",
+                "description": "Relatório Técnico.",
+                "date": "2020-04-29T03:00:00.000Z"
+              },
+              {
+                "name": "Planilha aditivo.pdf",
+                "description": "Planilha de Aditivo",
+                "date": "2020-04-29T03:00:00.000Z"
+              },
+              {
+                "name": "LAUDO HIDROGEOLOGICO.pdf",
+                "description": "Laudo Hidrogeologico",
+                "date": "2020-04-29T03:00:00.000Z"
+              },
+              {
+                "name": "justificativa Hidrogeologico.pdf",
+                "description": "Justificativa Hidrogeologico.",
+                "date": "2020-04-29T03:00:00.000Z"
+              },
+              {
+                "name": "ART.pdf",
+                "description": "ART",
+                "date": "2020-04-29T03:00:00.000Z"
+              },
+              {
+                "name": "Of. GP 037-2020.pdf",
+                "description": "Ofício GP 037/2020 - Pedido de análise de acréscimo de serviços.",
+                "date": "2020-04-29T03:00:00.000Z"
+              },
+              {
+                "name": "RTP - APROVADO_compressed.pdf",
+                "description": "RTP - FINALIZADO 04.11.2019",
+                "date": "2019-11-04T03:00:00.000Z"
+              },
+              {
+                "name": "Certificado de Regularidade do FGTS.pdf",
+                "description": "Certidão de FGTS atualizada - Ref. 1ª medição de Projeto.",
+                "date": "2019-04-09T03:00:00.000Z"
+              },
+              {
+                "name": "Certidão Trabalhista.pdf",
+                "description": "Certidão Trabalhista atualizada - Ref. 1ª medição de Projeto.",
+                "date": "2019-04-09T03:00:00.000Z"
+              },
+              {
+                "name": "PARECER JURÍDICO_compressed (1).pdf",
+                "description": "Parecer Jurídico - Licitação",
+                "date": "2019-04-01T03:00:00.000Z"
+              },
+              {
+                "name": "JUSTIFICATIVA TÉCNICA.pdf",
+                "description": "Justificativa Técnica",
+                "date": "2019-04-01T03:00:00.000Z"
+              }
+            ]
+          },
+          "notions": {
+            "proposalList": [
+              {
+                "date": "2018-12-04T02:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "ARACELI LARANJEIRA FAZZIO",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "Engenheira"
+              },
+              {
+                "date": "2018-04-20T03:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "RODRIGO SERGIO DIAS",
+                "assignment": "Gestor de Convênio do Concedente",
+                "occupation": "Presidente"
+              },
+              {
+                "date": "2018-04-03T03:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "URIAS GONZAGA DO NASCIMENTO",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "ENGENHEIRO"
+              },
+              {
+                "date": "2018-03-22T03:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "LUCAS MATOS LIPORONI",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "ENGENHEIRO"
+              },
+              {
+                "date": "2018-03-22T03:00:00.000Z",
+                "type": "CONCEDENTE",
+                "responsible": "LUCAS MATOS LIPORONI",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "ENGENHEIRO"
+              }
+            ],
+            "workPlanList": [
+              {
+                "date": "2018-04-03T03:00:00.000Z",
+                "type": "De Mérito",
+                "responsible": "URIAS GONZAGA DO NASCIMENTO",
+                "assignment": "Analista Técnico do Concedente",
+                "occupation": "ENGENHEIRO"
+              },
+              {
+                "date": "2018-04-20T03:00:00.000Z",
+                "type": "",
+                "responsible": "RODRIGO SERGIO DIAS",
+                "assignment": "Gestor de Convênio do Concedente",
+                "occupation": "Presidente"
+              }
+            ]
+          }
+        },
+        "convenientExecution": {
+          "executionProcesses": []
+        }
+      }
+    ]
+  }
+}

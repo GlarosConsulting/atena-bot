@@ -1,0 +1,911 @@
+{
+  "beginDate": "2020-07-14T22:58:49.611Z",
+  "endDate": "2020-07-14T23:02:11.088Z",
+  "data": {
+    "location": {
+      "city": "Mar Vermelho",
+      "uf": "AL",
+      "ibge": "2704906"
+    },
+    "agreements": [
+      {
+        "agreementId": "844295/2017",
+        "uf": "AL",
+        "city": "Mar Vermelho",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-10-18T02:00:00.000Z",
+        "end": "2018-08-14T03:00:00.000Z",
+        "program": "Alagoas - Emendas Parlamentares - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "016540/2017",
+            "organId": "16540/2017",
+            "processId": "0165402017",
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Mar Vermelho-AL, localizado na zona da mata do Estado, faz da parte da mesorregião do agreste alagoano e da microrregião de Palmeira dos Índios, integra o território da cidadania da zona da mata alagoana, possui uma área demográfica de 93, 102 Km2. Sua população total é de 3.652 habitantes (censo 2010-IBGE), deste total aproximadamente 60% é rural e 40% é urbana. Sua densidade demográfica é de 39,23 habitantes/Km2. Seu principal acesso é pela Al 110, Rodovia Industrial José Aprígio Brandão Vilela, estrada que liga Viçosa a Mar Vermelho, faz fronteira com os municípios de Viçosa, Paulo Jacinto, Palmeira dos Índios, Tanque D’Arca e Pindoba. Possui Índice de Desenvolvimento Humano/IDH de 0, 611. Ranking do IDH dos Municípios do Brasil 2003 – PNUD. É um município onde predomina o minifúndio, tanto que não possui nenhum assentamento rural, sua principal economia é a pecuária de corte e de leite, seguida da agricultura de subsistência, onde predomina o cultivo de: milho, feijão, mandioca, banana, dentre outras. Visando a necessidade o poder público municipal ver a necessidade da aquisição de caminhão carroceria madeira para o escoamento da produção diversificada dando a oportunidade ao fortalecimento da agricultura familiar para o comercio local e regional, garantindo o transporte de ração para os animais dos criador de pequeno porte. O veículo utilitário é de grande necessidade onde irá garantir uma boa assistência técnica na área dos agricultores onde o transporte ficara a disposição dos técnicos e veterinários para o deslocamento da sede do município área rural levando conhecimento para uma boa produção e manejo do solo de forma adequada com o acompanhamento técnico no município. Esta proposta teve origem através da emenda parlamentar de nº 22890001.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Máquinas e Equipamentos Agrícolas",
+            "information": "Em atendimento ao disposto no inciso V, artigo 16, da Portaria Interministerial nº 424, declaro, para os devidos fins administrativos e efeitos legais, que a Secretaria Municipal de Agricultura, por seu Valdeni Laurindo de Lemos, Secretário de Agricultura, assume a responsabilidade pelo gerenciamento do objeto constante do Plano de Trabalho da proposta de contrato de repasse nº016540/2017, Aquisição de Máquinas e Equipamentos no Município de Mar Vermelho -AL. Que a Prefeitura dispõe de servidores com capacidade administrativa, técnica e gerencial, 01 agrônomos, 01 veterinários, 01 tratoristas, 01 operadores De máquinas 02 motorista de veículos etc. Habilitados para operar com o objeto pactuado. Que possui espaço físico para guarda dos bens adquiridos, situado à Rua S Sebastião, 1 - Centro - Mar Vermelho, e seguirá as recomendações do fabricante no concernente às manutenções preventivas. Que assume inteira responsabilidade por todas as despesas referentes a salários, tributos, encargos trabalhistas, previdenciários, fiscais, acidentárias, civil e criminal, comerciais, taxas, fretes, seguros, deslocamento de pessoal, prestação de garantia, manutenção preventiva e corretiva, bem como quaisquer outras que incidam ou venham a incidir sobre os bens adquiridos. Que se obriga a realizar o conserto ou substituição de parte ou peças em razão de quebra ou avaria do bem/equipamento, por imperícia ou outro problema técnico qualquer, necessários para que o mesmo retorne à sua condição normal de funcionamento, feito de forma isolada, o que normalmente não envolve acréscimo da vida útil do bem adquirido.",
+            "proposalDate": "2017-03-17T03:00:00.000Z",
+            "biddingDate": "2017-10-18T02:00:00.000Z",
+            "homologationDate": "2017-10-27T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020170005",
+              "name": "Alagoas - Emendas Parlamentares - Investimento",
+              "value": 210000,
+              "details": {
+                "code": "2200020170005",
+                "name": "Alagoas - Emendas Parlamentares - Investimento",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário. Favor, verificar lista dos objetos contemplados na aba anexos.",
+                "couterpartRule": "Municípios até 50.000 habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 210000,
+                "couterpartValues": {
+                  "total": 15000,
+                  "financial": 15000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "respProponent": "***.645.214-** - JULIANA LOPES DE FARIAS ALMEIDA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "005/2018",
+              "type": "Licitação - Pregão",
+              "date": "2018-04-12T03:00:00.000Z",
+              "processId": "01092018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "01092018",
+                "biddingId": "005/2018",
+                "object": "Aquisição de 01(um) Veiculo automotor, tipo utilitário de pequeno porte e Aquisição de 01(um) veiculo automotor zero quilometro utilitário de grande porte.",
+                "legalFoundation": "Lei10.520/2002 e Lei 8666/93",
+                "justification": "o Pregão ocorreu dentro dos fundamentos legais da Lei 10.520/2002 e Lei 8666/93 e suas alterações.",
+                "publishDate": "2018-04-12T03:00:00.000Z",
+                "beginDate": "2018-04-26T03:00:00.000Z",
+                "endDate": "2018-04-26T03:00:00.000Z",
+                "biddingValue": 210000,
+                "homologationDate": "2018-04-25T03:00:00.000Z",
+                "city": "2797 - MAR VERMELHO",
+                "analysisDate": null,
+                "accepted": ""
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000010/2018",
+              "biddingId": "005/2018",
+              "date": "2018-04-30T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 03079649000138",
+                "hirerDocument": "CNPJ: 12333761000144",
+                "type": "Material",
+                "object": "Aquisição de 01(um) veiculo automotor zero quilometro utilitário de grande porte.",
+                "totalValue": 155000,
+                "publishDate": "2018-04-30T03:00:00.000Z",
+                "beginDate": "2018-04-26T03:00:00.000Z",
+                "endDate": "2018-08-14T03:00:00.000Z",
+                "signDate": "2018-04-26T03:00:00.000Z",
+                "executionProcessId": "005/2018 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "01092018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE MAR VERMELHO",
+            "documentNumber": "12.333.761/0001-44",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "844295/2017",
+            "validity": "18/10/2017 a 14/08/2018",
+            "limitDate": "2018-07-16T03:00:00.000Z",
+            "totalValue": 13,
+            "transferValue": 210000,
+            "counterpartValue": 195000,
+            "yieldValue": 15000
+          }
+        }
+      },
+      {
+        "agreementId": "822356/2015",
+        "uf": "AL",
+        "city": "Mar Vermelho",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2015-12-31T02:00:00.000Z",
+        "end": "2021-07-12T03:00:00.000Z",
+        "program": "2068 - Saneamento Basico (acao: 7656 - Saneamento Basico em Comunidades Rurais, tradicionais e areas Especiais)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "032720/2015",
+            "organId": "00072/2015",
+            "processId": "25100.016664/2015-88",
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 507/2011.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O MUNICÍPIO DE MAR VERMELHO-AL, LOCALIZADO NA ZONA DA MATA DO ESTADO, FAZ DA PARTE DA MESORREGIÃO DO AGRESTE ALAGOANO E DA MICRORREGIÃO DE PALMEIRA DOS ÍNDIOS, INTEGRA O TERRITÓRIO DA CIDADANIA DA ZONA DA MATA ALAGOANA, POSSUI UMA ÁREA DEMOGRÁFICA DE 93, 102 KM2. SUA POPULAÇÃO TOTAL É DE 3.652 HABITANTES (CENSO 2010-IBGE), DESTE TOTAL APROXIMADAMENTE 60% É RURAL E 40% É URBANA. SUA DENSIDADE DEMOGRÁFICA É DE 39,23 HABITANTES/KM2. SEU PRINCIPAL ACESSO É PELA AL 110, RODOVIA INDUSTRIAL JOSÉ APRÍGIO BRANDÃO VILELA, ESTRADA QUE LIGA VIÇOSA A MAR VERMELHO, FAZ FRONTEIRA COM OS MUNICÍPIOS DE VIÇOSA, PAULO JACINTO, PALMEIRA DOS ÍNDIOS, TANQUE D’ARCA E PINDOBA. COM ÍNDICE DE DESENVOLVIMENTO HUMANO/IDH DE 0, 611. RANKING DO IDH DOS MUNICÍPIOS DO BRASIL 2003 – PNUD. É UM MUNICÍPIO ONDE PREDOMINA O MINIFÚNDIO, TANTO QUE NÃO POSSUI NENHUM ASSENTAMENTO RURAL, SUA PRINCIPAL ECONOMIA É A PECUÁRIA DE CORTE E DE LEITE, SEGUIDA DA AGRICULTURA DE SUBSISTÊNCIA, ONDE PREDOMINA O CULTIVO DE: MILHO, FEIJÃO, MANDIOCA, BANANA, DENTRE OUTRAS. É IMPERATIVO A NECESSIDADE DE IMPLANTAÇÃO DE MÓDULOS SANITÁRIOS NAS ÁREA RURAL DO MUNICÍPIO. EM BUSCA PELA INCLUSÃO SOCIAL, E PREOCUPADA COM O PROBLEMA DE SAÚDE PÚBLICA DAS FAMÍLIAS QUE VIVEM EM ESTADO DESPROVIDO EM RELAÇÃO A SITUAÇÃO DE HIGIENE EM SEU LAR, ESTA GESTÃO PÚBLICA BUSCA JUNTO AO GOVERNO FEDERAL UMA PARCERIA PARA REALIZAÇÃO DO PROJETO DE MELHORIA SANITÁRIA DOMICILIARES, OU SEJA, MÓDULOS SANITÁRIOS. COM A IMPLANTAÇÃO DOS MÓDULOS SANITÁRIOS EM SUA CASAS DOENÇAS E AGRAVOS IRÃO SER COMBATIDAS, PRINCIPALMENTE EM CRIANÇAS QUE TEM CONTATO SEMPRE COM O SOLO CONTAMINADO PELA FALTA DE CONDIÇÕES SANITÁRIAS ADEQUADA PARA A REALIZAÇÕES DE SUA NECESSIDADES CORRETAMENTE SEGURA. . ACREDITAMOS AINDA QUE TAL PROJETO ELIMINARÁ AINDA ALGUNS PROBLEMAS DE SAÚDE PÚBLICA, O RESULTADO ESPERADO É A SATISFAÇÃO DA COMUNIDADE BENEFICIADA COMO TAMBÉM A REDUÇÃO DE PROBLEMAS DE SAÚDE, HOJE TÃO RECORRENTE NO MUNICÍPIO",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES EM ÁREAS RURAIS NO MUNICÍPIO DE MAR VERMELHO -AL.",
+            "information": "DECLARO PARA OS DEVIDOS FINS QUE O MUNICÍPIO DISPÕES DE CAPACIDADE TÉCNICA PARA EXECUÇÃO DO OBJETO",
+            "proposalDate": "2015-08-10T03:00:00.000Z",
+            "biddingDate": "2015-12-31T02:00:00.000Z",
+            "homologationDate": "2016-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120150005",
+              "name": "2068 - Saneamento Basico (acao: 7656 - Saneamento Basico em Comunidades Rurais, tradicionais e areas Especiais)",
+              "value": 713389.65,
+              "details": {
+                "code": "3621120150005",
+                "name": "2068 - Saneamento Basico (acao: 7656 - Saneamento Basico em Comunidades Rurais, tradicionais e areas Especiais)",
+                "cps": null,
+                "items": "Implantação, Ampliação ou Melhoria de Ações e Serviços Sustentáveis de Saneamento Básico em Comunidades Rurais, Tradicionais e Especiais",
+                "couterpartRule": "A contrapartida (no caso dos municípios) dependerá da comprovação, na forma definida pelo art. 72 (LDO 2015) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 713389.65,
+                "couterpartValues": {
+                  "total": 12018.38,
+                  "financial": 12018.38,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 701371.27,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "respProponent": "***.645.214-** - JULIANA LOPES DE FARIAS ALMEIDA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-09-12T03:00:00.000Z",
+              "processId": "0012018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0012018",
+                "biddingId": "0012018",
+                "object": "CONSTRUÇÃO DE CISTERNAS PARA ARMAZENAMENTO DA ÁGUA DE CHUVAS NO MUNICÍPIO DE MINADOR DO NEGRÃO - AL. LOTE 01",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "A LICITAÇÃO OCORREU DENTRO DA LEI 8666/93 E SUAS ALTERAÇÕES.",
+                "publishDate": "2018-09-12T03:00:00.000Z",
+                "beginDate": "2018-09-27T03:00:00.000Z",
+                "endDate": "2018-09-27T03:00:00.000Z",
+                "biddingValue": 713389.65,
+                "homologationDate": "2018-12-18T02:00:00.000Z",
+                "city": "2797 - MAR VERMELHO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2018",
+              "biddingId": "0012018",
+              "date": "2018-12-24T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 26399954000102",
+                "hirerDocument": "CNPJ: 12333761000144",
+                "type": "Obras",
+                "object": "CONSTRUÇÃO DE CISTERNAS PARA ARMAZENAMENTO DA ÁGUA DE CHUVAS NO MUNICÍPIO DE MAR VERMELHO - AL. LOTE 01",
+                "totalValue": 713389.65,
+                "publishDate": "2018-12-24T02:00:00.000Z",
+                "beginDate": "2018-12-19T02:00:00.000Z",
+                "endDate": "2019-12-19T03:00:00.000Z",
+                "signDate": "2018-12-19T02:00:00.000Z",
+                "executionProcessId": "0012018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE MAR VERMELHO",
+            "documentNumber": "12.333.761/0001-44",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "822356/2015",
+            "validity": "31/12/2015 a 12/07/2021",
+            "limitDate": "2021-09-10T03:00:00.000Z",
+            "totalValue": 713389.65,
+            "transferValue": 701371.27,
+            "counterpartValue": 12018.38,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "802686/2014",
+        "uf": "AL",
+        "city": "Mar Vermelho",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-12-31T02:00:00.000Z",
+        "end": "2021-07-12T03:00:00.000Z",
+        "program": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "032268/2014",
+            "organId": "00011/2014",
+            "processId": "25100.010048/2014-32",
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 507/2011.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O MUNICÍPIO DE MAR VERMELHO-AL, LOCALIZADO NA ZONA DA MATA DO ESTADO, FAZ DA PARTE DA MESORREGIÃO DO AGRESTE ALAGOANO E DA MICRORREGIÃO DE PALMEIRA DOS ÍNDIOS, INTEGRA O TERRITÓRIO DA CIDADANIA DA ZONA DA MATA ALAGOANA, POSSUI UMA ÁREA DEMOGRÁFICA DE 93, 102 KM2. SUA POPULAÇÃO TOTAL É DE 3.652 HABITANTES (CENSO 2010-IBGE), DESTE TOTAL APROXIMADAMENTE 60% É RURAL E 40% É URBANA. SUA DENSIDADE DEMOGRÁFICA É DE 39,23 HABITANTES/KM2. SEU PRINCIPAL ACESSO É PELA AL 110, RODOVIA INDUSTRIAL JOSÉ APRÍGIO BRANDÃO VILELA, ESTRADA QUE LIGA VIÇOSA A MAR VERMELHO, FAZ FRONTEIRA COM OS MUNICÍPIOS DE VIÇOSA, PAULO JACINTO, PALMEIRA DOS ÍNDIOS, TANQUE D’ARCA E PINDOBA. COM ÍNDICE DE DESENVOLVIMENTO HUMANO/IDH DE 0, 611. RANKING DO IDH DOS MUNICÍPIOS DO BRASIL 2003 – PNUD. É UM MUNICÍPIO ONDE PREDOMINA O MINIFÚNDIO, TANTO QUE NÃO POSSUI NENHUM ASSENTAMENTO RURAL, SUA PRINCIPAL ECONOMIA É A PECUÁRIA DE CORTE E DE LEITE, SEGUIDA DA AGRICULTURA DE SUBSISTÊNCIA, ONDE PREDOMINA O CULTIVO DE: MILHO, FEIJÃO, MANDIOCA, BANANA, DENTRE OUTRAS. É IMPERATIVO A NECESSIDADE DE IMPLANTAÇÃO DE MÓDULOS SANITÁRIOS NAS ÁREA RURAL DO MUNICÍPIO. EM BUSCA PELA INCLUSÃO SOCIAL, E PREOCUPADA COM O PROBLEMA DE SAÚDE PÚBLICA DAS FAMÍLIAS QUE VIVEM EM ESTADO DESPROVIDO EM RELAÇÃO A SITUAÇÃO DE HIGIENE EM SEU LAR, ESTA GESTÃO PÚBLICA BUSCA JUNTO AO GOVERNO FEDERAL UMA PARCERIA PARA REALIZAÇÃO DO PROJETO DE MELHORIA SANITÁRIA DOMICILIARES, OU SEJA, MÓDULOS SANITÁRIOS. COM A IMPLANTAÇÃO DOS MÓDULOS SANITÁRIOS EM SUA CASAS DOENÇAS E AGRAVOS IRÃO SER COMBATIDAS, PRINCIPALMENTE EM CRIANÇAS QUE TEM CONTATO SEMPRE COM O SOLO CONTAMINADO PELA FALTA DE CONDIÇÕES SANITÁRIAS ADEQUADA PARA A REALIZAÇÕES DE SUA NECESSIDADES CORRETAMENTE SEGURA. . ACREDITAMOS AINDA QUE TAL PROJETO ELIMINARÁ AINDA ALGUNS PROBLEMAS DE SAÚDE PÚBLICA, O RESULTADO ESPERADO É A SATISFAÇÃO DA COMUNIDADE BENEFICIADA COMO TAMBÉM A REDUÇÃO DE PROBLEMAS DE SAÚDE, HOJE TÃO RECORRENTE NO MUNICÍPIO",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES NO MUNICÍPIO DE MAR VERMELHO -AL.",
+            "information": "DECLARO PARA OS DEVIDOS FINS QUE O MUNICÍPIO DISPÕES DE CAPACIDADE TÉCNICA PARA EXECUÇÃO DO OBJETO.",
+            "proposalDate": "2014-03-20T03:00:00.000Z",
+            "biddingDate": "2014-12-31T02:00:00.000Z",
+            "homologationDate": "2015-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120140019",
+              "name": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+              "value": 387424.86,
+              "details": {
+                "code": "3621120140019",
+                "name": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+                "cps": null,
+                "items": "Implantação de Melhorias Sanitárias Domiciliares para Prevenção e Controle de Doenças e Agravos",
+                "couterpartRule": "A contrapartida (no caso dos municípios) dependerá da comprovação, na forma definida pelo art. 60 da Lei 12.919/2013 (LDO 2014) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 387424.86,
+                "couterpartValues": {
+                  "total": 7596.57,
+                  "financial": 7596.57,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 379828.29,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "respProponent": "***.645.214-** - JULIANA LOPES DE FARIAS ALMEIDA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2016",
+              "type": "Licitação -",
+              "date": "2016-05-05T03:00:00.000Z",
+              "processId": "0012016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "",
+                "biddingType": "",
+                "processId": "0012016",
+                "biddingId": "01/2016",
+                "object": "EXECUÇÃO DOS SERVIÇOS DE IMPLANTAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES NO MUNICÍPIO DE MAR VERMELHO - AL",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "certifico que a licitação ocorreu conforme a Lei 8.666/93.",
+                "publishDate": "2016-05-05T03:00:00.000Z",
+                "beginDate": "2016-05-20T03:00:00.000Z",
+                "endDate": "2016-05-20T03:00:00.000Z",
+                "biddingValue": 356802.99,
+                "homologationDate": "2016-06-01T03:00:00.000Z",
+                "city": "2797 - MAR VERMELHO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2016",
+              "biddingId": "01/2016",
+              "date": "2016-06-06T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 18286438000143",
+                "hirerDocument": "CNPJ: 12333761000144",
+                "type": "Obras",
+                "object": "EXECUÇÃO DOS SERVIÇOS DE IMPLANTAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES NO MUNICÍPIO DE MAR VERMELHO - AL",
+                "totalValue": 356802.99,
+                "publishDate": "2016-06-06T03:00:00.000Z",
+                "beginDate": "2016-06-01T03:00:00.000Z",
+                "endDate": "2016-06-01T03:00:00.000Z",
+                "signDate": "2016-06-01T03:00:00.000Z",
+                "executionProcessId": "01/2016 ",
+                "biddingModality": "Licitação - ",
+                "processId": "0012016 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE MAR VERMELHO",
+            "documentNumber": "12.333.761/0001-44",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "802686/2014",
+            "validity": "31/12/2014 a 12/07/2021",
+            "limitDate": "2021-09-10T03:00:00.000Z",
+            "totalValue": 387424.86,
+            "transferValue": 379828.29,
+            "counterpartValue": 7596.57,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "784612/2013",
+        "uf": "AL",
+        "city": "Mar Vermelho",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2017-12-30T02:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "058701/2013",
+            "organId": "58701/2013",
+            "processId": "0587012013",
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "legalFoundation": "Port. 274/2013",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "MAR VERMELHO, MUNICÍPIO LOCALIZADO NA REGIÃO DO AGRESTE ALAGOANO COM POPULAÇÃO ESTIMADA EM 3.652 HABITANTES DO CENSO 2010, DISTANTE DA CAPITAL MACEIÓ 110 KM, MUNICÍPIO COM SEU O APELIDO SUIÇA ALAGOANA POR TER CARACTERÍSTICAS DA REGIÃO EUROPÉIA, NO CLIMA. FRIO E SECO, A CIDADE É ACONSELHADA PELOS ESPECIALISTAS COMO AUXILIAR NO TRATAMENTO DAS DOENÇAS DO APARELHO RESPIRATÓRIO. DESTACA-SE, TAMBÉM, A LAGOA VERMELHA, ABENÇOADA PELO CRISTO REDENTOR NO ALTO DA CIDADE. COM SUAS FESTIVIDADES QUE ATRAEM MUITOS TURISTA, DESTACANDO-SE O CARNAVAL, SÃO JOÃO E FESTIVAIS FORA DE ÉPOCA. COM UMA ÁREA DE APROXIMADAMENTE 114 KM QUADRADOS, MAR VERMELHO É CONHECIDA COMO UMA CIDADE PACATA, ONDE AS PESSOAS PREZAM PELO SOSSEGO. OS TURISTAS QUE GOSTAM DE DESCANSAR, PASSEAR PELAS MATAS E SERRAS .TENDO EM VISTA AS GRANDES NECESSIDADE DO MUNICÍPIO EM RECEBER OS TURISTA COM BOM ASPECTO DE INFRAESTRUTURA PARA TRAZER CONFORTO E PRINCIPALMENTE SEGURANÇA PARA OS TURISTAS E A POPULAÇÃO LOCAL.CONSIDERANDO QUE OS ESPAÇOS PÚBLICOS SÃO MEIOS IMPORTANTES PARA A PROMOÇÃO DO LAZER E MELHORIA DA QUALIDADE DE VIDA, ONDE PROJETOS ESTRUTURANTES COMO AS PRAÇAS, E OS CANTEIROS DA AVENIDA TEM A NECESSIDADE DE MANUTENÇÃO E REFORMA DOS ESPAÇOS EXISTENTES E A AMPLIAÇÃO DE ALGUMAS ÁREAS NO ENTORNO. A URBANIZAÇÃO E INFRAESTRUTURA DAS PRAÇAS E CANTEIROS, PORTANTO, DÁR-SE NECESSÁRIO DEVIDO AO RECONHECIMENTO DO ESPAÇO COMO UM DOS CARTÕES POSTAIS DA NOSSA CIDADE.OUTRO SIM QUE O MUNICÍPIO NÃO DISPÕE DE ESPAÇO PARA APRESENTAÇÃO DE PEÇAS TEATRAIS APRESENTAÇÃO DE GRUPO DE DANÇA E DE ESPAÇO PARA COMERCIALIZAÇÃO DOS PRODUTOS ARTESANAIS,COM A Urbanização e Infraestrutura da Praças Cel Alvoro Almeida IRA GARANTIR UM ESPAÇO DE GRANDE IMPORTÂNCIA PARA O MUNICÍPIO ONDE IRA GARANTIR ESPAÇO PARA APRESENTAÇÕES LOCAL E REGIONAL, PARA COMERCIALIZAÇÃO DOS PRODUTOS ARTESANAIS GERANDO EMPREGO E RENDA NO MUNICÍPIO E TRAZENDO SEGURANÇA E CONFORTO PARA OS TURISTA .",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Apoio a Projeto de Infraestrutura Turística - Urbanização e Infraestrutura da Praça Cel Alvoro Almeida no Municipio de Mar vermelho -AL",
+            "information": "DECLARO PARA OS DEVIDOS FINS QUE O MUNICÍPIO POSUI NO SEU QUADRO PROFISSIONAIS PARA EXECUÇÃO DO OBJETO.",
+            "proposalDate": "2013-09-12T03:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020130002",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 407224.81,
+              "details": {
+                "code": "5400020130002",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Consórcios públicos constituídos por Estados, Distrito Federal e Municípios, 2% (dois por cento) e 4% (quatro por cento). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 407224.81,
+                "couterpartValues": {
+                  "total": 17224.81,
+                  "financial": 17224.81,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00 - JOÃO LYRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "respProponent": "***.645.214-** - JULIANA LOPES DE FARIAS ALMEIDA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012015",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-03-24T03:00:00.000Z",
+              "processId": "05632015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "05632015",
+                "biddingId": "0012015",
+                "object": "Urbanização da Praça Cel. Álvaro Almeida e Rua Major Canuto.",
+                "legalFoundation": "lei 86666/1993",
+                "justification": "PARA EXECUÇÃO DO OBJETO",
+                "publishDate": "2015-03-24T03:00:00.000Z",
+                "beginDate": "2015-04-08T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 407224.81,
+                "homologationDate": "2015-04-30T03:00:00.000Z",
+                "city": "2797 - MAR VERMELHO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2015",
+              "biddingId": "0012015",
+              "date": "2015-05-04T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 18286438000143",
+                "hirerDocument": "CNPJ: 12333761000144",
+                "type": "Obras",
+                "object": "Urbanização da Praça Cel. Álvaro Almeida e Rua Major Canuto.",
+                "totalValue": 407224.81,
+                "publishDate": "2015-05-04T03:00:00.000Z",
+                "beginDate": "2015-05-14T03:00:00.000Z",
+                "endDate": "2015-12-14T02:00:00.000Z",
+                "signDate": "2015-04-17T03:00:00.000Z",
+                "executionProcessId": "0012015 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "05632015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE MAR VERMELHO",
+            "documentNumber": "12.333.761/0001-44",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "784612/2013",
+            "validity": "31/12/2013 a 30/12/2017",
+            "limitDate": "2018-02-28T03:00:00.000Z",
+            "totalValue": 407224.81,
+            "transferValue": 390000,
+            "counterpartValue": 17224.81,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "725689/2009",
+        "uf": "AL",
+        "city": "Mar Vermelho",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-01-19T02:00:00.000Z",
+        "end": "2012-01-18T02:00:00.000Z",
+        "program": "SPR - PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "100047/2009",
+            "organId": "01124/2009",
+            "processId": "59200.000430/2009-64",
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "legalFoundation": "Decreto 6.170/2007 e Portaria 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Mar Vermelho, município localizado na Região do Agreste Alagoano com população estimada em 4200, distante da capital maceió 110 km, possui uma população carente e desprovida de recursos financeiros, originária de agricultores, na sua grande maioria e sua infraestrutura urbana é deficitária. A Gestão Municipal tem pautado suas ações governamentais no sentido de viabilizar o desenvolvimento sustentável do município, para tanto a Prefeitura tem como objetivo implantar projetos que melhorem a infraestrutura urbana e garantam espaços que contribuam para as sções sócio econômicas e culturais da população. Portanto a construção do Centro de Multiplo Uso tem a finalidade de agrupar no mesmo espaço várias atividadespossibilitando aos produtores a comercialização de seus produtos, capacitação e qualificação profissional, exposição de produtos artesanias e um local para eventos culturais. Com este espaço a prefeitura pretende promover um incremento na geração de renda da população, como também, a diminuição de gastos com atividades e eventos promovido através de seus órgãos, além de proporcionar a interação da comunidade que passará a usufruir em um local, o lazer e o negócio, melhorando a qualidade de vida da população.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construir o Centro de Multiplo Uso de Mar Vermelho",
+            "information": "O Município possui capacidade técnica para acompanhamento do Projeto de Construção do Centro Multiplo Uso junto a esse Ministério.",
+            "proposalDate": "2009-11-18T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090028",
+              "name": "SPR - PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO",
+              "value": 205000,
+              "details": {
+                "code": "5300020090028",
+                "name": "SPR - PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO",
+                "cps": null,
+                "items": "Apoio à Implantação de Infra-Estrutura Social e Produtiva em Espaços Sub-Regionais",
+                "couterpartRule": "Municípios com até 50.000 habitantes localizados nas Mesorregiões Prioritárias da PNDR [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 205000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 200000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "respProponent": "***.735.344-** - QUITERIA BERTO DO NASCIMENTO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.669.809-** - MARCIA REGINA SARTORI DAMO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE MAR VERMELHO",
+            "documentNumber": "12.333.761/0001-44",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "725689/2009",
+            "validity": "19/01/2010 a 18/01/2012",
+            "limitDate": "2012-02-17T02:00:00.000Z",
+            "totalValue": 205000,
+            "transferValue": 200000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "724214/2009",
+        "uf": "AL",
+        "city": "Mar Vermelho",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-07-30T03:00:00.000Z",
+        "program": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "093492/2009",
+            "organId": "09349/2009",
+            "processId": "093492/2009",
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Mar Vermelho, município localizado na Região do Agreste Alagoano com população estimada em 4200, distante da capital maceió 110 km, possui uma população carente e desprovida de recursos financeiros, originária de agricultores, na sua grande maioria, necessitando, portanto de ações governamentais que minimizem os problemas causado pela falta de infraestrutura como a não pavimentação das ruas e vias, dificultando o trafego e o escoamento da produção, contribuindo para o agravamento dos problemas sociais no município. Portanto faz-se necessário a pavimentação de Parte da Ladeira do Ambrósio, que fica situada na Zona Rural, possuindo em torno de 30 casas, com média de 4 pessoas por moradia, tendo renda familiar em torno de R$ 300,00. Essa ação possibilitará melhorias na infra estrutra,promovendo assim o desenvolvomento local e garantindo conforto a população e aos visitantes.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de Paralelepípedo de Parte da Ladeira do Ambrósio em Mar Vermelho.",
+            "information": "O município possui capacidade técnica e Gerencial para acompanhamento da execução do projeto de Pavimentação em Paralelepípedo junto a esse Ministéio.",
+            "proposalDate": "2009-10-30T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020094713",
+              "name": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+              "value": 200000,
+              "details": {
+                "code": "5600020094713",
+                "name": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+                "cps": "",
+                "items": "Infra-Estrutura no Sistema Viario Para Promover a Redução de Acidentes no Transito - Recursos de Investimentos.",
+                "couterpartRule": "I - Municípios - 2% e 4%, para Municípios com até 50.000 habitantes; [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 200000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "respProponent": "***.735.344-** - QUITERIA BERTO DO NASCIMENTO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MAR VERMELHO",
+            "documentNumber": "12.333.761/0001-44",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "724214/2009",
+            "validity": "31/12/2009 a 30/07/2012",
+            "limitDate": "2012-07-30T03:00:00.000Z",
+            "totalValue": 200000,
+            "transferValue": 195000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "721305/2009",
+        "uf": "AL",
+        "city": "Mar Vermelho",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-30T02:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "099954/2009",
+            "organId": "09995/2009",
+            "processId": "099954/2009",
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Mar Vermelho, município localizado na Região do Agreste Alagoano com população estimada em 4200, distante da capital maceió 110 km, possui uma população carente e desprovida de recursos financeiros, originária de agricultores, na sua grande maioria, necessitando, portanto de ações governamentais que minimizem os problemas causado pela falta de infraestrutura como a não pavimentação das ruas e vias, dificultando o trafego e o escoamento da produção, contribuindo para o agravamento dos problemas sociais no município. Portanto faz-se necessário a pavimentação de Parte da via de acesso Mar Vermelho/Palmeira dos Indios, situada na Zona Urbana. Essa ação possibilitará melhorias na infra estrutra,promovendo assim o desenvolvimento local e garantindo conforto a uma população estimada em torno de 50 famílias, com renda média de um salário mínimo e aos visitantes.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em Paralelepípedos de Parte da via de acesso Mar Vermelho/Palmeira dos Indios.",
+            "information": "O município possui capacidade técnica para acompanhamento da execução do projeto de Pavimentação em Paralelepípedo junto a esse Ministéio.",
+            "proposalDate": "2009-11-17T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020090782",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 100250,
+              "details": {
+                "code": "5600020090782",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "infra-estrutura urbana",
+                "couterpartRule": "",
+                "totalValue": 100250,
+                "couterpartValues": {
+                  "total": 2050,
+                  "financial": 2050,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 98200,
+                  "amendment": "R$ 98.200,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.761/0001-44 - MUNICIPIO DE MAR VERMELHO",
+            "respProponent": "***.735.344-** - QUITERIA BERTO DO NASCIMENTO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MAR VERMELHO",
+            "documentNumber": "12.333.761/0001-44",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "721305/2009",
+            "validity": "31/12/2009 a 30/12/2011",
+            "limitDate": "2011-12-30T02:00:00.000Z",
+            "totalValue": 100250,
+            "transferValue": 98200,
+            "counterpartValue": 2050,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

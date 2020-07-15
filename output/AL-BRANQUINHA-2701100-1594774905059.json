@@ -1,0 +1,1462 @@
+{
+  "beginDate": "2020-07-15T00:18:59.517Z",
+  "endDate": "2020-07-15T00:23:54.853Z",
+  "data": {
+    "location": {
+      "city": "Branquinha",
+      "uf": "AL",
+      "ibge": "2701100"
+    },
+    "agreements": [
+      {
+        "agreementId": "857151/2017",
+        "uf": "AL",
+        "city": "Branquinha",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "029379/2017",
+            "organId": "29379/2017",
+            "processId": "0293792017",
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE BRANQUINHA, LOCALIZADO A 65KM DE MACEIÓ, TEM EXTENSÃO TERRITORIAL DE 191,011 KM² E POSSUI UMA POPULAÇÃO DE 10 586 HABITANTES (IBGE/2010). O IDH DA CIDADE É DE 0,513 E O PIB GIRA EM TORNO DE R$ 3.055,03 PER CAPTA. TEM COMO FONTE DA ECONOMIA A LAVOURA, BASEADA NA CANA-DE-AÇUCAR, LARANJA, MANDIOCA, BEM COMO A PECUÁRIA. ALÉM DISSO, A FEIRA LIVRE APRESENTA-SE COMO UMA GRANDE FONTE DE RENDA. EM 2010, A CIDADE FOI DESTRUÍDA PELA ENCHENTE QUE ASSOLOU VÁRIOS MUNICÍPIOS DE ALAGOAS. TODA A CIDADE FOI DESTRUÍDA, 100 PESSOAS FICARAM DESAPARECIDAS, MUITAS DESALOJADAS, SOBRARAM APENAS OS DESTROÇOS E AS CONSTRUÇÕES MAIS RESISTENTES. ATUALMENTE, HÁ A NECESSIDADE DE PAVIMENTAR DIVERSAS RUAS NA CIDADE, UMA VEZ QUE, EXISTEM DIVERSAS FAMÍLIAS MORANDO EM RESIDENCIAS CUJAS RUAS AINDA SE ENCONTRAM NO BARRO, ACARRETANDO EM PROBLEMAS SOBRETUDO NA ÉPOCA CHUVOSA, MUITAS VEZES IMPOSSIBILITANDO POR COMPLETO O TRÁFEGO DE PESSOAS E VEÍCULOS NO LOCAL. A PAVIMENTAÇÃO EM PARALELEPIPEDOS COM MICRO DRENAGEM, CONTRUÍDANAS RUAS COM DESCRIÇÃO SUPRA, RESULTARÁ EM UMA MELHOR QUALIDADE DE VIDA ACARRETADA PELA MELHORIA NA MOBILDADE URBANA ALÉM DA CAPTAÇÃO E DESTINAÇÃO DAS AGUAS PLUVIAIS NOS LOCAIS ONDE SERÁ EXECUTADA A PAVIMENTAÇÃO. TUDO ISSO EM COMPLETA SINTONIA COM OS OBJETIVOS DOS PROGRAMAS GOVERNAMENTAIS QUE COMPÕEM ESSE TÃO IMPORTANTE MINISTÉRIO. ESSE PROJETO É PROVENIENTE.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em Diversas Ruas.",
+            "information": "O MUNICÍPIO POSSUI TODA CAPACIDADE TÉCNICA E GERENCIAL NECESSÁRIA.",
+            "proposalDate": "2017-03-29T03:00:00.000Z",
+            "biddingDate": "2017-12-30T02:00:00.000Z",
+            "homologationDate": "2018-01-09T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 269882.46,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 2% (dois por cento) e 20% (vinte por cento) para os Estados e Distrito Federal não localizados . nas áreas prioritárias definidas no âmbito do PNDR, nas áreas da SUDENE, SUDAM e SUDECO; [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 269882.46,
+                "couterpartValues": {
+                  "total": 16969.03,
+                  "financial": 16969.03,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 252913.43,
+                  "amendment": "R$ 252.913,43 - Pedro Vilela"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "respProponent": "***.998.874-** - JAIRON MAIA FERNANDES NETO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-08-01T03:00:00.000Z",
+              "processId": "0012019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0012019",
+                "biddingId": "01/2019",
+                "object": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUTAR OBRAS DE PAVIMENTAÇÃO E DRENAGEM DE RUAS NO MUNICÍPIO DE BRANQUINHA/AL.",
+                "legalFoundation": "LEI Nº 8.666/1993",
+                "justification": "NECESSIDADE DE CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇOS DE ENGENHARIA E CONSTRUÇÃO.",
+                "publishDate": "2019-08-01T03:00:00.000Z",
+                "beginDate": "2019-08-22T03:00:00.000Z",
+                "endDate": "2019-08-30T03:00:00.000Z",
+                "biddingValue": 269882.46,
+                "homologationDate": "2019-08-30T03:00:00.000Z",
+                "city": "2721 - BRANQUINHA",
+                "analysisDate": "2020-01-27T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2019",
+              "biddingId": "01/2019",
+              "date": "2019-10-31T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 31806749000154",
+                "hirerDocument": "CNPJ: 12332995000177",
+                "type": "Obras",
+                "object": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUTAR OBRAS DE PAVIMENTAÇÃO E DRENAGEM DE RUAS NO MUNICÍPIO DE BRANQUINHA/AL.",
+                "totalValue": 269882.46,
+                "publishDate": "2019-10-31T03:00:00.000Z",
+                "beginDate": "2019-10-30T03:00:00.000Z",
+                "endDate": "2020-04-30T03:00:00.000Z",
+                "signDate": "2019-10-30T03:00:00.000Z",
+                "executionProcessId": "01/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BRANQUINHA",
+            "documentNumber": "12.332.995/0001-77",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "857151/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 269882.46,
+            "transferValue": 252913.43,
+            "counterpartValue": 16969.03,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "830607/2016",
+        "uf": "AL",
+        "city": "Branquinha",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2016-06-22T03:00:00.000Z",
+        "end": "2020-07-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "017537/2016",
+            "organId": "17537/2016",
+            "processId": "0175372016",
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Conjunto dagoberto Omena Pavimentação em paralelepípedo Nessa região há uma grande concentração de munícipes, com acessos a importantes prédios como creche Próinfância, Centro de Referência da Assistência Social (CRAS), unidades de Postos de Saúde da Família, entre outros. Conjunto Raimundo Nonato: Pavimentação em paralelepípedo Esse trecho dá acesso a uma das entradas principais entradas da cidade de Branquinha, além de ser uma importante via entre a BR 104 e o local onde é realizada a feira semanal na cidade. Em todos os trechos citados, há uma grande dificuldade de acesso quando são observadas chuvas nestes locais, afetando o livre trânsito de pedestres e veículos entre as referidas localidades.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação e Drenagem de Ruas.",
+            "information": "Declaramos que possuímos em nosso quadro de colaboradores profissionais capacitados para à execução deste objeto.",
+            "proposalDate": "2016-03-15T03:00:00.000Z",
+            "biddingDate": "2016-06-22T03:00:00.000Z",
+            "homologationDate": "2016-06-28T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160014",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 494000,
+              "details": {
+                "code": "5600020160014",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 494000,
+                "couterpartValues": {
+                  "total": 900,
+                  "financial": 900,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 493100,
+                  "amendment": "R$ 493.100,00 - Paulão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "respProponent": "***.934.664-** - ANA RENATA DA PURIFICACAO FREITAS LOPES",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.847.618-** - GILBERTO KASSAB"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BRANQUINHA",
+            "documentNumber": "12.332.995/0001-77",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "830607/2016",
+            "validity": "22/06/2016 a 30/07/2020",
+            "limitDate": "2020-09-28T03:00:00.000Z",
+            "totalValue": 494000,
+            "transferValue": 493100,
+            "counterpartValue": 900,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "821618/2015",
+        "uf": "AL",
+        "city": "Branquinha",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2015-12-31T02:00:00.000Z",
+        "end": "2018-12-31T02:00:00.000Z",
+        "program": "2068 - Saneamento Básico (6908 - Educação em Saúde voltada para o Saneamento Ambiental)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "033294/2015",
+            "organId": "00037/2015",
+            "processId": "25100.015981/2015-87",
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 507/2011.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "Entre os grandes desafios postos à sociedade brasileira, o acesso UNIVERSAL ao saneamento básico com qualidade, equidade e continuidade pode ser considerado como uma das questões fundamentais do momento atual das políticas sociais. O acesso universal aos benefícios gerados pelo saneamento ainda é um desafio a ser alcançado. Proporcioná-lo, de forma equânime, demanda o envolvimento articulado dos diversos segmentos sociais envolvidos em parceria com o poder público. Os serviços de saneamento estão relacionados de forma indissociável à promoção da qualidade de vida, bem como ao processo de proteção dos ambientes naturais, em especial dos recursos hídricos. Nesse sentido, é imprescindível desenvolver ações educativas que possibilitem a compreensão sistêmica que a questão exige e estimular a participação popular, engajada e consciente, no enfrentamento dessa questão. Na busca pela universalização dos serviços de saneamento é fundamental estimular um olhar atento à realidade em que se vive, uma vez que para transformá-la é essencial que a população conheça os diferentes aspectos relacionados ao saneamento, participe ativamente dos fóruns onde são tomadas as decisões sobre as prioridades de empreendimentos e exerça controle social ao longo do processo. Nesse contexto, às ações de educação em saúde ambiental para promoção da saúde, constitui-se numa promissora possibilidade de atuação que busca, por meio de ações articuladas, oportunizar a emancipação dos atores sociais envolvidos e, com isso, despertar o protagonismo popular na condução das transformações esperadas, contribuindo de forma significativa com a melhoria da qualidade de vida da população. É preciso inverter a lógica de prevalência de ações pontuais que têm caracterizado os trabalhos de educação ambiental desenvolvidos em atendimento aos empreendimentos de saneamento, transitando para um processo em que a população, imbuída do desejo e responsabilidade de atuar, se organize, busque conhecer de forma profunda sua realidade e, a partir da leitura feita, demande ações de saneamento pautadas em suas reais prioridades. O processo de educação ambiental em sua vertente transformadora acontece no momento em que a população, ao olhar de forma crítica para os aspectos que influenciam sua qualidade de vida, reflete sobre os fatores sociais, políticos e econômicos que originaram o atual panorama e busca atuar no seu enfrentamento. Trata-se, portanto, de um convite à participação popular, que vai ao encontro da regulamentação e implantação das diretrizes nacionais para o saneamento básico e a respectiva política federal do setor, por meio do marco estabelecido pela Lei Nacional do Saneamento Básico nº 11.445, de 05/01/2007, que tem como objetivo estratégico a universalização dos serviços de saneamento e a participação efetiva da sociedade no controle social das ações deflagradas. Branquinha foi um dos mais prejudicados com as enchentes que devastaram parte do Estado de Alagoas no ano de 2010. O município foi um dos mais afetados do Estado. Além de vítimas fatais a enchente de 2010 deixou prejuízos nunca antes visto na história do município. Com a enchente foram embora os hidrômetros, e desde então a água ofertada a população não é taxada, ocasionando uma renúncia de mais duzentos mil reais por ano para os cofres municipais e muito desperdício. Somado a isso a baixa capacidade de reservação dificultada à manutenção do sistema atual e impõem uma operação no limite de sua capacidade. A enchente de 2010 gerou uma ação coordenada dos governos (federal e estadual) na reconstrução de uma “cidade nova”. Branquinha Nova como ficou conhecida foi dotada de sistemas de abastecimento de água, que hoje oferta água em quantidade e qualidade para as quase 1.000 novas casas que foram reconstruídas, atendendo de forma adequada e satisfatória apenas 30% da população. Não é justo o “muro” que se criou com a enchente de 2010, separando as famílias de Branquinha em cidadãos de 1ª e 2ª categorias. A água é um direito de todos! A Lei do Saneamento busca assegurar que o planejamento seja, de fato, um instrumento de gestão pública que, aliado à regulação, fiscalização e controle social, proporcione, de forma articulada a outras políticas públicas, a universalização, integralidade, transparência, sustentabilidade e eficiência dos serviços de saneamento. Em março de 2012 através de Convênio com a FUNASA, a Prefeitura de Branquinha, com apoio técnico e metodológico da ENGECONSULT – Consultores Técnicos passou a discutir e elaborar de forma participativa o Plano Municipal de Saneamento Básico. O PMSB de Branquinha tem um o horizonte de 20 anos, e as ações propostas nesse projeto fazem parte da sua carteira de ações. O Projeto www.branquinhasustentável.com+saude será um dos instrumentos a serem usados no enfrentamento da realidade apresentada e irá impactar na melhoria dos indicadores socioambientais e de saúde do munícipio.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Desenvolver a consciência crítica da coletividade sobre os determinantes e condicionantes socioambientais e sanitários que afetam a saúde humana, contribuindo de forma significativa com a melhoria da qualidade de vida da população de Branquinha. Promover a sustentabilidade das comunidades atendidas; Respeitar o saber, a cultura e as práticas locais; Instituir à comunicação de risco, fortalecer a cultura de promoção da saúde e prestar contas das ações, através do uso das redes sociais e das novas mídias.",
+            "information": "Informamos que o município possui em seu quadro de funcionários pessoal com capacidade técnica para execução do objeto.",
+            "proposalDate": "2015-08-14T03:00:00.000Z",
+            "biddingDate": "2015-12-31T02:00:00.000Z",
+            "homologationDate": "2016-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120150004",
+              "name": "2068 - Saneamento Básico (6908 - Educação em Saúde voltada para o Saneamento Ambiental)",
+              "value": 336073,
+              "details": {
+                "code": "3621120150004",
+                "name": "2068 - Saneamento Básico (6908 - Educação em Saúde voltada para o Saneamento Ambiental)",
+                "cps": null,
+                "items": "Fomento a Educação Saúde Ambiental voltadas para o saneamento básico; Fomento a Educação em Saúde Ambiental para promoção da saúde, prevenção e controle de doenças e agravos.",
+                "couterpartRule": "Municípios com até 50.000 habitantes - Min. 0,1% a Max. 4% [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 336073,
+                "couterpartValues": {
+                  "total": 700,
+                  "financial": 700,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 335373,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "respProponent": "***.934.664-** - ANA RENATA DA PURIFICACAO FREITAS LOPES",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.810.894-** - ANTONIO HENRIQUE DE CARVALHO PIRES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE BRANQUINHA",
+            "documentNumber": "12.332.995/0001-77",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "821618/2015",
+            "validity": "31/12/2015 a 31/12/2018",
+            "limitDate": "2019-03-01T03:00:00.000Z",
+            "totalValue": 336073,
+            "transferValue": 335373,
+            "counterpartValue": 700,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "818072/2015",
+        "uf": "AL",
+        "city": "Branquinha",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2015-12-21T02:00:00.000Z",
+        "end": "2019-11-21T03:00:00.000Z",
+        "program": "Apoio ao Desenvolvimento Sustentável de Territórios Rurais – No Estado de Alagoas",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "025821/2015",
+            "organId": "25821/2015",
+            "processId": "0258212015",
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Branquinha está localizado na região norte-nordeste do Estado de Alagoas,limitando-se a norte com o município de União dos Palmares, ao sul e a leste com Murici e a oeste com Capela. A área municipal ocupa 190,99 km2 (0,69% de AL) e um perímetro de estradas vicinais de 250 km, inserida na meso-região do Leste Alagoano e na micro-região da Mata Alagoana. A sede do município tem uma altitude de aproximadamente 100 m e coordenadas geográficas de 09°14’45,6’’ de latitude sul e 36°00’54,0’’ de longitude oeste. O acesso a partir de Maceió é feito através da rodovia pavimentada BR-104, com percurso em torno de 56 km As principais atividades econômicas são: agricultura, pecuária e comércio. O Município foi criado em 1962, desmembrado de Murici. Hoje conta com 05 assentamentos formados por 574 famílias do regime da Agricultura Familiar, segue também, cada assentamento com sua respectiva coordenada geográfica: • Nova Esperança (115 famílias) S: -9° 14.491’ / O: -35° 59.801’; • Assentamento Zumbi dos Palmares (135 famílias) S: -9° 13.410’ / O: -36° 00.42’; • Assentamento Santo Antônio (95 famílias) S: -9° 12.861’ / O: -36° 04.019’; • Assentamento Flor do Mundaú (86 famílias) S: -9° 36.973’ / O: -35° 41.524’; • Assentamento Eldorado dos Carajás (143 famílias) S: -9° 14’01.00” / O: -36°1’31.58”; Obs.: A coordenada geográfica deste último assentamento (Eldorado dos Carajás) foi obtida através do Google Earth. As demais, foram obtidas com o auxílio de um GPS in loco. Segundo o censo 2000 do IBGE, a população total residente é de 11.325 habitantes, dos quais 5.830 do sexo masculino (51,50%) e 5.495 do sexo feminino (48,50%). São 5.888 os habitantes da zona urbana (52,00%) e 5.437 os da zona rural (48,00%). A densidade demográfica é de 59,30 hab/km2. Atualmente conta com uma área agrícola: Banana – 60 ha ; Laranja – 400 ha; Manga – 10 ha; Batata Doce –100 ha; Feijão – 99ha; Mandioca –300 ha e Milho – 35 ha. No ranking de desenvolvimento, Branquinha está em 96º lugar no estado (96/101 municípios) e em 5.467º lugar no Brasil (5.467/5.561 municípios). O relevo de Branquinha faz parte da unidade das Superfícies Retrabalhadas que é formada por áreas que têm sofrido retrabalhamento intenso, com relevo bastante dissecado e vales profundos. O período chuvoso tem início em março e término em setembro. A precipitação média anual é de 1309,9 mm. A vegetação é predominantemente do tipo Floresta Subperenifólia, com partes de Floresta Hipoxerófila. Os solos dessa unidade geoambiental são representados pelos Latossolos nos topos planos, sendo profundos e bem drenados; pelos Podzólicos nas vertentes íngremes, sendo pouco a medianamente profundos e bem drenados e pelos Gleissolos de Várzea nos fundos de vales estreitos, com solos orgânicos e encharcados. O município de Branquinha está inserido na bacia hidrográfica do Rio Mundaú, que banha a sede do município. Diante destas informações é de muita relevância para o poder Executivo implantar e apoiar o desenvolvimento da comercialização dos produtos oriundos da Agricultura Familiar, pois a época das chuvas coincide também com a época de colheita e comercialização de várias culturas, impedindo o acesso a várias comunidades, afetadas pela falta permanente da recuperação das estradas vicinais. Sendo assim a reestruturação das estradas vicinais será de grande importância para o escoamento da produção agrícola e melhorando o acesso aos 05 assentamentos agrícolas existentes.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Reestruturação das Estradas Vicinais",
+            "information": "Declaramos que possuímos em nosso quadro de funcionários ENGENHEIRO CIVIL para fiscalizar o objeto do convênio, informamos também que possuímos capacidade gerencial para execução do objeto.",
+            "proposalDate": "2015-07-10T03:00:00.000Z",
+            "biddingDate": "2015-12-21T02:00:00.000Z",
+            "homologationDate": "2015-12-28T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020150097",
+              "name": "Apoio ao Desenvolvimento Sustentável de Territórios Rurais – No Estado de Alagoas",
+              "value": 500501,
+              "details": {
+                "code": "2200020150097",
+                "name": "Apoio ao Desenvolvimento Sustentável de Territórios Rurais – No Estado de Alagoas",
+                "cps": "",
+                "items": "Apoiar a implementação e expansão dos investimentos que beneficiem coletivamente os agricultores familiares.",
+                "couterpartRule": "Os limites de contrapartida são os definidos na LDO (Lei 13.080, de 02/01/2015). [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500501,
+                "couterpartValues": {
+                  "total": 501,
+                  "financial": 501,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 500000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "respProponent": "***.934.664-** - ANA RENATA DA PURIFICACAO FREITAS LOPES",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.694.306-** - TEREZA CRISTINA CORREA DA COSTA DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE BRANQUINHA",
+            "documentNumber": "12.332.995/0001-77",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "818072/2015",
+            "validity": "21/12/2015 a 21/11/2019",
+            "limitDate": "2020-01-20T03:00:00.000Z",
+            "totalValue": 500501,
+            "transferValue": 500000,
+            "counterpartValue": 501,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "800676/2013",
+        "uf": "AL",
+        "city": "Branquinha",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "085757/2013",
+            "organId": "85757/2013",
+            "processId": "0857572013",
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE BRANQUINHA, LOCALIZADO A 65KM DE MACEIÓ, TEM EXTENSÃO TERRITORIAL DE 191,011 KM² E POSSUI UMA POPULAÇÃO DE 10 586 HABITANTES (IBGE/2010). O IDH DA CIDADE É DE 0,513 E O PIB GIRA EM TORNO DE R$ 3.055,03 PER CAPTA. TEM COMO FONTE DA ECONOMIA A LAVOURA, BASEADA NA CANA-DE-AÇUCAR, LARANJA, MANDIOCA, BEM COMO A PECUÁRIA. ALÉM DISSO, A FEIRA LIVRE APRESENTA-SE COMO UMA GRANDE FONTE DE RENDA. EM 2010, A CIDADE FOI DESTRUÍDA PELA ENCHENTE QUE ASSOLOU VÁRIOS MUNICÍPIOS DE ALAGOAS. TODA A CIDADE FOI DESTRUÍDA, 100 PESSOAS FICARAM DESAPARECIDAS, MUITAS DESALOJADAS, SOBRARAM APENAS OS DESTROÇOS E AS CONSTRUÇÕES MAIS RESISTENTES. A CONSTRUÇÃO DE UMA ORLA NO RIO MUNDAÚ MELHORARÁ O TURISMO NO MUNICÍPIO E É UM ATRATIVO A MAIS PARA A POPULAÇÃO E SEUS VISITANTES. A ESTA OBRA SERÁ CONSTRUÍDA NA ORLA DO RIO QUE CORTA NOSSO MUNICÍPIO, ONDE TERÁ UMA VISIBILIDADE MELHOR DANDO UM MAIOR EMBELEZAMENTO A PARTE ATINGIDA PELAS ENCHENTES QUE OCORRERAM EM 2010, ONDE NA OCASIÃO DEVASTARAM NOSSO MUNICÍPIO, QUE AGORA ESTAMOS RECONSTRUINDO-O COM MUITO ESFORÇO. NÃO QUEREMOS MAIS QUE A PARTE ONDE EM 2010 SÓ SE AVISTAVA CAOS E TRISTEZA SEJA LEMBRADA COMO TAL, QUEREMOS SIM, TRANSFORMAR ESTA ÁREA EM UM LUGAR PARA LAZER E ZO MESMO TEMPO IMPEDIR QUE SEJAM CONSTRUÍDAS MORADIAS IRREGULARES AS MARGENS DO RIO. COM ESTA OBRA IREMOS ATRAIR ASSIM, AS PESSOAS DAS MAIS DIVERSAS FAIXAS ETÁRIAS A TEREM UM LOCAL, UM PONTO DE ENCONTRO, CONFORTÁVEL, ACONHEGANTE, SEGURO, PARA O LAZER, ENTRETERIMENTO E AS RELAÇÕES INTERPESSOAIS. A CONSTRUÇÃO DESTA ORLA FLUVIAL IRÁ MELHORARÁ O ASPECTO DO FLUXO TURÍSTICO DO MUNICÍPIO, ATRAINDO MAIS VISITANTES A NOSSA QUERIDA CIDADE E ASSIM GERANDO EMPREGO E AUMENTANDO A RENDA DA POPULAÇÃO. O PÚBLICO ALVO É A POPULAÇÃO E SEUS VISITANTES QUE TERÃO NESSE ESPAÇO UM AMBIENTE AGRADÁVEL PARA LAZER E INTERESSADOS EM CONHECER AS BELEZAS DESTA CIDADE, SOBRETUDO NA REGIÃO DA ORLA FLUVIAL DESTE IMPORTANTE RIO DA REGIÃO. TRATA-SE DE UMA INTERVENÇÃO ARQUITETÔNICA E DE ENGENHARIA SUSTENTÁVEL CONCORRENDO PARA O INCREMENTRO DA PARCERIA LAZER-ECONOMIA. TUDO ISSO EM COMPLETA SINTONIA COM OS OBJETIVOS DOS PROGRAMAS GOVERNAMENTAIS QUE COMPÕEM TÃO IMPORTANTE MINISTÉRIO. A PRESENTE ETAPA ABRANGE UMA PARCELA TERRITORIAL DE OBRA MAIO, CONTEMPLANDO PRATICAMENTE TODA EXTENSÃO FLUVIAL DAS MARGENS DO RIU MUNDAÚ. CONTUDO A PREFEITURA POSSUI UM CRONOGRAMA FÍSICO DE 3 ETAPAS, ONDE A 1ª ETAPA FOI APROVADA E VIROU CONVÊNIO FIRMADO COM ESSE MINISTÉRIO Nº 777510/2012, E ESSA PROPOSTA É A COMPLEMENTAÇÃO DA 2ª ETAPA DA ORLA (PROPOSTA SICONV Nº 048041/2013). A orla será uma obra predominantemente horizontal, sem edificações de alvenaria, com espaços para a prática de cooper, área de convivência, área verde e de lazer para crianças. Espera-se, com a implantação desta obra que, o espaço existente às margens do referido rio, seja de fato urbanizado, ajudando a implantar nesta área um espaço atrativo à todos e que, além disso, possa também contribuir para a não edificação de moradias neste local, organizando a infra-estrutura da cidade, segundo um plano diretor adequadamente estudado para o município. Essa obra servirá para atrair turistas de toda a região para as belezas do Rio Mundaú, evidenciando a generosidade da natureza com a cidade de Branquinha. Assim, com o fluxo cada vez mais intenso de pessoas, o comércio do município pode ser aquecido, alavancando o crescimento econômico da cidade. A orla fluvial terá também um enfoque de lazer e de saúde, uma vez que além do belíssimo mirante às margens do Rio Mundaú, teremos também pista de cooper, espaço de lazer para crianças e adultos. Com relação aos pontos turísticos, uma vez que os turistas irão visitar a mais bela e completa orla fluvial da região, terão a oportunidade, já que estão na cidade, de visitarem outros pontos turísticos da cidade de Branquinha, como a Cachoeira da Fazenda Rio Branca, a Reserva da Mata Atlântica da Fazenda Riachão e a Ilha do Rio Mundaú. Além disso, se a visita for no mês de janeiro, os turistas terão a oportunidade de presenciar a festa de São Sebastião, padroeiro da cidade, dia 20 de janeiro. Esse projeto faz parte da Emenda Parlamentar Nº 2728 0006 - LOA/OGU 2013, Funcional Programática: 23.695.2076.10V0.0027 - Apoio a Projetos de Infraestrutura Turística do Parlamentar Deputado Renan Calheiros Filho.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Apoio a Projetos de Infraestrutura Turística - 3ª Etapa da Construção da Infraestrutura da Orla Fluvial.",
+            "information": "Declaro que possuo Profissionais com Capacidade Técnica e Gerencial para a Execução da 3ª Etapa da Construção da Infraestrutura da Orla Fluvial.",
+            "proposalDate": "2013-11-26T02:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-17T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020130002",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 521446.1,
+              "details": {
+                "code": "5400020130002",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Consórcios públicos constituídos por Estados, Distrito Federal e Municípios, 2% (dois por cento) e 4% (quatro por cento). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 521446.1,
+                "couterpartValues": {
+                  "total": 33946.1,
+                  "financial": 33946.1,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00 - RENAN FILHO"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "respProponent": "***.998.874-** - JAIRON MAIA FERNANDES NETO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "022019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-11-21T03:00:00.000Z",
+              "processId": "02201901",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "02201901",
+                "biddingId": "022019",
+                "object": "Contratação de empresa especializada para execução de obras de urbanização da Orla Fluvial de Branquinha –AL.",
+                "legalFoundation": "866693",
+                "justification": "COM BASE NAS INFORMAÇÕES ADUZIDAS DOS AUTOS.",
+                "publishDate": "2019-11-21T03:00:00.000Z",
+                "beginDate": "2019-12-12T03:00:00.000Z",
+                "endDate": "2019-12-20T03:00:00.000Z",
+                "biddingValue": 518398.76,
+                "homologationDate": "2020-01-08T03:00:00.000Z",
+                "city": "2721 - BRANQUINHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "022019/2020",
+              "biddingId": "022019",
+              "date": "2020-02-05T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11968506000105",
+                "hirerDocument": "CNPJ: 12332995000177",
+                "type": "Serviço",
+                "object": "Contratação de empresa especializada para execução de obras de urbanização da Orla Fluvial de Branquinha –AL.",
+                "totalValue": 518398.76,
+                "publishDate": "2020-02-05T03:00:00.000Z",
+                "beginDate": "2020-01-20T03:00:00.000Z",
+                "endDate": "2020-06-20T03:00:00.000Z",
+                "signDate": "2020-01-20T03:00:00.000Z",
+                "executionProcessId": "022019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "02201901 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BRANQUINHA",
+            "documentNumber": "12.332.995/0001-77",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "800676/2013",
+            "validity": "31/12/2013 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 521446.1,
+            "transferValue": 487500,
+            "counterpartValue": 33946.1,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "799308/2013",
+        "uf": "AL",
+        "city": "Branquinha",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "048041/2013",
+            "organId": "48041/2013",
+            "processId": "0480412013",
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE BRANQUINHA, LOCALIZADO A 65KM DE MACEIÓ, TEM EXTENSÃO TERRITORIAL DE 191,011 KM² E POSSUI UMA POPULAÇÃO DE 10 586 HABITANTES (IBGE/2010). O IDH DA CIDADE É DE 0,513 E O PIB GIRA EM TORNO DE R$ 3.055,03 PER CAPTA. TEM COMO FONTE DA ECONOMIA A LAVOURA, BASEADA NA CANA-DE-AÇUCAR, LARANJA, MANDIOCA, BEM COMO A PECUÁRIA. ALÉM DISSO, A FEIRA LIVRE APRESENTA-SE COMO UMA GRANDE FONTE DE RENDA. EM 2010, A CIDADE FOI DESTRUÍDA PELA ENCHENTE QUE ASSOLOU VÁRIOS MUNICÍPIOS DE ALAGOAS. TODA A CIDADE FOI DESTRUÍDA, 100 PESSOAS FICARAM DESAPARECIDAS, MUITAS DESALOJADAS, SOBRARAM APENAS OS DESTROÇOS E AS CONSTRUÇÕES MAIS RESISTENTES. A CONSTRUÇÃO DE UMA ORLA NO RIO MUNDAÚ MELHORARÁ O TURISMO NO MUNICÍPIO E É UM ATRATIVO A MAIS PARA A POPULAÇÃO E SEUS VISITANTES. A ESTA OBRA SERÁ CONSTRUÍDA NA ORLA DO RIO QUE CORTA NOSSO MUNICÍPIO, ONDE TERÁ UMA VISIBILIDADE MELHOR DANDO UM MAIOR EMBELEZAMENTO A PARTE ATINGIDA PELAS ENCHENTES QUE OCORRERAM EM 2010, ONDE NA OCASIÃO DEVASTARAM NOSSO MUNICÍPIO, QUE AGORA ESTAMOS RECONSTRUINDO-O COM MUITO ESFORÇO. NÃO QUEREMOS MAIS QUE A PARTE ONDE EM 2010 SÓ SE AVISTAVA CAOS E TRISTEZA SEJA LEMBRADA COMO TAL, QUEREMOS SIM, TRANSFORMAR ESTA ÁREA EM UM LUGAR PARA LAZER E ZO MESMO TEMPO IMPEDIR QUE SEJAM CONSTRUÍDAS MORADIAS IRREGULARES AS MARGENS DO RIO. COM ESTA OBRA IREMOS ATRAIR ASSIM, AS PESSOAS DAS MAIS DIVERSAS FAIXAS ETÁRIAS A TEREM UM LOCAL, UM PONTO DE ENCONTRO, CONFORTÁVEL, ACONHEGANTE, SEGURO, PARA O LAZER, ENTRETERIMENTO E AS RELAÇÕES INTERPESSOAIS. A CONSTRUÇÃO DESTA ORLA FLUVIAL IRÁ MELHORARÁ O ASPECTO DO FLUXO TURÍSTICO DO MUNICÍPIO, ATRAINDO MAIS VISITANTES A NOSSA QUERIDA CIDADE E ASSIM GERANDO EMPREGO E AUMENTANDO A RENDA DA POPULAÇÃO. O PÚBLICO ALVO É A POPULAÇÃO E SEUS VISITANTES QUE TERÃO NESSE ESPAÇO UM AMBIENTE AGRADÁVEL PARA LAZER E INTERESSADOS EM CONHECER AS BELEZAS DESTA CIDADE, SOBRETUDO NA REGIÃO DA ORLA FLUVIAL DESTE IMPORTANTE RIO DA REGIÃO. TRATA-SE DE UMA INTERVENÇÃO ARQUITETÔNICA E DE ENGENHARIA SUSTENTÁVEL CONCORRENDO PARA O INCREMENTRO DA PARCERIA LAZER-ECONOMIA. TUDO ISSO EM COMPLETA SINTONIA COM OS OBJETIVOS DOS PROGRAMAS GOVERNAMENTAIS QUE COMPÕEM TÃO IMPORTANTE MINISTÉRIO. A PRESENTE ETAPA ABRANGE UMA PARCELA TERRITORIAL DE OBRA MAIO, CONTEMPLANDO PRATICAMENTE TODA EXTENSÃO FLUVIAL DAS MARGENS DO RIU MUNDAÚ. CONTUDO A PREFEITURA POSSUI UM CRONOGRAMA FÍSICO DE 3 ETAPAS PARA A CONCLUSÃO TOTAL DESSA INRAESTRUTURA, SENDO ESSA A 2ªETAPA. A orla será uma obra predominantemente horizontal, sem edificações de alvenaria, com espaços para a prática de cooper, área de convivência, área verde e de lazer para crianças. Espera-se, com a implantação desta obra que, o espaço existente às margens do referido rio, seja de fato urbanizado, ajudando a implantar nesta área um espaço atrativo à todos e que, além disso, possa também contribuir para a não edificação de moradias neste local, organizando a infra-estrutura da cidade, segundo um plano diretor adequadamente estudado para o município. Esse projeto faz parte da Emenda Parlamentar Nº 2289 0009 - LOA/OGU 2013, Funcional Programática: 23.695.2076.10v0.0027 - Apoio a Projetos de Infraestrutura Turística do Parlamentar Senador Renan Calheiros.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "2ª ETAPA DA CONSTRUÇÃO DA INFRAESTRUTURA DA ORLA FLUVIAL DO MUNICÍPIO DE BRANQUINHA/ AL.",
+            "information": "Declaro que possuo Profissionais com Capacidade Técnica e Gerencial para a Execução da 2ª Etapa da Construção da Infraestrutura da Orla Fluvial.",
+            "proposalDate": "2013-08-07T03:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-17T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020130002",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 1000,
+              "details": {
+                "code": "5400020130002",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes: 2% (dois por cento) e 4% (quatro por cento) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1000,
+                "couterpartValues": {
+                  "total": 25000,
+                  "financial": 25000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 975000,
+                  "amendment": "R$ 975.000,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "respProponent": "***.998.874-** - JAIRON MAIA FERNANDES NETO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "022019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-11-21T03:00:00.000Z",
+              "processId": "02201901",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "02201901",
+                "biddingId": "022019",
+                "object": "Contratação de empresa especializada para execução de obras de urbanização da Orla Fluvial de Branquinha –AL.",
+                "legalFoundation": "866693",
+                "justification": "COM BASE NAS INFORMAÇÕES ADUZIDAS DOS AUTOS.",
+                "publishDate": "2019-11-21T03:00:00.000Z",
+                "beginDate": "2019-12-12T03:00:00.000Z",
+                "endDate": "2019-12-20T03:00:00.000Z",
+                "biddingValue": 615914.82,
+                "homologationDate": "2020-01-08T03:00:00.000Z",
+                "city": "2721 - BRANQUINHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "022019/2020",
+              "biddingId": "022019",
+              "date": "2020-02-05T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11968506000105",
+                "hirerDocument": "CNPJ: 12332995000177",
+                "type": "Serviço",
+                "object": "Contratação de empresa especializada para execução de obras de urbanização da Orla Fluvial de Branquinha –AL.",
+                "totalValue": 615914.82,
+                "publishDate": "2020-02-05T03:00:00.000Z",
+                "beginDate": "2020-01-20T03:00:00.000Z",
+                "endDate": "2020-06-20T03:00:00.000Z",
+                "signDate": "2020-01-20T03:00:00.000Z",
+                "executionProcessId": "022019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "02201901 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BRANQUINHA",
+            "documentNumber": "12.332.995/0001-77",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "799308/2013",
+            "validity": "31/12/2013 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 1000,
+            "transferValue": 975000,
+            "counterpartValue": 25000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "792542/2013",
+        "uf": "AL",
+        "city": "Branquinha",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-18T02:00:00.000Z",
+        "end": "2016-01-16T02:00:00.000Z",
+        "program": "Territórios Rurais - Infra-estrutura e Serviços - AFEM Contratos de Repasse.",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "057698/2013",
+            "organId": "57698/2013",
+            "processId": "0576982013",
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Branquinha está localizado na região norte-nordeste do Estado de Alagoas,limitando-se a norte com o município de União dos Palmares, ao sul e a leste com Murici e a oeste com Capela. A área municipal ocupa 190,99 km2 (0,69% de AL) e um perímetro de estradas vicinais de 250 km, inserida na meso-região do Leste Alagoano e na micro-região da Mata Alagoana. A sede do município tem uma altitude de aproximadamente 100 m e coordenadas geográficas de 09°14’45,6’’ de latitude sul e 36°00’54,0’’ de longitude oeste. O acesso a partir de Maceió é feito através da rodovia pavimentada BR-104, com percurso em torno de 56 km As principais atividades econômicas são: agricultura, pecuária e comércio. O Município foi criado em 1962, desmembrado de Murici, hoje conta com 05 assentamentos formados por 548 famílias do regime da Agricultura Familiar. Segundo o censo 2000 do IBGE, a população total residente é de 11.325 habitantes, dos quais 5.830 do sexo masculino (51,50%) e 5.495 do sexo feminino (48,50%). São 5.888 os habitantes da zona urbana (52,00%) e 5.437 os da zona rural (48,00%). A densidade demográfica é de 59,30 hab/km2. Atualmente conta com uma área agrícola: Banana – 60 ha ; Laranja – 400 ha; Manga – 10 ha; Batata Doce –100 ha; Feijão – 99ha; Mandioca –300 ha e Milho – 35 ha. No ranking de desenvolvimento, Branquinha está em 96º lugar no estado (96/101 municípios) e em 5.467º lugar no Brasil (5.467/5.561 municípios). O relevo de Branquinha faz parte da unidade das Superfícies Retrabalhadas que é formada por áreas que têm sofrido retrabalhamento intenso, com relevo bastante dissecado e vales profundos. O período chuvoso tem início em março e término em setembro. A precipitação média anual é de 1309,9 mm. A vegetação é predominantemente do tipo Floresta Subperenifólia, com partes de Floresta Hipoxerófila. Os solos dessa unidade geoambiental são representados pelos Latossolos nos topos planos, sendo profundos e bem drenados; pelos Podzólicos nas vertentes íngremes, sendo pouco a medianamente profundos e bem drenados e pelos Gleissolos de Várzea nos fundos de vales estreitos, com solos orgânicos e encharcados. O município de Branquinha está inserido na bacia hidrográfica do Rio Mundaú, que banha a sede do município. Diante destas informações é de muita relevância para o poder Executivo implantar e apoiar o desenvolvimento da piscicultura e da comercialização dos produtos oriundos da Agricultura Familiar, pois a época das chuvas coincide também com a época de colheita e comercialização de varias culturas, impedindo o acesso a varias comunidades, afetadas pela falta permanente da recuperação das estradas vicinais. A aquisição deste trator possibilitará aos agricultores através da prefeitura oferecer condições para escoar produtos, oferecendo uma melhora para os agricultores.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de um Trator com Grade.",
+            "information": "Declaramos que possuímos capacidade técnica e gerencial para execução do objeto.",
+            "proposalDate": "2013-09-10T03:00:00.000Z",
+            "biddingDate": "2013-12-18T02:00:00.000Z",
+            "homologationDate": "2014-01-07T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020130104",
+              "name": "Territórios Rurais - Infra-estrutura e Serviços - AFEM Contratos de Repasse.",
+              "value": 160000,
+              "details": {
+                "code": "2200020130104",
+                "name": "Territórios Rurais - Infra-estrutura e Serviços - AFEM Contratos de Repasse.",
+                "cps": "",
+                "items": "Apoiar a implementação e expansão dos investimentos que beneficiem coletivamente os agricultores familiares.",
+                "couterpartRule": "Contrapartida: Os limites de contrapartida são os definidos na LDO (Lei 12.708, de 17/08/2012). A contrapartida de Estados e Municípios será apenas financeira. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 160000,
+                "couterpartValues": {
+                  "total": 3200,
+                  "financial": 3200,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 156800,
+                  "amendment": "R$ 156.800,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "respProponent": "***.934.664-** - ANA RENATA DA PURIFICACAO FREITAS LOPES",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.694.306-** - TEREZA CRISTINA CORREA DA COSTA DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0022015",
+              "type": "Licitação - Pregão",
+              "date": "2015-01-08T02:00:00.000Z",
+              "processId": "0022015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Eletrônico para Registro de Preço",
+                "processId": "0022015",
+                "biddingId": "0022015",
+                "object": "Aquisição de Patrulha Mecanizada",
+                "legalFoundation": "Lei",
+                "justification": "Apoiar o desenvolvimento da Agricultura Familiar",
+                "publishDate": "2015-01-08T02:00:00.000Z",
+                "beginDate": "2015-01-22T02:00:00.000Z",
+                "endDate": "2015-03-04T03:00:00.000Z",
+                "biddingValue": 143410,
+                "homologationDate": "2015-03-04T03:00:00.000Z",
+                "city": "2721 - BRANQUINHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2015",
+              "biddingId": "0022015",
+              "date": "2015-03-19T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05453608000195",
+                "hirerDocument": "CNPJ: 12332995000177",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE PATRULHA MECANIZADA",
+                "totalValue": 143410,
+                "publishDate": "2015-03-19T03:00:00.000Z",
+                "beginDate": "2015-03-04T03:00:00.000Z",
+                "endDate": "2016-01-16T02:00:00.000Z",
+                "signDate": "2015-03-04T03:00:00.000Z",
+                "executionProcessId": "0022015 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0022015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE BRANQUINHA",
+            "documentNumber": "12.332.995/0001-77",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "792542/2013",
+            "validity": "18/12/2013 a 16/01/2016",
+            "limitDate": "2016-10-21T02:00:00.000Z",
+            "totalValue": 160000,
+            "transferValue": 156800,
+            "counterpartValue": 3200,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "777510/2012",
+        "uf": "AL",
+        "city": "Branquinha",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2012-12-31T02:00:00.000Z",
+        "end": "2017-06-30T03:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "025129/2012",
+            "organId": "25129/2012",
+            "processId": "025129/2012",
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE BRANQUINHA, LOCALIZADO A 65KM DE MACEIÓ, TEM EXTENSÃO TERRITORIAL DE 191,011 KM² E POSSUI UMA POPULAÇÃO DE 10 586 HABITANTES (IBGE/2010). O IDH DA CIDADE É DE 0,513 E O PIB GIRA EM TORNO DE R$ 3.055,03 PER CAPTA. TEM COMO FONTE DA ECONOMIA A LAVOURA, BASEADA NA CANA-DE-AÇUCAR, LARANJA, MANDIOCA, BEM COMO A PECUÁRIA. ALÉM DISSO, A FEIRA LIVRE APRESENTA-SE COMO UMA GRANDE FONTE DE RENDA. EM 2010, A CIDADE FOI DESTRUÍDA PELA ENCHENTE QUE ASSOLOU VÁRIOS MUNICÍPIOS DE ALAGOAS. TODA A CIDADE FOI DESTRUÍDA, 100 PESSOAS FICARAM DESAPARECIDAS, MUITAS DESALOJADAS, SOBRARAM APENAS OS DESTROÇOS E AS CONSTRUÇÕES MAIS RESISTENTES. A CONSTRUÇÃO DE UMA ORLA NO RIO MUNDAÚ MELHORARÁ O TURISMO NO MUNICÍPIO E É UM ATRATIVO A MAIS PARA A POPULAÇÃO E SEUS VISITANTES. A ESTA OBRA SERÁ CONSTRUIDA NA ORLA DO RIO QUE CORTA NOSSO MUNICÍPIO, ONDE TERÁ UMA VISIBILIDADE MELHOR DANDO UM MAIOR EMBELEZAMENTO A PARTE ATINGIDA PELAS ENCHENTES QUE OCORRERAM EM 2010, ONDE NA OCASIÃO DEVASTARAM NOSSO MUNICÍPIO, QUE AGORA ESTAMOS RECONSTRUINDO-O COM MUITO ESFORÇO. NÃO QUEREMOS MAIS QUE A PARTE ONDE EM 2010 SÓ SE AVISTAVA CAOS E TRISTEZA SEJA LEMBRADA COMO TAL, QUEREMOS SIM, TRANSFORMAR ESTA ÁREA EM UM LUGAR PARA LAZER E ZO MESMO TEMPO IMPEDIR QUE SEJAM CONSTRUÍDAS MORADIAS IRREGULARES AS MARGENS DO RIO. COM ESTA OBRA IREMOS ATRAIR ASSIM, AS PESSOAS DAS MAIS DIVERSAS FAIXAS ETÁRIAS A TEREM UM LOCAL, UM PONTO DE ENCONTRO, CONFORTÁVEL, ACONHEGANTE, SEGURO, PARA O LAZER, ENTRETERIMENTO E AS RELAÇÕES INTERPESSOAIS. A CONSTRUÇÃO DESTA ORLA FLUVIAL IRÁ MELHORARÁ O ASPECTO DO FLUXO TURÍSTICO DO MUNICÍPIO, ATRAINDO MAIS VISITANTES A NOSSA QUERIDA CIDADE E ASSIM GERANDO EMPREGO E AUMENTANDO A RENDA DA POPULAÇÃO, QUE TEM RENDA MÉDIA FAMILIAR DE 01 SALÁRIO MÍNIMO. O PÚBLICO ALVO É A POPULAÇÃO DE BRANQUINHA COMO UM TODO, URBANA E RURAL E SEUS VISITANTES QUE TERÃO NESSE ESPAÇO UM AMBIENTE AGRADÁVEL PARA LAZER. TRATA-SE DE UMA INTERVENÇÃO ARQUITETÔNICA E DE ENGENHARIA SUSTENTÁVEL CONCORRENDO PARA O INCREMENTRO DA PARCERIA LAZER-ECONOMIA. TUDO ISSO EM COMPLETA SINTONIA COM OS OBJETIVOS DOS PROGRAMAS GOVERNAMENTAIS QUE COMPÕEM TÃO IMPORTANTE MINISTÉRIO. ESSE PROJETO É PROVINIENTE DA EMENDA PARLAMENTAR Nº 2289.0008 E FUNCIONAL PROGRAMÁTICA Nº 23.695.2076.10V0.0027 DO SENADOR FEDERAL RENAN CALHEIROS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DA INFRAESTRUTURA DA ORLA FLUVIAL DO MUNICÍPIO DE BRANQUINHA/ AL",
+            "information": "",
+            "proposalDate": "2012-05-28T03:00:00.000Z",
+            "biddingDate": "2012-12-31T02:00:00.000Z",
+            "homologationDate": "2013-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020120003",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 298500,
+              "details": {
+                "code": "5400020120003",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "Infraestrutura de acesso, tais como estradas turísticas, ferrovias, pontes, rodovias, túneis e viadutos, orlas fluviais, lacustres e marítimas",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 298500,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "respProponent": "***.934.664-** - ANA RENATA DA PURIFICACAO FREITAS LOPES",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012014",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-02-24T03:00:00.000Z",
+              "processId": "0012014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0012014",
+                "biddingId": "0012014",
+                "object": "Construção de Orla Fluvial",
+                "legalFoundation": "Lei 8666/93",
+                "justification": "Trata-se de uma intervenção arquitetônica e de engenharia sustentável concorrendo para o incremento da parceira lazer-economia. Tudo isso em completa sintonia com os objetivos dos programas governamentais que compõem tão importante ministério.",
+                "publishDate": "2014-02-24T03:00:00.000Z",
+                "beginDate": "2014-03-12T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 250318.32,
+                "homologationDate": "2014-03-20T03:00:00.000Z",
+                "city": "2721 - BRANQUINHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2014",
+              "biddingId": "0012014",
+              "date": "2014-03-31T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 15400597000139",
+                "hirerDocument": "CNPJ: 12332995000177",
+                "type": "Serviço",
+                "object": "Contratação de empresa de engenharia para executar obras de serviços remanescentes para a construção da orla fluvial.",
+                "totalValue": 250318.32,
+                "publishDate": "2014-03-31T03:00:00.000Z",
+                "beginDate": "2014-03-20T03:00:00.000Z",
+                "endDate": "2015-01-31T02:00:00.000Z",
+                "signDate": "2014-03-20T03:00:00.000Z",
+                "executionProcessId": "0012014 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BRANQUINHA",
+            "documentNumber": "12.332.995/0001-77",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "777510/2012",
+            "validity": "31/12/2012 a 30/06/2017",
+            "limitDate": "2019-02-14T02:00:00.000Z",
+            "totalValue": 298500,
+            "transferValue": 292500,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "751207/2010",
+        "uf": "AL",
+        "city": "Branquinha",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-30T02:00:00.000Z",
+        "end": "2014-11-24T02:00:00.000Z",
+        "program": "0122 – Serviços Urbanos de Água e Esgoto (Cooperação Técnica em Saneamento)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "086716/2010",
+            "organId": "00350/2010",
+            "processId": "251000.41329/2010-11",
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "legalFoundation": "Portaria interministerial nº 127/2008",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "A HISTÓRIA NÃO REGISTRA MUITAS INFORMAÇÕES SOBRE AS ORIGENS DO MUNICÍPIO DE BRANQUINHA, POIS OS DOCUMENTOS E DEMAIS INFORMAÇÕES QUE FACILITARIAM O TRABALHO DE PESQUISA. FORAM DESTRUÍDOS PELA ENCHENTE DO RIO MUNDAÚ, OCORRIDA EM 1949. A PREFEITURA MUNICIPAL DE MURICI, ONDE SE ENCONTRAVAM OS ARQUIVOS, FOI TOTALMENTE INUNDADA. OS HISTORIADORES CONSEGUIRAM RESGATAR QUE A COLONIZAÇÃO DA CIDADE COMEÇOU POR VOLTA DE 1870. MORADORES RECÉM-CHEGADOS DE OUTRAS REGIÕES FORAM INSTALANDO PEQUENOS SÍTIOS. O LUGAR FOI CRESCENDO ÀS MARGENS DO RIO MUNDAÚ. SÓ EM 1962, ATRAVÉS DE UMA LEI, É QUE O MUNICÍPIO CONSEGUIU A EMANCIPAÇÃO, SENDO DESMEMBRADO DE MURICI. SUA POPULAÇÃO É DE 11.796 HABITANTES DE ACORDO COM O IBGE2007, ONDE URBANA:6.740 E RURAL:5.056. SEU IDH 0,513 MÉDIO PNUD/2000. COMO TODOS NÓS SABEMOS BRANQUINHA TEVE 80% DE SEU TERRITÓRIO DEVASTADO COM AS CHUVAS QUE OCORRERAM EM JUNHO2010, É COM TODAS ESSAS CARACTERISTICAS QUE O MUNICIPIO VISLUMBRA EM ELABORAR O PLANO MUNICIPAL DE SANEAMENTO AMBIENTAL CONTEMPLANDO O ABASTECIMENTO DE ÁGUA EM QUANTIDADE E QUALIDADE, A COLETA, TRATAMENTO E DISPOSIÇÃO FINAL ADEQUADA DOS RESÍDUOS LÍQUIDOS, SÓLIDOS E GASOSOS, A PREVENÇÃO E O CONTROLE DO EXCESSO DE RUÍDOS, A DRENAGEM DAS ÁGUAS PLUVIAIS, PROMOÇÃO DADISCIPLINA SANITÁRIA DO USO E OCUPAÇÃO DO SOLO, O CONTROLE AMBIENTAL DE VETORES DE DOENÇAS TRANSMISSÍVEIS E DEMAIS SERVIÇOS E OBRAS ESPECIALIZADOS, BUSCANDO CONTRIBUIR PARA PROMOVER A SAÚDE, O BEM-ESTAR E A CIDADANIA, AS CONDIÇÕES DE SALUBRIDADE AMBIENTAL NA MAIORIA DOS MUNICÍPIOS BRASILEIROS SÃO AINDA MUITO PRECÁRIAS DEVIDO A AUSÊNCIA OU DEFICIÊNCIA DE SERVIÇOS PÚBLICOS DE SANEAMENTO AMBIENTAL, AGRAVADO PELA FALTA DE PLANEJAMENTO EM NÍVEL MUNICIPAL, O QUE TEM CONDUZIDO AS INTERVENÇÕES FRAGMENTADAS, REPRESENTANDO UM DESPERDÍCIO DE RECURSOS E BAIXA EFICÁCIA, ALÉM DA MANUTENÇÃO DE GRANDE PASSIVO SÓCIO-AMBIENTAL. EM RELAÇÃO ÀS PEQUENAS LOCALIDADES, A SITUAÇÃO DOS SERVIÇOS DE SANEAMENTO AMBIENTAL, SEGUNDO AVALIAÇÕES REALIZADAS PELO GOVERNO BRASILEIRO, TEM SE CARACTERIZADO PELOS BAIXOS NÍVEIS DE ATENDIMENTO, COM IMPACTOS NEGATIVOS NAS CONDIÇÕES DE VIDA E DE BEM-ESTAR DA POPULAÇÃO E, CONSEQÜENTEMENTE, NO SEU GRAU DE DESENVOLVIMENTO. TAL PRECARIEDADE É PRODUTO DA INEXISTÊNCIA DE UMA POLÍTICA DE SANEAMENTO AMBIENTAL PARA OS MUNICÍPIOS CLARAMENTE DEFINIDA. UMA MANEIRA DE FORTALECER OS MUNICÍPIOS É A RETOMADA DO PLANEJAMENTO POR MEIO DO PROCESSO DE ELABORAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO AMBIENTAL, DE FORMA DEMOCRÁTICA, E QUE CONSIDERE OS PRINCÍPIOS DE UNIVERSALIDADE, EQUIDADE, INTEGRALIDADE, INTERSETORIALIDADE, SUSTENTABILIDADE, GESTÃO PÚBLICA E PARTICIPAÇÃO E CONTROLE SOCIAL. ESTE PROJETO SE IMPLANTADO CORRETAMENTE TERÁ UMA VIABLIDADE TOTAL, POIS AO INVESTIR NESTE PROPOPORCIONARÁ PARA O GOVERNO E PARA A SOCIEDADE O RESPEITO PARA COM O MEIO AMBIENTE. E PRINCIPALMENTE, POR CAUSA DA AMEAÇA À BIODIVERSIDADE QUE ESTÁ PRESENTE EM TODOS OS BIOMAS, EM DECORRÊNCIA, PRINCIPALMENTE, DO DESENVOLVIMENTO DESORDENADO DE ATIVIDADES PRODUTIVAS, COMO A DEGRADAÇÃO DO SOLO, A POLUIÇÃO ATMOSFÉRICA E A CONTAMINAÇÃO DOS RECURSOS HÍDRICOS SÃO ALGUNS DOS EFEITOS NOCIVOS OBSERVADOS, INCLUSIVE NO CENTRO URBANO MUNICIPAL, OS RESÍDUOS SÓLIDOS AINDA SÃO DEPOSITADOS NO LIXÃO, QUE SE ENCONTRA A CÉU ABERTO. ASSOCIA-SE A ISSO UM QUADRO DE EXCLUSÃO SOCIAL E ELEVADO NÍVEL DE POBREZA DA POPULAÇÃO. MUITAS PESSOAS VIVEM EM ÁREAS DE RISCO, COMO ENCOSTAS, MARGENS DE RIOS E PERIFERIAS INDUSTRIAIS. A EDUCAÇÃO AMBIENTAL ASSUME POSIÇÃO DE DESTAQUE PARA CONSTRUIR OS FUNDAMENTOS DA SOCIEDADE SUSTENTÁVEL, APRESENTANDO UMA DUPLA FUNÇÃO A ESSA TRANSIÇÃO SOCIETÁRIA: PROPICIAR OS PROCESSOS DE MUDANÇAS CULTURAIS EM DIREÇÃO À INSTAURAÇÃO DE UMA ÉTICA ECOLÓGICA E DE MUDANÇAS SOCIAIS EM DIREÇÃO AO EMPODERAMENTO DOS INDIVÍDUOS, GRUPOS E SOCIEDADES QUE SE ENCONTRAM EM CONDIÇÕES DE VULNERABILIDADE EM FACE DOS DESAFIOS DA CONTEMPORANEIDADE. PARA QUE A ATUAÇÃO NO CAMPO DA EDUCAÇÃO AMBIENTAL POSSA OCORRER DE MODO ARTICULADO TANTO ENTRE AS INICIATIVAS EXISTENTES NO ÂMBITO EDUCATIVO COMO ENTRE AS AÇÕES VOLTADAS À PROTEÇÃO, RECUPERAÇÃO E MELHORIA SÓCIO-AMBIENTAL, E ASSIM PROPORCIAR UM EFEITO MULTIPLICADOR COM POTENCIAL DE REPERCUSSÃO NA SOCIEDADE, FAZ-SE NECESSÁRIA A FORMULAÇÃO E A IMPLEMENTAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO AMBIENTAL QUE INTEGREM ESSA PERSPECTIVA. NESSE SENTIDO, O DESENVOLVIMENTO DESTE PROJETO SE CONFIGURA COMO UM ESFORÇO DO GOVERNO MUNICIPAL DE BRANQUINHA, NO ESTABELECIMENTO DAS CONDIÇÕES NECESSÁRIAS PARA A GESTÃO DA POLÍTICA MUNICIPAL DE SANEAMENTO AMBIENTAL, FORTALECENDO OS PROCESSOS EXISTENTES NESSA DIREÇÃO NA SOCIEDADE DE BRANQUINHA. PORTANTO É NO SENTIDO DE PROMOVER A ARTICULAÇÃO E MELHORIA SÓCIO-AMBIENTAL, E DE POTENCIALIZAR A FUNÇÃO DA EDUCAÇÃO PARA AS MUDANÇAS CULTURAIS E SOCIAIS, QUE SE INSERE O PLANO MUNICIPAL DE SANEAMENTO AMBIENTAL DESTE PROJETO NO PLANEJAMENTO ESTRATÉGICO DO GOVERNO MUNICIPAL DE BRANQUINHA. BENEFICIANDO TODA A SUA POPULAÇÃO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ELABORAÇÃO DE PLANO MUNICIPAL DE SANEAMENTO BÁSICO",
+            "information": "",
+            "proposalDate": "2010-09-15T03:00:00.000Z",
+            "biddingDate": "2010-12-30T02:00:00.000Z",
+            "homologationDate": "2011-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120100009",
+              "name": "0122 – Serviços Urbanos de Água e Esgoto (Cooperação Técnica em Saneamento)",
+              "value": 240000,
+              "details": {
+                "code": "3621120100009",
+                "name": "0122 – Serviços Urbanos de Água e Esgoto (Cooperação Técnica em Saneamento)",
+                "cps": null,
+                "items": "Promover e apoiar, tecnica e financeiramente, o desenvolvimento e a transferência de tecnologias para o fortalecimento institucional dos modelos de gestão dos serviços públicos de saneamento ambiental de estados e municípios.",
+                "couterpartRule": "Lei n.º 12.017, de 12/08/2009 -Municípios com até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 240000,
+                "couterpartValues": {
+                  "total": 4800,
+                  "financial": 4800,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 235200,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "respProponent": "***.934.664-** - ANA RENATA DA PURIFICACAO FREITAS LOPES",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.997.104-** - ROOSEVELT PATRIOTA COTA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012011",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2011-03-02T03:00:00.000Z",
+              "processId": "0012011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Técnica e Preço",
+                "processId": "0012011",
+                "biddingId": "0012011",
+                "object": "Elaboração do Plano Municipal de Saneamento Básico.",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "Art 6º, Inciso II",
+                "publishDate": "2011-03-02T03:00:00.000Z",
+                "beginDate": "2011-04-05T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 206094.22,
+                "homologationDate": "2011-09-20T03:00:00.000Z",
+                "city": "2721 - BRANQUINHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2011",
+              "biddingId": "0012011",
+              "date": "2011-11-30T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11380698000134",
+                "hirerDocument": "CNPJ: 12332995000177",
+                "type": "Serviço",
+                "object": "Elaboração do Plano Municipal de Saneamento Básico.",
+                "totalValue": 206094.22,
+                "publishDate": "2011-11-30T02:00:00.000Z",
+                "beginDate": "2011-11-30T02:00:00.000Z",
+                "endDate": "2014-07-13T03:00:00.000Z",
+                "signDate": "2011-11-30T02:00:00.000Z",
+                "executionProcessId": "0012011 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE BRANQUINHA",
+            "documentNumber": "12.332.995/0001-77",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "751207/2010",
+            "validity": "30/12/2010 a 24/11/2014",
+            "limitDate": "2017-08-31T03:00:00.000Z",
+            "totalValue": 240000,
+            "transferValue": 235200,
+            "counterpartValue": 4800,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "738294/2010",
+        "uf": "AL",
+        "city": "Branquinha",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-06-30T03:00:00.000Z",
+        "end": "2013-02-11T02:00:00.000Z",
+        "program": "ALAGOAS - OGU 2010",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "055311/2010",
+            "organId": "55311/2010",
+            "processId": "055311/2010",
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Branquinha está localizado na região norte-nordeste do Estado de Alagoas,limitando-se a norte com o município de União dos Palmares, ao sul e a leste com Murici e a oeste com Capela. A área municipal ocupa 190,99 km2 (0,69% de AL) e um perímetro de estradas vicinais de 250 km, inserida na meso-região do Leste Alagoano e na micro-região da Mata Alagoana. A sede do município tem uma altitude de aproximadamente 100 m e coordenadas geográficas de 09°14’45,6’’ de latitude sul e 36°00’54,0’’ de longitude oeste. O acesso a partir de Maceió é feito através da rodovia pavimentada BR-104, com percurso em torno de 56 km As principais atividades econômicas são: agricultura, pecuária e comércio. O Município foi criado em 1962, desmembrado de Murici, hoje conta com 05 assentamentos formados por 548 famílias do regime da Agricultura Familiar. Segundo o censo 2000 do IBGE, a população total residente é de 11.325 habitantes, dos quais 5.830 do sexo masculino (51,50%) e 5.495 do sexo feminino (48,50%). São 5.888 os habitantes da zona urbana (52,00%) e 5.437 os da zona rural (48,00%). A densidade demográfica é de 59,30 hab/km2. Atualmente conta com uma área agrícola: Banana – 60 ha ; Laranja – 400 ha; Manga – 10 ha; Batata Doce –100 ha; Feijão – 99ha; Mandioca –300 ha e Milho – 35 ha. No ranking de desenvolvimento, Branquinha está em 96º lugar no estado (96/101 municípios) e em 5.467º lugar no Brasil (5.467/5.561 municípios). O relevo de Branquinha faz parte da unidade das Superfícies Retrabalhadas que é formada por áreas que têm sofrido retrabalhamento intenso, com relevo bastante dissecado e vales profundos. O período chuvoso tem início em março e término em setembro. A precipitação média anual é de 1309,9 mm. A vegetação é predominantemente do tipo Floresta Subperenifólia, com partes de Floresta Hipoxerófila. Os solos dessa unidade geoambiental são representados pelos Latossolos nos topos planos, sendo profundos e bem drenados; pelos Podzólicos nas vertentes íngremes, sendo pouco a medianamente profundos e bem drenados e pelos Gleissolos de Várzea nos fundos de vales estreitos, com solos orgânicos e encharcados. O município de Branquinha está inserido na bacia hidrográfica do Rio Mundaú, que banha a sede do município. Diante destas informações é de muita relevância para o poder Executivo implantar e apoiar o desenvolvimento da piscicultura e da comercialização dos produtos oriundos da Agricultura Familiar, pois a época das chuvas coincide também com a época de colheita e comercialização de varias culturas, impedindo o acesso a varias comunidades, afetadas pela falta permanente da recuperação das estradas vicinais. A aquisição desta patrulha mecanizada possibilitará aos agricultores através da prefeitura oferecer condições para escoar produtos e estradas vicinais que proporcionará melhor qualidade de vida a toda população assistida.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE UMA PATRULHA MECANIZADA, 01 TRATOR DE PNEU, 01 GRADE ARADORA MECANICA COM PNEUS, 01 CARRETA AGRICOLA METALICA COM BASCULHANTE HIDRAULICA.",
+            "information": "A prefeitura dispõe de 3 tratoristas, 2 mecânicos, 2 agrônomos no seu quadro de funcionários e de condição para manter os equipamentos em perfeitas condições de uso durante toda a sua vida útil.",
+            "proposalDate": "2010-05-12T03:00:00.000Z",
+            "biddingDate": "2010-06-30T03:00:00.000Z",
+            "homologationDate": "2010-07-12T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020100069",
+              "name": "ALAGOAS - OGU 2010",
+              "value": 300000,
+              "details": {
+                "code": "2200020100069",
+                "name": "ALAGOAS - OGU 2010",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra- Estrutura Agropecuária",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 7500,
+                  "financial": 7500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "respProponent": "***.934.664-** - ANA RENATA DA PURIFICACAO FREITAS LOPES",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "007/2010",
+              "type": "Licitação - Pregão",
+              "date": "2010-06-17T03:00:00.000Z",
+              "processId": "007",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "007",
+                "biddingId": "007/2010",
+                "object": "AQUISIÇÃO DE PATRULHA MECANIZADA",
+                "legalFoundation": "8666",
+                "justification": "ESTRUTURAÇÃO DA REDE DE PROTEÇÃO SOCIAL BÁSICA.",
+                "publishDate": "2010-06-17T03:00:00.000Z",
+                "beginDate": "2010-06-16T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 298400,
+                "homologationDate": "2010-06-30T03:00:00.000Z",
+                "city": "2721 - BRANQUINHA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000007/2010",
+              "biddingId": "007/2010",
+              "date": "2010-06-30T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05453608000195",
+                "hirerDocument": "CNPJ: 12332995000177",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE PATRULHA MECANIZADA",
+                "totalValue": 298400,
+                "publishDate": "2010-06-30T03:00:00.000Z",
+                "beginDate": "2010-06-30T03:00:00.000Z",
+                "endDate": "2010-09-30T03:00:00.000Z",
+                "signDate": "2010-06-30T03:00:00.000Z",
+                "executionProcessId": "007/2010 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "007 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE BRANQUINHA",
+            "documentNumber": "12.332.995/0001-77",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "738294/2010",
+            "validity": "30/06/2010 a 11/02/2013",
+            "limitDate": "2013-04-12T03:00:00.000Z",
+            "totalValue": 300000,
+            "transferValue": 292500,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "710454/2009",
+        "uf": "AL",
+        "city": "Branquinha",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-31T02:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "023317/2009",
+            "organId": "23317/2009",
+            "processId": "023317/2009",
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "legalFoundation": "DECRETO 6170",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O CURSO D’ÁGUA SOBRE O QUAL SERÁ CONSTRUÍDA A PONTE EM REFERÊNCIA, POR SUA PERENIDADE, MESMO APRESENTANDO PEQUENA VAZÃO DURANTE O PERÍODO SECO, IMPEDE INTEIRAMENTE A PASSAGEM DE VEÍCULOS DURANTE A ESTAÇÃO CHUVOSA, QUANDO OCORREM PRECIPITAÇÕES INTENSAS, TÍPICAS DA ZONA DA MATA LOCAL, O VOLUME DE ÁGUAS ALIADO À TIPOLOGIA DO TERRENO DIFICULTAM ENORMEMENTE E CHEGAM A INTERROMPER A LOCOMOÇÃO DE VEÍCULOS DE TRAÇÃO ANIMAL E DE PESSOAS, CRIANDO PREJUÍZOS GENERALIZADOS A TODOS QUANTOS NECESSITEM TRAFEGAR COM DESTINO AO CONJUNTO JOÃO LYRA, CONJUNTO DAGOBERTO ÔMENA E CONJUNTO RAIMUNDO NÔNATO, ALÉM DE ESTUDANTES, COMERCIANTES, AGRICULTORES, DENTRE OUTROS. ALÉM DE FICAREM IMPEDIDOS DE ATUAR OS PROFISSIONAIS DE SAÚDE DO MUNICÍPIO, PRINCIPALMENTE OS QUE INTEGRAM O PSF- PROGRAMA DE SAÚDE DA FAMÍLIA. A MELHORIA DE ACESSO PROPORCIONADA PELA CONSTRUÇÃO DA OBRA EM FOCO, HÁ MUITO RECLAMADA, BENEFICIARÁ OS HABITANTES LOCAIS CORRELACIONADOS RESPECTIVAMENTE ÀS ARTÉRIAS DOS BAIRROS CITADOS, BEM COMO SÍTIOS, FAZENDAS E PEQUENAS LOCALIDADES DA CIRCUNVIZINHANÇA, ALÉM DE PROPORCIONAR ACESSO AO CENTRO DA CIDADE DE BRANQUINHA, OU SEJA, TODA A POPULAÇÃO SERÁ BENEFICIADA, CERCA DE 1500 FAMÍLIAS, CUJA RENDA MÉDIA FAMILIAR É DE APENAS 01 SALÁRIO MÍNIMO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE PONTE DE CONCRETO ARMADO SOB O RIO BRANCA DOS TAVARES NO MUNICÍPIO DE BRANQUINHA/AL.",
+            "information": "A PREFEITURA MUNICIPAL DE BRANQUINHA DECLARA AO MINISTÉRIO DAS CIDADES QUE DISPÕE DE EQUIPE CAPACITADA PARA ATUAR NA COORDENAÇÃO E FISCALIZAÇÃO DOS SERVIÇOS DE OBRAS DE ENGENHARIA QUE VENHAM A SER EXECUTADOS QUANDO DA FORMALIZAÇÃO DESTE CONVÊNIO.",
+            "proposalDate": "2009-05-06T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020090596",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 202400,
+              "details": {
+                "code": "5600020090596",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Infra-estrutura urbana",
+                "couterpartRule": "",
+                "totalValue": 202400,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 196400,
+                  "amendment": "R$ 196.400,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.995/0001-77 - MUNICIPIO DE BRANQUINHA",
+            "respProponent": "***.934.664-** - ANA RENATA DA PURIFICACAO FREITAS LOPES",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BRANQUINHA",
+            "documentNumber": "12.332.995/0001-77",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "710454/2009",
+            "validity": "31/12/2009 a 31/12/2011",
+            "limitDate": "2011-12-31T02:00:00.000Z",
+            "totalValue": 202400,
+            "transferValue": 196400,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

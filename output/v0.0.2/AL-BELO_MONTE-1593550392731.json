@@ -1,0 +1,1547 @@
+{
+  "startDate": "2020-06-30T20:46:27.051Z",
+  "endDate": "2020-06-30T20:53:12.731Z",
+  "data": {
+    "search": {
+      "uf": "AL",
+      "city": "BELO MONTE"
+    },
+    "agreements": [
+      {
+        "agreementId": "862717/2017",
+        "uf": "AL",
+        "city": "BELO MONTE",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "015680/2017",
+            "organId": "015680/2017",
+            "processId": "0156802017",
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Município de Belo Monte/AL possui um potencial significativo para o desenvolvimento dos mais diversos segmentos do turismo.Conhecendo o potencial turístico da região e a importância de instrumentos de planejamento, o Governo Municipal busca priorizar o desenvolvimento do turismo, uma vez que, essa atividade, quando bem planejada, gera inúmeros benefícios sócios econômicos e culturais. O Município está localizado no Sertão Alagoano, a 261 quilômetros de Maceió, limitando-se a norte com os municípios de Batalha, Jacaré dos Homens e Palestina, a sul com sua maior riqueza o rio São Francisco, a leste com Traipu e a oeste com Pão de Açúcar. De acordo com o IBGE (2010), a população residente do Município é de 7.030 habitantes, sendo que destes, 1.171 (16,66%) residem em área urbana e os demais, 5.859 (83,34%), em área rural. Este possui área total de 334,146 Km² e densidade demográfica de 21,04 hab/km². O município em toda sua região indispõe de benfeitorias turísticas, ao reivindicar a liberação de recursos a esse pleito, o município tem por objetivo Revitalizar de orla com coordenadas geográficas oeste long.-9.828116 e a Leste lat. -37.281069, construção de praça de eventos turísticos oeste long.-9.827092 e lat -37.278824 e a leste long. -9.827943 e lat-37.277529, pórticos 1 com as coordenadas geograficas long. -9.827149 e lat -37.270407, pórtico 2 com long -9.823443 e lat. -37.284550 sinalizações . O município vem passando pelo processo de transição econômica, porque hoje o que era pescador não atua nessa área devido escassez de peixe no rio São Francisco. O turismo é uma atividade quer investimentos, do poder público para atender as necessidades do turista e fazer com que ele retorne. Dessa forma, torna-se inegável a necessidade de Revitalização de orla com mirantes,painel histórico da cidade,ancoradouro,rampa ciclovia,bancos,área de ginastica,caminhodromo,palco multieventos,quiosques, construção de praça de eventos turísticos com espaço para eventos,de alimentação, área verde entre outros, implantar pórticos nas entrada da cidade e sinalizações turísticas com placas indicando atrativos de interesse turísticos, como praia, mirantes, área de mergulho, distancias com quilometragem entre outros, para beneficiar os turistas que visitam a cidade. O município de Belo Monte é rico em belezas naturais, sendo que o que mais atrai os turistas na alta temporada é o banho nas águas frias da prainha do Rio São Francisco. Além da Orla, as prainhas existentes em alguns povoados também atraem turistas de modo a aumentar consideravelmente o número de habitantes no verão. Os turistas que visitam Belo Monte buscam em sua maioria descanso, lazer e contato direto com a natureza; isso porque o município oferece aos mesmos, localidades com áreas propicias a banhos, pesca esportiva, caminhadas e práticas de esportes; além de disponibilizar estabelecimentos para alimentação e diversão. As águas e areias limpas do Rio São Francisco; e vegetações da cidade caracterizam muito bem o município e explicam o porquê de tantos turistas todos os anos optarem por vim a Belo Monte como destino turístico. Principais Festividades Turísticas Em grandes eventos estimamos receber em torno de 30 mil turistas. Prainha de Belo Monte Localizada no Centro da cidade, em alta temporada é apreciada por turistas que vem em busca de Banhos, caminhadas, prática de esportes como voleibol e futebol de areia; além de descanso, lazer, barzinhos e a comida regional são os principais atrativos do local. FESTA DE BOM JESUS DOS NAVEGANTES A festa em homenagem a Bom Jesus dos Navegantes acontece em todas as cidades ribeirinhas. Caracterizada principalmente pela tradição da vinda de muitos pescadores da região, a festa aumenta seu número de participantes a cada ano. FESTA DA PADROEIRA NOSSA SENHORA DO BOM CONSELHO Festa tradicional que acontece desde a fundação da cidade de Belo Monte/AL. A procissão é acompanhada pela Filarmônica, sanfoneiros e bandas de pífanos de cidades. CARNAVAL Na cidade, o carnaval é comemorado conforme o calendário, às vezes em fevereiro e às vezes em março. Sempre é aberto espaço para blocos organizados desfilarem na cidade que é aonde acontece o evento. VAQUEIJADA A vaquejada em Belo Monte é um forte atrativo. A vaquejada atualmente é o folguedo de maior expressão lúdica do sertanejo seguindo do canto do aboio e a toada juntamente com o som do forró formam a música que embala as festas de vaquejadas. A religiosidade popular também se faz presente no cotidiano do vaqueiro, a exemplo das missas do vaqueiro nas festas religiosas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "APOIO A PROJETO DE INFRAESTRUTURA TURISTICA - Revitalização de orla, construção de praça de eventos turísticos, pórticos e sinalizações turísticas.",
+            "information": "A prefeitura municipal de Belo Monte, possui capacidade técnica e gerencial para, formalizar, licitar, executar e prestar contas do objeto deste convênio.",
+            "proposalDate": "2017-03-16T03:00:00.000Z",
+            "biddingDate": "2017-12-30T02:00:00.000Z",
+            "homologationDate": "2018-01-16T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170004",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+              "value": 1000,
+              "details": {
+                "code": "5400020170004",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+                "cps": "",
+                "items": "I – construção, revitalização e reforma de infraestrutura urbana para adequação de espaços de interesse turístico (saneamento básico, sistemas de drenagem urbana, paisagismo, sinalização turística e praças; parques urbanos, pavimentação, execução de calçadas, passeios, iluminação pública e ciclovias/ciclofaixas, se os projetos estiverem associados a parques, praças, orlas e outros atrativos turísticos, sendo necessária a apresentação de mapa (croqui) que evidencie a associação àqueles atrativos, V – construção, revitalização e reforma de infraestrutura de orlas e terminais fluviais, lacustres ou marítimos de interesse turísticos;, X – construção e reforma de portais;, XI – implantação e reforma de sinalização turística e interpretativa;",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1000,
+                "couterpartValues": {
+                  "total": 25000,
+                  "financial": 25000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 975000,
+                  "amendment": "R$ 975.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "respProponent": "***.286.104-** - CLAUDEVAL SANTOS SANTANA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "042019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-06-04T03:00:00.000Z",
+              "processId": "05220032019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "05220032019",
+                "biddingId": "042019",
+                "object": "Construção de Orla e implantação de sinalizações turísticas.",
+                "legalFoundation": "8.6666/93",
+                "justification": "Para atender ao Contrato de Convênio e a Lei de Licitações.",
+                "publishDate": "2019-06-04T03:00:00.000Z",
+                "beginDate": "2019-06-21T03:00:00.000Z",
+                "endDate": "2019-06-27T03:00:00.000Z",
+                "biddingValue": 372848.53,
+                "homologationDate": "2019-06-27T03:00:00.000Z",
+                "city": "2717 - BELO MONTE",
+                "analysisDate": "2019-08-08T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000061/2019",
+              "biddingId": "042019",
+              "date": "2019-07-01T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 30078584000189",
+                "hirerDocument": "CNPJ: 12250163000101",
+                "type": "Material",
+                "object": "Construção de Orla Fluvial e instalação de Sinalizações Turísticas",
+                "totalValue": 372848.53,
+                "publishDate": "2019-07-01T03:00:00.000Z",
+                "beginDate": "2019-06-28T03:00:00.000Z",
+                "endDate": "2019-12-31T03:00:00.000Z",
+                "signDate": "2019-06-28T03:00:00.000Z",
+                "executionProcessId": "042019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "05220032019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BELO MONTE",
+            "documentNumber": "12.250.163/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "862717/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 1000,
+            "transferValue": 975000,
+            "counterpartValue": 25000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "841342/2016",
+        "uf": "AL",
+        "city": "BELO MONTE",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-29T02:00:00.000Z",
+        "end": "2021-02-26T03:00:00.000Z",
+        "program": "Alagoas -Emendas Parlamentares - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "038501/2016",
+            "organId": "38501/2016",
+            "processId": "0385012016",
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A aquisição de Máquinas, Equipamentos e implementos agrícolas, beneficiará os agricultores familiares e pequenos e médios produtores rurais. A cidade de Belo Monte está localizada no sertão alagoano com as seguintes coordenadas geográficas: está a 9º. “49’ 20” de latitude e 37º. 16’ 12’ de longitude Oeste de Greenwich (W. Gr.), a sua altitude (sede) é de 48 metros. Possui uma área de 334,8 km², ocupa dentro do território alagoano o equivalente a 1,65% do total. Portanto está em 20º lugar em extensão territorial, distando da capital 220 km, tendo como acesso principal a AL125, e possui uma População de 7.032 habitantes, sendo 1.171 na zona urbana e 5.861 na zona rural com IDH de 0,565. Integra a bacia leiteira. Suas terras, embora ricas em sais minerais não possui chuvas regulares, não existem chuvas regulares. É sertão bruto e sofredor, sendo totalmente atingido e flagelado pelas secas. Há abundância de minérios, como calcário, amianto, mármore, mica e ferro, entre outros. A Aquisição de Máquinas, Equipamentos e implementos Agrícolas, é indispensável para as atividades desenvolvidas pelo município em prol dos produtores rurais. O município possui uma estimativa de 517 produtores rurais, sendo 120 em associação de produtores, 87 em assentamentos e 310 agricultores familiares que serão beneficiados diretamente e 450 indiretamente. No município destacam-se os cultivos de: milho 4.500 sacos, feijão 1.200 sacos, abobora 150 toneladas, melancia 120 toneladas, banana 3.000 milheiros, manga 5.000 caixas(10kg), verduras e hortaliças 27 toneladas. Além da produção de alimentos, os produtores se dedicam à criação de rebanhos bovinos, caprinos e suínos. Os produtores utilizam uma área equivalente a 6.000 hectares de pastagens para a criação de seus rebanhos. Atualmente não existe nenhuma agroindústria instalada no município. Até o presente momento não foi implantada qualquer ação de proteção as matas existentes ou de recuperação da matas devastadas. Não há registros de áreas com conservação do solo tecnicamente conduzida nem registro de áreas degradada por erosão. Por iniciativa deste município inexiste qualquer providência para conservação do solo e da água. Belo Monte ostenta situação privilegiada em relação a conservação do bioma caatinga (40% preservados no município). Até a presente data não foi adotada nenhuma providência quanto o uso de agrotóxicos nas plantações. O município possui uma grande carência de máquinas, equipamentos e implementos agrícolas para o preparo, plantio, colheita e escoamento da produção agrícola. Contamos em nosso quadro de profissionais com motoristas, técnicos agrícolas e operadores de maquinas e equipamentos agrícolas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE MÁQUINAS, EQUIPAMENTOS E IMPLEMENTOS AGRÍCOLAS",
+            "information": "A PREFEITURA MUNICIPAL DE BELO MONTE, POSSUI CAPACIDADE TECNICA E GERENCIAL PARA FORMALIZAR, LICITAR, EXECUTAR E PRESTAR CONTAS DO OBJETO DESTE CONVÊNIO.",
+            "proposalDate": "2016-12-15T02:00:00.000Z",
+            "biddingDate": "2016-12-29T02:00:00.000Z",
+            "homologationDate": "2017-01-12T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020160005",
+              "name": "Alagoas -Emendas Parlamentares - Investimento",
+              "value": 154449.95,
+              "details": {
+                "code": "2200020160005",
+                "name": "Alagoas -Emendas Parlamentares - Investimento",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário. Favor, verificar lista dos objetos contemplados na aba anexos.",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 154449.95,
+                "couterpartValues": {
+                  "total": 8199.95,
+                  "financial": 8199.95,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 146250,
+                  "amendment": "R$ 146.250,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "respProponent": "***.286.104-** - CLAUDEVAL SANTOS SANTANA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0005",
+              "type": "Licitação - Pregão",
+              "date": "2018-05-28T03:00:00.000Z",
+              "processId": "0502007",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Eletrônico",
+                "processId": "0502007",
+                "biddingId": "0005",
+                "object": "Aquisição de 01 (Um) Triturador e 01 (um) desintegrador",
+                "legalFoundation": "8.6666/1993",
+                "justification": "Pra atender as necessidades do Contrato Convênio nº 841342/2016.",
+                "publishDate": "2018-05-28T03:00:00.000Z",
+                "beginDate": "2018-06-27T03:00:00.000Z",
+                "endDate": "2018-06-27T03:00:00.000Z",
+                "biddingValue": 18949.95,
+                "homologationDate": "2018-07-25T03:00:00.000Z",
+                "city": "2717 - BELO MONTE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000057/2018",
+              "biddingId": "0005",
+              "date": "2018-08-08T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 21548780000189",
+                "hirerDocument": "CNPJ: 12250163000101",
+                "type": "Material",
+                "object": "Aquisição de equipamentos",
+                "totalValue": 18949.95,
+                "publishDate": "2018-08-08T03:00:00.000Z",
+                "beginDate": "2018-08-06T03:00:00.000Z",
+                "endDate": "2018-11-07T02:00:00.000Z",
+                "signDate": "2018-08-06T03:00:00.000Z",
+                "executionProcessId": "0005 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0502007 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE BELO MONTE",
+            "documentNumber": "12.250.163/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "841342/2016",
+            "validity": "29/12/2016 a 26/02/2021",
+            "limitDate": "2019-07-15T03:00:00.000Z",
+            "totalValue": 27,
+            "transferValue": 154449.95,
+            "counterpartValue": 146250,
+            "yieldValue": 8199.95
+          }
+        }
+      },
+      {
+        "agreementId": "832877/2016",
+        "uf": "AL",
+        "city": "BELO MONTE",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-14T02:00:00.000Z",
+        "end": "2021-02-26T03:00:00.000Z",
+        "program": "Alagoas -Emendas Parlamentares - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Iniciada por Antecipação",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "012957/2016",
+            "organId": "12957/2016",
+            "processId": "0129572016",
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A cidade de Belo Monte está localizada no sertão alagoano com as seguintes coordenadas geográficas: está a 9º. “49’ 20” de latitude e 37º. 16’ 12’ de longitude Oeste de Greenwich (W. Gr.), a sua altitude (sede) é de 48 metros. Possui uma área de 334,8 km², ocupa dentro do território alagoano o equivalente a 1,65% do total. Portanto está em 20º lugar em extensão territorial, distando da capital 220 km, tendo como acesso principal a AL125, e possui uma População de 7.032 habitantes, sendo 1.171 na zona urbana e 5.861 na zona rural com IDH de 0,565. Integra a bacia leiteira. Suas terras, embora ricas em sais minerais não possui chuvas regulares, não existem chuvas regulares. É sertão bruto e sofredor, sendo totalmente atingido e flagelado pelas secas. Há abundância de minérios, como calcário, amianto, mármore, mica e ferro, entre outros. A aquisição desse Trator e implementos agrícolas, é indispensável para as atividades desenvolvidas pelo município em prol dos produtores rurais. O município possui uma estimativa de 517 produtores rurais, sendo 120 em associação de produtores, 87 em assentamentos e 310 agricultores familiares que serão beneficiados diretamente e 450 indiretamente. No município destacam-se os cultivos de: milho 4.500 sacos, feijão 1.200 sacos, abobora 150 toneladas, melancia 120 toneladas, banana 3.000 milheiros, manga 5.000 caixas(10kg), verduras e hortaliças 27 toneladas. Além da produção de alimentos, os produtores se dedicam à criação de rebanhos bovinos, caprinos e suínos. Os produtores utilizam uma área equivalente a 6.000 hectares de pastagens para a criação de seus rebanhos. Atualmente não existe nenhuma agroindústria instalada no município. Até o presente momento não foi implantada qualquer ação de proteção as matas existentes ou de recuperação da matas devastadas. Não há registros de áreas com conservação do solo tecnicamente conduzida nem registro de áreas degradada por erosão. Por iniciativa deste município inexiste qualquer providência para conservação do solo e da água. Belo Monte ostenta situação privilegiada em relação a conservação do bioma caatinga (40% preservados no município). Até a presente data não foi adotada nenhuma providência quanto o uso de agrotóxicos nas plantações. O município de Belo Monte é cortado pelo Rio Ipanema, existindo apena uma passagem improvisada para interligar a Cidade aos Povoados. Nos período de chuva o Rio Ipanema tem seu volume de água alterado, tornando a passagem improvisada inutilizável. Com isso, os munícipes da zona rural ficam isolados, impedidos de comercializar seus produtos agrícolas, de receber serviços essenciais a sua sobrevivência ex: Serviços médicos, odontológicos e sociais., alem de impedir que os alunos que estudam o ensino médio fiquem sem frequentar o escola durante o período de cheia do Rio Ipanema. A Construção da Passagem Molhada no município de Belo Monte beneficiará cerca de 85% da população do município, facilitando o acesso a zona urbana, bem como o escoamento da sua produção agrícola, acesso aos serviços básicos de saúde, educação e serviço social. A Passagem molhada, será construída com recursos da Emenda parlamentar nº22890002 do Senador Renan Calheiros, Funcional Programática nº 20.608.2014.20zv, no valor de R$ 300.000,00 (trezentos mil reais), contrato de repasse, cujo titulo - Fomento ao setor agropecuário no Estado de Alagoas GND4 Modalidade 40 possui vinculo com o programa nº 2200020160005, do Ministério da Agricultura, Pecuária e Abastecimento.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Passagem Molhada.",
+            "information": "O município de Belo Monte possui capacidade técnica e gerencial para firmar contrato, executar e prestar conta do objeto destes contrato de repasse.",
+            "proposalDate": "2016-03-13T03:00:00.000Z",
+            "biddingDate": "2016-12-14T02:00:00.000Z",
+            "homologationDate": "2016-12-22T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020160005",
+              "name": "Alagoas -Emendas Parlamentares - Investimento",
+              "value": 295500,
+              "details": {
+                "code": "2200020160005",
+                "name": "Alagoas -Emendas Parlamentares - Investimento",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário. Favor, verificar lista dos objetos contemplados na aba anexos.",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 295500,
+                "couterpartValues": {
+                  "total": 3000,
+                  "financial": 3000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "respProponent": "***.294.504-** - ANTONIO AVANIO FEITOSA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "022018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-04-03T03:00:00.000Z",
+              "processId": "03230142018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "03230142018",
+                "biddingId": "022018",
+                "object": "Construção de Passagem Molhada",
+                "legalFoundation": "8.6666/1993",
+                "justification": "O presente processo licitatório se justifica para tender os objeto deste convênio e a lei de 8.6666/1993.",
+                "publishDate": "2018-04-03T03:00:00.000Z",
+                "beginDate": "2018-04-20T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 200155.89,
+                "homologationDate": "2018-05-29T03:00:00.000Z",
+                "city": "2717 - BELO MONTE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000035/2018",
+              "biddingId": "022018",
+              "date": "2018-06-08T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12559206000135",
+                "hirerDocument": "CNPJ: 12250163000101",
+                "type": "Obras",
+                "object": "Construção de Passagem Molhada",
+                "totalValue": 200155.89,
+                "publishDate": "2018-06-08T03:00:00.000Z",
+                "beginDate": "2018-05-30T03:00:00.000Z",
+                "endDate": "2018-09-27T03:00:00.000Z",
+                "signDate": "2018-05-30T03:00:00.000Z",
+                "executionProcessId": "022018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "03230142018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE BELO MONTE",
+            "documentNumber": "12.250.163/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas (por antecipação)",
+            "number": "832877/2016",
+            "validity": "14/12/2016 a 26/02/2021",
+            "limitDate": "2020-06-16T03:00:00.000Z",
+            "totalValue": 27,
+            "transferValue": 295500,
+            "counterpartValue": 292500,
+            "yieldValue": 3000
+          }
+        }
+      },
+      {
+        "agreementId": "829941/2016",
+        "uf": "AL",
+        "city": "BELO MONTE",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-14T02:00:00.000Z",
+        "end": "2021-02-26T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "012997/2016",
+            "organId": "12997/2016",
+            "processId": "0129972016",
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A cidade de Belo Monte está a 9º. “49’ 20” de latitude e 37. º 16’ 12’ de longitude Oeste de Greenwich (W. Gr.), a sua altitude (sede) é de 48 metros. Possui uma área de 334,8 km², ocupa dentro do território alagoano o equivalente a 1,65% do total. Portanto está 20º lugar em extensão territorial, distando da capital 220 km, e possue uma População de 7.032 habitantes. Integra a bacia leiteira. As sua terras, embora ricas em sais minerais e o solo não seja pobre, não existem chuvas regulares. É sertão bruto e sofredor, sendo totalmente atingido e flagelado pelas secas. Há abundância de minérios, como calcário, amianto, mármore, mica e ferro, entre outros. O município de Belo Monte tem uma localização privilegiada, pois está situada nas margens do São Francisco, porém é uma cidade pobre que necessita de investimentos em infraestrutura urbana, para dar a sua população uma melhor qualidade de vida. A pavimentação de ruas no município será de grande importância, trazendo benefícios não só visual e social, como também de saúde, pois eliminará o acumulo de lixo e esgoto, uma das principais causas de doenças por contaminação.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Elaboração de Projeto Básico e Obra de Pavimentação de Ruas em paralelepipedo.",
+            "information": "O município de Belo Monte possui capacidade técnica e gerencial para para firmar, executar e prestar contas do objeto deste contrato de repasse.",
+            "proposalDate": "2016-03-13T03:00:00.000Z",
+            "biddingDate": "2016-12-14T02:00:00.000Z",
+            "homologationDate": "2016-12-22T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160014",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 460177.66,
+              "details": {
+                "code": "5600020160014",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 460177.66,
+                "couterpartValues": {
+                  "total": 6637.66,
+                  "financial": 6637.66,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 453540,
+                  "amendment": "R$ 453.540,00 - Ronaldo Lessa"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "respProponent": "***.286.104-** - CLAUDEVAL SANTOS SANTANA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-01-23T02:00:00.000Z",
+              "processId": "01220012018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "01220012018",
+                "biddingId": "012018",
+                "object": "Contratação de engenharia para executar obras de Pavimentação em Paralelepípedo e Drenagem superficial.",
+                "legalFoundation": "8.6666/1993",
+                "justification": "A licitação se justifica, pela necessidade de execução do objeto deste convênio",
+                "publishDate": "2018-01-23T02:00:00.000Z",
+                "beginDate": "2018-03-02T03:00:00.000Z",
+                "endDate": "2018-03-20T03:00:00.000Z",
+                "biddingValue": 460177.66,
+                "homologationDate": "2018-04-06T03:00:00.000Z",
+                "city": "2717 - BELO MONTE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000035/2018",
+              "biddingId": "012018",
+              "date": "2018-04-20T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 26399954000102",
+                "hirerDocument": "CNPJ: 12250163000101",
+                "type": "Material e Serviço",
+                "object": "Obra de Pavimentação em Paralelepipedo e Drenagem superficial de Ruas no Município de Belo Monte.",
+                "totalValue": 460177.66,
+                "publishDate": "2018-04-20T03:00:00.000Z",
+                "beginDate": "2018-05-10T03:00:00.000Z",
+                "endDate": "2018-08-07T03:00:00.000Z",
+                "signDate": "2018-04-10T03:00:00.000Z",
+                "executionProcessId": "012018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "01220012018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BELO MONTE",
+            "documentNumber": "12.250.163/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "829941/2016",
+            "validity": "14/12/2016 a 26/02/2021",
+            "limitDate": "2021-04-27T03:00:00.000Z",
+            "totalValue": 460177.66,
+            "transferValue": 453540,
+            "counterpartValue": 6637.66,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "822471/2015",
+        "uf": "AL",
+        "city": "BELO MONTE",
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Não empenhado, Publicado e Assinado",
+        "start": "2016-02-04T02:00:00.000Z",
+        "end": "2018-02-04T02:00:00.000Z",
+        "program": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas (EMENDA)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "028808/2015",
+            "organId": "50026/2015",
+            "processId": "59550.000472/2015-73",
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "legalFoundation": "Decreto nº 6.170/2007 c/ Portaria Interministerial CGU/MF/MP nº 507/2011",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "Ampliação do sistema de abastecimento de água do Povoado Mundo Novo. A cidade de Belo Monte está localizada no sertão alagoano com as seguintes coordenadas geográficas: está a 9º. “49’ 20” de latitude e 37º. 16’ 12’ de longitude Oeste de Greenwich (W. Gr.), a sua altitude (sede) é de 48 metros. Possui uma área de 334,8 km², ocupa dentro do território alagoano o equivalente a 1,65% do total. Portanto está em 20º lugar em extensão territorial, distando da capital 220 km, tendo como acesso principal a AL125, e possui uma População de 7.032 habitantes, sendo 1.171 na zona urbana e 5.861 na zona rural com IDH de 0,565. Integra a bacia leiteira. Suas terras, embora ricas em sais minerais não possui chuvas regulares, não existem chuvas regulares. É sertão bruto e sofredor, sendo totalmente atingido e flagelado pelas secas. Há abundância de minérios, como calcário, amianto, mármore, mica e ferro, entre outros. A ampliação do sistema de abastecimento de água do povoado Mundo Novo, localizado na margem do Rio São Francisco, beneficiará um total de 97 famílias nos povoados Pé-Leve e Aimoré, que tem seu abastecimento através de carro pipa, e que é insuficiente para atender toda a população obrigando o agricultor a utilizar água de barragens para algumas tarefas diárias, essa mesma água é disputada com os rebanhos que por muitas vezes defecam no local, tornando a água inutilizável até mesmo para o uso em atividades diárias. Com a ampliação do sistema de abastecimento de água do povoado Mundo Novo, os povoados Pé-Leve e Aimoré deixará de depender do abastecimento através de carro pipa, que não conseguia atender com qualidade as necessidades dessas famílias, por conta da demanda do município, e passará a ter seu abastecimento diário e com qualidade, atendendo as suas necessidade. Em contrapartida o município poderá prestar um serviço de melhor qualidade aos demais povoados, já que deixará de atender as essas famílias, bem como reduzirá os custos com o abastecimentos através de carros pipas por se localizarem nos pontos mais distantes da Sede do município. Sendo assim, a ampliação do sistema de abastecimento de água para esses povoados é de extrema importância, pois, reduzirá o sofrimento do sertanejo, que já sofre com a seca em nossa região e por muitas vezes com a perda de lavouras e rebanhos por causa do longo período de estiagem. Salientamos que o município de Belo Monte está na área de atuação da CODEVASF e ação pretendida ou seja a Ampliação do Sistema de Abastecimento de Água do Povoado Mundo Novo para os Povoados Pé-Léve e Aimoré se enquadra no Programa Federal de Desenvolvimento, Territorial, Sustentável e Economia Solidária.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AMPLIAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA DO POVOADO MUNDO NOVO PARA OS POVOADOS PÉ-LEVE E AIMORÉ.",
+            "information": "O MUNICÍPIO DE BELO MONTE POSSUI CAPACIDADE TÉCNICA E GERENCIAL PARA FORMALIZA, EXECUTAR E PRESTAR CONTAS DO OBJETO DO CONVÊNIO.",
+            "proposalDate": "2015-07-16T03:00:00.000Z",
+            "biddingDate": "2016-02-04T02:00:00.000Z",
+            "homologationDate": "2016-02-12T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320150016",
+              "name": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas (EMENDA)",
+              "value": 250500,
+              "details": {
+                "code": "2220320150016",
+                "name": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas (EMENDA)",
+                "cps": null,
+                "items": "Melhorar a qualidade de vida nos municípios localizados nas regiões estagnadas, proporcionando a dinamização das economias locais., Compreende a realização de ações voltadas ao fortalecimento da capacidade produtiva local, com as seguintes realizações possíveis:• Aquisição de máquinas e equipamentos; • Construção de equipamentos urbanos; • Implantação de infraestrutura social de apoio à produção; • Construção de obras civis; e • Implantação de sistemas de geração de energia, canalização, obras de infraestrutura hídrica, tratamento e abastecimento de água e transporte entre outros.",
+                "couterpartRule": "I) - Municípios com até 50.000 habitantes – 0,1% [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250500,
+                "couterpartValues": {
+                  "total": 500,
+                  "financial": 500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "respProponent": "***.294.504-** - ANTONIO AVANIO FEITOSA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.994.424-** - WALNER PEIXOTO LIMA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE BELO MONTE",
+            "documentNumber": "12.250.163/0001-01",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "822471/2015",
+            "validity": "04/02/2016 a 04/02/2018",
+            "limitDate": "2018-04-05T03:00:00.000Z",
+            "totalValue": 250500,
+            "transferValue": 250000,
+            "counterpartValue": 500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "816556/2015",
+        "uf": "AL",
+        "city": "BELO MONTE",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2015-08-28T03:00:00.000Z",
+        "end": "2019-05-30T03:00:00.000Z",
+        "program": "Medida Provis?ria 666",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "001732/2015",
+            "organId": "01732/2015",
+            "processId": "0017322015",
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A aquisição de Máquinas e Equipamentos agrícolas, beneficiará os agricultores familiares e pequenos e médios produtores rurais, reduzindo os custos do plantio e estimulando o aumento de sua produção agrícola. A cidade de Belo Monte está localizada no sertão alagoano com as seguintes coordenadas geográficas: está a 9º. “49’ 20” de latitude e 37º. 16’ 12’ de longitude Oeste de Greenwich (W. Gr.), a sua altitude (sede) é de 48 metros. Possui uma área de 334,8 km², ocupa dentro do território alagoano o equivalente a 1,65% do total. Portanto está em 20º lugar em extensão territorial, distando da capital 220 km, tendo como acesso principal a AL125, e possui uma População de 7.032 habitantes, sendo 1.171 na zona urbana e 5.861 na zona rural com IDH de 0,565. Integra a bacia leiteira. Suas terras, embora ricas em sais minerais não possui chuvas regulares, não existem chuvas regulares. É sertão bruto e sofredor, sendo totalmente atingido e flagelado pelas secas. Há abundância de minérios, como calcário, amianto, mármore, mica e ferro, entre outros. A Aquisição desse de Máquinas e Equipamentos Agrícolas, é indispensável para as atividades desenvolvidas pelo município em prol dos produtores rurais. O município possui uma estimativa de 517 produtores rurais, sendo 120 em associação de produtores, 87 em assentamentos e 310 agricultores familiares que serão beneficiados diretamente e 450 indiretamente. No município destacam-se os cultivos de: milho 4.500 sacos, feijão 1.200 sacos, abobora 150 toneladas, melancia 120 toneladas, banana 3.000 milheiros, manga 5.000 caixas(10kg), verduras e hortaliças 27 toneladas. Além da produção de alimentos, os produtores se dedicam à criação de rebanhos bovinos, caprinos e suínos. Os produtores utilizam uma área equivalente a 6.000 hectares de pastagens para a criação de seus rebanhos. Atualmente não existe nenhuma agroindústria instalada no município. Até o presente momento não foi implantada qualquer ação de proteção as matas existentes ou de recuperação da matas devastadas. Não há registros de áreas com conservação do solo tecnicamente conduzida nem registro de áreas degradada por erosão. Por iniciativa deste município inexiste qualquer providência para conservação do solo e da água. Belo Monte ostenta situação privilegiada em relação a conservação do bioma caatinga (40% preservados no município). Até a presente data não foi adotada nenhuma providência quanto o uso de agrotóxicos nas plantações. O município possui uma grande carência de máquinas e equipamentos para o preparo, plantio e colheita, agravada pelo pequeno período do ciclo da chuva na região. A aquisição do trator e seus implementos irá aumentar consideravelmente as áreas de preparo do solo, plantio e colheita, beneficiando diretamente 517 famílias e indiretamente 450 famílias. Contamos em nosso quadro de profissionais com tratorista, técnicos agrícolas e operadores de maquinas e equipamentos agrícolas. A Secretaria de Agricultura, cadastra os candidatos a receber esses serviços de mecanização. Logo após o técnico agrícola identifica em cada propriedade as culturas e a/ou serviços a serem executados estabelecendo um cronograma de execução.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Máquinas e Equipamentos",
+            "information": "O Município de Belo Monte possui capacidade técnica e gerencial para execução do Contrato de Repasse.",
+            "proposalDate": "2015-03-16T03:00:00.000Z",
+            "biddingDate": "2015-08-28T03:00:00.000Z",
+            "homologationDate": "2015-09-02T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020150018",
+              "name": "Medida Provis?ria 666",
+              "value": 295425,
+              "details": {
+                "code": "2200020150018",
+                "name": "Medida Provis?ria 666",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário.",
+                "couterpartRule": "Município com menos de 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 295425,
+                "couterpartValues": {
+                  "total": 2925,
+                  "financial": 2925,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "respProponent": "***.286.104-** - CLAUDEVAL SANTOS SANTANA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "082018",
+              "type": "Licitação - Pregão",
+              "date": "2018-11-01T03:00:00.000Z",
+              "processId": "10100032018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Eletrônico",
+                "processId": "10100032018",
+                "biddingId": "082018",
+                "object": "Aquisição de equipamentos agrícolas",
+                "legalFoundation": "8.666/1993",
+                "justification": "O presente processo licitatório se justifica pela necessidade de atendimento ao convênio 816556/2015 e a Lei de licitações 8.666/93",
+                "publishDate": "2018-11-01T03:00:00.000Z",
+                "beginDate": "2018-11-14T02:00:00.000Z",
+                "endDate": "2018-11-14T02:00:00.000Z",
+                "biddingValue": 56500,
+                "homologationDate": "2018-11-23T02:00:00.000Z",
+                "city": "2717 - BELO MONTE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000076/2019",
+              "biddingId": "082018",
+              "date": "2018-11-26T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 26845803000130",
+                "hirerDocument": "CNPJ: 12250163000101",
+                "type": "Material",
+                "object": "PLANTADORA ADUBADORA PLANTIO DIRETO COM 4 LINHAS  JM2570",
+                "totalValue": 45250,
+                "publishDate": "2018-11-26T02:00:00.000Z",
+                "beginDate": "2018-11-23T02:00:00.000Z",
+                "endDate": "2019-02-21T03:00:00.000Z",
+                "signDate": "2018-11-23T02:00:00.000Z",
+                "executionProcessId": "082018 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "10100032018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE BELO MONTE",
+            "documentNumber": "12.250.163/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "816556/2015",
+            "validity": "28/08/2015 a 30/05/2019",
+            "limitDate": "2019-09-29T03:00:00.000Z",
+            "totalValue": 331295,
+            "transferValue": 292500,
+            "counterpartValue": 2925,
+            "yieldValue": 35870
+          }
+        }
+      },
+      {
+        "agreementId": "802673/2014",
+        "uf": "AL",
+        "city": "BELO MONTE",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-12-09T02:00:00.000Z",
+        "end": "2020-09-30T03:00:00.000Z",
+        "program": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "032581/2014",
+            "organId": "00008/2014",
+            "processId": "25100.010045/2014-07",
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 507/2011.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "A cidade de Belo Monte está a 9º. “49’ 20” de latitude e 37. º 16’ 12’ de longitude Oeste de Greenwich (W. Gr.), a sua altitude (sede) é de 48 metros. Possui uma área de 334,8 km², ocupa dentro do território alagoano o equivalente a 1,65% do total. Portanto está 20º lugar em extensão territorial, distando da capital 220 km, e possui uma População de 7.032 habitantes. Integra a bacia leiteira. As sua terras, embora ricas em sais minerais e o solo não seja pobre, não existem chuvas regulares. É sertão bruto e sofredor, sendo totalmente atingido e flagelado pelas secas. Há abundância de minérios, como calcário, amianto, mármore, mica e ferro, entre outros. A construção das fossas condominais e as fossas individuais serão de fundamental importância para a prevenção de doenças relacionas ao acumulo de fezes que são despejadas a ceu aberto. Hoje a Estratégia de Saúde da Família, está identificando vários problemas de saúde, onde os mesmos estão sendo notificados no SINAN, onde a principal causa apontada pelas equipes é a falta de melhorias sanitárias em diversas residências do município. Essa obra beneficiará uma média de 760 pessoas em 151 residência, com isso o município de Belo Monte reduzirá significativamente o número de casos notificados no SINAN, como tabém irá melhorar a qualidade de vida de toda a população.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Melhorias Sanitárias Domiciliares.",
+            "information": "A Prefeitura Municipal de Belo Monte, dispõe de capacidade técnica e gerencial para a execução deste contrato.",
+            "proposalDate": "2014-03-21T03:00:00.000Z",
+            "biddingDate": "2014-12-09T02:00:00.000Z",
+            "homologationDate": "2014-12-15T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120140019",
+              "name": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+              "value": 395678.13,
+              "details": {
+                "code": "3621120140019",
+                "name": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+                "cps": null,
+                "items": "Implantação de Melhorias Sanitárias Domiciliares para Prevenção e Controle de Doenças e Agravos",
+                "couterpartRule": "A contrapartida (no caso dos municípios) dependerá da comprovação, na forma definida pelo art. 60 da Lei 12.919/2013 (LDO 2014) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 395678.13,
+                "couterpartValues": {
+                  "total": 4249.42,
+                  "financial": 4249.42,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 391428.71,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "respProponent": "***.286.104-** - CLAUDEVAL SANTOS SANTANA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "032018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-06-08T03:00:00.000Z",
+              "processId": "06040062018",
+              "status": "Em elaboração",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Em elaboração",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "06040062018",
+                "biddingId": "032018",
+                "object": "Construção de Melhorias Sanitárias Domiciliares",
+                "legalFoundation": "8.6666/1993",
+                "justification": "O processo Licitatório, se justifica pela necessidade de atendimento as necessidades do convênio e atendimento a Lei 8.666/1993.",
+                "publishDate": "2018-06-08T03:00:00.000Z",
+                "beginDate": "2018-06-25T03:00:00.000Z",
+                "endDate": "2018-06-25T03:00:00.000Z",
+                "biddingValue": 398944.64,
+                "homologationDate": "2018-09-17T03:00:00.000Z",
+                "city": "2717 - BELO MONTE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE BELO MONTE",
+            "documentNumber": "12.250.163/0001-01",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "802673/2014",
+            "validity": "09/12/2014 a 30/09/2020",
+            "limitDate": "2020-11-29T03:00:00.000Z",
+            "totalValue": 395678.13,
+            "transferValue": 391428.71,
+            "counterpartValue": 4249.42,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "793255/2013",
+        "uf": "AL",
+        "city": "BELO MONTE",
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2015-01-16T02:00:00.000Z",
+        "end": "2019-01-16T02:00:00.000Z",
+        "program": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 -Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas - (EMENDA)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "088418/2013",
+            "organId": "50088/2013",
+            "processId": "59550.001241/2013-15",
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "legalFoundation": "Decreto 6.170/2007 c/ Portaria Interministerial CGU/MF/MP 507/2011",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "A cidade de Belo Monte está a 9º. “49’ 20” de latitude e 37. º 16’ 12’ de longitude Oeste de Greenwich (W. Gr.), a sua altitude (sede) é de 48 metros. Possui uma área de 334,8 km², ocupa dentro do território alagoano o equivalente a 1,65% do total. Portanto está 20º lugar em extensão territorial, distando da capital 220 km, e possue uma População de 7.032 habitantes. Integra a bacia leiteira. As sua terras, embora ricas em sais minerais e o solo não seja pobre, não existem chuvas regulares. É sertão bruto e sofredor, sendo totalmente atingido e flagelado pelas secas. Há abundância de minérios, como calcário, amianto, mármore, mica e ferro, entre outros. A aquisição desse caminhão com caçamba é indispensável para as seguintes atividades desenvolvidas pelo município: (1) Distribuição de sementes aos pequenos produtores de leite; (2) Distribuição de outros insumos tais como farelo de trigo e milho da CONAB; (3) Entrega de materiais de reforma e manutenção da rede escolar e das unidades de Saude e outros. (4) Manutenção de estradas, entre outros, A fim de atender cada vez melhor a população.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE CAMINHÃO SEM CARROCERIA.",
+            "information": "Prefeitura Municipal de Belo Monte/AL., possui capacidade técnica e gerencial para celebrar, executar e prestar contas de convênio com a União.",
+            "proposalDate": "2013-12-02T02:00:00.000Z",
+            "biddingDate": "2015-01-16T02:00:00.000Z",
+            "homologationDate": "2015-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320130008",
+              "name": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 -Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas - (EMENDA)",
+              "value": 180000,
+              "details": {
+                "code": "2220320130008",
+                "name": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 -Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas - (EMENDA)",
+                "cps": null,
+                "items": "a) Construção e recuperação de estradas – rodovias estaduais, estradas vicinais, obras de arte, pontes;, g) Aquisição de equipamentos agrícolas e de apoio ao município - colhetadeira, trator de pneu, grade, arado, plantadeira, picador de forragem, tanque de resfriamento, etc",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 180000,
+                "couterpartValues": {
+                  "total": 31245.21,
+                  "financial": 31245.21,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 148754.79,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "respProponent": "***.286.104-** - CLAUDEVAL SANTOS SANTANA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "032018",
+              "type": "Licitação - Pregão",
+              "date": "2018-05-03T03:00:00.000Z",
+              "processId": "25040032018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Eletrônico",
+                "processId": "25040032018",
+                "biddingId": "032018",
+                "object": "Aquisição de Caminhão Toco ou semi pesado sem carroceria",
+                "legalFoundation": "8.6666/1993",
+                "justification": "A aquisição do objeto se justifica para atender as necessidades da Secretaria de Agricultura.",
+                "publishDate": "2018-05-03T03:00:00.000Z",
+                "beginDate": "2018-05-15T03:00:00.000Z",
+                "endDate": "2018-05-15T03:00:00.000Z",
+                "biddingValue": 180000,
+                "homologationDate": "2018-06-22T03:00:00.000Z",
+                "city": "2717 - BELO MONTE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000043/2018",
+              "biddingId": "032018",
+              "date": "2018-05-28T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 03079649000138",
+                "hirerDocument": "CNPJ: 12250163000101",
+                "type": "Material",
+                "object": "Aquisição de Caminhão toco sem carroceria",
+                "totalValue": 180000,
+                "publishDate": "2018-05-28T03:00:00.000Z",
+                "beginDate": "2018-05-23T03:00:00.000Z",
+                "endDate": "2018-07-23T03:00:00.000Z",
+                "signDate": "2018-05-23T03:00:00.000Z",
+                "executionProcessId": "032018 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "25040032018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE BELO MONTE",
+            "documentNumber": "12.250.163/0001-01",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Concluída",
+            "number": "793255/2013",
+            "validity": "16/01/2015 a 16/01/2019",
+            "limitDate": "2018-08-30T03:00:00.000Z",
+            "totalValue": 31,
+            "transferValue": 180000,
+            "counterpartValue": 148754.79,
+            "yieldValue": 31245.21
+          }
+        }
+      },
+      {
+        "agreementId": "728651/2009",
+        "uf": "AL",
+        "city": "BELO MONTE",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-01-20T02:00:00.000Z",
+        "end": "2012-01-19T02:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "131513/2009",
+            "organId": "01350/2009",
+            "processId": "59050.004034/2009-77",
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O municipio esta em estado de calamidade, por falta de água em suas comunidades, e sem condições de gastar com caminhões pipas para abastecer as mesmas. A população da zona rural não tem condições financeiras de abastecer suas casas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisiçao de caminhao pipa para transporte e distribuiçao de agua.",
+            "information": "O municipio tem capacidade tecnica de gerenciar seus convenios pois conta com equipe capacitada para conduzir essas ações.",
+            "proposalDate": "2009-12-22T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090016",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 225000,
+              "details": {
+                "code": "5300020090016",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Todos os municípios, com população abaixo de 50.000 habitantes, localizados em todas as regiões do Brasil. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 225000,
+                "couterpartValues": {
+                  "total": 4500,
+                  "financial": 4500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 220500,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "respProponent": "***.294.504-** - ANTONIO AVANIO FEITOSA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.042.835-** - IVONE MARIA VALENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "07/2011",
+              "type": "Licitação - Pregão",
+              "date": "2011-07-21T03:00:00.000Z",
+              "processId": "01552011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "01552011",
+                "biddingId": "07/2011",
+                "object": "Aquisição de Caminhão pipa para transporte e distribuição de água no município de Belo Monte.",
+                "legalFoundation": "Lei 8666/1993",
+                "justification": "A falta de sistema de abastecimento de água na maioria dos povoados do municípo de Belo Monte torna necessária a aquisição de caminhão pipa para distribuição de água.",
+                "publishDate": "2011-07-21T03:00:00.000Z",
+                "beginDate": "2011-08-03T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 220500,
+                "homologationDate": "2011-08-24T03:00:00.000Z",
+                "city": "2717 - BELO MONTE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000007/2011",
+              "biddingId": "07/2011",
+              "date": "2011-08-29T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12450888000143",
+                "hirerDocument": "CNPJ: 12250163000101",
+                "type": "Material",
+                "object": "Um caminhão pipa 0km",
+                "totalValue": 208000,
+                "publishDate": "2011-08-29T03:00:00.000Z",
+                "beginDate": "2011-08-24T03:00:00.000Z",
+                "endDate": "2011-12-31T02:00:00.000Z",
+                "signDate": "2011-08-24T03:00:00.000Z",
+                "executionProcessId": "07/2011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "01552011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE BELO MONTE",
+            "documentNumber": "12.250.163/0001-01",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "728651/2009",
+            "validity": "20/01/2010 a 19/01/2012",
+            "limitDate": "2012-02-18T02:00:00.000Z",
+            "totalValue": 225000,
+            "transferValue": 220500,
+            "counterpartValue": 4500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "721377/2009",
+        "uf": "AL",
+        "city": "BELO MONTE",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-11-30T02:00:00.000Z",
+        "program": "Urbanização, Regularização Fundiária e Integração de Assentamentos Precários",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "103164/2009",
+            "organId": "03164/2009",
+            "processId": "103164/2009",
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "legalFoundation": "DEC. 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O municipio de Belo Monte, necessita de implantar construções de moradias populares para que possamos diminuir o defict habitacional do municipio onde ainda existem casas em áreas insalubres e com sistemas construtivos inadequados para os modelos atuais, pois a cidade situa a margem do Rio São francisco, as unidades habitacionais propostas serão edificadas no CONJUNTO RESIDENCIAL a ser implantado na Rua DO ROSÁRIO, S/N - CENTRO",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Unidades Habitacionais em alvenaria, com quartos, salas, sala de jantar e estar, cozinha e área de serviços.",
+            "information": "o municipio de Belo Monte possui capacidade de gerenciar seus programas pois conta com engenheiro, arquiteto, assistente Social, Psicologa, Contador, e uma Comissão Permanente de Licitação.",
+            "proposalDate": "2009-11-24T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020094040",
+              "name": "Urbanização, Regularização Fundiária e Integração de Assentamentos Precários",
+              "value": 253225.5,
+              "details": {
+                "code": "5600020094040",
+                "name": "Urbanização, Regularização Fundiária e Integração de Assentamentos Precários",
+                "cps": "",
+                "items": "Melhoria em Habitações de Assentamentos Precários",
+                "couterpartRule": "",
+                "totalValue": 253225.5,
+                "couterpartValues": {
+                  "total": 7375.5,
+                  "financial": 7375.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "respProponent": "***.294.504-** - ANTONIO AVANIO FEITOSA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BELO MONTE",
+            "documentNumber": "12.250.163/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "721377/2009",
+            "validity": "31/12/2009 a 30/11/2011",
+            "limitDate": "2011-11-30T02:00:00.000Z",
+            "totalValue": 253225.5,
+            "transferValue": 245850,
+            "counterpartValue": 7375.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "709231/2009",
+        "uf": "AL",
+        "city": "BELO MONTE",
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-28T02:00:00.000Z",
+        "end": "2021-02-23T03:00:00.000Z",
+        "program": "1025 Promoção da Sustentabilidade de Espaços Sub-Regionais – PROMESO – PT 15.244.1025.7K66.0027 – Ação: Apoio A Projetos De Desenvolvimento Sustentável Local Integrado - No Estado De Alagoas (Emenda)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "070481/2009",
+            "organId": "50124/2009",
+            "processId": "59550.000847/2009-57",
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/MCT nº 165/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "A adutora da Bacia Leiteira, que abastecia toda a região leiteira do Estado, tinha sua captação, tratamento e reservação na cidade de Belo Monte, sendo ela a primeira cidade a ser abastecida. Não havia qualquer problema de fornecimento de água para a cidade. Com a implantação da adutora do Sertão, com captação na cidade de Pão de Açúcar, houve reformulação total no sistema da região, sendo desativado o sistema de Belo Monte, passando as cidades abastecidas pela adutora da Bacia Leiteira a serem atendidas pelo sistema da adutora do Sertão, ficando Belo Monte a ser a última cidade abastecida pelo atual sistema. O fornecimento de água passou a ser intermitente, ficando a cidade, na época de verão, rotineiramente com mais de 15 dias sem abastecimento, passando a população a utilizar a água diretamente do rio São Francisco, sem qualquer tratamento, com os riscos à saúde por todos conhecidos. Por outro lado, a cidade submeteu-se ao crescimento natural, sem qualquer investimento na ampliação no sistema de distribuição de água, sendo necessária sua ampliação. Segundo o IBGE o município possuía em 2007 uma população total de 7.238 pessoas, sendo 2.895 na sede do município, que serão diretamente beneficiadas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Elaboração de projeto básico e implantação de um sistema de captação, adução e tratamento substituto ao atual, com ampliação da reservação e da rede de distribuição de água.",
+            "information": "A prefeitura tem capacidade técnica e gerencial, conforme declarações abaixo em anexos.",
+            "proposalDate": "2009-09-09T03:00:00.000Z",
+            "biddingDate": "2009-12-28T02:00:00.000Z",
+            "homologationDate": "2009-12-29T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320090057",
+              "name": "1025 Promoção da Sustentabilidade de Espaços Sub-Regionais – PROMESO – PT 15.244.1025.7K66.0027 – Ação: Apoio A Projetos De Desenvolvimento Sustentável Local Integrado - No Estado De Alagoas (Emenda)",
+              "value": 490000,
+              "details": {
+                "code": "2220320090057",
+                "name": "1025 Promoção da Sustentabilidade de Espaços Sub-Regionais – PROMESO – PT 15.244.1025.7K66.0027 – Ação: Apoio A Projetos De Desenvolvimento Sustentável Local Integrado - No Estado De Alagoas (Emenda)",
+                "cps": null,
+                "items": "Aumentar a sustentabilidade de espaços sub-regionais da Política Nacional de Desenvolvimento Regional, para a redução das desigualdades inter e intra-regionais.",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 490000,
+                "couterpartValues": {
+                  "total": 15000,
+                  "financial": 15000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 475000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.250.163/0001-01 - MUNICIPIO DE BELO MONTE",
+            "respProponent": "***.286.104-** - CLAUDEVAL SANTOS SANTANA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-04-25T03:00:00.000Z",
+              "processId": "04170052019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "04170052019",
+                "biddingId": "01/2019",
+                "object": "Contratação de Empresa de Engenharia para Execução de Obra remanescente de Ampliação do Sistema de Abastecimento D'água de Belo Monte",
+                "legalFoundation": "8.666/1993",
+                "justification": "Em atendimento as Leis vigentes.",
+                "publishDate": "2019-04-25T03:00:00.000Z",
+                "beginDate": "2019-05-13T03:00:00.000Z",
+                "endDate": "2019-05-13T03:00:00.000Z",
+                "biddingValue": 147950.11,
+                "homologationDate": "2019-05-15T03:00:00.000Z",
+                "city": "2717 - BELO MONTE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000015/2010",
+              "biddingId": "01/2010",
+              "date": "2011-08-29T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11149866000185",
+                "hirerDocument": "CNPJ: 12250163000101",
+                "type": "Obras",
+                "object": "Ampliação do Sistema de Abastecimento de Água - SAA na cidade de Belo Monte - AL.",
+                "totalValue": 457697.95,
+                "publishDate": "2011-08-29T03:00:00.000Z",
+                "beginDate": "2011-08-08T03:00:00.000Z",
+                "endDate": "2012-02-08T02:00:00.000Z",
+                "signDate": "2011-08-08T03:00:00.000Z",
+                "executionProcessId": "01/2010 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE BELO MONTE",
+            "documentNumber": "12.250.163/0001-01",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "709231/2009",
+            "validity": "28/12/2009 a 23/02/2021",
+            "limitDate": "2021-02-23T03:00:00.000Z",
+            "totalValue": 490000,
+            "transferValue": 475000,
+            "counterpartValue": 15000,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

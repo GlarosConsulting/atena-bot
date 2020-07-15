@@ -1,0 +1,3142 @@
+{
+  "beginDate": "2020-07-15T00:27:44.289Z",
+  "endDate": "2020-07-15T00:54:25.174Z",
+  "data": {
+    "location": {
+      "city": "Campo Alegre",
+      "uf": "AL",
+      "ibge": "2701407"
+    },
+    "agreements": [
+      {
+        "agreementId": "873856/2018",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-08-31T03:00:00.000Z",
+        "end": "2021-08-30T03:00:00.000Z",
+        "program": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "036925/2018",
+            "organId": "36925/2018",
+            "processId": "369252018",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre fica localizado na Zona da Mata Alagoana, com uma população de 50.816 habitantes conforme estimativa do IBGE; a cidade é conhecida como Cidade Carinho, ficando a aproximadamente 92 KM da Capital Alagoana, tendo como principal rodovia de ligação a AL 220. Nosso Município é conhecido por ser uma cidade plana de campos verdes, onde a principal fonte de renda é o cultivo da cana-de-açúcar e outros produtos agrícolas, desta forma vem sendo desenvolvido uma política voltada ao crescimento e exploração do artesanato criado pelos artesões do município, dando fomento a circulação de renda no nosso comercio. A construção de 01 Quadra de Esporte no Distrito de Luziápolis em Campo Alegre sem dúvida é de extrema relevância social para as comunidades escolares e para os beneficiários uma vez que proporcionará aos mesmos a criação de novas opções de atividades esportivas como também de lazer, criando condições de superação das dificuldades, servindo como alternativa para afastar-se das drogas e criminalidade, o mesmo contribuirá para fortalecer as características positivas priorizado valores construtivos como: companheirismo, auto controle, respeito às regras, auto superação, e controle dos impulsos negativos e agressividade. Outra característica do projeto é servir de incentivo para os indivíduos que ainda não praticam esportes, levando-os a participar cada vez mais das atividades esportivas. E também motivar ainda mais aqueles que já fazem parte dos eventos esportivos que são elaborados e desenvolvidos na comunidade.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Construção de 01 Quadra de Esporte no Distrito de Luziápolis no Município de Campo Alegre/AL.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº. 424, de 30 de dezembro de 2016, atesto para os devidos fins, que a Prefeitura Municipal de Campo Alegre/AL, possui quadro de profissionais, GMC – Gerente Municipal de Convênios, CPL – Comissão Permanente de Licitação, Engenheiro Civil, Arquiteta e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de Capacidade Técnica e Gerencial para Gestão e Execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto tais como: licitações, execução e fiscalização de obras.",
+            "proposalDate": "2018-03-29T03:00:00.000Z",
+            "biddingDate": "2018-08-31T03:00:00.000Z",
+            "homologationDate": "2018-09-04T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020180051",
+              "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+              "value": 413809.52,
+              "details": {
+                "code": "5500020180051",
+                "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+                "cps": "001/2018",
+                "items": "Equipamentos Comunitários",
+                "couterpartRule": "b) 0,2% (dois décimos por cento)e 8%(oito por cento) para Municípios ACIMA de cinquenta mil habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR,nas áreas da SUDENE,SUDAM e SUDECO [Percentual Mínimo Contrapartida: 0.2% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 413809.52,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 403809.52,
+                  "amendment": "R$ 403.809,52 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.714.780-** - OSMAR GASPARINI TERRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2020-01-21T03:00:00.000Z",
+              "processId": "527606",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aguardando Aceite",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "527606",
+                "biddingId": "001",
+                "object": "Contratação de uma empresa especializada para realização de obras de engenharia pertinentes a construção de uma quadra de esportes no distrito de Luziápolis no município de Campo Alegre.",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "Construção de uma quadra de esportes no distrito de Luziápolis no município de Campo Alegre.",
+                "publishDate": "2020-01-21T03:00:00.000Z",
+                "beginDate": "2020-02-06T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 662792.4,
+                "homologationDate": "2020-04-06T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": "Aguardando Aceite"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2020",
+              "biddingId": "001",
+              "date": "2020-06-01T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 06034228000189",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Material",
+                "object": "Construção de uma quadra de esportes no distrito de luziápolis no município de Campo Alegre/AL",
+                "totalValue": 662792.4,
+                "publishDate": "2020-06-01T03:00:00.000Z",
+                "beginDate": "2020-04-06T03:00:00.000Z",
+                "endDate": "2020-10-06T03:00:00.000Z",
+                "signDate": "2020-04-06T03:00:00.000Z",
+                "executionProcessId": "001 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "527606 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "873856/2018",
+            "validity": "31/08/2018 a 30/08/2021",
+            "limitDate": "2021-10-29T03:00:00.000Z",
+            "totalValue": 413809.52,
+            "transferValue": 403809.52,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "863139/2017",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "022583/2017",
+            "organId": "022583/2017",
+            "processId": "0225832017",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre vem junto ao Ministério do Turismo pleitear recursos para Reforma de Praças localizada no centro da Cidade, área urbana, haja vista que a mesma fica localizada em um ponto crucial de circulação das pessoas que visitam nossa cidade, no intuito de conhecer os atrativos turísticos. O Município de Campo Alegre fica localizado na Zona da Mata Alagoana, com uma população de 50.816 habitantes conforme estimativa do IBGE; a cidade é conhecida como Cidade Carinho, ficando a aproximadamente 92 KM da Capital Alagoana, tendo como principal rodovia de ligação a AL 220. A cultura local é muito vasta, porém não dispõe de espaços estruturados para apresentação das mesmas, com isso, foi criado um projeto de Reforma das Praças do centro onde irá dotar de infraestrutura o espaço no centro da cidade. Nosso Município é conhecido por ser uma cidade plana de campos verdes, onde a principal fonte de renda é o cultivo da cana-de-açúcar e outros produtos agrícolas, desta forma vem sendo desenvolvido uma política voltada ao crescimento e exploração do artesanato criado pelos artesões do município, dando fomento a circulação de renda no nosso comercio. A praça contará com espaços para lazer e recreação, dispondo de quiosques para comercialização de produtos artesanais, recuperação do paisagismo, melhoria na iluminação local, entre outros no intuito de melhorar a receptividade dos visitantes, bem como a qualidade nos serviços oferecidos, o projeto conta ainda com anfiteatro, espelho d’água, área de convivência. Campo Alegre possui lugares de beleza privilegiada como pequenas cachoeiras, rios, piscinas naturais dentro das matas, a estrutura hoteleira ainda é pequena, mais dispõe de um belo hotel fazenda que acolhe os turistas com lazer, descanso e muita diversão. A solicitação se dá por conta do interesse turístico da Obra, bem como para dotar de infraestrutura o espaço de acolhimento aos visitantes.O objetivo do projeto é melhorar a estrutura ofertada a população e aos turistas que visitam nossa cidade. O Município de Campo Alegre já firmou parceria junto ao Ministério do Turismo para Construção de 01 Praça Multieventos a qual está em fase de apresentação do projeto junto a Caixa Econômica Federal, bem como está requisitando a reforma desta área do centro da cidade, tendo em vista que é o ponto de recebimento dos visitantes, onde fica localizado o Marco Zero; sendo de grande importância melhorar a estrutura ofertada com a recuperação dos quiosques para fomentar a venda de artesanatos locais. O Município já realizou grandes festivais que trouxeram ao município turistas de vários estados, conhecido como Festival da Cana o qual atraiu mais de 12 mil pessoas, assim como realiza todos os anos a Feira do Artesanato, expondo em barracas os mais diversos tipos de trabalhos manuais, além de apresentações culturais e bandas; este evento ocorre sempre no segundo semestre e é realizado nesta área da Praça que ora solicitamos reforma. Outras data importante é a de Corpus Crhist, onde o Município possui uma tradição de fazer um tapete em todas as principais ruas da cidade, trabalho artesanal da população local que a muitos anos atrai turistas de várias regiões para conhecer e participar do cortejo da procissão. A localização da Praça fica entre as Ruas: rua do Comercio e Avenida Monsenhor Hildebrando V. Guimarães nas seguintes coordenadas: 9º47’11.17”S – 36º21’03.57”0 A proposta é ancorada na emenda parlamentar N° 25790007, de autoria do Senador Fernando Collor.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REFORMA DE PRAÇAS NO CENTRO DO MUNICÍPIO DE CAMPO ALEGRE - ÁREA URBANA.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº. 424, de 30 de dezembro de 2016, atesto para os devidos fins, que a Prefeitura Municipal de Campo Alegre/AL, possui quadro de profissionais, GMC – Gerente Municipal de Convênios, CPL – Comissão Permanente de Licitação, Engenheiro Civil, Arquiteta e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de Capacidade Técnica e Gerencial para Gestão e Execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto da proposta nº 022470/2017, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2017-03-23T03:00:00.000Z",
+            "biddingDate": "2017-12-30T02:00:00.000Z",
+            "homologationDate": "2018-01-15T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170005",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+              "value": 331700,
+              "details": {
+                "code": "5400020170005",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+                "cps": "",
+                "items": "I – construção, revitalização e reforma de infraestrutura urbana para adequação de espaços de interesse turístico (saneamento básico, sistemas de drenagem urbana, paisagismo, sinalização turística e praças; parques urbanos, pavimentação, execução de calçadas, passeios, iluminação pública e ciclovias/ciclofaixas, se os projetos estiverem associados a parques, praças, orlas e outros atrativos turísticos, sendo necessária a apresentação de mapa (croqui) que evidencie a associação àqueles atrativos",
+                "couterpartRule": "MUNICÍPIOS - 0,2% (dois décimos por cento) e 8% (oito por cento) para Municípios acima de cinquenta mil habitantes localizados nas áreas prioritárias no PNDR, SUDENE, SUDAM e SUDECO [Percentual Mínimo Contrapartida: 0.2% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 331700,
+                "couterpartValues": {
+                  "total": 8000,
+                  "financial": 8000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 323700,
+                  "amendment": "R$ 323.700,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "006",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-12-18T03:00:00.000Z",
+              "processId": "0527276",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0527276",
+                "biddingId": "006",
+                "object": "Contratação de empresa especializada de obras de engenharia pertinentes a Reforma e Ampliação de 01(uma) praça no município de Campo Alegre.",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "Nosso Município é conhecido por ser uma cidade plana de campos verdes, onde a principal fonte de renda é o cultivo da cana-de-açúcar e outros produtos agrícolas, desta forma vem sendo desenvolvido uma política voltada ao crescimento e exploração do artesanato criado pelos artesões do município, dando fomento a circulação de renda no nosso comercio. A praça contará com espaços para lazer e recreação, dispondo de quiosques para comercialização de produtos artesanais, recuperação do paisagismo, melhoria na iluminação local, entre outros no intuito de melhorar a receptividade dos visitantes, bem como a qualidade nos serviços oferecidos, o projeto conta ainda com anfiteatro, espelho d’água, área de convivência. A solicitação se dá por conta do interesse turístico da Obra, bem como para dotar de infraestrutura o espaço de acolhimento aos visitantes.O objetivo do projeto é melhorar a estrutura ofertada a população e aos turistas que visitam nossa cidade.",
+                "publishDate": "2019-12-18T03:00:00.000Z",
+                "beginDate": "2020-01-07T03:00:00.000Z",
+                "endDate": "2020-01-07T03:00:00.000Z",
+                "biddingValue": 612550.1,
+                "homologationDate": "2020-01-13T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": "2020-06-25T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2020",
+              "biddingId": "006",
+              "date": "2020-01-13T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 06034228000189",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Obras",
+                "object": "Executar as obras de engenharia pertinentes a reforma e ampliação de 01(uma) praça no município de Campo Alegre.",
+                "totalValue": 612550.1,
+                "publishDate": "2020-01-13T03:00:00.000Z",
+                "beginDate": "2020-01-10T03:00:00.000Z",
+                "endDate": "2021-01-10T03:00:00.000Z",
+                "signDate": "2020-01-10T03:00:00.000Z",
+                "executionProcessId": "006 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0527276 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "863139/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 331700,
+            "transferValue": 323700,
+            "counterpartValue": 8000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "841921/2016",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-01-03T02:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "2084 Recursos Hídricos - SIH ( Plano de Ação)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "038692/2016",
+            "organId": "00197/2016",
+            "processId": "59610.000092/2016-68",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Dec. 6.170/2007 e Port. 507/2011",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Campo Alegre era conhecida como Mosquito durante o tempo em que pertenceu a São Miguel dos Campos; quando se emancipou, passou a se chamar CAMPO ALEGRE, está localizado na região central do Estado de Alagoas, limitando-se a norte com os Municípios de Anadia e Boca da mata, a sul com Teotônio Vilela, Junqueiro e São Miguel dos Campos, a leste com São Miguel dos Campos e a Oeste com Junqueiro e Limoeiro de Anadia; a sede do Município tem uma altitude de aproximadamente 176 m; está localizado a aproximadamente 92 km da capital Maceió, localizada na zona da mata alagoana, e conta com uma população estimada de 57.008, (IBGE 2016), com uma área territorial de 312.708 km² (IBGE 2015). O Município de Campo Alegre cresceu de forma significativa nos últimos anos e com isso os serviços necessitam de suporte para atender as novas demandas, desta forma, os investimentos em obras de abastecimento de água são fundamentais para garantir a qualidade de vida dos munícipes, dando aos mesmos a garantia o acesso a água. A ampliação do sistema de abastecimento de água nas localidades Pimenteira e Novo Mundo, irá trazer melhorias,haja vista que ao longo do tempo com o crescimento populacional o abastecimento de água da região ficou obsoleto, além disso nos últimos anos a vazão dos poços também foi reduzida diante dos períodos de estiagem na região; com isso a solução de engenharia foi a ampliação do sistema de abastecimento de água, através de novas: captação, adutoras de água bruta, estação de tratamento de água e reservatórios. Os investimentos no abastecimento de água, resultam em grandes melhorias tendo em vista que com o acesso a água tratada e de qualidade a população reduz a probabilidade de adquirir doenças provenientes de fontes hídricas poluídas, assim como a captação feita de forma eficiente traz a garantia da manutenção da preservação do ambiente, garantindo as futuras gerações este recurso que é tão precioso a vida humana. Sendo a população um dos fatores mais importantes para o processo de desenvolvimento, ela deve ,merecer um destaque primordial no planejamento e gestão dos recursos hídricos, a população é importante não somente como fator de demanda de água, mais também como agente regulador da oferta através de mecanismos de controle e racionalização. O sistema de abastecimento de água é integrado atendendo as duas localidades.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Elaboração de projeto e execução da ampliação do Sistema de Abastecimento de água nas localidades Pimenteira e Novo Mundo no Município de Campo Alegre.",
+            "information": "Declaro para os devidos fins e efeitos legais, junto ao Ministério da Integração Nacional, por intermédio da SIH/MI, que a Prefeitura Municipal de Campo Alegre, inscrita no CNPJ nº 12.264.628/0001-83, dispõe de pessoal com capacidade administrativa e técnica para execução do objeto constante no Plano de Trabalho da Proposta nº 038692/2016, que tem como objeto: Abastecimento de água no Município de Campo Alegre, proposto para formalização do convênio. Esclareço ainda, que este Proponente assume a responsabilidade pela Execução do objeto proposto em todas as fases exigidas legalmente, licitações, acompanhamento da execução e prestação de contas.",
+            "proposalDate": "2016-12-16T02:00:00.000Z",
+            "biddingDate": "2016-12-30T02:00:00.000Z",
+            "homologationDate": "2017-01-03T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020160021",
+              "name": "2084 Recursos Hídricos - SIH ( Plano de Ação)",
+              "value": 5403.13,
+              "details": {
+                "code": "5300020160021",
+                "name": "2084 Recursos Hídricos - SIH ( Plano de Ação)",
+                "cps": null,
+                "items": "VERIFICAR NA ABA ANEXOS OBJETOS QUE SE ENQUADRAM NO PROGRAMA 2051, As ações do Programa Oferta de Água têm por objetivo aumentar a oferta de água em quantidade e qualidade de forma sustentável à população em projetos e obras, com prioridade para regiões com déficit, e contribuir para a indução ao desenvolvimento econômico e social, por meio de intervenções de infraestrutura hídrica a nível nacional.",
+                "couterpartRule": "Municípios acima de cinquenta mil habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE, SUDAN E SUDECO. [Percentual Mínimo Contrapartida: 0.2% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 5403.13,
+                "couterpartValues": {
+                  "total": 15130.82,
+                  "financial": 15130.82,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 5388,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.304.896-** - WILSON RODRIGUES DE MELO JUNIOR"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "003",
+              "type": "Licitação - Concorrência",
+              "date": "2018-05-24T03:00:00.000Z",
+              "processId": "00228",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concorrência",
+                "biddingType": "Menor Preço",
+                "processId": "00228",
+                "biddingId": "003",
+                "object": "Execução da ampliação do sistema de abastecimento de água nas localidades Pimenteira e Novo Mundo no município de Campo Alegre.",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "Contratação de empresa especializada na execução da ampliação do sistema de abastecimento de água nas localidades Pimenteira e Novo Mundo no município de Campo Alegre.",
+                "publishDate": "2018-05-24T03:00:00.000Z",
+                "beginDate": "2018-06-25T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 5435.848,
+                "homologationDate": "2018-09-18T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": ""
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000073/2018",
+              "biddingId": "003",
+              "date": "2018-10-15T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09276767000112",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Obras",
+                "object": "Executar as obras de engenharia pertinentes a ampliação do sistema de abastecimento de água nas localidades Pimenteira e Novo mundo de Campo Alegre.",
+                "totalValue": 5403.13,
+                "publishDate": "2018-10-15T03:00:00.000Z",
+                "beginDate": "2017-01-03T02:00:00.000Z",
+                "endDate": "2018-12-23T02:00:00.000Z",
+                "signDate": "2016-12-30T02:00:00.000Z",
+                "executionProcessId": "003 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "00228 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "841921/2016",
+            "validity": "03/01/2017 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 5403.13,
+            "transferValue": 5388,
+            "counterpartValue": 15130.82,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "841912/2016",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-01-20T02:00:00.000Z",
+        "end": "2021-01-16T03:00:00.000Z",
+        "program": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDAS DE BANCADA E COMISSÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "038594/2016",
+            "organId": "00196/2016",
+            "processId": "59553.000277/2016-02",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Dec 6170/2007 e Port 507/2011",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre está localizado a aproximadamente 92 km da capital Maceió, localizada na zona da mata alagoana, e conta com uma população estimada de 57.008 (IBGE 2016), com uma área territorial de 312.708 km² (IBGE 2015). Sua população é composta por pequenos trabalhadores rurais, que plantam para a sobrevivência familiar, um terço de seus moradores são trabalhadores no plantio e cultivo da cana de açúcar, a principal fonte de renda da região no período curto do ano. O Município de Campo Alegre possui em sua formação o Distrito Luziápolis o qual possui a carência de infraestrutura, uma vez que suas ruas são de terra e que durante o período chuvoso prejudica a locomoção de seus moradores e aumenta a proliferação de doenças devido ao acúmulo de água. O Poder Público Municipal de Campo Alegre tem como objetivo imediato dá aos seus munícipes uma melhor qualidade de vida, principalmente os moradores do Distrito de Luziápolis que há anos esperam pela pavimentação e drenagem de suas vias para uma melhor acessibilidade e escoamento dos produtos oriundos de suas plantações, aumentando assim a renda da população. A pavimentação tem o intuito de melhorar a trafegabilidade, sendo que o Município possui capacidade técnica para gerenciar o projeto alcançando o objetivo maior que é a eficiente aplicação dos recursos para benefício da população. A produção de cana das usinas chega a perfazer um total de 998.967,00 ton/ano, o que garante a geração de emprego e renda na região. O Município de Campo Alegre é caracterizado por ser um município onde a produção de Cana de açúcar é a principal atividade econômica, porém vem ao longo do tempo desenvolvendo aptidão para outras produções agrícolas como: mamão, banana, maracujá, macaxeira entre outros, mas duas culturas merecem destaques que é a soja e o feijão de corda este último desenvolvido através do PROJETO BARRIGA CHEIA em que por meio de parceria entre o município, o Estado e usinas canavieiras da região, os produtores da agricultura familiar do município recebem áreas para o plantio de feijão de corda que tem como objetivo principal produzir o feijão para sua alimentação e o excedente ser comercializado a exemplo do que aconteceu este ano no Distrito de Luziapolis onde 150 famílias alcançaram uma produção de 300 toneladas de feijão de corda. Porém essa diversificação e incentivo para produção requer outros esforços por parte do município como assistência técnica, apoio a comercialização e o mais importante melhoria das vias para escoamento de produção para que a qualidade dos produtos no transporte não se perca. No Distrito Luziápolis o comércio também é ponto importante para economia local, pois faz circular o capital ali mesmo, tendo em vista a fábrica da Cachaça Caraçuipe, reconhecida e premiada nacionalmente, produz e atrai visitantes que transitam na BR-101, onde fica localizada, um grande avanço e que traz reconhecimento para nossa região. Desta forma, grandes serão os benefícios que a pavimentação e drenagem das vias trará para melhorar o fluxo de nossa produção e comércio, garantindo condições de trafegabilidade na região. Ressalto que, devido à extensão do projeto e por muitas ruas ainda não terem nome, não transcrevemos as ruas do Distrito de Luziápolis que serão pavimentadas no objeto da Proposta, porém estamos regularizando a situação do Distrito por meio da Lei Municipal nº 704/2014 e anexamos o croqui de localização do projeto na Aba Projeto Básico para melhor entendimento.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Obras de pavimentação e drenagem em ruas do Distrito Luziápolis no Município de Campo Alegre, para escoamento da produção local.",
+            "information": "Em atendimento ao Disposto na Portaria Interministerial nº. 507, de 24 de novembro de 2011, atesto para os devidos fins, que a Prefeitura Municipal de Campo Alegre/AL, possui quadro de profissionais, GMC – Gerente Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro Civil, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de Capacidade Técnica e Gerencial para Gestão e Execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto da Proposta nº 038594/2016 – Ministério da Integração Nacional; tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2016-12-16T02:00:00.000Z",
+            "biddingDate": "2016-12-30T02:00:00.000Z",
+            "homologationDate": "2017-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020160023",
+              "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDAS DE BANCADA E COMISSÃO",
+              "value": 15032.116,
+              "details": {
+                "code": "5300020160023",
+                "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDAS DE BANCADA E COMISSÃO",
+                "cps": null,
+                "items": "7K66 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado",
+                "couterpartRule": "Municípios acima de cinquenta mil habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE, da SUDAM e da SUDECO [Percentual Mínimo Contrapartida: 0.2% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 15032.116,
+                "couterpartValues": {
+                  "total": 32116.8,
+                  "financial": 32116.8,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 15000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.186.624-** - ADRIANA MELO ALVES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "004/2017",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2017-06-16T03:00:00.000Z",
+              "processId": "00621",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "00621",
+                "biddingId": "004/2017",
+                "object": "Contratação de Empresa Especializada para Elaboração de Projeto Executivos de Drenagem e Pavimentação do Povoado Luziápolis (Lote 01), no município de Campo Alegre-AL.",
+                "legalFoundation": "LEI 8666/93",
+                "justification": "Referente ao Lote 01 da TP 004/2017.",
+                "publishDate": "2017-06-16T03:00:00.000Z",
+                "beginDate": "2017-08-21T03:00:00.000Z",
+                "endDate": "2017-08-21T03:00:00.000Z",
+                "biddingValue": 223850,
+                "homologationDate": "2017-09-19T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": "2019-07-22T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000037/2017",
+              "biddingId": "004/2017",
+              "date": "2017-10-03T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 26710515000179",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço",
+                "object": "Contratação de Empresa Especializada para Elaboração de Projeto Executivos de Drenagem e Pavimentação do Povoado Luziápolis (Lote 01), no município de Campo Alegre-AL.",
+                "totalValue": 223850,
+                "publishDate": "2017-10-03T03:00:00.000Z",
+                "beginDate": "2017-09-22T03:00:00.000Z",
+                "endDate": "2017-12-22T02:00:00.000Z",
+                "signDate": "2017-09-22T03:00:00.000Z",
+                "executionProcessId": "004/2017 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "00621 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "841912/2016",
+            "validity": "20/01/2017 a 16/01/2021",
+            "limitDate": "2021-03-17T03:00:00.000Z",
+            "totalValue": 15032.116,
+            "transferValue": 15000,
+            "counterpartValue": 32116.8,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "832401/2016",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-05-27T03:00:00.000Z",
+        "end": "2020-06-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas em Complementação",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "015093/2016",
+            "organId": "15093/2016",
+            "processId": "0150932016",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre vem junto ao Ministério do Turismo solicitar recursos para a Infraestrutura Turística do Município. O Município de Campo Alegre fica localizado na Zona da mata Alagoana, com uma população de 55.814 habitantes Conforme resolução nº 2 de 26 de agosto de 2014 (fonte: IBGE), a cidade é conhecida como Cidade Carinho, ficando a aproximadamente 92 KM da Capital Alagoana, a cultura local é muito vasta, porém não dispomos de espaços estruturados para comportar as apresentações e eventos culturais. Nosso Município é conhecido por ser uma cidade plana de campos verdes, onde a principal fonte de renda é o cultivo da cana-de-açúcar e outros produtos agrícolas, desta forma vem sendo desenvolvida uma política voltada ao crescimento e exploração do artesanato criado pelos artesões do Município, dando fomento a circulação de renda no nosso comércio. Campo Alegre possui lugares de beleza privilegiada como pequenas cachoeiras, rios e piscinas naturais dentro das matas, a estrutura hoteleira ainda é pequena, mas dispõe de um belo hotel fazenda que acolhe os turistas com lazer, descanso e muita diversão. Campo Alegre é uma cidade que possui como principais atrativos turísticos a Realização de Eventos com bandas de renome que fomenta a vinda de pessoas de diversos lugares a exemplo das festividades Juninas, carnaval, Feira de Arte Cultura onde são divulgandos os trabalhos dos artistas da terra que tiveram oportunidade de mostrar seu trabalho para um público externo, como as atividades culturais que são realizadas para incentivar e desenvolver o turismo local. O Município em sua sede urbana não dispõe de um espaço com infraestrutura para realização dos eventos, mas dispõe de um terreno com localização privilegiada dentro do Município 9°46’55.942”S Latitude e 36°20’41.478”W Longitude, que ficará bem localizado no acesso principal onde já são realizados os eventos, porém não há estrutura nenhuma no local, sendo necessário a locação de equipamentos para atender as necessidades das apresentações e eventos culturais; com estrutura adequada, trará conforto e comodidade aos visitantes. Além disso, o município tem tradicionalmente em seu calendário a Confecção do Tapete de Corpus Crhist o qual tem uma programação anual e atrai visitantes para conhecer e acompanhar a cerimônia religiosa. O objetivo ora pleiteado é de “Construção de uma Praça Multieventos” visando garantir pontos com infraestrutura turística necessária para receber e movimentar a cidade com grandes shows e eventos voltados ao desenvolvimento do turismo e da cultura local. A obra em tela é de interesse turístico, pois será ponto de circulação de visitantes. Com a Construção da Praça Multieventos será solucionado o problema da falta de espaço estruturado para realização dos eventos no município, pois hoje a realização é feita no centro da cidade e neste terreno onde será construído este equipamento o qual não tem nenhuma benfeitoria para atrair ainda mais o público, tendo o público alvo os visitantes de outras cidades da região, pois as atratividades dos eventos e festivais são a nível regional e nacional; desta forma, esperamos com a realização dessa obra dar maior conforto aos que visitam nossa cidade, com infraestrutura de qualidade; esta implantação trará um atrativo maior para os turistas, o qual está previsto no planejamento governamental. A obra em tela irá dispor de pavimentação com tijolo intertravado, quiosques, paisagismo e iluminação. O município necessita de apoio para implantar estes espaços que trarão maior visibilidade aos eventos realizados.Já contamos com obra em andamento de um Pavilhão de Cursos e comercialização de doces da região o qual estará em funcionamento nos próximos meses, e trará ao visitante mais um ponto de visita as margens do acesso da cidade.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de 01 (um) Praça Multieventos na Área Urbana do Município de Campo Alegre.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº 507, de 24 de novembro de 2011, atesta para os devidos fins que a Prefeitura Municipal de Campo Alegre/AL, inscrita no CNPJ Nº 12.264.628/0001-83. Possui quadro de profissionais, GMC – Gerente Municipal de Convênios, CPL – Comissão Permanente de Licitação, Engenheiro, Arquiteto, Técnico Social e contrato com escritório contábil para dar suporte gerencial, que atende aos requisitos necessários de Capacidade Técnica e Gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução d objeto desta proposta, tais como: licitações, execução e fiscalização de obras. Objeto da Proposta nº 015093/2016, apresentada no Sistema de Convênios – SICONV.",
+            "proposalDate": "2016-03-14T03:00:00.000Z",
+            "biddingDate": "2016-05-27T03:00:00.000Z",
+            "homologationDate": "2016-06-02T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020160008",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+              "value": 636123.39,
+              "details": {
+                "code": "5400020160008",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "O Programa de Infraestrutura Turística visa o desenvolvimento do turismo nos municípios brasileiros, principalmente por meio de adequação da infraestrutura, de forma que permita a expansão das atividades turísticas e a melhoria da qualidade do produto para o turista, bem como a consecução dos objetivos previstos no Plano Nacional de Turismo., I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "2) Municípios acima de 50 mil habitantes localizados nas áreas da PNDR,SUDENE, SUDAM E SUDECO: Mínimo 0,2% e máximo 8%. [Percentual Mínimo Contrapartida: 0.2% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 636123.39,
+                "couterpartValues": {
+                  "total": 51123.39,
+                  "financial": 51123.39,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 585000,
+                  "amendment": "R$ 585.000,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0032018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-05-08T03:00:00.000Z",
+              "processId": "002272018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "002272018",
+                "biddingId": "0032018",
+                "object": "Construção de uma praça multieventos na área urbana do município de Campo Alegre",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "Contratação de uma empresa para executar o objeto do convênio.",
+                "publishDate": "2018-05-08T03:00:00.000Z",
+                "beginDate": "2018-05-23T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 770239.78,
+                "homologationDate": "2018-06-07T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000057/2018",
+              "biddingId": "0032018",
+              "date": "2018-06-18T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 28987133000112",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço de Engenharia",
+                "object": "Executar as obras de engenharia pertinentes a Construção de uma praça multieventos na área urbana no Município de Campo Alegre",
+                "totalValue": 770239.78,
+                "publishDate": "2018-06-18T03:00:00.000Z",
+                "beginDate": "2018-06-07T03:00:00.000Z",
+                "endDate": "2019-06-07T03:00:00.000Z",
+                "signDate": "2018-06-07T03:00:00.000Z",
+                "executionProcessId": "0032018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "002272018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas em Complementação",
+            "number": "832401/2016",
+            "validity": "27/05/2016 a 30/06/2020",
+            "limitDate": "2020-02-19T03:00:00.000Z",
+            "totalValue": 25,
+            "transferValue": 636123.39,
+            "counterpartValue": 585000,
+            "yieldValue": 51123.39
+          }
+        }
+      },
+      {
+        "agreementId": "807417/2014",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINIST. MULHER, FAMILIA E DIREITOS HUMANOS",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-12-09T02:00:00.000Z",
+        "end": "2018-03-31T03:00:00.000Z",
+        "program": "2062 – Promoção dos Direitos de Crianças e Adolescentes.",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "042161/2014",
+            "organId": "00025/2014",
+            "processId": "00004.001970/2014-04",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Portaria Interministerial nº 507/2011",
+            "organ": "81000 - MINIST. MULHER, FAMILIA E DIREITOS HUMANOS",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Campo Alegre localiza-se aproximadamente a 92 km da Capital Alagoana, ocupando uma área de aproximadamente 295km². Limita-se ao Norte com Anadia e Boca da Mata, ao Sul com Junqueiro e Teotônio Vilela, ao Leste com São Miguel dos Campos e Jequiá da Praia, ao Oeste com Limoeiro de Anadia. Foi elevado à categoria de Município autônomo através da lei nº 2241 de 08 de junho de 1960, desligando-se de São Miguel dos Campos. Atualmente possui uma população de 50.816 habitantes (IBGE 2010). E em conformidade com o artigo 277 da Constituição Federal ensina que: “É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, o direito à vida, à saúde à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e á convivência familiar e comunitária, além de colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e pressão”. E em cumprimento ao que diz a Constituição Federal e a Lei Federal nº 8.069 de 13 de julho de 1990 o Município de Campo Alegre cria seu Conselho Tutelar no Distrito de Luziápolis, através da Lei municipal de nº 626/2012 com o seguinte registro: Campo Alegre II Luziápolis. A criação do Conselho Tutelar foi uma das inovações que o Estatuto da Criança e do Adolescente trouxe, o órgão muito tem feito e contribuído de maneira eficaz para a implementação dos direitos constitucionalmente garantidos, no Distrito de Luziápolis não é diferente, os Conselheiros em sua árdua tarefa em garantir os direitos das crianças e adolescentes tem esbarrado em muitas problemáticas, a começar pela distância do distrito a sede da cidade, o alto índice de vulnerabilidade Social da comunidade, provocando um acentuado quadro de desestrutura familiar e alto índice de violência; apesar do grande esforço do gestor a sede não dispõem de ambientes adequados para atender crianças e adolescentes e famílias com o intuito de zelar pelo cumprimento dos seus direitos. As atividades desenvolvidas pelos Conselheiros Tutelares do Distrito de Luziápolis no ano de 2013 até a presente data, foram expedido 115 notificações, 108 encaminhamentos a Defensoria Pública, 13 encaminhamentos ao Ministério Público, 13 encaminhamento ao Juizado Especializado, 14 encaminhamento aos órgãos de Segurança Pública, 20 encaminhamentos ao órgão de Saúde, 30 encaminhamentos a atendimento psicológico, 01 encaminhamento ao setor de previdência social, 20 encaminhamento a Educação, 01 encaminhamento a superintendência de políticas sobre drogas e 42 Medidas de proteção aplicáveis aos pais ou responsáveis. E é de acordo com o artigo 136 do Estatuto, que estabeleceu no rol dos seus incisos o caráter de escutar, orientar, aconselhar e dar encaminhamento, os conselheiros e seus assessores, quando procurados irão recepcionar as denúncias e reclamações aplicando no caso em concreto o segmento correto da demanda proposta, pois neste momento serão de suma importância o estudo, o preparo e o conhecimento nas atitudes que o Conselho Tutelar irá tomar no determinado caso, que o município de Campo Alegre em especial o distrito de Luziápolis vem através deste projeto pleitear a construção de uma sede para a Instituição, tendo em vista que hoje sua sede encontra-se inadequada para os atendimentos, torna-se um sonho para toda comunidade. Portanto acredita-se por atingirem diretamente não só a comunidade menos favorecida, os direitos estabelecidos no Estatuto da Criança e do Adolescente e consonância com as legislações municipais os conselhos somam e visam dar o suporte necessário para aqueles que necessitam de fato dos seus trabalhos e cuidados.Objeto Geral:Construção de uma sede para o Conselho Tutelar do município de Campo Alegre, no Distrito de Luziápolis com o objetivo de realizar um trabalho educativo de atendimento, ajuda e aconselhamento aos pais ou responsável, a fim de superarem as dificuldades materiais, morais e psicológicas em que eles se encontram.Objetivos específicos:Propiciar um ambiente saudável para as crianças e adolescentes atendidas pelo Conselho;Melhoria das condições de trabalho e atendimento dos Conselheiros Tutelares; Garantir um padrão de qualidade nos espaços oferecidos a comunidade para o atendimento;Fortalecer e ampliar o trabalho em rede, em parceria com as diversas instituições do município;Ofertar um espaço multidisciplinar, ofertando atividades diversas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de 01 (uma) Sede para o Conselho Tutelar Referencial.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº 507, de 24 de novembro de 2011, atesto para os devidos fins que a Prefeitura Municipal de Campo Alegre/AL, inscrita no CNPJ nº 12.264.628/0001-83. Possui quadro de profissionais, GMC – Gerente Municipal de Convênios, CPL – Comissão Permanente de Licitação, Engenheiro Civil, Arquiteto, Técnico Social e contrato com Escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de Capacidade Técnica e Gerencial na celebração e Execução do Convênio para Construção do Conselho Tutelar Referencial - Meu Lugar na Cidade, tendo experiência no desenvolvimento das atividades que serão requeridas para plena execução do objeto pleiteado, tais como: Elaboração e Análise de Projetos, Licitações, Execução e Fiscalização de obras e Prestação de Contas.",
+            "proposalDate": "2014-06-13T03:00:00.000Z",
+            "biddingDate": "2014-12-09T02:00:00.000Z",
+            "homologationDate": "2014-12-24T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "8100020140041",
+              "name": "2062 – Promoção dos Direitos de Crianças e Adolescentes.",
+              "value": 582157.18,
+              "details": {
+                "code": "8100020140041",
+                "name": "2062 – Promoção dos Direitos de Crianças e Adolescentes.",
+                "cps": null,
+                "items": "Apoio à Construção, Reforma, Equipagem e Ampliação de Unidades de Atendimento a Adolescentes em Conflito com a Lei.",
+                "couterpartRule": "0,2% (dois décimos por cento) e 8% (oito por cento) para Municípios acima de cinquenta mil habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR, SUDENE, SUDAM e SUDECO; e [Percentual Mínimo Contrapartida: 0.2% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 582157.18,
+                "couterpartValues": {
+                  "total": 19369.2,
+                  "financial": 19369.2,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 562787.98,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "81000 - MINIST. MULHER, FAMILIA E DIREITOS HUMANOS",
+            "respGrantor": "***.045.358-** - BERENICE MARIA GIANNELLA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002-2015",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-01-12T02:00:00.000Z",
+              "processId": "00215",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "00215",
+                "biddingId": "002-2015",
+                "object": "Construção de Sede para o Conselho Tutelar Referencial no Distrito de Luziápolis.",
+                "legalFoundation": "8.666/1993",
+                "justification": "Necessidade de Construção de Sede do Conselho Tutelar Referencial no Distrito de Luziápolis.",
+                "publishDate": "2015-01-12T02:00:00.000Z",
+                "beginDate": "2015-01-28T02:00:00.000Z",
+                "endDate": "2015-02-20T02:00:00.000Z",
+                "biddingValue": 564434.04,
+                "homologationDate": "2015-02-20T02:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000008/2015",
+              "biddingId": "002-2015",
+              "date": "2015-03-27T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 17872922000191",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço de Engenharia",
+                "object": "Construção de 01 (uma) Sede Conselho Tutelar Referencial no Distrito de Luziápolis",
+                "totalValue": 564434.04,
+                "publishDate": "2015-03-27T03:00:00.000Z",
+                "beginDate": "2015-02-20T02:00:00.000Z",
+                "endDate": "2015-12-09T02:00:00.000Z",
+                "signDate": "2015-02-20T02:00:00.000Z",
+                "executionProcessId": "002-2015 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "00215 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "81000 - MINIST. MULHER, FAMILIA E DIREITOS HUMANOS",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Concluída",
+            "number": "807417/2014",
+            "validity": "09/12/2014 a 31/03/2018",
+            "limitDate": "2018-05-30T03:00:00.000Z",
+            "totalValue": 582157.18,
+            "transferValue": 562787.98,
+            "counterpartValue": 19369.2,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "807362/2014",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINIST. MULHER, FAMILIA E DIREITOS HUMANOS",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-07-03T03:00:00.000Z",
+        "end": "2017-04-03T03:00:00.000Z",
+        "program": "2016 - 210A - PROMOCAO DE POLITICAS DE IGUALDADE",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "017278/2014",
+            "organId": "00058/2014",
+            "processId": "00036.000640/2014-16",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Portaria n.º 507/2011",
+            "organ": "81000 - MINIST. MULHER, FAMILIA E DIREITOS HUMANOS",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "As políticas públicas ganham concretude por intermédio dos servidores públicos que, uma vez qualificados e motivados, geram serviços eficazes e benefícios inestimáveis à população. No campo dos Direitos das mulheres, e, em particular, do enfrentamento da violência de gênero o investimento nos servidores públicos constitui peça fundamental na engrenagem das políticas governamentais. O fato é que a violência de gênero, em suas múltiplas formas tem raízes bem plantadas numa cultura que naturaliza a desigualdade, sem que o sistema educacional colabore para a formação de profissionais e servidores públicos sensíveis e capazes de intervir sobre a questão. Tendo a escola como um espaço de contribuição relevante na construção de padrões sociais e de relacionamentos democráticos, temos, portanto, que formular políticas e empreender ações concretas na formação de profissionais da educação a cerca das temáticas: Políticas públicas para igualdade e a diversidade das mulheres, Relações de gênero, igualdade, discriminações e Políticas públicas para igualdade de gênero etnia e raça. Daí a importância de se promover ações sistemáticas que ofereçam aos profissionais da Educação bases conceituais e pedagógicas para que através dos conhecimentos adquiridos possam atuar de forma consciente com as diferenças de gêneros, tornando-se assim imprescindível promover a formação e a capitação dos profissionais da Educação do nosso município. O programa de capacitação dos servidores da Educação possibilita uma qualificação especializada e humanizada de 300 servidores, incluindo professores, coordenadores e gestores, para uma atuação não discriminatória e não sexista no espaço escolar. A Rede Municipal de Ensino de Campo Alegre contempla 20 Unidades Escolares, sendo 05 escolas na zona urbana e 15 escolas na zona rural, 20 diretores, 16 vice-diretores, 27 coordenadores pedagógicos, 422 professores concursados atendendo a 8.634 alunos distribuídos na Educação Infantil, Ensino Fundamental I e II, Educação de Jovens e Adultos – EJA e Educação Especial da Educação Básica.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Capacitação de Servidores da Educação do Município de Campo Alegre.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº 507, de 24 de novembro de 2011, atesto para os devidos fins que a Prefeitura Municipal de Campo Alegre/AL. Possui quadro de profissionais, GMC – Gerente Municipal de Convênios, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social, Técnicos da àrea Educacional e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução, fiscalização de obras e Prestação de Contas.",
+            "proposalDate": "2014-02-16T03:00:00.000Z",
+            "biddingDate": "2014-07-03T03:00:00.000Z",
+            "homologationDate": "2014-07-17T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "8100020140045",
+              "name": "2016 - 210A - PROMOCAO DE POLITICAS DE IGUALDADE",
+              "value": 100931.1,
+              "details": {
+                "code": "8100020140045",
+                "name": "2016 - 210A - PROMOCAO DE POLITICAS DE IGUALDADE",
+                "cps": null,
+                "items": "objeto do presente Edital a seleção de propostas, para o exercício de 2014, que auxiliem o desempenho da missão institucional da Secretaria de Políticas para as Mulheres da Presidência da República - SPM/PR, em conformidade com as diretrizes contidas no Plano Nacional de Políticas para as Mulheres, no âmbito das ações previstas no Plano Plurianual – PPA 2012-2015, e o estabelecimento dos procedimentos, critérios e prioridades para a apresentação das propostas.",
+                "couterpartRule": "Entidades Privadas localizada nos Municipios acima de 50.000 (cinquenta) mil habitantes nas areas do âmbito da PNDR, nas áreas da SUDENE e da SUDAM e SUDECO. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 100931.1,
+                "couterpartValues": {
+                  "total": 4037.24,
+                  "financial": 4037.24,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 96893.86,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "81000 - MINIST. MULHER, FAMILIA E DIREITOS HUMANOS",
+            "respGrantor": "***.278.601-** - ANDREZA WINCKLER COLATTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012015",
+              "type": "Inexigibilidade",
+              "date": "2015-01-12T02:00:00.000Z",
+              "processId": "012015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "012015",
+                "biddingId": null,
+                "object": "Contratação de Profissionais Qualificados na Prestação de Serviços de Capacitação de Professores da Rede pública Municipal.",
+                "legalFoundation": "Constituição Federal de 88 e Lei 8.666/1993",
+                "justification": "A Constituição Federal fixou o concurso público como regra geral de ingresso de pessoal dos entes públicos; entretanto , nos moldes do estatuído no art. 37, II e IX da CF, a regra geral foi excepcionada nas hipóteses dos ocupantes dos cargos em comissão de livre nomeação e exoneração (inciso II) e quando se tratar de contratação, por prazo certo, de acordo com a necessidade de excepcional interesse público (inciso IX). A contratação temporária tem lugar em situações em que o concurso público não é indicado, porque a atividade é temporária, com prazo certo, não havendo justa causa para prover o cargo efetivo.",
+                "publishDate": "2015-01-12T02:00:00.000Z",
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 60000,
+                "homologationDate": "2015-07-01T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000027/2015",
+              "biddingId": "0012015",
+              "date": "2016-01-29T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 02900610591",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço",
+                "object": "Contratação de Profissionais Qualificados na Prestação de Serviços de Capacitação de Professores da Rede pública Municipal.",
+                "totalValue": 20000,
+                "publishDate": "2016-01-29T02:00:00.000Z",
+                "beginDate": "2015-07-07T03:00:00.000Z",
+                "endDate": "2016-03-07T03:00:00.000Z",
+                "signDate": "2015-07-07T03:00:00.000Z",
+                "executionProcessId": "0012015 ",
+                "biddingModality": "Inexigibilidade ",
+                "processId": "012015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "81000 - MINIST. MULHER, FAMILIA E DIREITOS HUMANOS",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Concluída",
+            "number": "807362/2014",
+            "validity": "03/07/2014 a 03/04/2017",
+            "limitDate": "2017-09-11T03:00:00.000Z",
+            "totalValue": 100931.1,
+            "transferValue": 96893.86,
+            "counterpartValue": 4037.24,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "801365/2014",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-06-26T03:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "021009/2014",
+            "organId": "21009/2014",
+            "processId": "0210092014",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre, com uma população de 50.816 habitantes, de acordo com o censo demográfico do Instituto Brasileiro de Geografia e Estatística (IBGE) 2010. A cidade de Campo Alegre, sede do município fica localizada as margens da rodovia AL-220 que é uma importante ligação entre a segunda maior cidade do estado e a capital. Nos últimos anos houve um crescimento populacional significativo. O Poder Público Municipal, preocupado com o bem-estar de sua população constatou a necessidade da melhoria da qualidade de vida vivenciada no município, dessa maneira fica visível à necessidade de investimento Pavimentação e Drenagem de ruas do Município. A execução da obra solucionará problemas no âmbito de infraestrutura local tais como trafegabilidade e acessibilidade, causando a população problemas de varias natureza, que vai do excesso de poeira durante o período de estiagem e grande acumulo de águas (possas) durante o inverno tornando a acessibilidade de seus moradores difíceis a suas necessidades básicas (saúde, educação e lazer), vale ressaltar que o objeto proposto é de suma importância para o município, tendo em vista que os resultados esperados do objeto compreende dotar o município de uma boa infraestrutura disponibilizando para os habitantes e visitantes mais conforto e segurança.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação e Drenagem de Ruas do Município.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Campo Alegre/AL, possui quadro de profissionais, GMC – Gerente Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2014-02-25T03:00:00.000Z",
+            "biddingDate": "2014-06-26T03:00:00.000Z",
+            "homologationDate": "2014-07-14T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020140001",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 998673.26,
+              "details": {
+                "code": "5600020140001",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Projetos Básicos e Executivos Integrado de Reabilitação Urbana(Vide aba ANEXOS - Arquivo ACESSIBILIDADE E PROGRAMAS URBANOS)., Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "→ 0,2% (dois décimos por cento) e 8% (oito por cento) para Municípios acima de 50.000 habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE, SUDAM e SUDECO; [Percentual Mínimo Contrapartida: 0.2% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 998673.26,
+                "couterpartValues": {
+                  "total": 11073.26,
+                  "financial": 11073.26,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00 - Arthur Lira"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001-2016",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2016-04-14T03:00:00.000Z",
+              "processId": "0012016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0012016",
+                "biddingId": "001-2016",
+                "object": "Contratação de Empresa especializada para realização de obras de engenharia pertinentes a Pavimentação e drenagem de águas pluviais das Ruas: Prefeito Divaci Tenório Lins, Vereador Antonio da Silva e Vereador João Rogério no Município de Campo Alegre/AL.",
+                "legalFoundation": "8.6666/1993",
+                "justification": "A necessidade e interesse público para realização da obra de Pavimentação e drenagem de águas pluviais.",
+                "publishDate": "2016-04-14T03:00:00.000Z",
+                "beginDate": "2016-05-04T03:00:00.000Z",
+                "endDate": "2016-05-09T03:00:00.000Z",
+                "biddingValue": 1040.144,
+                "homologationDate": "2017-05-09T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2017",
+              "biddingId": "001-2016",
+              "date": "2016-06-16T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09276767000112",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Obras",
+                "object": "Contratação de Empresa especializada para realização de Obras de Engenharia pertinentes a Pavimentação e Drenagem de águas pluviais das Ruas: Prefeito Divaci Tenório Lins, Vereador Antonio da Silva e João Rogério no Município de Campo Alegre/AL.",
+                "totalValue": 1040.071,
+                "publishDate": "2016-06-16T03:00:00.000Z",
+                "beginDate": "2016-05-10T03:00:00.000Z",
+                "endDate": "2017-05-10T03:00:00.000Z",
+                "signDate": "2016-05-10T03:00:00.000Z",
+                "executionProcessId": "001-2016 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012016 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "801365/2014",
+            "validity": "26/06/2014 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 998673.26,
+            "transferValue": 987600,
+            "counterpartValue": 11073.26,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "798196/2013",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-27T02:00:00.000Z",
+        "end": "2018-01-30T02:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "063791/2013",
+            "organId": "63791/2013",
+            "processId": "0637912013",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre, com uma população de 50.816 habitantes, de acordo com o censo demográfico do Instituto Brasileiro de Geografia e Estatística (IBGE) 2010. A cidade de Campo Alegre, sede do município fica localizada as margens da rodovia AL-220 que é uma importante ligação entre a segunda maior cidade do estado e a capital. Nos últimos anos houve um crescimento populacional significativo. O Poder Público Municipal, preocupado com o bem-estar de sua população constatou a necessidade da melhoria da qualidade de vida vivenciada no município, dessa maneira fica visível à necessidade de investimento Pavimentação e Drenagem de ruas do Município. A execução da obra solucionará problemas no âmbito de infraestrutura local tais como trafegabilidade e acessibilidade, causando a população problemas de varias natureza, que vai do excesso de poeira durante o período de estiagem e grande acumulo de águas (possas) durante o inverno tornando a acessibilidade de seus moradores difíceis a suas necessidades básicas (saúde, educação e lazer), além de doenças causadas por fenômenos naturais, vale ressaltar que o objeto proposto é de suma importância para o município, tendo em vista que os resultados esperados do objeto compreende dotar o município de uma boa infraestrutura disponibilizando para os habitantes e visitantes mais conforto e segurança.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação e Drenagem de Diversas Ruas da Zona Urbana do Município.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Campo Alegre/AL, possui quadro de profissionais, GMC – Gerente Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2013-10-01T03:00:00.000Z",
+            "biddingDate": "2013-12-27T02:00:00.000Z",
+            "homologationDate": "2014-01-08T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020130013",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 410625,
+              "details": {
+                "code": "5600020130013",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação e requalificação de infraestrutura de sistemas de transporte público coletivo urbano de passageiros ( Vide aba ANEXOS - Arquivo MOBILIDADE URBANA)",
+                "couterpartRule": "Contrato de Repasse com valor igual ou superior a R$ 750.000,00.Municípios acima de 50 mil habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR,SUDENE, SUDAM e SUDECO. [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 410625,
+                "couterpartValues": {
+                  "total": 16425,
+                  "financial": 16425,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 394200,
+                  "amendment": "R$ 394.200,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "005/2014",
+              "type": "Licitação -",
+              "date": "2014-05-06T03:00:00.000Z",
+              "processId": "0052014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "0052014",
+                "biddingId": "005/2014",
+                "object": "Terraplanagem, Drenagem de Águas Pluviais e Pavimentação das Ruas: Ana Margarida de Barros, João Vieira da Silva, Márcio Izaias e Rua Teotônio Vilela Filho no Município de Campo Alegre.",
+                "legalFoundation": "8.666/93",
+                "justification": "Terraplanagem, Drenagem de Águas Pluviais e Pavimentação das Ruas: Ana Margarida de Barros, João Vieira da Silva, Márcio Izaias e Rua Teotônio Vilela Filho no Município de Campo Alegre.",
+                "publishDate": "2014-05-06T03:00:00.000Z",
+                "beginDate": "2014-05-21T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 409094.13,
+                "homologationDate": "2014-06-25T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000060/2014",
+              "biddingId": "005/2014",
+              "date": "2014-07-02T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12316402000189",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço",
+                "object": "Terraplanagem, Drenagem de Águas Pluviais e Pavimentação das Ruas: Ana Margarida de Barros, João Vieira da Silva, Márcio Izaias e Rua Teotônio Vilela Filho no Município de Campo Alegre.",
+                "totalValue": 409094.13,
+                "publishDate": "2014-07-02T03:00:00.000Z",
+                "beginDate": "2014-06-26T03:00:00.000Z",
+                "endDate": "2015-07-26T03:00:00.000Z",
+                "signDate": "2014-06-26T03:00:00.000Z",
+                "executionProcessId": "005/2014 ",
+                "biddingModality": "Licitação - ",
+                "processId": "0052014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "798196/2013",
+            "validity": "27/12/2013 a 30/01/2018",
+            "limitDate": "2018-09-09T03:00:00.000Z",
+            "totalValue": 410625,
+            "transferValue": 394200,
+            "counterpartValue": 16425,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "795914/2013",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-27T02:00:00.000Z",
+        "end": "2017-08-31T03:00:00.000Z",
+        "program": "OGU 2013",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "066802/2013",
+            "organId": "66802/2013",
+            "processId": "0668022013",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre possui uma área de 295,101 km², esta localizado na mesorregião leste do estado de Alagoas microrregião São Miguel dos Campos, limita-se ao Norte com Junqueiro, ao sul com Coruripe, ao Leste com S. M. dos Campos e Coruripe e a Oeste com Junqueiro e S. Sebastião. Situado a 181 metros de altitude, de Campo Alegre as coordenadas geográficas do município Latitude: 9° 46' 46'' Sul Longitude: 36° 21' 1'' Oeste, tendo como principal via de acesso para o município a AL 220. O município possui uma população total de 50.816 habitantes (IBGE – CENSO 2010), sendo, 22.161 habitantes da zona urbana e 28.655 habitantes da zona rural. O próprio órgão em recente avaliação demográfica tem atualmente 55.161 habitantes. Possui 852 produtores, 03 (três) associações de produtores rurais e têm como principais culturas a cana-de-açúcar, feijão, mandioca, milho, batata doce, coco. Seu rebanho é composto de 3.146 bovinos, 34.000 aves, 690 suínos, 345 ovinos, 90 caprinos além da produção de pescado, para tanto possui uma área de pastagem de 1.496 hectares. Possui 07 (sete) unidades agroindustriais, sendo, 01 (uma) usina de açúcar e álcool, 01 (uma) destilaria de cachaça e 05 (cinco) unidades de beneficiamento de mandioca. Estimasse um total de 232 hectares de terras degradas. As principais técnicas adotadas para conservação do solo são: Curvas de nível, adubação verde (realizada, mas comumente com leguminosas como: feijão vigna e a crotalaria) e o plantio direto. Em referencia ao uso de agrotóxicos tanto o município quanto os grandes produtores, possuem técnicos, que acompanham de perto a utilização dos produtos e atentam para o uso do EPI, da utilização de produtos tóxicos e pouco tóxicos, na realização das dosagens corretas, no descarte dos recipientes em locais adequados depois da tríplice lavagem, da higienização pessoal logo após a aplicação, além da realização de cursos e treinamentos para produtores rurais e trabalhadores rurais, em parceria com o SENAR. Atualmente o município não possui patrulha mecanizada, o que dificulta o incentivo principalmente a agricultura familiar, apesar de ter um grande potencial produtivo as dificuldades encontradas pelos produtores são imensuráveis. As Máquinas vão fortalecer o setor agropecuário do município em diversos seguimentos beneficiando diretamente 3.408 habitantes, com o aumento da renda familiar. E estima-se que indiretamente 80% da população, que será beneficiada com maior oferta de produtos, com preços mais acessíveis, com maior qualidade e com o aumento da segurança alimentar. Esses equipamentos tem um papel fundamental para manter, recuperar e construir estradas vicinais e rurais com qualidade, facilitando o escoamento da produção, melhorando a circulação dos produtos, os serviços de assistência técnica e extensão rural na região e o acesso aos serviços saúde, educação, assistência social e lazer, melhorando a qualidade de vida do homem do campo. Além disso, as máquinas irão viabilizar a construção e revitalização de barragens e açudes no município, onde no período de estiagem serão utilizadas na irrigação das culturas e no abastecimento de água das Zonas Agrícolas. As máquinas são indispensáveis e estratégicas para o momento vivido pelo município, a diversificação de culturas vem ganhando força, a produção de grãos, raízes e tubérculos, pecuária de leite e a piscicultura estão sendo opções para pequenos e médios produtores do município. Para tanto a Prefeitura de Campo Alegre, têm hoje uma estrutura física e de recursos humanos totalmente capacitados para concepção desses investimentos. Garantindo assim a sua total capacidade operacional e a correta utilização dos equipamentos pré-definidos no pleito em questão. Os objetos dos pleitos serão utilizados a partir das demandas identificadas pelos técnicos municipais, produtores e pela população rural, seja, na recuperação ou construção de estradas vicinais ou de açudes, barreiros, viveiros, etc., além de outras obras que garantam a qualidade de vida do meio rural.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Patrulha Mecanizada.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº. 507, de 24 de novembro de 2011, atesto para os devidos fins que a Prefeitura Municipal de Campo Alegre/AL, possui quadro de profissionais, Engenheiro Agrônomo, Médico Veterinário, Técnicos em Agropecuária, Gerente Municipal de Convênios, CTL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e Contrato com Escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para execução do objeto desta proposta, tais como: Licitações, execução e fiscalização.",
+            "proposalDate": "2013-10-11T03:00:00.000Z",
+            "biddingDate": "2013-12-27T02:00:00.000Z",
+            "homologationDate": "2014-01-08T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020130035",
+              "name": "OGU 2013",
+              "value": 1481,
+              "details": {
+                "code": "2200020130035",
+                "name": "OGU 2013",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO E FOMENTO DO SETOR AGROPECUARIO - ACAO: 20ZV",
+                "couterpartRule": "Estados localizados nas áreas da SUDENE, SUDAM E SUDECO [Percentual Mínimo Contrapartida: 5.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1481,
+                "couterpartValues": {
+                  "total": 125262.5,
+                  "financial": 125262.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1355.737,
+                  "amendment": "R$ 1.355.737,50"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001-2016",
+              "type": "Licitação - Pregão",
+              "date": "2016-05-03T03:00:00.000Z",
+              "processId": "0012016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Eletrônico",
+                "processId": "0012016",
+                "biddingId": "001-2016",
+                "object": "Aquisição de Grade Aradora",
+                "legalFoundation": "10.520/2002",
+                "justification": "O Município de Campo Alegre, após concluir a aquisição dos equipamentos contantes do Contrato de Repasse nº 1011.672-37/2013, solicitou autorização ao órgão concedente para utilização do saldo de aplicação financeira para ampliação de meta, o qual foi aprovado pelos órgãos competentes.",
+                "publishDate": "2016-05-03T03:00:00.000Z",
+                "beginDate": "2016-05-17T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 21290,
+                "homologationDate": "2016-08-31T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "003-2014",
+              "type": "Licitação - Pregão",
+              "date": "2014-12-15T02:00:00.000Z",
+              "processId": "0032014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "005/2014",
+              "type": "Licitação -",
+              "date": "2014-02-24T03:00:00.000Z",
+              "processId": "0052014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2016",
+              "biddingId": "001-2016",
+              "date": "2016-10-17T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05043720000158",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Material",
+                "object": "GRADE ARADORA",
+                "totalValue": 21290,
+                "publishDate": "2016-10-17T02:00:00.000Z",
+                "beginDate": "2016-08-31T03:00:00.000Z",
+                "endDate": "2017-08-31T03:00:00.000Z",
+                "signDate": "2016-08-31T03:00:00.000Z",
+                "executionProcessId": "001-2016 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0012016 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "795914/2013",
+            "validity": "27/12/2013 a 31/08/2017",
+            "limitDate": "2017-11-27T02:00:00.000Z",
+            "totalValue": 1507.411,
+            "transferValue": 1355.737,
+            "counterpartValue": 125262.5,
+            "yieldValue": 26411.82
+          }
+        }
+      },
+      {
+        "agreementId": "791928/2013",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-10T02:00:00.000Z",
+        "end": "2018-12-10T02:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Liminar Judicial",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "058155/2013",
+            "organId": "58155/2013",
+            "processId": "0581552013",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre vem junto ao Ministério do Turismo solicitar recursos para a Infraestrutura Turística do município. O Município de Campo Alegre fica localizado na Zona da Mata Alagoana, com uma população de 50.816 habitantes (fonte: IBGE 2010), a cidade é conhecida como “Cidade Carinho”, ficando a aproximadamente 92 KM da Capital Alagoana, a cultura local é muito vasta, porém não dispõe de espaços estruturados para apresentação das mesmas. Nosso Município é conhecido por ser uma cidade plana de campos verdes, onde a principal fonte de renda é o cultivo da cana-de-açúcar e outros produtos agrícolas, desta forma vem sendo desenvolvido uma política voltada ao crescimento e exploração do artesanato criado pelos artesões do município, dando fomento a circulação de renda no nosso comercio. Campo Alegre possui lugares de beleza privilegiada como pequenas cachoeiras, rios, piscinas naturais dentro das matas, a estrutura hoteleira ainda é pequena, mais dispõe de um belo hotel fazenda que acolhe os turistas com lazer, descanso e muita diversão. Campo Alegre é uma cidade que possui como principais atrativos turísticos a realização de festivais nos últimos anos, que fomenta a vinda de pessoas de diversos lugares a exemplo, da realização do Festival da Cana, I Luziápolis Fest, Festival da Alegria, que trouxe aos palcos grandes atrações a nível nacional e regional, bem como divulgou os trabalhos dos artistas da terra que tiveram a oportunidade de mostrar seu trabalho para um grande público; os quais foram realizados neste terreno que hora estamos pleiteando recurso para Construção do Espaço Multieventos, dando maior conforto e comodidade aos visitantes.O objeto ora pleiteado “Construção de 01 (um) Espaço Multieventos” visa garantir pontos com infraestrutura turística necessária para receber e movimentar a cidade com grandes shows e eventos voltados ao desenvolvimento do turismo no local. A referida Obra é de Interesse Turístico, pois será construída em uma área próxima a AL 220, rodovia de grande circulação; na entrada principal da cidade.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de 01 (um) Espaço Multieventos.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Campo Alegre/AL, possui quadro de profissionais, GMC – Gerente Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc",
+            "proposalDate": "2013-09-11T03:00:00.000Z",
+            "biddingDate": "2013-12-10T02:00:00.000Z",
+            "homologationDate": "2013-12-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020130002",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 536854.18,
+              "details": {
+                "code": "5400020130002",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Municípios acima de 50 mil habitantes localizados nas áreas prioritárias definidas no âmbito da Política Nacional de Desenvolvimento Regional - PNDR,SUDENE, SUDAM e SUDECO:4% e 8% [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 536854.18,
+                "couterpartValues": {
+                  "total": 244354.18,
+                  "financial": 244354.18,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "007/2014",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-12-15T02:00:00.000Z",
+              "processId": "0072014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0072014",
+                "biddingId": "007/2014",
+                "object": "Construção de 01 (um) Espaço Multieventos.",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "Construir um Espaço Multieventos para atender a população do Distrito de Luziápolis no Município de Campo Alegre - Alagoas.",
+                "publishDate": "2014-12-15T02:00:00.000Z",
+                "beginDate": "2015-01-06T02:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 536854.18,
+                "homologationDate": "2015-03-13T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000010/2015",
+              "biddingId": "007/2014",
+              "date": "2015-03-27T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09276767000112",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço de Engenharia",
+                "object": "Construção de Espaço Multieventos no Distrito de Luziápolis Município de Campo Alegre",
+                "totalValue": 534486.49,
+                "publishDate": "2015-03-27T03:00:00.000Z",
+                "beginDate": "2015-03-16T03:00:00.000Z",
+                "endDate": "2015-12-10T02:00:00.000Z",
+                "signDate": "2015-03-16T03:00:00.000Z",
+                "executionProcessId": "007/2014 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0072014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "791928/2013",
+            "validity": "10/12/2013 a 10/12/2018",
+            "limitDate": "2019-02-17T03:00:00.000Z",
+            "totalValue": 536854.18,
+            "transferValue": 292500,
+            "counterpartValue": 244354.18,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "783296/2013",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-10-30T02:00:00.000Z",
+        "end": "2018-07-30T03:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Liminar Judicial",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "039021/2013",
+            "organId": "39021/2013",
+            "processId": "039021/2013",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre, com uma população de 50.816 habitantes, de acordo com o censo demográfico do Instituto Brasileiro de Geografia e Estatística (IBGE) 2010, está situado na zona da mata alagoana. A cidade de Campo Alegre, sede do município fica localizada as margens da rodovia AL-220 que é uma importante ligação entre a segunda maior cidade do estado e a capital. Nos últimos anos houve um crescimento populacional significativo e por conseqüência disto cresceu também a procura por novas áreas para se construir habitações. O Poder Publico Municipal, preocupado com o bem-estar de sua população constatou que nestas novas áreas de moradia existem vias que não são pavimentadas, causando aos moradores destas, problemas de varias natureza, que vai do excesso de poeira durante o período de estiagem e grande acumulo de águas (possas) durante o inverno tornando a acessibilidade de seus moradores difíceis a suas necessidades básicas (saúde, educação e lazer), além de doenças causadas por fenômenos naturais. Diante do exposto evidencia a necessidade da liberação de recursos para pavimentação de ruas da cidade.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de Diversas Ruas.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Campo Alegre/AL. Possui quadro de profissionais, GMC – Gerente Municipal de Convênios, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc...”",
+            "proposalDate": "2013-07-04T03:00:00.000Z",
+            "biddingDate": "2013-10-30T02:00:00.000Z",
+            "homologationDate": "2013-11-11T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020130013",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 1028.75,
+              "details": {
+                "code": "5600020130013",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação e requalificação de infraestrutura de sistemas de transporte público coletivo urbano de passageiros ( Vide aba ANEXOS - Arquivo MOBILIDADE URBANA), Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "Contrato de Repasse com valor igual ou superior a R$ 750.000,00.Municípios acima de 50 mil habitantes localizados nas áreas prioritárias definidas no âmbito da PNDR,SUDENE, SUDAM e SUDECO. [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1028.75,
+                "couterpartValues": {
+                  "total": 41150,
+                  "financial": 41150,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00 - Arthur Lira"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "004/2014",
+              "type": "Licitação -",
+              "date": "2014-05-06T03:00:00.000Z",
+              "processId": "0042014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "",
+                "biddingType": "",
+                "processId": "0042014",
+                "biddingId": "004/2014",
+                "object": "Terraplanagem, Drenagem  de Águas Pluviais e Pavimentação das Ruas Josefa Zoraide dos Santos e Rua Belo Horizonte no Município de Campo Alegre.",
+                "legalFoundation": "8666/93",
+                "justification": "Serviços de Terraplanagem, Drenagem  de Águas Pluviais e Pavimentação das Ruas Josefa Zoraide dos Santos e Rua Belo Horizonte no Município de Campo Alegre.",
+                "publishDate": "2014-05-06T03:00:00.000Z",
+                "beginDate": "2014-05-21T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 1017.524,
+                "homologationDate": "2014-06-26T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000061/2014",
+              "biddingId": "004/2014",
+              "date": "2014-07-02T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12316402000189",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço",
+                "object": "Terraplanagem, Drenagem de Águas Pluviais e Pavimentação das Ruas Josefa Zoraide dos Santos e Rua Belo Horizonte no Município de Campo Alegre.",
+                "totalValue": 1017.524,
+                "publishDate": "2014-07-02T03:00:00.000Z",
+                "beginDate": "2014-06-27T03:00:00.000Z",
+                "endDate": "2015-06-27T03:00:00.000Z",
+                "signDate": "2014-06-27T03:00:00.000Z",
+                "executionProcessId": "004/2014 ",
+                "biddingModality": "Licitação - ",
+                "processId": "0042014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "783296/2013",
+            "validity": "30/10/2013 a 30/07/2018",
+            "limitDate": "2018-11-14T02:00:00.000Z",
+            "totalValue": 1028.75,
+            "transferValue": 987600,
+            "counterpartValue": 41150,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "744378/2010",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2011-01-17T02:00:00.000Z",
+        "end": "2013-01-15T02:00:00.000Z",
+        "program": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "067494/2010",
+            "organId": "00542/2010",
+            "processId": "59200.000203/2010-72",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Dec 6.170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Campo Alegre está localizado na zona da mata alagoana, com uma população de 45.307 habitantes (fonte: IBGE), é uma cidade de fácil aceso, tendo a AL 220 como sua principal rodovia, e estando a aproximadamente 92 km da capital Maceió. Campo Alegre é uma terra de solos ricos, com abundância de água. No município existe grande quantidade de produtores e pecuaristas, que tem seus produtos destinados ao consumo da população, bem como para outros municípios e para capital. A grande parte destes produtores tem suas terras situadas entre a cidade e o Distrito de Luziápolis. Nesta proposta estamos incluindo para melhor escoamento dos produtos gerados por esses produtores, a pavimentação em asfalto das ruas internas de acesso a estrada que liga a cidade de Campo Alegre ao Distrito de Luziápolis, sendo esta a principal via para escoamento destes produtos, as ruas deste acesso ainda não encontram-se pavimentadas em asfalto. Esta proposta visa melhorar as condições de tráfego para os produtores viabilizando a entrada e saída dos veículos pesados (caminhões) da área urbana do Município e reduzindo a quilometragem e o tempo de percurso das viagens, que partem das diversas propriedades produtivas do Município com o objetivo de melhorar o trânsito e o fluxo de veículos que transportam as safras das diversas culturas existentes no Município, tais como: cana-de-açúcar, feijão, milho e o transporte de bovinos e proporcionar ao médio e pequeno agricultor um melhor escoamento da sua sagra.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "EXECUÇÃO DE 8.740,00m² DE PAVIMENTAÇÃO ASFÁLTICA EM CBUQ DAS RUAS DE ACESSO A ESTRADA DE LIGAÇÃO DA ZONA URBANA DE CAMPO ALEGRE AO DISTRITO LUZIÁPOLIS.",
+            "information": "",
+            "proposalDate": "2010-06-04T03:00:00.000Z",
+            "biddingDate": "2010-12-31T02:00:00.000Z",
+            "homologationDate": "2011-01-17T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100012",
+              "name": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+              "value": 410780,
+              "details": {
+                "code": "5300020100012",
+                "name": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+                "cps": null,
+                "items": "Apoio a Projetos de Desenvolvimento Sustentável Local Integrado",
+                "couterpartRule": "Municípios com até 50.000 habitantes localizados nas Mesorregiões Prioritárias da PNDR [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 410780,
+                "couterpartValues": {
+                  "total": 10780,
+                  "financial": 10780,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 400000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.542.424-** - JOSE MAURICIO TENORIO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.669.809-** - MARCIA REGINA SARTORI DAMO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "744378/2010",
+            "validity": "17/01/2011 a 15/01/2013",
+            "limitDate": "2013-02-14T02:00:00.000Z",
+            "totalValue": 410780,
+            "transferValue": 400000,
+            "counterpartValue": 10780,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "734375/2010",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-27T02:00:00.000Z",
+        "end": "2015-10-27T02:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "031355/2010",
+            "organId": "31355/1355",
+            "processId": "031355",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre, tem uma população de 45.307 habitantes, de acordo com o censo demográfico do Instituto Brasileiro de Geografia e Estatística (IBGE) 2007, seu Índice de Desenvolvimento Humano (IDH) é de 0.6, segundo o Atlas de Desenvolvimento Humano/PNUD (2007), está situado na zona da mata alagoana. A cidade de Campo Alegre, sede do município fica localizada as margens da rodovia AL-220 que é uma importante ligação entre a segunda maior cidade do estado e a capital. No município a grande parte da população estar concentrada na zona urbana, que nos últimos anos houve um crescimento populacional significativo e por conseqüência disto cresceu também a procura por novas áreas para se construir habitações. O Poder Publico Municipal, preocupado com o bem-estar de sua população constatou que nestas novas áreas de moradia existem vias que não são pavimentadas, causando aos moradores destas, problemas de varias natureza, que vai do excesso de poeira durante o período de estiagem e grande acumulo de águas (possas) durante o inverno tornando a acessibilidade de seus moradores difíceis a suas necessidades básicas (saúde, educação e lazer), além de doenças causadas por fenômenos naturais. Diante do exposto a Administração Executiva local focou a pavimentação destas vias beneficiando cerca de 400 (quatrocentos) moradores,que tem como renda mínima 01 (um) salário mínimo, desta forma gerando aos residentes das mesmas, qualidade de vida e acessibilidade.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em paralelepipedo e drenagem de águas superficiais.",
+            "information": "",
+            "proposalDate": "2010-04-01T03:00:00.000Z",
+            "biddingDate": "2010-12-27T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100061",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 214202.33,
+              "details": {
+                "code": "5300020100061",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infraestrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 214202.33,
+                "couterpartValues": {
+                  "total": 17802.33,
+                  "financial": 17802.33,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 196400,
+                  "amendment": "R$ 196.400,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2012",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2012-06-05T03:00:00.000Z",
+              "processId": "032012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "032012",
+                "biddingId": "03/2012",
+                "object": "Pavimentação em paralelepípedo de ruas: Trecho I da Av. Cassiano Matias, Maria Carmélia T. Lima e José Ailton dos Santos.",
+                "legalFoundation": "8666/93",
+                "justification": "Pavimentação em paralelepípedo de ruas: Trecho I da Av. Cassiano Matias, Maria Carmélia T. Lima e José Ailton dos Santos.",
+                "publishDate": "2012-06-05T03:00:00.000Z",
+                "beginDate": "2012-06-20T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 263659.08,
+                "homologationDate": "2012-06-25T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000017/2012",
+              "biddingId": "03/2012",
+              "date": "2012-08-16T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 01393072000109",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço",
+                "object": "Pavimentação em paralelepípedo de ruas: Trecho I da Avenida Cassiano Matias, Maria Carmelita T. Lima e José Ailton dos Santos.",
+                "totalValue": 263659.08,
+                "publishDate": "2012-08-16T03:00:00.000Z",
+                "beginDate": "2012-08-16T03:00:00.000Z",
+                "endDate": "2012-12-19T02:00:00.000Z",
+                "signDate": "2012-06-25T03:00:00.000Z",
+                "executionProcessId": "03/2012 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "032012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "734375/2010",
+            "validity": "27/12/2010 a 27/10/2015",
+            "limitDate": "2016-05-16T03:00:00.000Z",
+            "totalValue": 214202.33,
+            "transferValue": 196400,
+            "counterpartValue": 17802.33,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "733508/2010",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-24T02:00:00.000Z",
+        "end": "2015-09-24T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "031323/2010",
+            "organId": "31323/2010",
+            "processId": "031323/2010",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre, com uma população de 45.307 habitantes, de acordo com o censo demográfico do Instituto Brasileiro de Geografia e Estatística (IBGE) 2007, seu Índice de Desenvolvimento Humano (IDH) é de 0.6, segundo o Atlas de Desenvolvimento Humano/PNUD (2007), está situado na zona da mata alagoana. A cidade de Campo Alegre, sede do município fica localizada as margens da rodovia AL-220 que é uma importante ligação entre a segunda maior cidade do estado e a capital. No município a grande parte da população estar concentrada na zona urbana, que nos últimos anos houve um crescimento populacional significativo e por conseqüência disto cresceu também a procura por novas áreas para se construir habitações. O Poder Publico Municipal, preocupado com o bem-estar de sua população constatou que nestas novas áreas de moradia existem vias que não são pavimentadas, causando aos moradores destas, problemas de varias natureza, que vai do excesso de poeira durante o período de estiagem e grande acumulo de águas (possas) durante o inverno tornando a acessibilidade de seus moradores difíceis a suas necessidades básicas (saúde, educação e lazer), além de doenças causadas por fenômenos naturais. Diante do exposto a Administração Executiva local focou a pavimentação destas vias beneficiando cerca de 400 (quatrocentos) moradores,que tem como renda mínima 01 (um) salário mínimo, desta forma gerando aos residentes das mesmas, qualidade de vida e acessibilidade.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em paralelepipedo e drenagem de águas superficiais.",
+            "information": "",
+            "proposalDate": "2010-04-01T03:00:00.000Z",
+            "biddingDate": "2010-12-24T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100103",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 347506.97,
+              "details": {
+                "code": "5300020100103",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "INFRAESTRUTURA URBANA",
+                "couterpartRule": "",
+                "totalValue": 347506.97,
+                "couterpartValues": {
+                  "total": 52206.97,
+                  "financial": 52206.97,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "042012",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2012-06-05T03:00:00.000Z",
+              "processId": "042012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "042012",
+                "biddingId": "042012",
+                "object": "Pavimentação em paralelepípedo de ruas: Trecho 2 da Av. Cassiano Marias, Maria Luiza dos Santos, Maria Menila Vieira, Aminadab P. de Souza, e Luiza U. D. Albuquerque.",
+                "legalFoundation": "8666/93",
+                "justification": "Pavimentação em paralelepípedo de ruas: Trecho 2 da Av. Cassiano Marias, Maria Luiza dos Santos, Maria Menila Vieira, Aminadab P. de Souza, e Luiza U. D. Albuquerque.",
+                "publishDate": "2012-06-05T03:00:00.000Z",
+                "beginDate": "2012-06-20T03:00:00.000Z",
+                "endDate": "2012-06-20T03:00:00.000Z",
+                "biddingValue": 418408.34,
+                "homologationDate": "2012-06-25T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000018/2012",
+              "biddingId": "042012",
+              "date": "2012-08-16T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 01393072000109",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço",
+                "object": "Pavimentação em paralelepípedo de ruas: Trecho 2 da Avenida Cassiano Matias, Maria Luiza dos Santos, Maria Menila Vieira, Aminadab P. de Souza e Luiza U. D. Albuqueruque.",
+                "totalValue": 418408.34,
+                "publishDate": "2012-08-16T03:00:00.000Z",
+                "beginDate": "2012-08-16T03:00:00.000Z",
+                "endDate": "2012-11-14T02:00:00.000Z",
+                "signDate": "2012-06-25T03:00:00.000Z",
+                "executionProcessId": "042012 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "042012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "733508/2010",
+            "validity": "24/12/2010 a 24/09/2015",
+            "limitDate": "2016-03-02T03:00:00.000Z",
+            "totalValue": 347506.97,
+            "transferValue": 295300,
+            "counterpartValue": 52206.97,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "723556/2009",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-08-31T03:00:00.000Z",
+        "program": "Habitação de Interesse Social",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "064963/2009",
+            "organId": "06496/2009",
+            "processId": "064963/2009",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre, localizado na zona da mata de Alagoas, com uma população de 45.307 habitantes segundo o Censo Demográfico do IBGE (2007). Tem sua economia basicamente voltada à agropecuária, sendo o cultivo da cana cana de açúcar é atraído mão de obras temporária de vários de açúcar a maior fonte de renda, no período da safra dalugares do Brasil, muitos desses trabalhadores permanecem no município trazendo também suas famílias, causando assim um crescimento ao longo dos anos. Diante do exposto é notado um deficit habitacional. O Poder Público Municipal, tem como objeto reduzir esse índice de falta de moradia no município, isso significa dá a população uma condição de moradia digna para aqueles que por motivos alheios as suas vontades estão desprovidas de um teto.A Construção das Unidades habitacionais beneficiará 18 famílias, com renda média famíliar de 01 (um) salário mínimo mensal.A Construção das unidades Habitacionais ficará localizada às margens da Rodovia AL 220, KM 36 - bairro Vereador Oscar da Cunha Lima na zona urbana da cidade.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de habitações populares.",
+            "information": "",
+            "proposalDate": "2009-08-24T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-27T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020090007",
+              "name": "Habitação de Interesse Social",
+              "value": 436261.9,
+              "details": {
+                "code": "5600020090007",
+                "name": "Habitação de Interesse Social",
+                "cps": "",
+                "items": "Habitação de Interesse Social",
+                "couterpartRule": "",
+                "totalValue": 436261.9,
+                "couterpartValues": {
+                  "total": 42061.9,
+                  "financial": 42061.9,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 394200,
+                  "amendment": "R$ 394.200,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "05/2011",
+              "type": "Licitação -",
+              "date": "2011-06-06T03:00:00.000Z",
+              "processId": "052011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "",
+                "biddingType": "",
+                "processId": "052011",
+                "biddingId": "05/2011",
+                "object": "Construção de 18 Unidades Habitacionais.",
+                "legalFoundation": "8666/93",
+                "justification": "Construção de 18 Unidades Habitacionais.",
+                "publishDate": "2011-06-06T03:00:00.000Z",
+                "beginDate": "2011-06-21T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 382436.16,
+                "homologationDate": "2011-06-24T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "000",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "000",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "000000",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "000",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "00000",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "00000",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "0000",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0000",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000005/2011",
+              "biddingId": "05/2011",
+              "date": "2011-06-28T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 07084605000157",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço",
+                "object": "Construção de 18 Unidades Habitacionais.",
+                "totalValue": 382436.16,
+                "publishDate": "2011-06-28T03:00:00.000Z",
+                "beginDate": "2011-06-27T03:00:00.000Z",
+                "endDate": "2011-09-27T03:00:00.000Z",
+                "signDate": "2011-06-27T03:00:00.000Z",
+                "executionProcessId": "05/2011 ",
+                "biddingModality": "Licitação - ",
+                "processId": "052011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "723556/2009",
+            "validity": "31/12/2009 a 31/08/2016",
+            "limitDate": "2017-05-20T03:00:00.000Z",
+            "totalValue": 436261.9,
+            "transferValue": 394200,
+            "counterpartValue": 42061.9,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "722464/2009",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-15T02:00:00.000Z",
+        "end": "2010-05-15T03:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "088627/2009",
+            "organId": "01644/2009",
+            "processId": "72031.006380/2009-86",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6170/07 e Portaria interministerial 127/ 08",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Luziápolis Fest acontecerá nos dias 19 e 20 de dezembro deste ano, a expectativa de público é de 12 mil espectadores por dia, sendo público variado que gosta de lazer e diversão em segurança. Campo Alegre era conhecido como Mosquito durante o tempo em que pertenceu ao município de São Miguel dos Campos. Quando se emancipou, passou a se chamar Campo Alegre. A versão mais recente afirma que o topônimo se deve ao padre Júlio de Albuquerque, que definiu a região como um campo alegre em carta para um amigo, isso porque o povoado foi edificado num chapadão de belo panorama. De clima quente sub-úmido, Campo Alegre tem como limite os municípios de Anadia, Boca da Mata e Limoeiro de Anadia ao norte, Jequiá da Praia e Teotônio Vilela ao sul, São Miguel dos Campos ao leste e Junqueiro ao oeste. Distante da capital alagoana 81 quilômetros e a 40 quilômetros da cidade de Arapiraca, segundo grande pólo do Estado. Com cerca de 45.500 habitantes, Campo Alegre é um município canavieiro por excelência e destacado por suas usinas e destilarias, grande fonte de renda da região, mas também é destacada pela pecuária bovina (nelore) e haras conhecidos nacionalmente. É sabido que os grandes eventos têm um enorme potencial em atrair turistas, ou seja, são grandes propulsores do aumento do fluxo turístico nas regiões onde acontecem. O nordeste é naturalmente um pólo turístico, dada as suas belezas naturais. Todavia, é necessária a integração do fator natural à realização de eventos, que em conjunto geram uma maior motivação ao crescimento turístico, neste pairo, evidencia-se Alagoas O PARAÍSO DAS ÁGUAS, como um dos Estados com maior potencial turístico não só do Nordeste, mas do Brasil. O Luziápolis Fest será essa mola propulsora, ainda ausente no calendário turístico de Alagoas. Esperamos trazer 20 mil turistas nos dois dias de evento de todas as partes do Brasil, o público alvo é a população local, das cidades vizinhas e turistas quem venham a conhecer ou que retornem ao município de Campo Alegre como foi feito na 3ª edição do Festival da Cana realizado no município de Campo Alegre nos dias 17 e 18 de outubro deste ano. Uma estimativa de mais de 12 mil pessoas por noite de várias partes do país lotaram o pátio da folia para prestigiar o evento durante os dois dias de festa. Um forte esquema de segurança foi montado para garantir a integridade das pessoas que participaram da festa que gerou cerca de dois mil empregos diretos e indiretos. Em 2008 foi realizado um evento no distrito de Luziápolis com recursos municipais, o evento aconteceu apenas no dia 20/12/2008 e teve um público estimado de oito mil pessoas, tanto do município de Campo Alegre, quanto dos municípios vizinhos. Com a boa aceitação da população viu-se a necessidade de ampliar o evento. Essa iniciativa foi apoiada pelos deputados federais Francisco Tenório e Olavo Calheiros através de suas emendas endereçadas ao Ministério Turismo, com essa parceria surgiu à ideia de colocar definitivamente esta data no calendário de eventos do município, denominado Luziápolis Fest. Com o apoio do Ministério do Turismo poderemos expandir o evento trazendo atrações nacionalmente conhecidas dando mais visibilidade e comunicação à festa do município. Fomentando-o significamente conseguiremos aumentar o número de visitantes e turistas durante o período do evento consequentemente aumentando a geração de emprego que deve ficar em torno de dois mil como aconteceu no evento anterior.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Luziápolis Fest 2009",
+            "information": "A Prefeitura Municipal de Campo Alegre neste ato declara para os devidos fins que possui capacidade técnica e operacional para realização de eventos de natureza turística.",
+            "proposalDate": "2009-10-27T02:00:00.000Z",
+            "biddingDate": "2009-12-15T02:00:00.000Z",
+            "homologationDate": "2010-01-06T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090049",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 282000,
+              "details": {
+                "code": "5400020090049",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "FESTIVAIS CULTURAIS",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 282000,
+                "couterpartValues": {
+                  "total": 12000,
+                  "financial": 12000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 270000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.542.424-** - JOSE MAURICIO TENORIO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "722464/2009",
+            "validity": "15/12/2009 a 15/05/2010",
+            "limitDate": "2010-05-15T03:00:00.000Z",
+            "totalValue": 282000,
+            "transferValue": 270000,
+            "counterpartValue": 12000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "715533/2009",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2015-02-26T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "062769/2009",
+            "organId": "62769/2009",
+            "processId": "062769/2009",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6.170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre, localizado na zona da mata alagoana, com população total de 45.307 mil habitantes, de acordo com o censo demográfico do IBGE do ano de 2007. Seu índice de desenvolvimento humano (IDH) é de 0,6 segundo o atalas de desenvolvimento humano/PNUD (2007). Sua econômia é baseada na agropecuária principalmente no plantio e colheita da Cana de Açucar.Grande parte da população reside no  Distrito de Luziápolis (zona urbana), distante 57 KM da Sede do Município; A opção da pavimentação em paralelepípedo tem o intuito de melhorar a trafegabilidade e para evitar o acúmulo das águas na superfície que podem gerar doenças. A renda média familiar é de aproximadamente 01 (um) salário mínimo. Serão beneficiadas aproximadamente 400 (quatrocentas) famílias.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Serviços de Pavimentação em Paralelepípedo e Drenagem das águas superficiais da Rua Fernando Coutinho, no Distrito Luziápolis.",
+            "information": "",
+            "proposalDate": "2009-08-18T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020092637",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 202463,
+              "details": {
+                "code": "5600020092637",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 202463,
+                "couterpartValues": {
+                  "total": 6063,
+                  "financial": 6063,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 196400,
+                  "amendment": "R$ 196.400,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.941.994-** - KLEBER JUREMA DA ROCHA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "042011",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2011-05-23T03:00:00.000Z",
+              "processId": "042011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "042011",
+                "biddingId": "042011",
+                "object": "Pavimentação em paralelepípedo da Rua Fernando Coutinho - Distrito de Luziálopolis.",
+                "legalFoundation": "8666/93",
+                "justification": "Pavimentação em paralelepípedo da Rua Fernando Coutinho - Distrito de Luziálopolis.",
+                "publishDate": "2011-05-23T03:00:00.000Z",
+                "beginDate": "2011-06-09T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 171087.74,
+                "homologationDate": "2011-06-13T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2011",
+              "biddingId": "042011",
+              "date": "2011-06-16T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 07084605000157",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço",
+                "object": "Pavimentação em paralelepípedo da Rua Fernando Coutinho - Distrito de Luziálopolis",
+                "totalValue": 171087.74,
+                "publishDate": "2011-06-16T03:00:00.000Z",
+                "beginDate": "2011-06-14T03:00:00.000Z",
+                "endDate": "2011-06-14T03:00:00.000Z",
+                "signDate": "2011-06-14T03:00:00.000Z",
+                "executionProcessId": "042011 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "042011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "715533/2009",
+            "validity": "31/12/2009 a 26/02/2015",
+            "limitDate": "2015-09-05T03:00:00.000Z",
+            "totalValue": 202463,
+            "transferValue": 196400,
+            "counterpartValue": 6063,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "710824/2009",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-30T02:00:00.000Z",
+        "end": "2016-01-30T02:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "053599/2009",
+            "organId": "53599/2009",
+            "processId": "053599/2009",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "Decreto 6.170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Campo Alegre em decorrencia de seu crescimento ao longo dos anos, demonstra a carência emergencial na área de saneamento básico e pavimentação para dar aos seus moradores melhor qualidade de vida. Diante do exposto a clara necessidade de investimentos nestas áreas com crescimento acelerado, bem como para qualidade da moradia, evidenciando desta forma a necessidade da liberação de verba para pavimentação de ruas situadas no bairro Sebastião de Oliveira Gomes, zona urbana de Campo Alegre. A renda média familiar é de aproximadamente 01 (um) salário mínimo. O bairro serão beneficiadas aproximadamente 750 (setecentos e cinquenta) famílias.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Serviços de Pavimentaçãoo em Paralelepípedo e Drenagem de águas Superficiais das Ruas José Amabílio de Araújo, Juliana Souza Monteiro, Antônio Silva Madeiro, Manoel Joaquim Silva, João Tibúcio, Professora Marilúcia Ilda, Claudionor Alves Pacheco e São Domingos, no Bairro Sebastião de Oliveira Gomes.",
+            "information": "",
+            "proposalDate": "2009-07-23T03:00:00.000Z",
+            "biddingDate": "2009-12-30T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020091540",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 402247.03,
+              "details": {
+                "code": "5600020091540",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 402247.03,
+                "couterpartValues": {
+                  "total": 8047.03,
+                  "financial": 8047.03,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 394200,
+                  "amendment": "R$ 394.200,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.082.474-** - PAULINE DE FATIMA PEREIRA ALBUQUERQUE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.941.994-** - KLEBER JUREMA DA ROCHA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2011",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2011-04-03T03:00:00.000Z",
+              "processId": "032011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "032011",
+                "biddingId": "03/2011",
+                "object": "Pavimentação em paralelepípedo de Ruas do Bairro Sebastião de Oliveira Gomes.",
+                "legalFoundation": "8666/93",
+                "justification": "Pavimentação em paralelepípedo de Ruas do Bairro Sebastião de Oliveira Gomes.",
+                "publishDate": "2011-04-03T03:00:00.000Z",
+                "beginDate": "2011-06-09T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 348974.21,
+                "homologationDate": "2011-06-13T03:00:00.000Z",
+                "city": "2727 - CAMPO ALEGRE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2011",
+              "biddingId": "03/2011",
+              "date": "2011-06-16T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 07084605000157",
+                "hirerDocument": "CNPJ: 12264628000183",
+                "type": "Serviço",
+                "object": "Pavimenta��o em paralelep�pedo de Ruas do Bairro Sebasti�o de Oliveira Gomes.",
+                "totalValue": 348974.21,
+                "publishDate": "2011-06-16T03:00:00.000Z",
+                "beginDate": "2011-06-14T03:00:00.000Z",
+                "endDate": "2011-10-14T03:00:00.000Z",
+                "signDate": "2011-06-14T03:00:00.000Z",
+                "executionProcessId": "03/2011 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "032011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "710824/2009",
+            "validity": "30/12/2009 a 30/01/2016",
+            "limitDate": "2016-01-30T02:00:00.000Z",
+            "totalValue": 402247.03,
+            "transferValue": 394200,
+            "counterpartValue": 8047.03,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "648860/2008",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-20T03:00:00.000Z",
+        "end": "2009-10-17T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Concluído no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "095164/2008",
+            "organId": "54001257200800702",
+            "processId": "72000.002378/2008-14",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Promoção e incentivo ao turismo no Município de Campo Alegre/AL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Objeto: \"Festival de Alegreia 2008\".",
+            "information": "",
+            "proposalDate": "2008-06-20T03:00:00.000Z",
+            "biddingDate": "2008-06-20T03:00:00.000Z",
+            "homologationDate": "2008-07-04T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.542.424-** - JOSE MAURICIO TENORIO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.881.858-** - LUIZ EDUARDO BARRETTO FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "648860/2008",
+            "validity": "20/06/2008 a 17/10/2009",
+            "limitDate": "2009-10-17T03:00:00.000Z",
+            "totalValue": 1365,
+            "transferValue": 1300,
+            "counterpartValue": 65000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "630804/2008",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Assinado",
+        "start": "2008-07-15T03:00:00.000Z",
+        "end": "2011-06-05T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Excluído no SIAFI",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "079484/2008",
+            "organId": "CR.NR.0255112-35",
+            "processId": "CR.NR.0255112-35",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTACAO DE RUAS NO POVOADO LUIZAPOLIS",
+            "information": "",
+            "proposalDate": "2008-07-15T03:00:00.000Z",
+            "biddingDate": "2008-07-15T03:00:00.000Z",
+            "homologationDate": "2008-07-18T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.542.424-** - JOSE MAURICIO TENORIO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "630804/2008",
+            "validity": "15/07/2008 a 05/06/2011",
+            "limitDate": "2011-06-05T03:00:00.000Z",
+            "totalValue": 1036.98,
+            "transferValue": 987600,
+            "counterpartValue": 49380,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "630308/2008",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-30T03:00:00.000Z",
+        "end": "2011-12-31T02:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Adimplente no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "079048/2008",
+            "organId": "CR.NR.0262932-96",
+            "processId": "CR.NR.0262932-96",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUCAO QUADRA POLIESPORTIVA",
+            "information": "",
+            "proposalDate": "2008-06-30T03:00:00.000Z",
+            "biddingDate": "2008-06-30T03:00:00.000Z",
+            "homologationDate": "2008-07-29T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.542.424-** - JOSE MAURICIO TENORIO",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "630308/2008",
+            "validity": "30/06/2008 a 31/12/2011",
+            "limitDate": "2011-12-31T02:00:00.000Z",
+            "totalValue": 190807.5,
+            "transferValue": 185250,
+            "counterpartValue": 5557.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "626478/2008",
+        "uf": "AL",
+        "city": "Campo Alegre",
+        "name": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-30T03:00:00.000Z",
+        "end": "2013-08-22T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Adimplente no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "076118/2008",
+            "organId": "710272/2008",
+            "processId": "23400.004171/2008-66",
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "legalFoundation": "",
+            "organ": "26000 - MINISTERIO DA EDUCACAO",
+            "linkedOrgan": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "description": null,
+            "justification": "029, DE 29 DE JUNHO DE 2007",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ESTE CONVENIO TEM POR OBJETO CONCEDER APOIO FINANCEIRO PARA IMPLEMEN TACAO DAS ACOES EDUCACIONAIS CONSTANTES NO PLANO DE ACOES ARTICULADAS - PAR, NO .MBITO DO PLANO DE METAS COMPROMISSO TODOS PELA EDUCACAO, D O PLANO DE DESENVOLVIMENTO DA EDUCACAO - PDE, QUE VISAM PROPORCIONAR A SOCIEDADE A MELHORIA DA INFRA-ESTRUTURA DA REDE FISICA ESCOLAR, COM A CONSTRUCAO DE ESCOLA(S) .",
+            "information": "",
+            "proposalDate": "2008-06-30T03:00:00.000Z",
+            "biddingDate": "2008-06-30T03:00:00.000Z",
+            "homologationDate": "2008-07-01T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.264.628/0001-83 - MUNICIPIO DE CAMPO ALEGRE",
+            "respProponent": "***.542.424-** - JOSE MAURICIO TENORIO",
+            "grantor": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "respGrantor": "***.266.584-** - JOSE CARLOS WANDERLEY DIAS DE FREITAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "convenient": "MUNICIPIO DE CAMPO ALEGRE",
+            "documentNumber": "12.264.628/0001-83",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "626478/2008",
+            "validity": "30/06/2008 a 22/08/2013",
+            "limitDate": "2013-08-22T03:00:00.000Z",
+            "totalValue": 1500,
+            "transferValue": 1485,
+            "counterpartValue": 15000,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

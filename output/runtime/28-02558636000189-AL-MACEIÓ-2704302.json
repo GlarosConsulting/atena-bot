@@ -1,0 +1,1838 @@
+{
+  "beginDate": "2020-07-14T20:32:25.746Z",
+  "endDate": "2020-07-14T21:06:13.490Z",
+  "data": {
+    "location": {
+      "city": "Maceió",
+      "uf": "AL",
+      "ibge": "2704302"
+    },
+    "agreements": [
+      {
+        "agreementId": "857834/2017",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2017-12-26T02:00:00.000Z",
+        "end": "2018-12-26T02:00:00.000Z",
+        "program": "FORTALECIMENTO DO SUS/PESQUISA EM SAÚDE E AVALIAÇÃO DE NOVAS TECNOLOGIAS PARA O SUS.",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "097138/2017",
+            "organId": "97138/2017",
+            "processId": "25000.478603/2017-09",
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "legalFoundation": "Decreto 6170/2007 e alterações",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "No estado de Alagoas, o grupo de pesquisa liderado por esta proponente, tem desenvolvido estudos na área das fendas orais desde 2009, por meio do Programa de Pesquisas para o SUS, nas edições 2009-2011, 2013-2015 e 2016-2018. As fendas orais (fendas de lábio e/ou palato) são muito prevalentes (1:600 nascimentos), apresentam alta associação com outras malformações (30-50% dos casos) e elevada morbimortalidade neonatal (Dixon et al 2011, Marazita 2012, Leslie e Marazita 2013, Mossey et al 2009). Para o adequado mapeamento das necessidades de saúde dos pacientes e seus familiares, é fundamental conhecer o diagnóstico (fenda oral como malformação isolada versus fenda oral como componente de síndrome polimalformativa) e suas implicações. O esclarecimento da etiologia permite a avaliação de risco de recorrência e o aconselhamento genético aos interessados. Apesar de todos os avanços e tecnologias disponíveis, persistem lacunas de conhecimento sobre a etiologia das fendas orais. (Dixon et al 2011, Marazita 2012, Leslie e Marazita 2013, Mossey et al 2009). A obtenção de informações que possibilitem à superação dessas lacunas, especialmente a compreensão da história natural, a identificação de fatores de risco e de genes associados a fendas orais são fundamentais para ampliação do conhecimento nesta área. Sem esse conhecimento não é possível propor ações de atenção e prevenção afinadas com as necessidades de saúde de uma população específica (Mossey et al 2009). Em Alagoas, estudo anterior do nosso grupo (PPSUS 2009-2011) identificou alta frequência de uniões consanguíneas, exposição ao tabaco durante a gestação (como hábito de vida ou labor), dentre outros fatores, todos de risco reconhecidos na literatura. (Monlleó 2016, Fontes et al 2013). Diversas ferramentas laboratoriais podem ser empregadas para o estudo da etiologia das fendas orais. Estas vão desde Citogenética Clássica até Sequenciamento de Última Geração (NGS). Em Alagoas, no que se refere à pesquisa etiológica das fendas orais, realizamos: 1. 1. Estudos citogenéticos no Laboratório de Citogenética Humana da UNCISAL (laboratório implantado com recursos da pesquisa Proposta para inserção da genética clínica na atenção a portadores de anomalias craniofaciais no SUS, com suporte do Edital CNPq de pesquisas em Genética Clínica para o SUS, em 2006) e 2. Extração, quantificação de DNA e ensaios com PCR, no Laboratório de Genética Molecular Humana do Hospital Universitário da UFAL (LGMH-HUPAA/UFAL), este, inteiramente estruturado com suporte do PPSUS (edições 2013-2015 e 2016-2018). Embora a estruturação do LGMH e a implantação das técnicas mencionadas configurem um avanço, o grupo ainda não tem condições de desenvolver estudos autóctones sobre etiologia molecular das fendas orais por falta de equipamentos que permitam uma abordagem mais aprofundada e adequada. Assim, apresenta-se a justificativa de aquisição de um sequenciador de DNA, equipamento que agregará tecnologia ao LGMH-HUPAA/UFAL, habilitando nosso grupo a realizar estudos com sequenciamento de genes relacionados às fendas orais isoladas e sindrômicas. Esta é uma etapa essencial para a conclusão da atual pesquisa, na medida em que sedimenta a posição do Serviço de Genética Clínica do HUPAA-UFAL como porta de entrada no sistema de referência e contra-referência que vem sendo testado com êxito nas duas últimas edições do PPSUS em Alagoas. Destaca-se que a aquisição deste equipamento, também permitirá a implementação e ampliação de estudos etiológicos de outras condições clínicas, entre as quais estão os distúrbios da diferenciação do sexo, as deficiências intelectual, auditiva e visual, as malformações congênitas, o câncer, as doenças neurogenéticas e outras neurodegenerativas, para citar algumas. O conhecimento produzido a partir de estudos nessas áreas, compõe o extrato científico necessário à construção de políticas de atenção e prevenção afinadas com as diretrizes do Ministério da Saúde em uma perspectiva custo-efetiva",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "FOMENTAR A PESQUISA EM SAÚDE SEGUNDO A AGENDA NACIONAL DE PRIORIDADES DE PESQUISA EM SAÚDE - ANPPS",
+            "information": "",
+            "proposalDate": "2017-11-27T02:00:00.000Z",
+            "biddingDate": "2017-12-26T02:00:00.000Z",
+            "homologationDate": "2018-01-11T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020170084",
+              "name": "FORTALECIMENTO DO SUS/PESQUISA EM SAÚDE E AVALIAÇÃO DE NOVAS TECNOLOGIAS PARA O SUS.",
+              "value": 647190,
+              "details": {
+                "code": "3600020170084",
+                "name": "FORTALECIMENTO DO SUS/PESQUISA EM SAÚDE E AVALIAÇÃO DE NOVAS TECNOLOGIAS PARA O SUS.",
+                "cps": null,
+                "items": "FOMENTAR A PESQUISA EM SAÚDE SEGUNDO A AGENDA NACIONAL DE PRIORIDADES DE PESQUISA EM SAÚDE - ANPPS",
+                "couterpartRule": "Entes Públicos (Consorcio Publico, Estados, Distrito Federal e Municípios). Não será exigida contrapartida (Art. 79, paragrafo 4., da Lei 13.408/2016) [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 647190,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 647190,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "respProponent": "***.989.054-** - FABIO GUEDES GOMES",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.789.799-** - RICARDO JOSE MAGALHAES BARROS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "499/2018",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300004992018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "",
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "600300004992018",
+                "biddingId": null,
+                "object": "Aquisição de Sequenciador de DNA (ANALISADOR GENETICO DE 8 CAPILARES COM SOFTWARE SEQ ANALY VAR REP GEN MAP) para consolidação de estratégia para referência e contra-referência de pacientes com fendas orais no SUS em Alagoas.",
+                "legalFoundation": "8666",
+                "justification": "A aquisição do sequenciador de DNA tem o objetivo específico de agregar tecnologia ao LGMH-HUPAA/UFAL, habilitando-o a realizar estudos sobre a etiologia molecular das fendas orais na população de Alagoas, tendo em vista o reconhecimento dos fatores de risco e das possibilidades de manejá-los na perspectiva da prevenção populacional dessas malformações congênitas.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": null,
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": ""
+              }
+            }
+          ],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "documentNumber": "35.562.321/0001-64",
+            "modality": "Convênio",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "857834/2017",
+            "validity": "26/12/2017 a 26/12/2018",
+            "limitDate": "2019-02-24T03:00:00.000Z",
+            "totalValue": 647190,
+            "transferValue": 647190,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "857833/2017",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2017-12-26T02:00:00.000Z",
+        "end": "2018-12-26T02:00:00.000Z",
+        "program": "FORTALECIMENTO DO SUS/PESQUISA EM SAÚDE E AVALIAÇÃO DE NOVAS TECNOLOGIAS PARA O SUS.",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "097144/2017",
+            "organId": "97144/2017",
+            "processId": "25000.478613/2017-36",
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "legalFoundation": "Decreto 6170/2007 e alterações",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A padronização da técnica se sequenciamento de DNA laboratório de genética molecular humana do HUPAA/UFAL iniciará com a análise do gene receptor de andrógenos de amostras controles, que serão gentilmente cedidas pela UNICAMP, instituição colaboradora. As etapas para o sequenciamento de um fragmento de DNA serão: A - amplificação do fragmento de interesse pela Reação em Cadeia da Polimerase (PCR); B - purificação dos produtos de PCR; C - quantificação e preparo das amostras para a reação de sequenciamento; D - reação de sequenciamento em termociclado; E - purificação das reações de sequenciamento; F - preparo dos purificados para o sequenciamento; G - sequenciamento dos purificados em sequenciador automático ABI3500 genetic analyzer (Applied Biosystems); H - análise das amostras. Para a execução das etapas A, B e C, serão necessários os itens: DNTP set, Taq DNA polimerase, EDTA, Agarose, TBE 10X, Ladder de 100 pares de base, Kit de purificação de PCR. Para as etapas D, E e F serão necessários os itens: água ultrapura, Etanol absoluto, kit BDT V31 para sequenciamento e tampão SEQUENC e placas de 96 poços. Finalmente para as etapas G e H, serão utilizados os itens: Polímero POP 7, Reservatório com tampão (ânodo), Reservatório com tampão (cátodo), Septo do reservatório com tampão, Septo de placas de 96 poços, Condicionador para lavagem, Formamida, Capilar 8X36cm 3500. Em todas as etapas serão utilizados tubos e ponteiras de diferentes volumes. Estima-se que para a padronização da técnica, seja necessária a análise de quatro placas (384 fragmentos) com resultados satisfatórios. Serão consideradas satisfatórias as sequências passíveis de análises em programas de bioinformática. Como trata-se da padronização de uma técnica sensível, as quantidades de cada reagente e consumíveis solicitados são necessários para que o objetivo desta proposta seja realizado.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "FOMENTAR A PESQUISA EM SAÚDE SEGUNDO A AGENDA NACIONAL DE PRIORIDADES DE PESQUISA EM SAÚDE - ANPPS",
+            "information": "",
+            "proposalDate": "2017-11-27T02:00:00.000Z",
+            "biddingDate": "2017-12-26T02:00:00.000Z",
+            "homologationDate": "2018-01-11T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020170083",
+              "name": "FORTALECIMENTO DO SUS/PESQUISA EM SAÚDE E AVALIAÇÃO DE NOVAS TECNOLOGIAS PARA O SUS.",
+              "value": 127913,
+              "details": {
+                "code": "3600020170083",
+                "name": "FORTALECIMENTO DO SUS/PESQUISA EM SAÚDE E AVALIAÇÃO DE NOVAS TECNOLOGIAS PARA O SUS.",
+                "cps": null,
+                "items": "FOMENTAR A PESQUISA EM SAÚDE SEGUNDO A AGENDA NACIONAL DE PRIORIDADES DE PESQUISA EM SAÚDE - ANPPS",
+                "couterpartRule": "Entes Public os (Consorcio Publico, Estados, Distrito Federal e Municípios). Não será exigida contrapartida (Art. 79, paragrafo 4., da Lei 13.408/2016) [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 127913,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 127913,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "respProponent": "***.989.054-** - FABIO GUEDES GOMES",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.789.799-** - RICARDO JOSE MAGALHAES BARROS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "500/2018",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300005002018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "",
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "600300005002018",
+                "biddingId": null,
+                "object": "Aquisição de Material de Consumo para consolidação de estratégia para referência e contra-referência de pacientes com fendas orais no SUS em Alagoas.",
+                "legalFoundation": "8666",
+                "justification": "A aquisição de material de consumo que permitirá a realização de estudos sobre a etiologia molecular das fendas orais auxiliando na Consolidação de estratégia para referência e contra-referência de pacientes com fendas orais no SUS em Alagoas.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": null,
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": ""
+              }
+            }
+          ],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "documentNumber": "35.562.321/0001-64",
+            "modality": "Convênio",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "857833/2017",
+            "validity": "26/12/2017 a 26/12/2018",
+            "limitDate": "2019-02-24T03:00:00.000Z",
+            "totalValue": 127913,
+            "transferValue": 127913,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "820969/2015",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-01-05T02:00:00.000Z",
+        "end": "2021-03-15T03:00:00.000Z",
+        "program": "Programa de Pesquisa para o SUS: Gestão Compartilhada em Saúde - PPSUS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "046967/2015",
+            "organId": "00006/2015",
+            "processId": "01300.610006/2015-62",
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "legalFoundation": "PO 507/2011",
+            "organ": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "linkedOrgan": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "description": null,
+            "justification": "A atuação articulada entre os organismos federais e estaduais de fomento ao desenvolvimento científico, tecnológico e de inovação está entre as prioridades fixadas pelo Ministério da Ciência, Tecnologia e Inovação – MCTI, e Ministério da Saúde - MS. A participação do Estado de Alagoas no Convênio de Programa de Pesquisa para o SUS: Gestão Compartilhada em Saúde se faz imprescindível pela necessidade do Estado em dar continuidade aos esforços que vêm sendo empreendidos desde 2001, no sentido de desenvolver uma cultura institucional neste campo, dentro da Secretaria de Estado da Saúde (SESAU-AL) e a Fundação de Amparo à Pesquisa do Estado de Alagoas. Assim, pretende-se avançar na construção de uma política efetiva de Ciência, Tecnologia e Inovação em Saúde, promovendo a formação de redes interinstitucionais, e entre os atores envolvidos no processo. O desenvolvimento e aprimoramento da gestão do SUS, a capacitação de recursos humanos para a CT&I e a promoção da ética na pesquisa são metas alcançadas, mas que necessitam se consolidar na cultura local, assim como a prática da avaliação tecnológica. A promoção da melhora nas condições de saúde da população, dentro de práticas e articulações desejadas pelo MCTI e MS é o que se pretende alcançar.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Constitui objeto do presente convênio implementar o Programa de Pesquisa para o SUS: gestão compartilhada em saúde – PPSUS, do Departamento de Ciência e Tecnologia da Secretaria de Ciência, Tecnologia e Insumos Estratégicos do Ministério da Saúde (DECIT/SCTIE/MS), que busca apoiar pesquisas voltadas para problemas prioritários em Saúde e o fortalecimento da gestão do SUS, no Estado de Alagoas.",
+            "information": "",
+            "proposalDate": "2015-10-30T02:00:00.000Z",
+            "biddingDate": "2016-01-05T02:00:00.000Z",
+            "homologationDate": "2016-01-07T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2050120150003",
+              "name": "Programa de Pesquisa para o SUS: Gestão Compartilhada em Saúde - PPSUS",
+              "value": 2650,
+              "details": {
+                "code": "2050120150003",
+                "name": "Programa de Pesquisa para o SUS: Gestão Compartilhada em Saúde - PPSUS",
+                "cps": null,
+                "items": "O Programa PPSUS tem como finalidade apoiar financeiramente o desenvolvimento de pesquisas que objetivam contribuir para resolução dos problemas prioritários de saúde da população brasileira, para o aprimoramento do Sistema Único de Saúde (SUS), promover a aproximação dos sistemas de saúde, ciência e tecnologia locais e a redução das desigualdades regionais em ciência, tecnologia e inovação em saúde.",
+                "couterpartRule": "De acordo com os valores acordados pelas FAPs com o DECIT-SCTIE-MS e registrado no Termo de Referência do Programa PPSUS -2015, o percentual mínimo de contrapartida é de 24,00% - Estado do Amapá. [Percentual Mínimo Contrapartida: 20.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 2650,
+                "couterpartValues": {
+                  "total": 650000,
+                  "financial": 650000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 2000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "respProponent": "***.989.054-** - FABIO GUEDES GOMES",
+            "grantor": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "respGrantor": "***.786.506-** - MARIO NETO BORGES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "430/2019",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300004302019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "600300004302019",
+                "biddingId": null,
+                "object": "CONTRATAÇÃO DE HOSPEDAGENS PARA CONSULTOR AD HOC - EDITAL 06/2016 PPSUS PRIORIDADE 2.",
+                "legalFoundation": "8666/93",
+                "justification": "SERVIÇOS DE HOSPEDAGENS PARA CONSULTOR AD HOC, REFERENTE AVALIAÇÃO PROJETOS EDITAL 06/2016 PPSUS PRIORIDADE 2.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": null,
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "1349/2016-2",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300013492016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "863/2016 - 2",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300008632016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "60030001242/2016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300012422016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300011672016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300011672016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "1167/2016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300011672016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "1364/2016 -2",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300013642016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "863/2016 -1",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300008632016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "902/2016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300009022016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "886/2016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300008862016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "856/2016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300008562016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "846/2016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300008462016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "898/2016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300008982016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "817/2016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300008172016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000430/2019",
+              "biddingId": "430/2019",
+              "date": "2019-08-26T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11197308000357",
+                "hirerDocument": "CNPJ: 35562321000164",
+                "type": "Serviço",
+                "object": "Contratação de hospedagens para avaliador ad hoc, referente avaliação dos projetos da Chamada FAPEAL 06/2016 - PPSUS Prioridade2.",
+                "totalValue": 910,
+                "publishDate": "2019-08-26T03:00:00.000Z",
+                "beginDate": "2019-09-05T03:00:00.000Z",
+                "endDate": "2019-09-07T03:00:00.000Z",
+                "signDate": "2019-08-26T03:00:00.000Z",
+                "executionProcessId": "430/2019 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "600300004302019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "convenient": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "documentNumber": "35.562.321/0001-64",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "820969/2015",
+            "validity": "05/01/2016 a 15/03/2021",
+            "limitDate": "2021-04-14T03:00:00.000Z",
+            "totalValue": 2756.531,
+            "transferValue": 2000,
+            "counterpartValue": 650000,
+            "yieldValue": 106531.05
+          }
+        }
+      },
+      {
+        "agreementId": "776041/2012",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-05-02T03:00:00.000Z",
+        "end": "2022-07-30T03:00:00.000Z",
+        "program": "Apoio à Pesquisa, Desenvolvimento e Inovação voltados para a região do Semiárido",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "046309/2012",
+            "organId": "02565/2012",
+            "processId": "002565/2012-9",
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "legalFoundation": "PO 507/2011",
+            "organ": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "linkedOrgan": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "description": null,
+            "justification": "A mudança dos usos e cobertura da terra no semiárido nordestino vem ocorrendo em passos acelerados devido a fatores climáticos e antropogênicos. O ecossistema que domina a região, a caatinga, vem sendo degradada, levando a redução ou perda da fertilidade e da produtividade biológica devido aos mais de cinco séculos de ocupação desordenada, sendo considerado o ecossistema brasileiro de maior fragilidade face às suas características naturais e a sua ocupação. Além disso, os cenários de mudanças climáticas indicam, de maneira consistente, que a região do semiárido deverá sofrer nos próximos anos redução significativa das chuvas, combinada ao aumento de evaporação. Estes cenários sugerem que o grau de fragilidade da região irá se acentuar nas próximas décadas. Aumento da temperatura de alguns graus traz embutido um palpável risco para o semiárido, com claríssimas repercussões sociais: diminuição da disponibilidade hídrica no semiárido, menor tempo de permanência da água no solo, aumento da frequência e da intensidade das irregulares secas, períodos chuvosos com chuvas mais concentradas e de maior intensidade, ou seja, aceleração de “aridização” e desertificação da região semiárida, o que tornaria ainda mais marginal a agricultura de sequeiro, meio de subsistência atual de mais de dez milhões de habitante da zona rural do Nordeste. Neste escopo, este chamada pública visará contribuir para o desenvolvimento de um sistema moderno e eficiente de prevenção de riscos de colapso de safras de subsistência, mediante a produção de informações e estudos científicos sobre os efeitos edafoclimáticos do semiárido, especialmente no estado de Alagoas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "O objetivo é promover o lançamento de Chamamento Público, por meio de parceria entre o Conselho Nacional de Desenvolvimento Cientifico e Tecnológico – CNPq e a Fundação de Amparo à Pesquisa do Estado de Alagoas – FAPEAL, para seleção de projetos de pesquisa de Universidades e Órgãos de Pesquisa com sede no Estado de Alagoas, prioritariamente aquelas da região do Semiárido (regiões do Sertão e Agreste do Estado de Alagoas) ou que trabalhem com pesquisas ligadas a Região do Semiárido, com o fito de financiar e apoiar, por meio de concessão de recursos não reembolsáveis, o desenvolvimento de projetos, processos e serviços inovadores, visando o desenvolvimento das áreas consideradas estratégicas nas políticas públicas estaduais e federais.",
+            "information": "A Unidade Gestora de Ciência e Tecnologia – UGCT da FAPEAL é responsável pelo planejamento, elaboração e acompanhamento dos programas de atuação da FAPEAL, também sendo responsável pela gestão das formas de apoio que a FAPEAL oferece. Além do Diretor e dos Assessores Técnicos, a equipe desta Unidade é dividida em três Coordenações: (1) Coordenação de Pesquisa Científica e Tecnológica; (2) Coordenação Setorial de Projetos Especiais; e (3) Coordenação de Formação em Recursos Humanos e em Ciência e Tecnologia. Os coordenadores trabalham em conjunto com um Gestor Especializado em Ciência e Tecnologia e bolsistas de desenvolvimento institucional. Dentre as formas de apoio geridas pela UGCT estão as Bolsas, os Auxílios e os Projetos Especiais. DIRETOR TÉCNICO DA UNIDADE GESTORA DE CIÊNCIA E TECNOLOGIA: SANDRA NUNES LEITE - possui graduação em Comunicação Social pela Universidade Federal de Alagoas (1990), especialização em Avaliação pela Universidade de Brasília (1999), especialização em Agentes de Difusão e Inovação Tecnológica Agintec pela Universidade Federal de Alagoas (2001), mestrado em Comunicação pela Universidade Federal do Rio de Janeiro (2000) e doutorado em Ciências da Comunicação pela Universidade do Vale do Rio dos Sinos (2006). COORDENADORA SETORIAL DE PROJETOS ESPECIAIS: JULIANA BASILIO KHALILI – graduação em Ciências Econômicas (UERJ, 1994); mestrado em Ciências Políticas (IUPERJ, 1997); graduação em Odontologia (UFAL, 2002); especialização em Dentística pela Associação Brasileira de Odontologia (ABO, 2004). COORDENADORA DE PESQUISA CIENTÍFICA E TECNOLÓGICA: ELENICE MENDES SILVA GOMES– Possui graduação em Química Licenciatura pela Universidade Federal de Alagoas (2008), Graduação em Tecnologia de Alimentos pelo Instituto Federal de Alagoas (2012), e mestrado em Engenharia Química pela Universidade Federal de Alagoas (2011). COORDENADORA SETORIAL DE FORMAÇÃO EM RECURSOS HUMANOS EM CIÊNCIA E TECNOLOGIA: MONICA MELO GOMES DE NASCIMENTO – Possui Graduação em Ciências Econômicas pelo Centro de Estudos Superiores de Maceió, CESMAC (2001), Especialização em Gestão e Elaboração de Projetos pela Fundação Educacional Jayme de Alta Vilar, FEJAL (2004). GESTOR ESPECIALIZADO EM CIÊNCIA E TECNOLOGIA: JOSÉ PEREIRA DE LIMA JÚNIOR - possui Graduação em História Licenciatura pela universidade Federal de Alagoas (1995) e especialização em Docência pelo Centro de Estudos Superiores de Maceió, CESMAC (2001). BOLSISTA DE DESENVOLVIMENTO INSTITUCIONAL: ALAN MATIAS CALIXTO- Possui graduação em Sistema de Informação pelo Instituto Federal de Alagoas (2009). BOLSISTA DE DESENVOLVIMENTO INSTITUCIONAL: POLLYANNA KARINE DA SILVA MARTINS – graduação em andamento em Comunicação Social com Habilitação em Relações Públicas pela Universidade Federal de Alagoas (2008). ASSESSORIA DE COMUNICAÇÃO: SHIRLEY LAINE QUEIROZ DO NASCIMENTO – graduação em Comunicação Social e Habilitação em Jornalismo pela Universidade Federal de Alagoas (UFAL, 2002); VILMA NAISIA XAVIER SILVA – graduação em Comunicação Social e Habilitação em Jornalismo pela Universidade Federal de Alagoas (UFAL, 2002). SETOR DE CONTABILIDADE: DOLORES MARIA JATOBÁ DE ALMEIDA SOARES – graduação em Ciências Contábeis, pelo Centro de Estudos Superiores de Maceió (CESMAC, 1990); especialização em andamento em Gestão Financeira, Controladoria e Auditoria (CESMAC, 2012); MARCELO GRANJA MEDEIROS – graduação em Ciências Contábeis, pela Universidade Federal de Alagoas (UFAL 1996); especialização em AUDITORIA FISCAL CONTÁBIL, pela Universidade Federal da Paraíba (UFPB 1999); graduação em Direito, pelo Centro de Estudos Superiores de Maceió (CESMAC 2006);RILTON SOARES DOS SANTOS Técnico em contabilidade (1984) graduando em Ciências Contabéis, Estácio de Sá, graduando em Administração Publica pela UNEAL.",
+            "proposalDate": "2012-11-19T02:00:00.000Z",
+            "biddingDate": "2013-05-02T03:00:00.000Z",
+            "homologationDate": "2013-06-12T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2050120120006",
+              "name": "Apoio à Pesquisa, Desenvolvimento e Inovação voltados para a região do Semiárido",
+              "value": 1000,
+              "details": {
+                "code": "2050120120006",
+                "name": "Apoio à Pesquisa, Desenvolvimento e Inovação voltados para a região do Semiárido",
+                "cps": null,
+                "items": "Seleção de projetos de pesquisa de Universidades e Órgãos de Pesquisa com sede no Estado de Alagoas, prioritariamente aquelas da região do Semiárido (regiões do Sertão e Agreste do Estado de Alagoas) ou que trabalhem com pesquisas ligadas a Região do Semiárido.",
+                "couterpartRule": "Negociação de contrapartida MCTI/FAPEAL 50%/50% [Percentual Mínimo Contrapartida: 50.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1000,
+                "couterpartValues": {
+                  "total": 500000,
+                  "financial": 500000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 500000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "respProponent": "***.989.054-** - FABIO GUEDES GOMES",
+            "grantor": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "respGrantor": "***.961.417-** - JOAO LUIZ FILGUEIRAS DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "052013",
+              "type": "Inexigibilidade",
+              "date": "2013-05-01T03:00:00.000Z",
+              "processId": null,
+              "status": null,
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300010272013",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300010272013",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "600300010272013",
+                "biddingId": null,
+                "object": "Contratação de empresa para julgamento das proposta convenio canal do sertao",
+                "legalFoundation": "8666/93",
+                "justification": "Contratação de empresa para julgamento das proposta convenio canal do sertao",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": "2013-12-04T02:00:00.000Z",
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "600300005022015",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300005022015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300005002015",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300005002015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300004992015",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300004992015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300004982015",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300004982015",
+              "status": "Concluído",
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "00049201401",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "00049201401",
+              "status": "Concluído",
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "0015152014",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0015152014",
+              "status": "Concluído",
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "5020142",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "5020142",
+              "status": "Concluído",
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "6532014",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "6000300006532014",
+              "status": "Concluído",
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "6542014",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300006542014",
+              "status": "Concluído",
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "8842014",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "8842014",
+              "status": "Concluído",
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "740741742884",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "740741742884",
+              "status": null,
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "51204",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "512014",
+              "status": null,
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "502014",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "502014",
+              "status": null,
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "492014",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "492014",
+              "status": null,
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "5020141",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "5020141",
+              "status": null,
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "659 2014",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "6592014",
+              "status": null,
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300010262013",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300010262013",
+              "status": null,
+              "systemStatus": null,
+              "system": null,
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000051/2014",
+              "biddingId": "052013",
+              "date": "2014-03-12T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 28729170478",
+                "hirerDocument": "CNPJ: 35562321000164",
+                "type": "Material e Serviço",
+                "object": "DESENVOLVIMENTO DE UM SISTEMA INTEGRADO LAVOURA X PECUARIA X FLORESTA PARA AS CONDIÇÕES DO SEMIARIDO ALAGOANO.",
+                "totalValue": 249895,
+                "publishDate": "2014-03-12T03:00:00.000Z",
+                "beginDate": "2013-05-02T03:00:00.000Z",
+                "endDate": "2016-04-15T03:00:00.000Z",
+                "signDate": "2014-03-12T03:00:00.000Z",
+                "executionProcessId": "052013 ",
+                "biddingModality": "Inexigibilidade ",
+                "processId": "052013 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "convenient": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "documentNumber": "35.562.321/0001-64",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "776041/2012",
+            "validity": "02/05/2013 a 30/07/2022",
+            "limitDate": "2022-08-29T03:00:00.000Z",
+            "totalValue": 1152.655,
+            "transferValue": 500000,
+            "counterpartValue": 500000,
+            "yieldValue": 152655.5
+          }
+        }
+      },
+      {
+        "agreementId": "774377/2012",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-01-23T02:00:00.000Z",
+        "end": "2016-06-26T03:00:00.000Z",
+        "program": "2015 - Aperfeiçoamento do Sistema Único de Saúde (SUS) - Programa de Pesquisa para o SUS: gestão compartilhada em saúde (PPSUS)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "042278/2012",
+            "organId": "00006/2012",
+            "processId": "61.0006/2012-6",
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "legalFoundation": "PO 507/2011",
+            "organ": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "linkedOrgan": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "description": null,
+            "justification": "A atuação articulada entre os organismos federais e estaduais de fomento ao desenvolvimento científico, tecnológico e de inovação está entre as prioridades fixadas pelo Ministério da Ciência, Tecnologia e Inovação – MCTI, e Ministério da Saúde - MS. A participação do Estado de Alagoas no Convênio de Programa de Pesquisa para o SUS: Gestão Compartilhada em Saúde se faz imprescindível pela necessidade do Estado em dar continuidade aos esforços que vêm sendo empreendidos há dez anos, no sentido de desenvolver uma cultura institucional neste campo, dentro da Secretaria de Estado da Saúde (SESAU-AL) e a Fundação de Amparo à Pesquisa do Estado de Alagoas. Assim, pretende-se avançar na construção de uma política efetiva de Ciência, Tecnologia e Inovação em Saúde, promovendo a formação de redes interinstitucionais, e entre os atores envolvidos no processo. O desenvolvimento e aprimoramento da gestão do SUS, a capacitação de recursos humanos para a C,T&I e a promoção da ética na pesquisa são metas urgentes a consolidar, assim como a prática da avaliação tecnológica. Em última instância, o que se busca é a promoção da melhora nas condições de saúde da população, dentro de práticas e articulações desejadas pelo MCTI e MS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Constitui objeto do presente convênio implementar o Programa de Pesquisa para o SUS: gestão compartilhada em saúde – PPSUS, do Departamento de Ciência e Tecnologia da Secretaria de Ciência, Tecnologia e Insumos Estratégicos do Ministério da Saúde (DECIT/SCTIE/MS), que busca apoiar pesquisas voltadas para problemas prioritários em Saúde e o fortalecimento da gestão do SUS, no Estado de Alagoas.",
+            "information": "A Unidade Gestora de Ciência e Tecnologia – UGCT da FAPEAL é responsável pelo planejamento, elaboração e acompanhamento dos programas de atuação da FAPEAL, também sendo responsável pela gestão das formas de apoio que a FAPEAL oferece. Além do Diretor e dos Assessores Técnicos, a equipe desta Unidade é dividida em três Coordenações: (1) Coordenação de Pesquisa Científica e Tecnológica; (2) Coordenação Setorial de Projetos Especiais; e (3) Coordenação de Formação em Recursos Humanos e em Ciência e Tecnologia. Os coordenadores trabalham em conjunto com um Gestor Especializado em Ciência e Tecnologia e bolsistas de desenvolvimento institucional. Dentre as formas de apoio geridas pela UGCT estão as Bolsas, os Auxílios e os Projetos Especiais. DIRETOR TÉCNICO DA UNIDADE GESTORA DE CIÊNCIA E TECNOLOGIA: SANDRA NUNES LEITE - possui graduação em Comunicação Social pela Universidade Federal de Alagoas (1990), especialização em Avaliação pela Universidade de Brasília (1999), especialização em Agentes de Difusão e Inovação Tecnológica Agintec pela Universidade Federal de Alagoas (2001), mestrado em Comunicação pela Universidade Federal do Rio de Janeiro (2000) e doutorado em Ciências da Comunicação pela Universidade do Vale do Rio dos Sinos (2006). COORDENADORA SETORIAL DE PROJETOS ESPECIAIS: JULIANA BASILIO KHALILI – graduação em Ciências Econômicas (UERJ, 1994); mestrado em Ciências Políticas (IUPERJ, 1997); graduação em Odontologia (UFAL, 2002); especialização em Dentística pela Associação Brasileira de Odontologia (ABO, 2004). COORDENADORA DE PESQUISA CIENTÍFICA E TECNOLÓGICA: ELENICE MENDES SILVA GOMES– Possui graduação em Química Licenciatura pela Universidade Federal de Alagoas (2008), Graduação em Tecnologia de Alimentos pelo Instituto Federal de Alagoas (2012), e mestrado em Engenharia Química pela Universidade Federal de Alagoas (2011). COORDENADORA SETORIAL DE FORMAÇÃO EM RECURSOS HUMANOS EM CIÊNCIA E TECNOLOGIA: MONICA MELO GOMES DE NASCIMENTO – Possui Graduação em Ciências Econômicas pelo Centro de Estudos Superiores de Maceió, CESMAC (2001), Especialização em Gestão e Elaboração de Projetos pela Fundação Educacional Jayme de Alta Vilar, FEJAL (2004). GESTOR ESPECIALIZADO EM CIÊNCIA E TECNOLOGIA: JOSÉ PEREIRA DE LIMA JÚNIOR - possui Graduação em História Licenciatura pela universidade Federal de Alagoas (1995) e especialização em Docência pelo Centro de Estudos Superiores de Maceió, CESMAC (2001). BOLSISTA DE DESENVOLVIMENTO INSTITUCIONAL: ALAN MATIAS CALIXTO- Possui graduação em Sistema de Informação pelo Instituto Federal de Alagoas (2009). BOLSISTA DE DESENVOLVIMENTO INSTITUCIONAL: POLLYANNA KARINE DA SILVA MARTINS – graduação em andamento em Comunicação Social com Habilitação em Relações Públicas pela Universidade Federal de Alagoas (2008). ASSESSORIA DE COMUNICAÇÃO: SHIRLEY LAINE QUEIROZ DO NASCIMENTO – graduação em Comunicação Social e Habilitação em Jornalismo pela Universidade Federal de Alagoas (UFAL, 2002); VILMA NAISIA XAVIER SILVA – graduação em Comunicação Social e Habilitação em Jornalismo pela Universidade Federal de Alagoas (UFAL, 2002). SETOR DE CONTABILIDADE: DOLORES MARIA JATOBÁ DE ALMEIDA SOARES – graduação em Ciências Contábeis, pelo Centro de Estudos Superiores de Maceió (CESMAC, 1990); especialização em andamento em Gestão Financeira, Controladoria e Auditoria (CESMAC, 2012); MARCELO GRANJA MEDEIROS – graduação em Ciências Contábeis, pela Universidade Federal de Alagoas (UFAL 1996); especialização em AUDITORIA FISCAL CONTÁBIL, pela Universidade Federal da Paraíba (UFPB 1999); graduação em Direito, pelo Centro de Estudos Superiores de Maceió (CESMAC 2006);RILTON SOARES DOS SANTOS Técnico em contabilidade (1984) graduando em Ciências Contabéis, Estácio de Sá, graduando em Administração Publica pela UNEAL.",
+            "proposalDate": "2012-10-05T03:00:00.000Z",
+            "biddingDate": "2013-01-23T02:00:00.000Z",
+            "homologationDate": "2013-01-31T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2050120120004",
+              "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (SUS) - Programa de Pesquisa para o SUS: gestão compartilhada em saúde (PPSUS)",
+              "value": 2000,
+              "details": {
+                "code": "2050120120004",
+                "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (SUS) - Programa de Pesquisa para o SUS: gestão compartilhada em saúde (PPSUS)",
+                "cps": null,
+                "items": "Apoiar financeiramente o desenvolvimento de pesquisas que objetivam contribuir para a resolução dos problemas prioritários de saúde da população brasileira, para o aprimoramento do Sistema Único de Saúde (SUS) e a redução das desigualdades regionais em ciência, tecnologia e inovação em saúde.",
+                "couterpartRule": "Os valores de contrapartida foram acordados entre as FAPs e o Ministério da Saúde e estão descritos no Termo de Referência do Programa PPSUS, edição 2012. [Percentual Mínimo Contrapartida: 15.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 2000,
+                "couterpartValues": {
+                  "total": 500000,
+                  "financial": 500000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1500,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "respProponent": "***.240.944-** - JANESMAR CAMILO DE MENDONCA CAVALCANTI",
+            "grantor": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "respGrantor": "***.686.168-** - GLAUCIUS OLIVA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "2792015",
+              "type": "Dispensa de Licitação",
+              "date": "2014-12-01T02:00:00.000Z",
+              "processId": "600300002792015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "408",
+              "type": "Licitação -",
+              "date": "2013-05-15T03:00:00.000Z",
+              "processId": "4082013",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "4082013",
+                "biddingId": "408",
+                "object": "Apoiar a execução de projetos de pesquisa que promovam a formação e a melhoria da qualidade de atenção à saúde no Estado de Alagoas no contexto do Sistema Único de Saúde (SUS), representando significativa contribuição para o desenvolvimento da C,T&I no Estado de Alagoas, em conformidade com os Temas e Linhas Temáticas definidos para esta Chamada, de acordo com o estabelecido no item 2.2.2 do REGULAMENTO/CONDIÇÕES ESPECÍFICAS.",
+                "legalFoundation": "8666/93",
+                "justification": "A presente chamada tem por objetivo apoiar atividades de pesquisa científica, tecnológica e de inovação, ficando excluídos projetos de intervenção/implantação de serviços, mediante a seleção de propostas para apoio financeiro a projetos relacionados ao objeto abaixo indicado, em conformidade com as condições estabelecidas no REGULAMENTO/CONDIÇÕES ESPECÍFICAS, anexo a esta Chamada, que determinará, também, condições e requisitos relativos ao proponente, cronograma, recursos financeiros a serem aplicados nas propostas aprovadas, origem dos recursos, itens financiáveis, prazo de execução dos projetos, critérios de elegibilidade, critérios para julgamento, acompanhamento, avaliação final e prestação de contas dos projetos aprovados e demais informações necessárias.",
+                "publishDate": "2013-05-15T03:00:00.000Z",
+                "beginDate": "2013-05-15T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 2000,
+                "homologationDate": "2013-08-12T03:00:00.000Z",
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "600300001232016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300001232016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "60030000434/2016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300004342016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300015282014",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300015282014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300014292014",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300014292014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "0015982014",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0015982014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "6003000011302015",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300011302015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300015262014",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300015262014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300011302015",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300011302015",
+              "status": "Em elaboração",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300011302015",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300011302015",
+              "status": "Em elaboração",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "6982013",
+              "type": "Licitação - Concurso",
+              "date": "2013-05-01T03:00:00.000Z",
+              "processId": "600300006982013",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "7132013",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "7132013",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "600300007612013",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "600300007612013",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000279/2015",
+              "biddingId": "2792015",
+              "date": "2014-12-01T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 05820949412",
+                "hirerDocument": "CNPJ: 35562321000164",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DO BOLSISTA VIVIANE ALVES DE OLIVEIRA, ORIENTADOR MARIA LUCELIA DOS SANTOS, PROJETO AVALIAÇÃO DO PROGRAMA DE TELESSAÚDE NA ATENÇÃO BÁSICA DA SEGUNDA MACORREGIÃO DE ALAGOAS.",
+                "totalValue": 1200,
+                "publishDate": "2014-12-01T02:00:00.000Z",
+                "beginDate": "2015-01-01T02:00:00.000Z",
+                "endDate": "2015-03-31T03:00:00.000Z",
+                "signDate": "2014-01-01T02:00:00.000Z",
+                "executionProcessId": "2792015 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "600300002792015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "convenient": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "documentNumber": "35.562.321/0001-64",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Concluída",
+            "number": "774377/2012",
+            "validity": "23/01/2013 a 26/06/2016",
+            "limitDate": "2019-10-18T03:00:00.000Z",
+            "totalValue": 2036.068,
+            "transferValue": 1500,
+            "counterpartValue": 500000,
+            "yieldValue": 36068.3
+          }
+        }
+      },
+      {
+        "agreementId": "748556/2010",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2011-12-15T02:00:00.000Z",
+        "end": "2024-05-20T03:00:00.000Z",
+        "program": "Programa de Infra-estrutura para Jovens Pesquisadores (Programa Primeiros Projetos) - PPP 2010",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "078109/2010",
+            "organId": "78109/2010",
+            "processId": "610012/2010-0",
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "legalFoundation": "PO 127/2008",
+            "organ": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "linkedOrgan": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "description": null,
+            "justification": "A FAPEAL, em parceria com o CNPq, vem desenvolvendo o Programa de Primeiros Projetos – PPP. O Edital MS/CNPq/FAPEAL Nº 02/2008 (segunda chamada) obteve 65 (sessenta e cinco) projetos submetidos, dos quais apenas 5 (cinco) deles não foram homologados por apresentarem documentação incompleta. Dessa maneira, das 60 propostas (sessenta) que foram recomendadas com parecer favorável (FV), somente 20 (vinte) delas, no valor total de R$ 396.855,00 (trezentos e noventa e seis mil e oitocentos e cinqüenta e cinco reais) foram contratadas. Outras 21 (vinte e uma) propostas foram consideradas meritórias (Prioridade 2), sendo recomendada fortemente, pela Comissão de Avaliação ad hoc, a alocação de recursos adicionais para que estas propostas fossem contempladas. Verifica-se portanto, a necessidade de financiamento deste tipo de convênio, com um maior aporte, para que possamos auxiliar no processo de desenvolvimento da pesquisa no Estado de Alagoas",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Constitui objeto deste Convênio a implementação do PROGRAMA DE INFRA-ESTRUTURA PARA JOVENS PESQUISADORES (PROGRAMA PRIMEIROS PROJETOS - PPP) no Estado de Alagoas (AL), com recursos oriundos do Fundo Setorial de Infra-Estrutura e de Alagoas, pelo financiamento de projetos de pesquisadores doutores, vinculados a instituições públicas de ensino e/ou pesquisa, selecionados por meio de edital a ser lançado pela FAPEAL.",
+            "information": "A Unidade Gestora de Ciência e Tecnologia – UGCT da FAPEAL é responsável pelo planejamento, elaboração e acompanhamento dos programas de atuação da FAPEAL, também sendo responsável pela gestão das formas de apoio que a FAPEAL oferece. Além do Diretor e dos Assessores Técnicos, a equipe desta Unidade é dividida em quatro Coordenações: (1) Coordenação de Pesquisa Científica e Tecnológica; (2) Coordenação de Projetos Especiais; (3) Coordenação de Sistemas de Informação; e (4) Coordenação de Formação em Recursos Humanos e em Ciência e Tecnologia. Cada coordenador trabalha em conjunto com um Gestor Especializado em Ciência e Tecnologia. Dentre as formas de apoio geridas pela UGCT estão as Bolsas, os Auxílios e os Projetos Especiais. A FAPEAL financia várias modalidades de bolsas: BIC, Mestrado; Doutorado; Recém-Doutor; Pesquisador; Pesquisador Visitante; Treinamento de Técnico de Apoio à Pesquisa; Técnico de Apoio à Pesquisa; Iniciação Tecnológica e Desenvolvimento Tecnológico. Os Auxílios são benefícios concedidos para a realização de atividades de pesquisa, individuais ou institucionais, ou ainda de outras atividades da FAPEAL, visando o desenvolvimento de projetos que efetivamente contribuam para o progresso da Ciência e Tecnologia. Dentre essas atividades estão os auxílios à Pesquisa; à Dissertação/ Tese; auxilio a Recém-Doutor; à Organização de Reunião Científica; à Vinda de Pesquisador Visitante; à Participação em Reunião Científica; à Recuperação dos Centros de Pesquisa do Estado de Alagoas; à Expansão de Acervos Bibliográficos e à Participação Coletiva em Eventos Científicos. Os Projetos Especiais distinguem-se dos demais auxílios no que diz respeito ao alcance e finalidade da contribuição ao progresso da Ciência ou de suas aplicações. Projetos de Desenvolvimento Tecnológico; Projetos de Cunho Estratégico e os Projetos de Apoio a Programas de Pós-Graduação são Projetos Especiais com formato livre, isto é, a organização da proposta fica a critério do proponente. Já os Projetos Induzidos obedecem as chamadas por Editais e a todo o trâmite por este determinado, até a decisão final. Dentre os Projetos Induzidos, cuja gestão fica a cargo da equipe técnica vinculada à coordenação dos Projetos Especiais e à coordenação de Pesquisa Científica e Tecnológica, podendo a gestão também ser feita em conjunto com um Comitê Gestor, estão: o Programa de Desenvolvimento Científico Regional (DCR); o Programa de Apoio a Núcleos de Excelência (PRONEX); o Programa Pesquisadores nas Empresas do Estado de Alagoas (RHAE); o Programa de Pesquisa para o SUS (PPSUS); e o Programa Primeiros Projetos para Jovens Pesquisadores (PPP). Especificamente quanto à gestão do Programa de Núcleos Emergentes – PRONEM a equipe técnica da FAPEAL envolvida será composta por: DIRETOR TÉCNICO DA UNIDADE GESTORA DE CIÊNCIA E TECNOLOGIA: JOSÉ EUCLIDES DE OLIVEIRA - Engenheiro Civil pela Universidade Federal de Alagoas (UFAL, 1971); mestrado em física pela Universidade Federal do Ceará (UFCE, 1981) e doutorado em física pela Universidade de Oxford (1986). COORDENADORA DE PESQUISA CIENTÍFICA E TECNOLÓGICA VÂNIA MARIA DE MENEZES – graduação em Ciências da computação (UFMG, 1979) e mestrado em Ciências da Computação (UFMG, 1993). COORDENADORA DE PROJETOS ESPECIAIS NILZA MARIA MARTINS AMARAL – graduação em Medicina (UFAL, 1973); mestrado em Medicina com área de concentração em Ginecologia (UFRJ, 1979). GESTORES ESPECIALIZADOS EM CIÊNCIA E TECNOLOGIA: JULIANA BASILIO KHALILI – graduação em Ciências Econômicas (UERJ, 1994); mestrado em Ciências Políticas (IUPERJ, 1997); graduação em Odontologia (UFAL, 2002); especialização em Dentística pela Associação Brasileira de Odontologia (ABO, 2004). ROBERTO DE VASCONCELOS CONDE – graduação em Administração de Empresas e Habilitação em Marketing pela Faculdade de Alagoas (FAL, 2003); Especialização em Empreendedorismo, Gestão Ambiental e Sustentabilidade pelo Centro de Estudos Superiores de Maceió (CESMAC, 2008). ASSESSORIA DE COMUNICAÇÃO SHIRLEY LAINE QUEIROZ DO NASCIMENTO – graduação em Comunicação Social e Habilitação em Jornalismo pela Universidade Federal de Alagoas (UFAL, 2002). SETOR DE CONTABILIDADE JANE CRISTINA PAULINO DE OLIVEIRA – graduação em Ciências Contábeis pela Universidade Federal de Alagoas (UFAL, 1997); especialização em Gestão Financeira, Auditoria e Controladoria (CESMAC,2005)",
+            "proposalDate": "2010-06-30T03:00:00.000Z",
+            "biddingDate": "2011-12-15T02:00:00.000Z",
+            "homologationDate": "2012-10-04T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2050120100001",
+              "name": "Programa de Infra-estrutura para Jovens Pesquisadores (Programa Primeiros Projetos) - PPP 2010",
+              "value": 1865,
+              "details": {
+                "code": "2050120100001",
+                "name": "Programa de Infra-estrutura para Jovens Pesquisadores (Programa Primeiros Projetos) - PPP 2010",
+                "cps": null,
+                "items": "Possibilitar ações de cooperação técnico-científica visando à implementação de projetos selecionados pelas entidades estaduais de fomento à pesquisa, no âmbito do Programa de Infra-estrutura para Jovens Pesquisadores (Programa Primeiros Projetos) – PPP.",
+                "couterpartRule": "Contrapartidas Estados x MCT/CNPq: 1) SP – 1 x 1; 2) MG, RJ, RS: 1 x 1,5; 3) AM, PA, CE, PE, BA, PB, DF, GO, MT, MS, PR, SC e ES: 1 x 2 ; 4) AP, AC, RO, RR, TO, PI, MA, RN, SE e AL: 1 x 3 [Percentual Mínimo Contrapartida: 25.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1865,
+                "couterpartValues": {
+                  "total": 466250,
+                  "financial": 466250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1398.75,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "respProponent": "***.989.054-** - FABIO GUEDES GOMES",
+            "grantor": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "respGrantor": "***.786.506-** - MARIO NETO BORGES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01022011",
+              "type": "Licitação - Concurso",
+              "date": null,
+              "processId": "012011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concurso",
+                "biddingType": "",
+                "processId": "012011",
+                "biddingId": "01022011",
+                "object": "Apoiar a instalação, modernização, ampliação ou recuperação da infraestrutura de pesquisa científica e tecnológica nas instituições públicas de ensino e pesquisa visando dar suporte à fixação de jovens pesquisadores (PROGRAMA DE INFRAESTRUTURA PARA JOVENS PESQUISADORES - PROGRAMA PRIMEIROS PROJETOS - PPP) e nucleação de novos grupos, no Estado de Alagoas – AL.",
+                "legalFoundation": "8666/93",
+                "justification": "Apoiar atividades de pesquisa científica, tecnológica e de inovação, mediante a seleção de propostas para apoio financeiro para fixação de jovens pesquisadores e nucleação de novos grupos no Estado de Alagoas.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 20000,
+                "homologationDate": null,
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "012011",
+              "type": "Licitação - Concurso",
+              "date": "2011-07-27T03:00:00.000Z",
+              "processId": "012011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000739/2011",
+              "biddingId": "01022011",
+              "date": "2012-12-10T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 27787641860",
+                "hirerDocument": "CNPJ: 35562321000164",
+                "type": "Material e Serviço",
+                "object": "Deformações de Curvas Monomiais e Aplicações. - ANDRE LUIS CONTIERO",
+                "totalValue": 20000,
+                "publishDate": "2012-12-10T02:00:00.000Z",
+                "beginDate": "2012-12-01T02:00:00.000Z",
+                "endDate": "2014-11-01T02:00:00.000Z",
+                "signDate": "2012-12-10T02:00:00.000Z",
+                "executionProcessId": "01022011 ",
+                "biddingModality": "Licitação - Concurso ",
+                "processId": "012011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "convenient": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "documentNumber": "35.562.321/0001-64",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "748556/2010",
+            "validity": "15/12/2011 a 20/05/2024",
+            "limitDate": "2024-07-19T03:00:00.000Z",
+            "totalValue": 1918.305,
+            "transferValue": 1398.75,
+            "counterpartValue": 466250,
+            "yieldValue": 53305.12
+          }
+        }
+      },
+      {
+        "agreementId": "746398/2010",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-28T02:00:00.000Z",
+        "end": "2020-01-27T03:00:00.000Z",
+        "program": "Programa de Apoio a Núcleos Emergentes de Pesquisa - PRONEM",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas em Complementação",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "076819/2010",
+            "organId": "61004/2010",
+            "processId": "610024/2010-8",
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "legalFoundation": "DEC.6170/2007 PORT.128/2008",
+            "organ": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "linkedOrgan": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "description": null,
+            "justification": "A parceria entre o CNPq e a FAPEAL vem representando o fortalecimento da Ciência e Tecnologia no Estado de Alagoas. Os programas Pronex, PPP, DCR estão permitindo um grande avanço nas atividades de pesquisa realizadas na UFAL. Atualmente, tem sido possível incrementar atividades de cooperação e intercámbio científicos entre os grupos de pesquisa do Estado de Alagoas e de outras instituições, envolvendo pesquisadores e estudantes de pós-graduação. Adicionalmente, a contratação de bolsistas de apoio técnico vieram possibilitar uma sensível melhora nas atividades de manutenção de laboratório, na utilização de equipamentos e nas atividades burocráticas. Considerando-se,toda esta melhoria, gostariamos de ampliar e dar continuidade ao processo de desenvolvimento científico-tecnológico, com a introdução dos grupos emergentes que tenham liderança e papel nucleador no setor de sua atuação no Estado de Alagoas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Constitui objetivo do convênio a implementação do Primeiro Convênio de Cooperação Técnica Científica, no Estado de Alagoas, do PROGRAMA DE NÚCLEOS DE EMERGENTES DE PESQUISA - PRONEM junto ao CNPq, com vigência para os exercícios de 2010 a 2015. O Programa de Apoio a Núcleos Emergentes de Pesquisa - PRONEM CNPq/FAPEAL visa apoiar grupos de pesquisa considerados como núcleos emergentes mediante o suporte financeiro à execução de projetos de pesquisas científicas, tecnológicas e de inovacão, no Estado de Alagoas.",
+            "information": "A Unidade Gestora de Ciência e Tecnologia – UGCT da FAPEAL é responsável pelo planejamento, elaboração e companhamento dos programas de atuação da FAPEAL e do interesse do estado, também sendo responsável pela gestão das formas de apoio que a FAPEAL oferece. Além do Diretor e dos Assessores Técnicos, a equipe desta Unidade trabalha dividida em quatro Coordenações: (1) Coordenação de Pesquisa Científica e Tecnológica; (2) Coordenação de Projetos Especiais; 3) Coordenação de Sistemas de Informação; e (4) Coordenação de Formação em Recursos Humanos e em Ciência e Tecnologia. Cada coordenador trabalha em conjunto com um Gestor Especializado em Ciência e Tecnologia. Dentre as formas de apoio geridas pela UGCT estão as Bolsas, os Auxílios e os Projetos Especiais. A FAPEAL financia várias modalidades de bolsas: BIC, Mestrado; Doutorado; Recém-Doutor; Pesquisador; Pesquisador Visitante; Treinamento de Técnico de Apoio à Pesquisa; Técnico de Apoio à Pesquisa; Iniciação Tecnológica e Desenvolvimento Tecnológico. Os Auxílios são benefícios concedidos para a realização de atividades de pesquisa, individuais ou institucionais, ou ainda de outras atividades da FAPEAL, visando o desenvolvimento de projetos que efetivamente contribuam para o progresso da Ciência e Tecnologia. Dentre essas atividades estão os auxílios à Pesquisa; à Dissertação/ Tese; a Recém-Doutor; à Organização de Reunião Científica; à Vinda de Pesquisador Visitante; à Participação em Reunião Científica; à Recuperação dos Centros de Pesquisa do Estado de Alagoas; à Expansão de Acervos Bibliográficos e à Participação Coletiva em Eventos Científicos. Os Projetos Especiais distinguem-se dos demais auxílios no que diz respeito ao alcance e finalidade da contribuição ao progresso da Ciência ou de suas aplicações. Projetos de Desenvolvimento Tecnológico; Projetos de Cunho Estratégico e os Projetos de Apoio a Programas de Pós-Graduação são Projetos Especiais com formato livre, isto é, a organização da proposta fica a critério do proponente. Já os Projetos Induzidos obedecem a chamadas por Editais e a todo o trâmite por este determinado, até a decisão final. Dentre os Projetos Induzidos, cuja gestão fica a cargo da equipe técnica vinculada à coordenação dos Projetos Especiais e à coordenação de Pesquisa Científica e Tecnológica, podendo a gestão também ser feita em conjunto com um Comitê Gestor, estão: o Programa de Desenvolvimento Científico Regional (DCR); o Programa de Apoio a Núcleos de Excelência (PRONEX); o Programa Pesquisadores nas Empresas do Estado de Alagoas (RHAE); o Programa de Pesquisa para o SUS (PPSUS); e o Programa Primeiros Projetos para Jovens Pesquisadores (PPP). Especificamente quanto à gestão do Programa de Núcleos Emergentes – PRONEM a equipe técnica da FAPEAL envolvida será composta por: DIRETOR TÉCNICO DA UNIDADE GESTORA DE CIÊNCIA E TECNOLOGIA: JOSÉ EUCLIDES DE OLIVEIRA - Engenhario Civil pela Universidade Federal de Alagoas (UFAL, 1971); mestrado em física pela Universidade Federal do Ceará (UFCE, 1981) e doutorado em física pela Universidade de Oxford (1986). COORDENADORA DE PESQUISA CIENTÍFICA E TECNOLÓGICA VÂNIA MARIA DE MENEZES – graduação em Ciências da computação (UFMG, 1979) e mestrado em Ciências da Computação (UFMG, 1993). COORDENADORA DE PROJETOS ESPECIAIS NILZA MARIA MARTINS AMARAL – graduação em Medicina (UFAL, 1973); mestrado em Medicina com área de concentração em Ginecologia (UFRJ, 1979). GESTORES ESPECIALIZADOS EM CIÊNCIA E TECNOLOGIA: JULIANA BASILIO KHALILI – graduação em Ciências Econômicas (UERJ, 1994); mestrado em Ciências Políticas (IUPERJ, 1997); graduação em Odontologia (UFAL, 2002); especialização em Dentística pela Associação Brasileira de Odontologia (ABO, 2004). ROBERTO DE VASCONCELOS CONDE – graduação em Administração de Empresas e Habilitação em Marketing pela Faculdade de Alagoas (FAL, 2003); Especialização em Empreendedorismo, Gestão Ambiental e Sustentabilidade pelo Centro de Estudos Superiores de Maceió (CESMAC, 2008). ASSESSORIA DE COMUNICAÇÃO SHIRLEY LAINE QUEIROZ DO NASCIMENTO – graduação em Comunicação Social e Habilitação em Jornalismo pela Universidade Federal de Alagoas (UFAL, 2002). SETOR DE CONTABILIDADE JANE CRISTINA PAULINO DE OLIVEIRA – graduação em Ciências Contábeis pela Universidade Federal de Alagoas (UFAL, 1997); especialização em Gestão Financeira, Auditoria e Controladoria (CESMAC,2005)",
+            "proposalDate": "2010-06-27T03:00:00.000Z",
+            "biddingDate": "2010-12-28T02:00:00.000Z",
+            "homologationDate": "2011-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2050120100003",
+              "name": "Programa de Apoio a Núcleos Emergentes de Pesquisa - PRONEM",
+              "value": 1666.25,
+              "details": {
+                "code": "2050120100003",
+                "name": "Programa de Apoio a Núcleos Emergentes de Pesquisa - PRONEM",
+                "cps": null,
+                "items": "Apoiar grupos emergentes de pesquisa e permitir a consolidação de linhas de pesquisa prioritárias, induzindo a formação de novos núcleos de excelência. Busca promover o esforço integrado de fomento a pesquisa do conjunto das agências federais e dos órgãos estaduais de apoio a pesquisa, buscando desenvolver ações comuns e complementares, com novos mecanismos de financiamento, como o uso descentralizado e flexível das verbas e o incentivo à formação de recursos humanos de alta qualificação.",
+                "couterpartRule": "Percentuais de contrapartida (Estado x MCT/CNPq): SP – 1 x 1; MG, RJ, RS: 1 x 1,5; AM, PA, CE, PE, BA, PB, DF, GO, MT, MS, PR, SC e ES: 1 x 2; AP, AC, RO, RR, TO, PI, MA, RN, SE e AL: 1 x 3. [Percentual Mínimo Contrapartida: 25.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1666.25,
+                "couterpartValues": {
+                  "total": 416562.5,
+                  "financial": 416562.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1249.687,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "respProponent": "***.989.054-** - FABIO GUEDES GOMES",
+            "grantor": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "respGrantor": "***.786.506-** - MARIO NETO BORGES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0120112",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0120112",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "0120112",
+                "biddingId": null,
+                "object": "Constitui objetivo do convênio a implementação do Primeiro Convênio de Cooperação Técnica Científica, no Estado de Alagoas, do PROGRAMA DE NÚCLEOS DE EMERGENTES DE PESQUISA - PRONEM junto ao CNPq, com vigência para os exercícios de 2010 a 2020. O Programa de Apoio a Núcleos Emergentes de Pesquisa - PRONEM CNPq/FAPEAL visa apoiar grupos de pesquisa considerados como núcleos emergentes mediante o suporte financeiro à execução de projetos de pesquisas científicas, tecnológicas e de inovação, no Estado de Alagoas.Para isso o processo visa a contratação de bolsistas que auxiliaram no desenvolvimento dos projetos",
+                "legalFoundation": "8666/93",
+                "justification": "A parceria entre o CNPq e a FAPEAL vem representando o fortalecimento da Ciência e Tecnologia no Estado de Alagoas. Os programas Pronex, PPP, DCR estão permitindo um grande avanço nas atividades de pesquisa realizadas na UFAL. Atualmente, tem sido possível incrementar atividades de cooperação e intercámbio científicos entre os grupos de pesquisa do Estado de Alagoas e de outras instituições, envolvendo pesquisadores e estudantes de pós-graduação. Adicionalmente, a contratação de bolsistas de apoio técnico vieram possibilitar uma sensível melhora nas atividades de manutenção de laboratório, na utilização de equipamentos e nas atividades burocráticas. Considerando-se,toda esta melhoria, gostariamos de ampliar e dar continuidade ao processo de desenvolvimento científico-tecnológico, com a introdução dos grupos emergentes que tenham liderança e papel nucleador no setor de sua atuação no Estado de Alagoas.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": "2011-05-30T03:00:00.000Z",
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "012011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "012011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000375/2014",
+              "biddingId": "0120112",
+              "date": "2014-02-27T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 02466578123",
+                "hirerDocument": "CNPJ: 35562321000164",
+                "type": "Serviço",
+                "object": "Bolsista de Desenvolvimento Tecnológico e Industrial do projeto Base Bioecologica para Desenvolimento de Indicadores do estado de recursos explorados pela pesca de Pequena Escala.",
+                "totalValue": 15600,
+                "publishDate": "2014-02-27T03:00:00.000Z",
+                "beginDate": "2014-03-01T03:00:00.000Z",
+                "endDate": "2015-05-31T03:00:00.000Z",
+                "signDate": "2014-02-27T03:00:00.000Z",
+                "executionProcessId": "0120112 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "0120112 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "convenient": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "documentNumber": "35.562.321/0001-64",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Complementação",
+            "number": "746398/2010",
+            "validity": "28/12/2010 a 27/01/2020",
+            "limitDate": "2020-07-18T03:00:00.000Z",
+            "totalValue": 1666.25,
+            "transferValue": 1249.687,
+            "counterpartValue": 416562.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "700461/2008",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-12-15T02:00:00.000Z",
+        "end": "2012-02-16T02:00:00.000Z",
+        "program": "10571120161460001 - PESQUISA EM SAUDE E AVALIAÇÃO DE NOVAS TECNOLOGIAS PARA O SUS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "001145/2008",
+            "organId": "00052/2008",
+            "processId": "610056/2008-5",
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "legalFoundation": "Decreto 6170/2007, Portaria 127/2008 e alterações, Portaria 220/2008",
+            "organ": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "linkedOrgan": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "description": null,
+            "justification": "A atuação articulada entre os organismos federais e estaduais de fomento ao desenvolvimento científico e tecnológico está entre as prioridades fixadas pelo Ministério da Ciência e Tecnologia - MCT e Ministério da Saúde - MS. A participação do estado de Alagoas no Convênio de Programa de Pesquisa para o SUS: Gestão Compartilhada em Ciência, Tecnologia e Inovação em Saúde se faz imprescindível pela necessidade do estado dar continuidade aos esforços que vêm sendo empreendidos há mais de seis anos, no sentido de desenvolver uma cultura institucional neste campo na Secretaria de Estado da Saúde (SESAU) e avançar na construção de uma política efetiva de ciência e tecnologia em saúde, promovendo a articulação entre os atores com interesse na questão. O desenvolvimento da gestão do SUS, a capacitação de recursos humanos para a C&TS e a promoção da questão da ética na pesquisa são metas urgentes a implementar, assim como a prática da avaliação tecnológica, buscando promover a melhora nas condições de saúde da população, práticas e articulações desejadas pelo MCT e MS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Constitui objeto do presente convênio implementar o Programa de Pesquisa para o Sistema Único de Saúde - SUS: gestão compartilhada em saúde – PPSUS do Departamento de Ciência e Tecnologia da Secretaria de Ciência, Tecnologia e Insumos Estratégicos do Ministerio da Saude (DECIT/SCTIE/MS), que busca apoiar pesquisas voltadas para problemas prioritários de saúde e o fortalecimento da gestão do SUS, no Estado de Alagoas.",
+            "information": "",
+            "proposalDate": "2008-10-09T03:00:00.000Z",
+            "biddingDate": "2008-12-15T02:00:00.000Z",
+            "homologationDate": "2009-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2050120080011",
+              "name": "10571120161460001 - PESQUISA EM SAUDE E AVALIAÇÃO DE NOVAS TECNOLOGIAS PARA O SUS",
+              "value": 1000,
+              "details": {
+                "code": "2050120080011",
+                "name": "10571120161460001 - PESQUISA EM SAUDE E AVALIAÇÃO DE NOVAS TECNOLOGIAS PARA O SUS",
+                "cps": null,
+                "items": "IMPLEMENTAÇÃO DO PROGRAMA PESQUISA PARA O SUS: GESTÃO COMPARTILHADA EM SAUDE 2008-2009",
+                "couterpartRule": "",
+                "totalValue": 1000,
+                "couterpartValues": {
+                  "total": 250000,
+                  "financial": 250000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 750000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "respProponent": "***.632.144-** - TADEU GUSMAO MURITIBA",
+            "grantor": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "respGrantor": "***.967.088-** - MARCO ANTONIO ZAGO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012009",
+              "type": "Licitação - Concurso",
+              "date": "2009-03-24T03:00:00.000Z",
+              "processId": "012009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Concurso",
+                "biddingType": "",
+                "processId": "012009",
+                "biddingId": "012009",
+                "object": "Apoiar atividades de pesquisa, mediante o aporte de recursos financeiros a projetos que visem\npromover o desenvolvimento científico, tecnológico ou de inovação da área de saúde, em temas\nprioritários para o Estado de Alagoas, de acordo com os Temas e as Linhas Temáticas definidas no\neste edital.",
+                "legalFoundation": "Lei 8666/93",
+                "justification": "A participação do estado de Alagoas no Convênio de Programa de Pesquisa para o SUS: Gestão Compartilhada em Ciência,\nTecnologia e Inovação em Saúde se faz imprescindível pela necessidade do estado dar continuidade aos esforços que vêm\nsendo empreendidos há mais de seis anos, no sentido de desenvolver uma cultura institucional neste campo na Secretaria de Estado da Saúde (SESAU) e avançar na construção de uma política efetiva de ciência e tecnologia em saúde, promovendo a articulação entre os atores com interesse na questão.\nO desenvolvimento da gestão do SUS, a capacitação de recursos humanos para a C&TS e a promoção da questão da ética na pesquisa são metas urgentes a implementar, assim como a prática da avaliação tecnológica, buscando promover a melhora nas condições de saúde da população, práticas e articulações desejadas pelo MCT e MS.",
+                "publishDate": "2009-03-24T03:00:00.000Z",
+                "beginDate": "2009-03-24T03:00:00.000Z",
+                "endDate": "2009-05-19T03:00:00.000Z",
+                "biddingValue": 950000,
+                "homologationDate": "2009-08-20T03:00:00.000Z",
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000689/2009",
+              "biddingId": "012009",
+              "date": "2009-10-27T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 16445481434",
+                "hirerDocument": "CNPJ: 35562321000164",
+                "type": "Material e Serviço",
+                "object": "32836120649",
+                "totalValue": 28927,
+                "publishDate": "2009-10-27T02:00:00.000Z",
+                "beginDate": "2009-10-27T02:00:00.000Z",
+                "endDate": "2011-10-30T02:00:00.000Z",
+                "signDate": "2009-10-27T02:00:00.000Z",
+                "executionProcessId": "012009 ",
+                "biddingModality": "Licitação - Concurso ",
+                "processId": "012009 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "convenient": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "documentNumber": "35.562.321/0001-64",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Concluída",
+            "number": "700461/2008",
+            "validity": "15/12/2008 a 16/02/2012",
+            "limitDate": "2019-10-02T03:00:00.000Z",
+            "totalValue": 1000,
+            "transferValue": 750000,
+            "counterpartValue": 250000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "700329/2008",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-12-18T02:00:00.000Z",
+        "end": "2014-12-17T02:00:00.000Z",
+        "program": "Programa de Apoio a Núcleos de Excelência - PRONEX",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "001670/2008",
+            "organId": "00021/2008",
+            "processId": "670001/2008-2",
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "legalFoundation": "Dec. 6170/07, PI 127/2008 e alterações",
+            "organ": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "linkedOrgan": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "description": null,
+            "justification": "A parceria entre o CNPq e a FAPEAL vem representando o fortalecimento da Ciência e Tecnologia no Estado de Alagoas. As duas primeiras chamadas do projeto PRONEX vieram permitir um grande avanço nas atividades de pesquisa realizadas na UFAL. Atualmente, tem sido possível incrementar atividades de cooperação e intercâmbio científicos entre os grupos de pesquisa da UFAL e de outras instituições, envolvendo pesquisadores e estudantes de pós-graduação. Adicionalmente, a contratação de bolsistas de apoio técnico vem possibilitando uma sensível melhora nas atividades de manutenção de laboratório, na utilização de equipamentos e nas atividades burocráticas. Considerando-se,toda esta melhoria, gostariamos de ampliar e dar continuidade ao processo de desenvolvimento científico-tecnológico aos grupos de alta competência que tenham liderança e papel nucleador no setor de sua atuação no Estado de Alagoas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Constitui objetivo do convênio a implementação do Terceiro Convênio de Cooperação Técnica Científica, no Estado de Alagoas, do PROGRAMA DE APOIO A NÚCLEOS DE EXCELÊNCIA – PRONEX junto ao CNPq, criado pelo Decreto nº 1.857, de 10/04/1996, com vigência para os exercícios de 2008 a 2010. O Programa de Apoio a Núcleos de Excelência – PRONEX – CNPq/FAPEAL visa apoiar grupos de pesquisa de reconhecida excelência mediante o suporte financeiro à execução de projetos de pesquisas científicas, tecnológicas e de inovação, no Estado de Alagoas.",
+            "information": "",
+            "proposalDate": "2008-10-16T03:00:00.000Z",
+            "biddingDate": "2008-12-18T02:00:00.000Z",
+            "homologationDate": "2008-12-29T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2050120080001",
+              "name": "Programa de Apoio a Núcleos de Excelência - PRONEX",
+              "value": 3532,
+              "details": {
+                "code": "2050120080001",
+                "name": "Programa de Apoio a Núcleos de Excelência - PRONEX",
+                "cps": null,
+                "items": "Possibilitar ações de cooperação técnico-científica visando à implementação dos projetos selecionados no âmbito do PRONEX, selecionados pelas entidades estaduais de fomento à pesquisa.",
+                "couterpartRule": "Percentuais de contrapartida (Estado x MCT/CNPq) SP  1 x 1 MG, RJ, RS: 1 x 1,5 AM, PA, CE, PE, BA, PB, DF,, GO, GO, MT, MS, PR, SC e ES: 1 x 2 AP, AC, RO, RR, TO, PI, MA, RN, SE e AL: 1 x 3 [Percentual Mínimo Contrapartida: 25.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 3532,
+                "couterpartValues": {
+                  "total": 883000,
+                  "financial": 883000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 2649,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 35.562.321/0001-64 - FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "respProponent": "***.240.944-** - JANESMAR CAMILO DE MENDONCA CAVALCANTI",
+            "grantor": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "respGrantor": "***.686.168-** - GLAUCIUS OLIVA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "PRONEX 01/2009 - 2",
+              "type": "Licitação - Concurso",
+              "date": null,
+              "processId": "67000120081",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concurso",
+                "biddingType": "",
+                "processId": "67000120081",
+                "biddingId": "PRONEX 01/2009 - 2",
+                "object": "Apoiar a execução de projetos de grupos consolidados ou de novos grupos de pesquisas científicas, tecnológicas e de inovação, visando dar suporte financeiro aos trabalhos dos grupos de pesquisas, vinculados a instituições de ensino e/ou pesquisa sem fins lucrativos, no Estado de Alagoas, e com atuação nas áreas especificadas no presente Edital.",
+                "legalFoundation": "Lei 8666/93",
+                "justification": "A parceria entre o CNPq e a FAPEAL vem representando o fortalecimento da Ciência e Tecnologia no Estado de Alagoas. As duas primeiras chamadas do projeto PRONEX vieram permitir um grande avanço nas atividades de pesquisa realizadas na\nUFAL.\nAtualmente, tem sido possível incrementar atividades de cooperação e intercâmbio científicos entre os grupos de pesquisa da UFAL e de outras instituições, envolvendo pesquisadores e estudantes de pós-graduação. Adicionalmente, a contratação de bolsistas de apoio técnico vem possibilitando uma sensível melhora nas atividades de manutenção de laboratório, na utilização\nde equipamentos e nas atividades burocráticas.\nConsiderando-se,toda esta melhoria, gostariamos de ampliar e dar continuidade ao processo de desenvolvimento científico e tecnológico aos grupos de alta competência que tenham liderança e papel nucleador no setor de sua atuação no Estado de Alagoas.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 490000,
+                "homologationDate": null,
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000068/2012",
+              "biddingId": "PRONEX 01/2009 - 2",
+              "date": "2014-03-28T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 47897104915",
+                "hirerDocument": "CNPJ: 35562321000164",
+                "type": "Material e Serviço",
+                "object": "OTIMIZAÇÃO DE SISTEMA COMPLEXOS: REDE DE CONHECIMENTO, COMUNICAÇÃO E ESCRITURA( PROJETO TURING)",
+                "totalValue": 490000,
+                "publishDate": "2014-03-28T03:00:00.000Z",
+                "beginDate": "2014-03-28T03:00:00.000Z",
+                "endDate": "2014-12-17T02:00:00.000Z",
+                "signDate": "2014-03-28T03:00:00.000Z",
+                "executionProcessId": "PRONEX 01/2009 - 2 ",
+                "biddingModality": "Licitação - Concurso ",
+                "processId": "67000120081 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "20501 - CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+            "convenient": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS",
+            "documentNumber": "35.562.321/0001-64",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "700329/2008",
+            "validity": "18/12/2008 a 17/12/2014",
+            "limitDate": "2019-03-16T03:00:00.000Z",
+            "totalValue": 3532,
+            "transferValue": 2649,
+            "counterpartValue": 883000,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

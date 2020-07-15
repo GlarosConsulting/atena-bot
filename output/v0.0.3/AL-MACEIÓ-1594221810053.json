@@ -1,0 +1,1310 @@
+{
+  "beginDate": "2020-07-08T15:15:58.923Z",
+  "endDate": "2020-07-08T15:23:30.053Z",
+  "data": {
+    "location": {
+      "uf": "AL",
+      "city": "Maceió"
+    },
+    "agreements": [
+      {
+        "agreementId": "870675/2018",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-08-09T03:00:00.000Z",
+        "end": "2021-08-09T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "032683/2018",
+            "organId": "32683/2018",
+            "processId": "326832018",
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A região da Costa dos Corais é contemplada por oito municípios turísticos, dentre eles Maragogi, segundo destino indutor de Alagoas, Porto de Pedras, Passo de Camaragibe e São Miguel dos Milagres municípios que fazem parte da Rota Ecológica beneficiados neste projeto de sinalização turística, além de outros também consolidados turisticamente. A região também faz parte da maior APA Marinha do Brasil criada por Decreto Federal nº 000/97 de 23/10/1997. A Costa dos Corais dispõe de excelente infraestrutura turística, pousadas de charme, Resorts e hotéis para variados perfis de turistas, restaurantes, artesanato e opções de lazer também agregam a qualidade dos serviços desses municípios. Cenários como vilas de pescadores, a experiência do passeio do peixe Boi, piscinas naturais conhecidas como “Gales”,praias paradisíacas, artesanato da fibra da bananeira, arte de coco e madeira atraem turistas advindos de vários lugares do mundo. Em Maragogi cidade que fica entre duas capitais Recife e Maceió, portal de entrada da região anualmente recebe 400 mil turistas nacionais e internacionais, o que faz com que esse fluxo percorra as demais cidades e conheça outros produtos e serviços, ampliando a economia local. A cidade de Maragogi tem 28.749 mil habitantes segundo IBGE de 2010, Porto de Pedras 8.429 mil habitantes, Passo de Camaragibe 14.763 e São Miguel dos Milagres 7.163 mil habitantes IBGE 2010. Além do cenário natural que enriquece esses municípios, outra peculiaridade nessa região é a gastronomia de alto padrão oferecida nas pousadas de charme espalhadas por esses municipios. Eventos movimentam a economia da região o famoso revellion dos Milagres é um dos maiores revellion do Brasil acontece na Praia de Marceneiro (Passo de Camaragibe), em Maragogi acontece anualmente o Festival da Lagosta que já está em sua oitava edição, o evento tem o objetivo de divulgar a gastronomia local por meio de frutos do mar, o evento acontece na baixa temporada com intuito de movimentar o fluxo. A implantação das placas nos municípios que serão contemplados com essa obra irá fazer com que melhore o deslocamento dos turistas e comunidades, facilite a identificação das cidades e dos produtos turísticos e amplie a competitividade do destino. Um destino para ser considerado turístico precisa ter infraestrutura básica e a sinalização está dentro dessa lista de prioridades para que os municípios recebam melhor seus visitantes.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Implantação de Sinalização Turística na Costa dos Corais-AL.",
+            "information": "Em atendimento ao disposto no inciso IV, Art. 39 da Portaria Interministerial nº 507, atesto para os devidos fins que a Secretaria de Estado do Desenvolvimento Econômico e Turismo de Alagoas possui quadro de profissionais que atendem aos requisitos necessários de capacidade técnica e gerencial para a execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a devida execução do presente convênio.",
+            "proposalDate": "2018-03-26T03:00:00.000Z",
+            "biddingDate": "2018-08-09T03:00:00.000Z",
+            "homologationDate": "2018-08-20T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020180004",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+              "value": 275996.19,
+              "details": {
+                "code": "5400020180004",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+                "cps": "007/2018",
+                "items": "Equipamentos Comunitários",
+                "couterpartRule": "ESTADOS - 0,1% (um décimo por cento) e 10% (dez por cento) para Estados se localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE, SUDAM e SUDECO [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 275996.19,
+                "couterpartValues": {
+                  "total": 5520,
+                  "financial": 5520,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 270476.19,
+                  "amendment": "R$ 270.476,19 - Ronaldo Lessa"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "respProponent": "***.354.894-** - RAFAEL DE GOES BRITO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "documentNumber": "69.977.734/0001-21",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "870675/2018",
+            "validity": "09/08/2018 a 09/08/2021",
+            "limitDate": "2021-10-08T03:00:00.000Z",
+            "totalValue": 275996.19,
+            "transferValue": 270476.19,
+            "counterpartValue": 5520,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "862906/2017",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Assinado",
+        "start": "2017-12-30T02:00:00.000Z",
+        "end": "2021-12-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - PROPONENTE ESPEC?FICO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Liminar Judicial",
+            "status": {
+              "value": "Em execução",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "104465/2017",
+            "organId": "104465/2017",
+            "processId": "1044652017",
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Centro Cultural e de Exposição Ruth Cardoso foi inaugurado em 2005. O equipamento foi projetado para atender as mais variadas necessidades de feiras, congressos, plenárias, exposições e apresentações culturais, sua área total de 48.000 m2, está localizado na capital Maceió. A sua localização privilegiada, no bairro histórico de Jaraguá, facilita o acesso à rede hoteleira e às opções de alimentação e lazer. Maceió com 932,078 habitantes de acordo com o IBGE 2010, está localizada estrategicamente entre as capitais nordestinas, com voos regulares para as principais cidades do país, o que facilita a vinda de turistas advindos de vários lugares do Brasil e do mundo para fomentar o turismo de negócios e eventos. Maceió dispõe de vários atrativos turísticos, sendo este um dos motivos inspiradores para fomentar o turismo do estado. A orla, é considerada a mais bonita do Brasil e a barreira de coral que formam as piscinas naturais no meio do mar a 2 km da costa são alguns dos produtos turísticos do estado, onde os turistas tem acesso por meio de jangadas. Os restaurantes com a culinária diversificada que vai do paladar regional ao clássico, além de atrativos como museus, uma rica história com fatos de personagens, manifestações culturais, música, literatura e o artesanato são algumas das atrações que a capital dispõe para receber o turista. O bairro pacato do Pontal da Barra encanta os visitantes pelo artesanato filé, tipicamente alagoano e pelos passeios realizados de catamarã e barcos pela Lagoa Mundaú. A cultura alagoana é complementada pelo bairro histórico do Jaraguá, que tem casario centenário e que durante os séculos XIX e XX fez pulsar a zona comercial da cidade por meio do porto instalado no bairro. Outro fator relevante para manter a permanência dos visitantes na capital e ampliar a economia nos diversos segmentos beneficiados pela atividade turística, são os eventos realizados: Fest Verão na alta temporada( janeiro) festividades Juninas espalhados por vários bairros da capital, previas de carnaval que atraem milhares de turistas e a festa do revelion que hoje já consolida Alagoas como estado dos revelions, competindo com outros estados consolidados. O Centro Cultural Ruth Cardoso torna-se competitivo diante de outros estados devido a concentração de facilidades que estão localizadas a um raio de 10km das principais atrações da cidade como hotéis, bares, restaurantes e centros de compras, o que simplifica a organização e logística do evento e o deslocamento de seus participantes. Diante de tantos motivos importantes em relação ao equipamento, é que entendemos a necessidade de melhorar as carências identificadas nos ambientes distribuídos no centro como: Teatro Gustavo Leite, Auditório Vergilio Loureiro e demais salas temáticas( Tamarindo, Umbu, Mangaba, Pitanga e seriguela) que compõe a estrutura do local. Diante disto, solicitamos ao Ministério do Turismo o apoio com recursos para viabilizar a reforma e revitalização desses espaços tornando o equipamento cada vez mais competitivo. O projeto foi idealizado avaliando todos os requisitos do plano de segurança contra incêndio e pânico e em conformidade com as normativas da ABNT, Defesa Civil e Corpo de Bombeiros. O empreendimento é considerado o maior equipamento do estado em relação a recepcionar encontros de pequenos, médios e grandes eventos. O presente projeto, visa tornar o Centro Cultural Ruth Cardoso mais atrativo durante as candidaturas para captação de novos eventos para a capital Maceió, fomentando o turismo de negócios e eventos diminuindo a sazonalidade nos períodos de baixa temporada. Seguem as coordenadas geográficas do Centro Cultural Ruth Cardoso -9.668765, -35.722850.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Apoio a projetos de infraestrutura turística - Reforma e revitalização do teatro Gustavo Leite, Auditório Vergílio Loureiro, salas temáticas ( Umbu, Seriguela, Pitanga, Tamarindo e Mangaba) no Centro Cultural Ruth Cardoso no município de Maceió/Alagoas.",
+            "information": "Em atendimento ao disposto no inciso IV, Art. 39 da Portaria Interministerial nº 507, atesto para os devidos fins que a Secretaria de Estado do Desenvolvimento Econômico e Turismo de Alagoas possui quadro de profissionais que atendem aos requisitos necessários de capacidade técnica e gerencial para a execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a devida execução do presente convênio.",
+            "proposalDate": "2017-12-28T02:00:00.000Z",
+            "biddingDate": "2017-12-30T02:00:00.000Z",
+            "homologationDate": "2018-01-17T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170014",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - PROPONENTE ESPEC?FICO",
+              "value": 1000,
+              "details": {
+                "code": "5400020170014",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - PROPONENTE ESPEC?FICO",
+                "cps": "",
+                "items": "VI – construção, revitalização e reforma de edificações de uso público ou coletivo destinadas a atividades indutoras de turismo, como centros de cultura, museus, teatros, casas de memória, centros de convenções, feiras, centros de eventos, centros de apoio ao turista e centros de comercialização de produtos associados ao turismo;",
+                "couterpartRule": "ESTADOS - 0,1% (um décimo por cento) e 10% (dez por cento) para Estados se localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE, SUDAM e SUDECO [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1000,
+                "couterpartValues": {
+                  "total": 25000,
+                  "financial": 25000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 975000,
+                  "amendment": "R$ 975.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "respProponent": "***.354.894-** - RAFAEL DE GOES BRITO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "documentNumber": "69.977.734/0001-21",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "862906/2017",
+            "validity": "30/12/2017 a 30/12/2021",
+            "limitDate": "2022-02-28T03:00:00.000Z",
+            "totalValue": 1000,
+            "transferValue": 975000,
+            "counterpartValue": 25000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "862888/2017",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2017-12-30T02:00:00.000Z",
+        "end": "2021-12-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - EMENDA DE BANCADA",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Sob Liminar Judicial e Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "102599/2017",
+            "organId": "102599/2017",
+            "processId": "1025992017",
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O estado de Alagoas com 3.120.494 habitantes de acordo com indicadores do IBGE 2010, é um estado consolidado e considerado um dos destinos turísticos mais vendidos pelas principais operadoras do Brasil. Também somos destaque em relação à inauguração de novos empreendimentos, até 2019 mais 19 novos empreendimentos serão inaugurados, injetando aproximadamente 5 mil novos leitos. Outro fator relevante no estado é que estamos entre os quatro destinos que tem número de desembarque positivo no aeroporto, o que estimula a vinda de novos turistas ampliando a visibilidade do destino. Por esses motivos entendemos que quando o turista chega ao estado é preciso ter um bom acesso para facilitar o deslocamento dentro das regiões turísticas, e os porticos vem complementar essa melhoria na infraestrutura. O estado dispõe de vários atrativos turísticos que motivam esses números positivos nos últimos anos. Litoral sul e norte oferecem praias com águas claras e uma temperatura agradável o ano inteiro também praias para quem busca privacidade, badalações e surfar. Em Alagoas são mais de 13 mil artesãos o que deixa a cultura rica por meio das diversas tipologias espalhadas pelos municípios, museus, casa de artes, engenhos, cidades históricas tombadas pelo IPHAN, rios, dunas, foz do São Francisco, trilhas, cachoeiras e o cânion são alguns dos atrativos que encantam os visitantes que buscam o estado. A importância dos pórticos nas regiões do estado melhora o acesso e facilita o deslocamento dos turistas que visitam Alagoas. Considera-se ainda que, a execução de projetos que desenvolvam o turismo por meio da adequação de infraestrutura do destino, além de permitir a ampliação do segmento, melhora a sua capacidade, segurança e qualidade de atendimento oferecido aos visitantes que chegam ao estado. Neste contexto, este projeto visa, além de orientar e facilitar os percursos do turista no estado, contribui também para a valorização dos atrativos, tendo como conseqüência a facilidade de identificação e assimilação por parte dos visitantes. Para a proposta, entendemos que não basta apenas posicionar os porticos nas principais rodovias, mas também é de grande importância que seja criada toda uma identidade visual de forma que aproxime os passantes, mostrando de forma atrativa os produtos turísticos existentes nos municípios alagoanos. Utilizar iconografias dos atrativos, imagens e símbolos que representam as regiões, estabelece além de uma maior identificação, uma empatia com o público-alvo. Ações como essas visam a melhoria dos destinos tornando-os cada vez mais competitivos diante de outros destinos. Coordenadas geográficas da construção dos pórticos - Divisa Alagoas e Sergipe 10°12'47.6''S 36°49'20.0''W Divisa Alagoas e Pernambuco 8°54'46.3''S 35°09'14.3''W Coordenadas Barra de São Miguel 8°54'46.3''S 35°09'14.3''W Coordenadas União dos Palmares 9°10'13.8''S 36°01'28.3''W",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - Construção de Pórticos no Estado de Alagoas - AL",
+            "information": "Em atendimento ao disposto no inciso IV, Art. 39 da Portaria Interministerial nº 507, atesto para os devidos fins que a Secretaria de Estado do Desenvolvimento Econômico e Turismo de Alagoas possui quadro de profissionais que atendem aos requisitos necessários de capacidade técnica e gerencial para a execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a devida execução do presente convênio.",
+            "proposalDate": "2017-12-21T02:00:00.000Z",
+            "biddingDate": "2017-12-30T02:00:00.000Z",
+            "homologationDate": "2018-01-17T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170028",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - EMENDA DE BANCADA",
+              "value": 300000,
+              "details": {
+                "code": "5400020170028",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - EMENDA DE BANCADA",
+                "cps": "",
+                "items": "I – construção, revitalização e reforma de infraestrutura urbana para adequação de espaços de interesse turístico (saneamento básico, sistemas de drenagem urbana, paisagismo, sinalização turística e praças; parques urbanos, pavimentação, execução de calçadas, passeios, iluminação pública e ciclovias/ciclofaixas, se os projetos estiverem associados a parques, praças, orlas e outros atrativos turísticos, sendo necessária a apresentação de mapa (croqui) que evidencie a associação àqueles atrativos, X – construção e reforma de portais;",
+                "couterpartRule": "ESTADOS - 0,1% (um décimo por cento) e 10% (dez por cento) para Estados se localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE, SUDAM e SUDECO [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 7500,
+                  "financial": 7500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00 - Bancada de Alagoas"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "respProponent": "***.354.894-** - RAFAEL DE GOES BRITO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "documentNumber": "69.977.734/0001-21",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "862888/2017",
+            "validity": "30/12/2017 a 30/12/2021",
+            "limitDate": "2022-02-28T03:00:00.000Z",
+            "totalValue": 300000,
+            "transferValue": 292500,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "862874/2017",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2017-12-30T02:00:00.000Z",
+        "end": "2021-12-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - EMENDA DE BANCADA",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Sob Liminar Judicial e Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "101930/2017",
+            "organId": "101930/2017",
+            "processId": "1019302017",
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Considerando a necessidade do Governo do Estado de Alagoas em ampliar o desenvolvimento regional e dar sustentabilidade a certas comunidades, atendendo a integração cooperativa proposta pelo Plano Nacional de Turismo e a contemplação do município de Porto de Pedras localizada na região turística do estado Lagoas e Mares, do Sul entende-se que intervenções que contribuam para o desenvolvimento do turismo, possuam um caráter benéfico para os visitantes e turistas. O turismo na sociedade moderna tem buscado as áreas de grande fluxo e reconhecimento público e notório. Porto de Pedras é um município brasileiro do Estado de Alagoas, a sua população é de 8.429, segundo CENSO do IBGE 2010. Faz parte da Mesorregião do Leste Alagoano, integrado a Microrregião Geográfica do Litoral Norte. Limita-se ao norte com os municípios de Porto Calvo e Japaratinga, ao sul com São Miguel dos Milagres, a leste com o Oceano Atlântico e ao oeste com Matriz de Camaragibe, fazendo parte da Área de proteção Ambiental Federal Costa dos Corais (APA dos Corais) e da Reserva da Biosfera da Mata Atlântica (RBMA). Com uma área de 257,655 km² (IBGE, 2010), dista cerca de 100 quilômetros de Maceió, tendo como principais vias de acesso as rodovias AL 101 Norte, AL 460 e AL 435. O município é banhado pelas bacias Rio Tatuamunha e seus afluentes, e pelos riachos Pau Amarelo, Manjericão e Triunfo, que drenam uma área de 163,2 km², e Rio Manguaba e seus afluentes: Roncador, Floresta, Apara e Canavieira, com área drenada de 40km². Há muito tempo a economia de Porto de Pedras sobrevive do coco, da cana-de-açúcar e da pesca, que ocupa parte da população litorânea e onde sobressaem, de forma significativa, o dourado, a sardinha, o xaréu e o vermelho. A agricultura, dominada pela cana-de-açúcar, esta longe de apresentar uma produção diversificada que corresponda aos fartos recursos naturais, principalmente terra fértil e água abundante. É fato que se enxerga no turismo uma forma de diversificar a economia. Diante de tantas belezas naturais o turismo que está encaixado no Roteiro de Charme, deu abertura para o desenvolvimento sócio econômico e cultural, um grande número de pousadas já se instalou no município e são procuradas por turistas do mundo inteiro por sua alta qualidade de serviços, dentre elas pode-se destacar a Aldeia Beijupirá, a Patacho e a Borapirá. Porto de Pedras atrai turistas por suas belezas naturais e características culturais de seu povo. Passeios como a travessia do rio Manguaba de barco ou balsa para Japaratinga, com uma paisagem rica em manguezais e coqueirais, as praias de Crôa do Tubarão, Tatuamunha e Porto de Pedras, além da bela paisagem do farol, são atrativos para quem visita a pitoresca cidade de Porto de Pedras. Além das lindas praias, do deslumbrante mar, faz parte da oferta o turismo rural com seus antigos engenhos de cana e casas grandes dos coronéis. O turismo impulsiona a rede de serviços e a produção artesanal, esta de grande relevância tendo em vista a grande quantidade de artesãos no município. Uma boa notícia que ajudará no turismo local é que o Instituto do Patrimônio Histórico e Artístico Nacional-Iphan iniciou o processo de tombamento da cidade de Porto de Pedras como Monumento Urbano Nacional. Assim a melhoria dos serviços ofertados ao público turístico e a comunidade local tem sido o maior foco da administração pública, visto que, espera-se que com os novos investimentos o fluxo turístico no município seja aumentado. A construção do Mirante do Farol, Coordenadas Geográficas: 9°09'24.8''S 35°17'51.5''W solucionará problemas no âmbito de infraestrutura local, tais como acomodar melhor o turista que visita à cidade, já que o local a ser reformado oferece uma vista deslumbrante e ainda poderá ser usado como lugar de promoção de integração social e de lazer. A pequena cidade vem tentando se estruturar e promover o turismo como instrumento eficaz de desenvolvimento econômico e conservação dos recursos naturais e culturais sendo necessário ressaltar que setor público busca minimizar os impactos ambientais e socioculturais, ao tempo que promove benefícios econômicos para as comunidades locais e regionais, tendo no turismo o grande mecanismo de inovação econômica local.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - Construção do Mirante do Farol no município de Porto de Pedras - AL.",
+            "information": "Em atendimento ao disposto no inciso IV, Art. 39 da Portaria Interministerial nº 507, atesto para os devidos fins que a Secretaria de Estado do Desenvolvimento Econômico e Turismo de Alagoas possui quadro de profissionais que atendem aos requisitos necessários de capacidade técnica e gerencial para a execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a devida execução do presente convênio.",
+            "proposalDate": "2017-12-19T02:00:00.000Z",
+            "biddingDate": "2017-12-30T02:00:00.000Z",
+            "homologationDate": "2018-01-17T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170028",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - EMENDA DE BANCADA",
+              "value": 1100,
+              "details": {
+                "code": "5400020170028",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - EMENDA DE BANCADA",
+                "cps": "",
+                "items": "VII – construção e reforma de mirantes;",
+                "couterpartRule": "ESTADOS - 0,1% (um décimo por cento) e 10% (dez por cento) para Estados se localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE, SUDAM e SUDECO [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1100,
+                "couterpartValues": {
+                  "total": 27500,
+                  "financial": 27500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1072.5,
+                  "amendment": "R$ 1.072.500,00 - Bancada de Alagoas"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "respProponent": "***.354.894-** - RAFAEL DE GOES BRITO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "documentNumber": "69.977.734/0001-21",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "862874/2017",
+            "validity": "30/12/2017 a 30/12/2021",
+            "limitDate": "2022-02-27T03:00:00.000Z",
+            "totalValue": 1100,
+            "transferValue": 1072.5,
+            "counterpartValue": 27500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "797587/2013",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "INSTITUTO BRASILEIRO DE TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-27T02:00:00.000Z",
+        "end": "2015-05-11T03:00:00.000Z",
+        "program": "TURISMO - Verba Descentralizada Internacional 2013",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "068122/2013",
+            "organId": "00020/2013",
+            "processId": "72100.001124/2013-18",
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "legalFoundation": "Portaria Interministerial 507/2011",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": "20604 - INSTITUTO BRASILEIRO DE TURISMO",
+            "description": null,
+            "justification": "As ações promocionais têm minimizado os efeitos da sazonalidade, criando, portanto, mais oportunidades à geração de negócios e incremento dos pacotes turísticos para destinos com forte atratividade no mercado internacional, como é caso do Estado de Alagoas. Nos últimos anos, com a expansão do parque hoteleiro de Alagoas e outros empreendimentos que agregam valor aos serviços e infraestrutura para atendimento de turistas estrangeiros, um público cada vez mais exigente, tem buscado selecionar destinos turísticos qualificados para suas viagens. O trabalho de promoção internacional tem sido uma estratégia eficiente no incremento do fluxo de turistas para estado de Alagoas, impactando positivamente na ocupação da rede hoteleira, e, consequentemente, justificando os investimentos no setor. O esforço promocional alavancado pelo governo local, representado pela SETUR/AL e no âmbito federal, pela EMBRATUR, garante credibilidade ao turismo receptivo do Brasil, ampliando a manutenção das parcerias. Esta proposta, alinhada com o Programa de Comercialização Internacional do Destino Brasil, visa à criação de condições factíveis para o incremento do fluxo de turistas oriundos da Espanha, Portugal, Alemanha e Argentina, mercados definidos pelo Plano Aquarela como prioridade à promoção internacional. A promoção será realizada no período de 23/12/2013 a 30/12/2014.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Apoiar a promoção do destino turístico de Alagoas no mercado internacional por meio de veiculação na Folha de Turismo, Anúncio em jornal e TV da Argentina; Produção e distribuição de material promocional em feiras internacionais.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº 507/2011, atesto para os devidos fins que a Secretaria de Estado do Turismo de Alagoas possui quadro de profissionais que atendem aos requisitos necessários de capacidade técnica, operacional e gerencial para a execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a devida execução do presente convênio.",
+            "proposalDate": "2013-10-17T03:00:00.000Z",
+            "biddingDate": "2013-12-27T02:00:00.000Z",
+            "homologationDate": "2014-01-15T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2060420130005",
+              "name": "TURISMO - Verba Descentralizada Internacional 2013",
+              "value": 264769,
+              "details": {
+                "code": "2060420130005",
+                "name": "TURISMO - Verba Descentralizada Internacional 2013",
+                "cps": null,
+                "items": "Execução de ações de marketing dos destinos turísticos brasileiros no exterior descritas nas Orientações para aplicação da Verba Descentralizada Internacional para os Estados 2013, que serão realizadas nos países apontados nas referidas Orientações.",
+                "couterpartRule": "ESTADOS OU DISTRITO FEDERAL LOCALIZADOS NAS ÁREAS PRIORITÁRIAS DEFINIDAS NO ÂMBITO DA PNDR, NAS AREAS DA SUDENE, SUDAM E SUDECO. [Percentual Mínimo Contrapartida: 5.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 264769,
+                "couterpartValues": {
+                  "total": 13238.45,
+                  "financial": 13238.45,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 251530.55,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "respProponent": "***.198.705-** - DANIELLE GOVAS PIMENTA NOVIS",
+            "grantor": "20604 - INSTITUTO BRASILEIRO DE TURISMO",
+            "respGrantor": "***.156.313-** - FLAVIO DINO DE CASTRO E COSTA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "AMGESP-002/2012",
+              "type": "Licitação -",
+              "date": "2012-03-13T03:00:00.000Z",
+              "processId": "22001502011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "22001502011",
+                "biddingId": "AMGESP-002/2012",
+                "object": "Contratação de 05 (cinco) empresas especializadas para prestação serviços de propaganda e publicidade institucional destinadas a Administração Pública - Direta e Indireta -  do Estado de Alagoas, conforme as descrições contidas no Edital, através de dois contratos distintos, sendo 03 (três) empresas para o atendimento da Administração Pública Direta e outras 02 (duas) empresas distintas para a Administração Indireta, inexistindo exclusividade sobre quaisquer das ações a serem desenvolvidas.",
+                "legalFoundation": "Leis Federais 12.232/2010, nº 8.666/93, 8.883/949.648/98, 11.196/05, Leis Estaduais nº 5.237/91, 6.582/2005, 4.680/65, Decreto Estadual nº 2.750, 57.690/66 e 4.563/2002.",
+                "justification": "Necessidade de abertura de procedimento licitatório para contratação de Agências de Publicidade que atendam as demandas de publicidade institucional das Secretarias do Estado de Alagoas, assim como das Entidades da Administração Indireta vinculadas ao Estado.\nImportante frisar que, com a realização do referido certame e sua consequente efetivação, o Governo do Estado de Alagoas estará mais uma vez avançando na constante busca pela estrita observância da legalidade, vez que atenderá indubitavelmente as prescrições contidas na Lei Federal 12.232/2010 e demais normas correlatas, que regulam os procedimentos licitatórios para contratação de Agências de Publicidade com os entes federativos, assim como atenderá uma carência existente em razão da lacuna ocorrida no último certame licitatório, em virtude do não atendimento dos contratos de publicidade vigentes as demandas publicitárias das Entidades da Administração Indireta do Estado de Alagoas.\nInsta destacar que já fora acordado entre a Secretaria de Estado da Comunicação e as demais Secretarias de Estado, bem como com as Entidades da Administração Indireta vinculadas ao Governo Estadual, que o processo licitatório será processado e julgado através da Agência de Modernização da Gestão de Processo  – AMGESP, e com intermediação da Secretaria de Estado da Comunicação, até mesmo em virtude do que prevê o Decreto Estadual nº 37.979/99, ainda em vigor.",
+                "publishDate": "2012-03-13T03:00:00.000Z",
+                "beginDate": "2012-03-16T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 50000,
+                "homologationDate": "2013-02-15T02:00:00.000Z",
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000008/2014",
+              "biddingId": "AMGESP-002/2012",
+              "date": "2014-10-01T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05124105000419",
+                "hirerDocument": "CNPJ: 69977734000121",
+                "type": "Serviço",
+                "object": "Contrata??o de empresa de publicidade e propaganda para presta??o de servi?os de m?dia para promo??o do destino Alagoas no mercado internacional, atrav?s de an?ncios no ve?culo Folha do Turismo, veicula??o de filme na TV alto n?vel, da Argentina; veicula??o de an?ncio no jornal La Voz Del Interior tamb?m da Argentina e confec??o de pe?as promocionais (toalhas de praia e ecobags) que ser?o distribu?dos aos agentes, operadores e participantes nos eventos internacionais em que Alagoas se faz presente, conforme especifica??es discriminadas no seu Anexo ?nico.",
+                "totalValue": 264769,
+                "publishDate": "2014-10-01T03:00:00.000Z",
+                "beginDate": "2014-10-01T03:00:00.000Z",
+                "endDate": "2015-05-11T03:00:00.000Z",
+                "signDate": "2014-09-30T03:00:00.000Z",
+                "executionProcessId": "AMGESP-002/2012 ",
+                "biddingModality": "Licitação - ",
+                "processId": "22001502011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "20604 - INSTITUTO BRASILEIRO DE TURISMO",
+            "convenient": "SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "documentNumber": "69.977.734/0001-21",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "797587/2013",
+            "validity": "27/12/2013 a 11/05/2015",
+            "limitDate": "2014-12-23T02:00:00.000Z",
+            "totalValue": 2,
+            "transferValue": 264769,
+            "counterpartValue": 251530.55,
+            "yieldValue": 13238.45
+          }
+        }
+      },
+      {
+        "agreementId": "787470/2013",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "INSTITUTO BRASILEIRO DE TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-11-26T02:00:00.000Z",
+        "end": "2014-11-30T02:00:00.000Z",
+        "program": "TURISMO - PROMOÇÃO INTERNACIONAL",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "051987/2013",
+            "organId": "00005/2013",
+            "processId": "72100.000940/2013-12",
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "legalFoundation": "PORTARIA 507/2011",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": "20604 - INSTITUTO BRASILEIRO DE TURISMO",
+            "description": null,
+            "justification": "As ações promocionais têm minimizado os efeitos da sazonalidade, criando, portanto, mais oportunidades à geração de negócios e incremento dos pacotes turísticos para destinos com forte atratividade no mercado internacional, como é caso do Estado de Alagoas. Nos últimos anos, com a expansão do parque hoteleiro de Alagoas e outros empreendimentos que agregam valor aos serviços e infraestrutura para atendimento de turistas estrangeiros, um público cada vez mais exigente, tem buscado selecionar destinos turísticos qualificados para suas viagens. O trabalho de promoção internacional tem sido uma estratégia eficiente no incremento do fluxo de turistas para estado de Alagoas, impactando positivamente na ocupação da rede hoteleira, e, consequentemente, justificando os investimentos no setor. O esforço promocional alavancado pelo governo local, representado pela SETUR/AL e no âmbito federal, pela EMBRATUR, garante credibilidade ao turismo receptivo do Brasil, ampliando a manutenção das parcerias. Esta proposta, alinhada com o Programa de Comercialização Internacional do Destino Brasil, visa à criação de condições factíveis para o incremento do fluxo de turistas, principalmente em mercados definidos pelo Plano Aquarela como de altíssima prioridade à promoção internacional. A promoção será realizada no período de 01/11/2013 a 01/11/2014.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Apoiar a promoção do destino turístico de Alagoas no mercado argentino por meio de ações promocionais nos veículos Buenos Viajes, La Nacion, Report e Telas de Led, visando ampliar o fluxo de turistas estrangeiros no referido Estado.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº 507 de 24 de novembro de 2011, atesto para os devidos fins que a Secretaria de Estado do Turismo de Alagoas possui quadro de profissionais que atendem aos requisitos necessários de capacidade técnica e gerencial para a execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a devida execução do presente convênio.",
+            "proposalDate": "2013-08-21T03:00:00.000Z",
+            "biddingDate": "2013-11-26T02:00:00.000Z",
+            "homologationDate": "2013-12-16T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2060420130002",
+              "name": "TURISMO - PROMOÇÃO INTERNACIONAL",
+              "value": 308152,
+              "details": {
+                "code": "2060420130002",
+                "name": "TURISMO - PROMOÇÃO INTERNACIONAL",
+                "cps": null,
+                "items": "Turismo - Promoção Internacional",
+                "couterpartRule": "Estados e do Distrito Federal se localizados nas àreas proritárias definidas no âmbito da PNDR, SUDENE, SUDAM e SUDECO. [Percentual Mínimo Contrapartida: 5.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 308152,
+                "couterpartValues": {
+                  "total": 16897.17,
+                  "financial": 16897.17,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 291254.83,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "respProponent": "***.198.705-** - DANIELLE GOVAS PIMENTA NOVIS",
+            "grantor": "20604 - INSTITUTO BRASILEIRO DE TURISMO",
+            "respGrantor": "***.853.455-** - VICENTE JOSE DE LIMA NETO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "AMGESP-002/2012",
+              "type": "Licitação -",
+              "date": "2012-03-13T03:00:00.000Z",
+              "processId": "22001502011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "22001502011",
+                "biddingId": "AMGESP-002/2012",
+                "object": "Contratação de 05 (cinco) empresas especializadas para prestação serviços de propaganda e publicidade institucional destinadas a Administração Pública - Direta e Indireta -  do Estado de Alagoas, conforme as descrições contidas no Edital, através de dois contratos distintos, sendo 03 (três) empresas para o atendimento da Administração Pública Direta e outras 02 (duas) empresas distintas para a Administração Indireta, inexistindo exclusividade sobre quaisquer das ações a serem desenvolvidas.",
+                "legalFoundation": "Leis Federais 12.232/2010, nº 8.666/93, 8.883/949.648/98, 11.196/05, Leis Estaduais nº 5.237/91, 6.582/2005, 4.680/65, Decreto Estadual nº 2.750, 57.690/66 e 4.563/2002.",
+                "justification": "Necessidade de abertura de procedimento licitatório para contratação de Agências de Publicidade que atendam as demandas de publicidade institucional das Secretarias do Estado de Alagoas, assim como das Entidades da Administração Indireta vinculadas ao Estado.\nImportante frisar que, com a realização do referido certame e sua consequente efetivação, o Governo do Estado de Alagoas estará mais uma vez avançando na constante busca pela estrita observância da legalidade, vez que atenderá indubitavelmente as prescrições contidas na Lei Federal 12.232/2010 e demais normas correlatas, que regulam os procedimentos licitatórios para contratação de Agências de Publicidade com os entes federativos, assim como atenderá uma carência existente em razão da lacuna ocorrida no último certame licitatório, em virtude do não atendimento dos contratos de publicidade vigentes as demandas publicitárias das Entidades da Administração Indireta do Estado de Alagoas.\nInsta destacar que já fora acordado entre a Secretaria de Estado da Comunicação e as demais Secretarias de Estado, bem como com as Entidades da Administração Indireta vinculadas ao Governo Estadual, que o processo licitatório será processado e julgado através da Agência de Modernização da Gestão de Processo  – AMGESP, e com intermediação da Secretaria de Estado da Comunicação, até mesmo em virtude do que prevê o Decreto Estadual nº 37.979/99, ainda em vigor.",
+                "publishDate": "2012-03-13T03:00:00.000Z",
+                "beginDate": "2012-03-16T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 50000,
+                "homologationDate": "2013-02-15T02:00:00.000Z",
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2014",
+              "biddingId": "AMGESP-002/2012",
+              "date": "2014-04-07T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05124105000419",
+                "hirerDocument": "CNPJ: 69977734000121",
+                "type": "Serviço",
+                "object": "Contrata��o de empresa de publicidade e propaganda para presta��o de servi�os de midia para promo��o do destino Alagoas no mercado argentino, atraves de anuncios nos veiculos Buenos Viajes, La  Nacion, Report, bem como a veicula�ao de filme em Telas de Led, conforme especifica��es discriminadas no seu Anexo unico.",
+                "totalValue": 308152,
+                "publishDate": "2014-04-07T03:00:00.000Z",
+                "beginDate": "2014-04-07T03:00:00.000Z",
+                "endDate": "2014-11-01T02:00:00.000Z",
+                "signDate": "2014-04-04T03:00:00.000Z",
+                "executionProcessId": "AMGESP-002/2012 ",
+                "biddingModality": "Licitação - ",
+                "processId": "22001502011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "20604 - INSTITUTO BRASILEIRO DE TURISMO",
+            "convenient": "SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "documentNumber": "69.977.734/0001-21",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "787470/2013",
+            "validity": "26/11/2013 a 30/11/2014",
+            "limitDate": "2015-04-10T03:00:00.000Z",
+            "totalValue": 308152,
+            "transferValue": 291254.83,
+            "counterpartValue": 16897.17,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "781768/2012",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-01-21T02:00:00.000Z",
+        "end": "2016-04-01T03:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Liminar Judicial",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041759/2012",
+            "organId": "41759/2012",
+            "processId": "041759/2012",
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Turismo de Negócios & Eventos vem ganhando força a cada ano após o “boom” da globalização, a ampliação global da economia, o desenvolvimento tecnológico, o aprimoramento dos meios de transportes e da comunicação consecutivamente. Estes e outros fatores facilitam muito a movimentação turística, principalmente para a troca de experiências, gerar e promover negócios, caracterizando-se como um segmento forte, capaz de ampliar a capacidade de atração para um determinado destino. O turismo de Negócios & Eventos possui aspectos positivos como o de equacionador da sazonalidade do destino, gerador de emprego e renda de forma direta e indireta, a transversalidade com outros segmentos a exemplo de esportes e cultura, a possibilidade de interiorizar o turismo, a contribuição no crescimento econômico e geração de conhecimento da localidade e melhoramento da qualidade de vida das pessoas. Assim, propomos a instalação da climatização do CCERC – Centro Cultural e de Exposições Ruth Cardoso, no intuito de criar condições necessárias e ideais para concorrer em igualdade de condições com outros centros existentes nas principais cidades do país.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DO SISTEMA DE CLIMATIZAÇÃO ARTIFICIAL DO CENTRO DE FEIRAS E EXPOSIÇÕES DE MACEIÓ E SUA INTERLIGAÇÃO COM A INSTALAÇÃO DO CENTRO DE CONVENÇÕES - 1ª Etapa",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº 507 de 24 de novembro de 2011, atesto para os devidos fins que a Secretaria de Estado do Turismo de Alagoas possui quadro de profissionais que atendem aos requisitos necessários de capacidade técnica e gerencial para a execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a devida execução do presente convênio.",
+            "proposalDate": "2012-09-25T03:00:00.000Z",
+            "biddingDate": "2013-01-21T02:00:00.000Z",
+            "homologationDate": "2013-02-04T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020120003",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 5145.833,
+              "details": {
+                "code": "5400020120003",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "Edificações de uso público destinadas a atividades indutoras de turismo como centros de cultura, museus, casas da memória, centros de convenções, centros de apoio ao turista, teatros, centros de comercialização de produtos artesanais e mirantes públicos",
+                "couterpartRule": "Estados ou Distrito Federal localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da SUDENE, SUDAM e SUDECO [Percentual Mínimo Contrapartida: 5.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 5145.833,
+                "couterpartValues": {
+                  "total": 270833.33,
+                  "financial": 270833.33,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 4875,
+                  "amendment": "R$ 4.875.000,00 - Com. Desenv Regional e Turismo"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "respProponent": "***.198.705-** - DANIELLE GOVAS PIMENTA NOVIS",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.889.701-** - FREDERICO SILVA DA COSTA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "10035/2012",
+              "type": "Licitação - Pregão",
+              "date": "2012-03-12T03:00:00.000Z",
+              "processId": "29006142011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Eletrônico",
+                "processId": "29006142011",
+                "biddingId": "10035/2012",
+                "object": "climatização centro de convenções ruth cardoso",
+                "legalFoundation": "lei n. 10520/2002",
+                "justification": "climatização centro de convenções ruth cardoso",
+                "publishDate": "2012-03-12T03:00:00.000Z",
+                "beginDate": "2012-03-29T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 8547.051,
+                "homologationDate": "2012-04-25T03:00:00.000Z",
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000024/2013",
+              "biddingId": "10035/2012",
+              "date": "2012-05-08T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11205119000117",
+                "hirerDocument": "CNPJ: 69977734000121",
+                "type": "Serviço",
+                "object": "Climatização do CCERC",
+                "totalValue": 8547.051,
+                "publishDate": "2012-05-08T03:00:00.000Z",
+                "beginDate": "2013-01-21T02:00:00.000Z",
+                "endDate": "2013-05-08T03:00:00.000Z",
+                "signDate": "2012-05-04T03:00:00.000Z",
+                "executionProcessId": "10035/2012 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "29006142011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "documentNumber": "69.977.734/0001-21",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "781768/2012",
+            "validity": "21/01/2013 a 01/04/2016",
+            "limitDate": "2015-07-02T03:00:00.000Z",
+            "totalValue": 31,
+            "transferValue": 5145.833,
+            "counterpartValue": 4875,
+            "yieldValue": 270833.33
+          }
+        }
+      },
+      {
+        "agreementId": "776916/2012",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "INSTITUTO BRASILEIRO DE TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2012-12-26T02:00:00.000Z",
+        "end": "2014-04-15T03:00:00.000Z",
+        "program": "VERBA DESCENTRALIZADA INTERNACIONAL 2012",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "043734/2012",
+            "organId": "00018/2012",
+            "processId": "72100.001057/2012-51",
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "legalFoundation": "Portaria 507/2011",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": "20604 - INSTITUTO BRASILEIRO DE TURISMO",
+            "description": null,
+            "justification": "As ações promocionais têm minimizado os efeitos da sazonalidade, criando, portanto, mais oportunidades à geração de negócios e incremento dos pacotes turísticos para destinos com forte atratividade no mercado internacional, como é caso do Estado de Alagoas. Nos últimos anos, com a expansão do parque hoteleiro de Alagoas e outros empreendimentos que agregam valor aos serviços e infraestrutura para atendimento de turistas estrangeiros, um público cada vez mais exigente, tem buscado selecionar destinos turísticos qualificados para suas viagens. O trabalho de promoção internacional tem sido uma estratégia eficiente no incremento do fluxo de turistas para estado de Alagoas, impactando positivamente na ocupação da rede hoteleira, e, consequentemente, justificando os investimentos no setor. O esforço promocional alavancado pelo governo local, representado pela SETUR/AL e no âmbito federal, pela EMBRATUR, garante credibilidade ao turismo receptivo do Brasil, ampliando a manutenção das parcerias. Esta proposta, alinhada com o Programa de Comercialização Internacional do Destino Brasil, visa à criação de condições factíveis para o incremento do fluxo de turistas, principalmente em mercados definidos pelo Plano Aquarela como de altíssima prioridade à promoção internacional. A promoção será realizada no perído de 26/12/2012 a 26/12/2013.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Apoiar a promoção do destino turístico de Alagoas no mercado argentino com recursos da verba descentralizada internacional 2012, visando ampliar o fluxo de turistas estrangeiros no referido estado",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº 507 de 24 de novembro de 2011, atesto para os devidos fins que a Secretaria de Estado do Turismo de Alagoas possui quadro de profissionais que atendem aos requisitos necessários de capacidade técnica e gerencial para a execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a devida execução do presente convênio.",
+            "proposalDate": "2012-10-26T02:00:00.000Z",
+            "biddingDate": "2012-12-26T02:00:00.000Z",
+            "homologationDate": "2012-12-27T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2060420120007",
+              "name": "VERBA DESCENTRALIZADA INTERNACIONAL 2012",
+              "value": 208656,
+              "details": {
+                "code": "2060420120007",
+                "name": "VERBA DESCENTRALIZADA INTERNACIONAL 2012",
+                "cps": null,
+                "items": "Execução de ações de marketing dos destinos turisticos brasileiros no exterior descritas nas Orientações para aplicação da Verba Descentralizada Internacional para os Estados 2012, que serão realizadas nos países da América Latina apontados nas referidas Orientações.",
+                "couterpartRule": "ESTADOS OU DISTRITO FEDERAL LOCALIZADOS NAS ÁREAS PRIORITÁRIAS DEFINIDAS NO ÂMBITO DA PNDR, NAS ÁREAS DA SUDENE, SUDAM E SUDECO [Percentual Mínimo Contrapartida: 5.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 208656,
+                "couterpartValues": {
+                  "total": 10432.8,
+                  "financial": 10432.8,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 198223.2,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "respProponent": "***.198.705-** - DANIELLE GOVAS PIMENTA NOVIS",
+            "grantor": "20604 - INSTITUTO BRASILEIRO DE TURISMO",
+            "respGrantor": "***.156.313-** - FLAVIO DINO DE CASTRO E COSTA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "amgesp-002/2012",
+              "type": "Licitação -",
+              "date": "2012-03-13T03:00:00.000Z",
+              "processId": "22001502011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "",
+                "biddingType": "",
+                "processId": "22001502011",
+                "biddingId": "amgesp-002/2012",
+                "object": "Prestação de serviço de propaganda e publicidade.",
+                "legalFoundation": "Lei Federal nº 8666/1993.",
+                "justification": "Necessidade de Contratação de cinco empresas especializadas para prestação de serviços de propaganda e publicidade institucional destinada à administração direta e indireta do estado de Alagoas, sendo através de dois contratos distintos: três empresas para atender a administração direta e duas para atender a administração indireta.12/03/2012",
+                "publishDate": "2012-03-13T03:00:00.000Z",
+                "beginDate": "2012-03-16T03:00:00.000Z",
+                "endDate": "2013-07-31T03:00:00.000Z",
+                "biddingValue": 50000,
+                "homologationDate": "2013-02-15T02:00:00.000Z",
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2013",
+              "biddingId": "amgesp-002/2012",
+              "date": "2013-10-11T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05124105000419",
+                "hirerDocument": "CNPJ: 69977734000121",
+                "type": "Serviço",
+                "object": "Presta??o de servi?os de m?dia de promo??o e divulga??o do destino Alagoas, atrav?s Spots em telas de LED com tamanho 4,20m x 2,05m, 360 inser??es di?rias na cidade de Buenos Aires, localizada entre as avenidas Florida e Corrientes, na Argentina, conforme especifica??es discriminadas no seu Anexo ?nico.",
+                "totalValue": 208656,
+                "publishDate": "2013-10-11T03:00:00.000Z",
+                "beginDate": "2013-10-11T03:00:00.000Z",
+                "endDate": "2014-04-15T03:00:00.000Z",
+                "signDate": "2013-10-08T03:00:00.000Z",
+                "executionProcessId": "amgesp-002/2012 ",
+                "biddingModality": "Licitação - ",
+                "processId": "22001502011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "20604 - INSTITUTO BRASILEIRO DE TURISMO",
+            "convenient": "SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "documentNumber": "69.977.734/0001-21",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "776916/2012",
+            "validity": "26/12/2012 a 15/04/2014",
+            "limitDate": "2014-07-30T03:00:00.000Z",
+            "totalValue": 208656,
+            "transferValue": 198223.2,
+            "counterpartValue": 10432.8,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "702012/2008",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2008-12-24T02:00:00.000Z",
+        "end": "2011-12-07T02:00:00.000Z",
+        "program": "PRODETUR - CONVÊNIOS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "026393/2008",
+            "organId": "01435/2008",
+            "processId": "72000.005796/2008-63",
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "legalFoundation": "Decreto 6.170 de 25 de julho de 2007 e Portaria Interministerial 127 de 29 de maio de 2008, atualizados.",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O programa de desenvolvimento do turismo – PRODETUR NACIONAL tem como objetivo consolidar a gestão turística, cooperativa e descentralizada, avançando rumo a um modelo de desenvolvimento turístico a partir do qual os investimentos dos governos federal , estaduais e municipais, respondam tanto as especificidades próprias como uma visão integral do turismo no brasil. Para alcançar seus objetivos o programa apoiará o financiamento de projetos de desenvolvimento turísticos organizados em cinco componentes: estratégias de produtos turísticos, estratégia de comercialização, fortalecimento institucional, infra-estrutura e serviços básicos e gestão ambiental. A elaboração do plano de desenvolvimento integrado do turismo sustentável – PDITS, como requisito necessário à contratação da linha de crédito do PRODETUR NACIONAL, bem como para o planejamento sustentável do setor turístico no Estado, faz parte das atividades de pré-investimentos previstos pelo programa. Tem como objetivo definir ações, orientar a tomada de decisões e estabelecer as prioridades na fase de investimentos a curto, médio e longo prazo, sendo um dos critérios de elegibilidade para que o estado faça parte do programa.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ELABORAÇÃO DO PLANO DE DESENVOLVIMENTO INTEGRADO DO TURISMO SUSTENTÁVEL (PDITS) DO PÓLO LAGOAS E MARES DO SUL, NO ESTADO DE ALAGOAS.",
+            "information": "",
+            "proposalDate": "2008-12-12T02:00:00.000Z",
+            "biddingDate": "2008-12-24T02:00:00.000Z",
+            "homologationDate": "2009-02-16T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020080018",
+              "name": "PRODETUR - CONVÊNIOS",
+              "value": 290521.26,
+              "details": {
+                "code": "5400020080018",
+                "name": "PRODETUR - CONVÊNIOS",
+                "cps": null,
+                "items": "Projetos de Estudos, Planos e Pesquisas",
+                "couterpartRule": "Estados e DF (definidos no PNDR, SUDENE e SUDAM e Centro-Oeste) [Percentual Mínimo Contrapartida: 10.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 290521.26,
+                "couterpartValues": {
+                  "total": 29052.13,
+                  "financial": 29052.13,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 261469.13,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "respProponent": "***.032.407-** - VIRGINIO JOSE FERREIRA LOUREIRO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.881.858-** - LUIZ EDUARDO BARRETTO FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "amgesp-002/2009",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2009-08-05T03:00:00.000Z",
+              "processId": "72000005796200863",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Técnica e Preço",
+                "processId": "72000005796200863",
+                "biddingId": "amgesp-002/2009",
+                "object": "ELABORAÇÃO DO PLANO DE DESENVOLVIMENTO INTEGRADO DO TURISMO SUSTENTÁVEL (PDITS) DO PÓLO LAGOAS E MARES DO SUL, NO ESTADO DE ALAGOAS.",
+                "legalFoundation": "Leis Federal 8.666/93,8.883/94,9.648/98: lei Estadual 5.237/91",
+                "justification": "O programa de desenvolvimento do turismo – PRODETUR NACIONAL tem como objetivo consolidar a gestão turística, cooperativa e descentralizada, avançando rumo a um modelo de desenvolvimento turístico a partir do qual os investimentos dos governos federal , estaduais e municipais, respondam tanto as especificidades próprias como uma visão integral do turismo no brasil. Para alcançar seus objetivos o programa apoiará o financiamento de projetos de desenvolvimento turísticos organizados em cinco componentes: estratégias de produtos turísticos, estratégia de comercialização, fortalecimento institucional, infra-estrutura e serviços básicos e gestão ambiental. A elaboração do plano de desenvolvimento integrado do turismo sustentável – PDITS, como requisito necessário à contratação da linha de crédito do PRODETUR NACIONAL, bem como para o planejamento sustentável do setor turístico no Estado, faz parte das atividades de pré-investimentos previstos pelo programa. Tem como objetivo definir ações, orientar a tomada de decisões e estabelecer as prioridades na fase de investimentos a curto, médio e longo prazo, sendo um dos critérios de elegibilidade para que o estado faça parte do programa.",
+                "publishDate": "2009-08-05T03:00:00.000Z",
+                "beginDate": "2009-07-28T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 288000,
+                "homologationDate": "2009-12-16T02:00:00.000Z",
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000213/2009",
+              "biddingId": "amgesp-002/2009",
+              "date": "2010-01-04T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 01142506000106",
+                "hirerDocument": "CNPJ: 69977734000121",
+                "type": "Serviço",
+                "object": "Contrata??o de Empresa de Consultoria para realizar a ELABORA??O DO PLANO DE DESENVOLVIMENTO INTEGRADO DO TURISMO SUSTENT?VEL (PDITS) DO P?LO LAGOAS E MARES DO SUL, NO ESTADO DE ALAGOAS.",
+                "totalValue": 288000,
+                "publishDate": "2010-01-04T02:00:00.000Z",
+                "beginDate": "2009-12-30T02:00:00.000Z",
+                "endDate": "2010-06-07T03:00:00.000Z",
+                "signDate": "2009-12-30T02:00:00.000Z",
+                "executionProcessId": "amgesp-002/2009 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "72000005796200863 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "documentNumber": "69.977.734/0001-21",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "702012/2008",
+            "validity": "24/12/2008 a 07/12/2011",
+            "limitDate": "2013-07-05T03:00:00.000Z",
+            "totalValue": 290521.26,
+            "transferValue": 261469.13,
+            "counterpartValue": 29052.13,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "701900/2008",
+        "uf": "AL",
+        "city": "Maceió",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-12-24T02:00:00.000Z",
+        "end": "2012-09-08T03:00:00.000Z",
+        "program": "PRODETUR - CONVÊNIOS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "026365/2008",
+            "organId": "01441/2008",
+            "processId": "72000.005797/2008-16",
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "legalFoundation": "Decreto 6.170 de 25 de julho de 2007 e Portaria Interministerial 127 de 29 de maio de 2008, atualizados.",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O programa de desenvolvimento do turismo – PRODETUR NACIONAL, tem como objetivo consolidar a gestão turística, cooperativa e descentralizada, avançando rumo a um modelo de desenvolvimento turístico a partir do qual os investimentos do governo federal, estadual e municipal, possam responder tanto as especificidades próprias como uma visão integral do turismo no brasil. para alcançar seus objetivos o programa apoiará o financiamento de projetos de desenvolvimento turísticos organizados em cinco componentes: estrátegias de produtos turísticos, estratégia de comercialização, fortalecimento institucional, infra-estrutura e serviços básicos e gestão ambiental. A elaboração do Plano de Desenvolvimento Integrado do Turismo Sustentável – PDITS, como requisito necessário à contratação da linha de crédito do prodetur NACIONAL, bem como para o planejamento sustentável do setor turístico no Estado, faz parte das atividades de pré-requisito previstos pelo programa.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REVISÃO / ADEQUAÇÃO DO PLANO DE DESENVOLVIMENTO INTEGRADO DO TURISMO SUSTENTÁVEL -PDITS PARA O PÓLO COSTA DOS CORAIS, NO ESTADO DE ALAGOAS",
+            "information": "",
+            "proposalDate": "2008-12-12T02:00:00.000Z",
+            "biddingDate": "2008-12-24T02:00:00.000Z",
+            "homologationDate": "2009-02-19T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020080018",
+              "name": "PRODETUR - CONVÊNIOS",
+              "value": 197740.79,
+              "details": {
+                "code": "5400020080018",
+                "name": "PRODETUR - CONVÊNIOS",
+                "cps": null,
+                "items": "Projetos de Estudos, Planos e Pesquisas",
+                "couterpartRule": "Estados e DF (definidos no PNDR, SUDENE e SUDAM e Centro-Oeste) [Percentual Mínimo Contrapartida: 10.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 197740.79,
+                "couterpartValues": {
+                  "total": 19774.08,
+                  "financial": 19774.08,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 177966.71,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 69.977.734/0001-21 - SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "respProponent": "***.032.407-** - VIRGINIO JOSE FERREIRA LOUREIRO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.881.858-** - LUIZ EDUARDO BARRETTO FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "AMGESP-003/2009",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2009-08-05T03:00:00.000Z",
+              "processId": "29002832009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Técnica e Preço",
+                "processId": "29002832009",
+                "biddingId": "AMGESP-003/2009",
+                "object": "Contratação de empresa de consultoria para realizar a revisão/adequação do plano de desenvolvimento integrado do turismo sustentável – PDITS  do Pólo Costa dos Corais, para efeito de seu enquadramento e aprovação no âmbito do PRODUTUR NACIONAL destinados à  Secretaria  a de Estado do Turismo, em conformidade com as descrições contidas no anexo único do instrumento de contrato, no instrumento   convocatório e proposta comercial da CONTRATADA.",
+                "legalFoundation": "Leis Federais nº 8.666/93 nº 8.883/94, nº 9.48/98 e Lei Estadual nº 5.237/91.",
+                "justification": "O programa de desenvolvimento do turismo – PRODETUR NACIONAL tem como objetivo consolidar a gestão turística, cooperativa e descentralizada, avançando rumo a um modelo de desenvolvimento turístico a partir do qual os investimentos do governo federal, estadual e municipal, possam responder tanto as especificidades próprias como uma visão integral do turismo no brasil. para alcançar seus objetivos o programa apoiará o financiamento de projetos de desenvolvimento turísticos organizados em cinco componentes: estratégias de produtos turísticos, estratégia de comercialização, fortalecimento institucional, infra-estrutura e serviços básicos e gestão ambiental. A elaboração do Plano de Desenvolvimento Integrado do Turismo Sustentável – PDITS, como requisito necessário à contratação da linha de crédito do PRODETUR  NACIONAL, bem como para o planejamento sustentável do setor turístico no Estado, faz parte das atividades de pré-requisito previstos pelo programa",
+                "publishDate": "2009-08-05T03:00:00.000Z",
+                "beginDate": "2009-07-24T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 186050,
+                "homologationDate": "2009-12-17T02:00:00.000Z",
+                "city": "2785 - MACEIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000214/2009",
+              "biddingId": "AMGESP-003/2009",
+              "date": "2010-01-13T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05737207000167",
+                "hirerDocument": "CNPJ: 69977734000121",
+                "type": "Serviço",
+                "object": "Contratação de empresa de consultoria para realizar a revisão/adequação do plano de desenvolvimento integrado do turismo sustentável – PDITS  do Pólo Costa dos Corais, para efeito de seu enquadramento e aprovação no âmbito do PRODUTUR NACIONAL destinados à  Secretaria  a de Estado do Turismo, em conformidade com as descrições contidas no anexo único do instrumento de contrato, no instrumento   convocatório e proposta comercial da CONTRATADA.",
+                "totalValue": 186050,
+                "publishDate": "2010-01-13T02:00:00.000Z",
+                "beginDate": "2010-01-12T02:00:00.000Z",
+                "endDate": "2010-04-12T03:00:00.000Z",
+                "signDate": "2010-01-12T02:00:00.000Z",
+                "executionProcessId": "AMGESP-003/2009 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "29002832009 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO E TURISMO- SEDETUR",
+            "documentNumber": "69.977.734/0001-21",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Análise",
+            "number": "701900/2008",
+            "validity": "24/12/2008 a 08/09/2012",
+            "limitDate": "2017-09-24T03:00:00.000Z",
+            "totalValue": 8,
+            "transferValue": 197740.79,
+            "counterpartValue": 177966.71,
+            "yieldValue": 19774.08
+          }
+        }
+      }
+    ]
+  }
+}

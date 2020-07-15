@@ -1,0 +1,1832 @@
+{
+  "beginDate": "2020-07-15T00:55:37.667Z",
+  "endDate": "2020-07-15T01:01:07.704Z",
+  "data": {
+    "location": {
+      "city": "Anadia",
+      "uf": "AL",
+      "ibge": "2700201"
+    },
+    "agreements": [
+      {
+        "agreementId": "897128/2019",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2019-12-31T03:00:00.000Z",
+        "end": "2022-12-31T03:00:00.000Z",
+        "program": "Implanta??o e Moderniza??o de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - Projetos",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "053739/2019",
+            "organId": "53739/2019",
+            "processId": "537392019",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "424/2016",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": "O município de Anadia, em 1801, quando foi elevado à categoria de vila, passou a ser chamada Vila Nova de Anadia, em homenagem ao Visconde de Anadia, ministro português que autorizou a criação da vila. A freguesia foi instalada em 1802. Fez parte da Comarca de Marechal Deodoro até 1833 e a partir desta data, passou para a Comarca de Penedo. Hoje, a cidade tem sua própria comarca. Sua população estimada em 2016 era de 17.832 habitantes (IBGE).",
+            "justification": null,
+            "targetAudience": "Com a Implantação de 01(um)Campo Society localizado no Pov Tapera com LAT:-9.630326 e Long:-36.323717, no Município de Anadia - AL, será antedito toda faixa etária com atividades físicas e esportivas,garantindo e bem estrar dos munícipes.",
+            "problem": "O município não dispõe de espaço físico para a pratica de esportes e lazer,com a implantação do objeto ira garantir espaço totalmente adequado para os execícios físicos e esportes.",
+            "result": "Os resultados esperados com o alcance desse pleito são: melhoria no convívio e na integração social; melhoria da auto-estima; melhoria das capacidades e habilidades motoras; melhoria das condições de saúde; aumento do número de praticantes de atividades esportivas educacionais de todos os participantes, ou seja,Alunos, jovens, adultos, crianças, e maiores de 60 anos.",
+            "proposalAndObjectivesRelation": "A proposta esta dentro das diretrizes do programa.",
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Implantação de 01(um)Campo Society, no Município de Anadia - AL, LAT:-9.630326 e Long:-36.323717.",
+            "information": "Declaramos, para devidos fins e a quem possa interessar, e sob as penalidades da Lei, que este Município dispõe de capacidade Técnica com quadro de profissionais, GMC – Gestor Municipal de Convênio e contratos, CPL – Comissão Permanente de Licitações, Engenheiro, Equipe de Comunicação, para a Implantação de 01(um) Campo Society no Município de Anadia - AL, conforme preceitua as exigências do Número da Proposta nº 053739/2019; para maior clareza e veracidade dos fatos, esclarecemos outro sim, que a execução dos serviços serão acompanhado e fiscalizados.",
+            "proposalDate": "2019-12-16T03:00:00.000Z",
+            "biddingDate": "2019-12-31T03:00:00.000Z",
+            "homologationDate": "2020-01-07T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020190054",
+              "name": "Implanta??o e Moderniza??o de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - Projetos",
+              "value": 288500,
+              "details": {
+                "code": "5500020190054",
+                "name": "Implanta??o e Moderniza??o de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - Projetos",
+                "cps": "001/2018",
+                "items": "Equipamentos Comunitários, Ações Complementares de Obras",
+                "couterpartRule": "",
+                "totalValue": 288500,
+                "couterpartValues": {
+                  "total": 2000,
+                  "financial": 2000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 286500,
+                  "amendment": "R$ 286.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.529.004-** - JOSE CELINO RIBEIRO DE LIMA",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.714.780-** - OSMAR GASPARINI TERRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "897128/2019",
+            "validity": "31/12/2019 a 31/12/2022",
+            "limitDate": "2023-03-01T03:00:00.000Z",
+            "totalValue": 288500,
+            "transferValue": 286500,
+            "counterpartValue": 2000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "867724/2018",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2019-01-08T02:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "030249/2018",
+            "organId": "00118/2018",
+            "processId": "59553.000122/2018-20",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Decreto 6.170/2007 e Port. 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Anadia está localizado na região centro-leste do Estado de Alagoas, limitando-se a norte com os municípios de Maribondo e Tanque D’Arca, a sul com Campo Alegre e Limoeiro de Anadia, a leste com Boca da Mata e a oeste com Limoeiro de Anadia e Tanque D’Arca. A área municipal ocupa 189,48 km2 (0,68% de AL), inserida na meso-região do Agreste Alagoano e na micro-região de São Miguel dos Campos, predominantemente na Folha São Miguel dos Campos (SC.24-X-D-VI), na escala 1:100.000, editada pelo MINTER/SUDENE em 1989. A sede do município tem uma altitude de aproximadamente 153 m e coordenadas geográficas de 09°41’02,4’’ de latitude sul e 36°18’14,4’’ de longitude oeste. O acesso a partir de Maceió é feito através das rodovias pavimentadas BR-316 e AL-450, com percurso em torno de 99 km. O Município foi criado em 1801, desmembrado de Marechal Deodoro. Segundo o censo 2000 do IBGE, a população total residente é de 17.849 habitantes, dos quais, 8.950 do sexo masculino (50,10%) e 8.899 do sexo feminino(49,90%). São 9.108 os habitantes da zona urbana (51,00%) e 8.741 os da zona rural (49,00%) e IDH 0,609. A densidade demográfica é de 94,20 hab/km2 A rede pública de saúde dispõe de 01 hospital, 40 leitos hospitalares, 11 Unidades Ambulatoriais, 05 Postos de Sa úde, 01 Centro de Saúde e 01 Ambulatório de Unidade Hospitalar Geral. Na área educacional, são 19 escolas de ensino pré-escolar, com 592 alunos matriculados, 24 escolas de ensino fundamental, com 4.745 alunos matriculados e 02 escolas de ensino médio, com 631 alunos. No município, existem 8.373 habitantes alfabetizados com idades acima de 10 anos (46,90% da população). Existem 11.304 eleitores cadastrados no município (63,30% da população). Principais atividades econômicas: Comércio e Agropecuária. Atualmente conta com 116 empresas com CNPJ, atuantes (1998), ocupando 361 pessoas (2,02% da população). Na área de pecuária, conta com os seguintes rebanhos (cabeças): Bovinos – 9.200; Suínos –210; Eqüinos – 375; Muares – 190; Ovinos – 950; Aves – 6.400. A produção leiteira é de 366.000 litros, a de ovos de galinha –7.000 d úzias. Na área agrícola: Laranja – 03 ha (140.000 frutos); Cana-de-açúcar – 11.050 ha (594.000 t); Feijão –340 ha (117 t); Mandioca –15 ha (138 t) e Milho –110 ha (44 t). O Extrativismo produz 06 t de Carvão vegetal e 8.900 m 3 de Lenha. No ranking de desenvolvimento, Anadia está em 27º lugar no estado (27/101 municípios). O município hoje encontra-se com instalação uma fabrica de polpa de frutas, onde aqueceu bastante o mercado e a agricultura local. O objeto pleiteado irá beneficiar o município e melhorar o acesso da comunidade, causando a população problemas de varias natureza, com isso evitando uma serie de problemas que hoje vai do excesso de poeira durante o período de estiagem e grande acumulo de águas (possas) durante o inverno tornando a acessibilidade de seus moradores difíceis a suas necessidades básicas (saúde, educação e lazer), além de doenças causadas por fenômenos naturais, vale ressaltar que o objeto proposto é de suma importância para o município, tendo em vista que os resultados esperados do objeto compreende dotar o município de uma boa infraestrutura disponibilizando para os habitantes e visitantes mais conforto e segurança. Daí a importância do pleito que visa a Pavimentação em Paralelepípedo na Rua Baixa da Pedra e Rua Projetada 01 no município de Anadia. Esta obra conta com o apoio do deputado federal Ronaldo Lessa, que alocou a emenda de número 37530002 no Ministério da Integração.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Pavimentação da rua Baixa da Pedra e rua Rua Projetada 01 na zona urbana,no município de Anadia/AL.",
+            "information": "Em atendimento a Portaria Interministerial nº 424, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Anadia/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras.",
+            "proposalDate": "2018-03-20T03:00:00.000Z",
+            "biddingDate": "2018-12-31T02:00:00.000Z",
+            "homologationDate": "2019-01-08T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020180005",
+              "name": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+              "value": 252200,
+              "details": {
+                "code": "5300020180005",
+                "name": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+                "cps": null,
+                "items": "Pavimentação",
+                "couterpartRule": "No caso de municípios com ate 50.000 habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 252200,
+                "couterpartValues": {
+                  "total": 2200,
+                  "financial": 2200,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.529.004-** - JOSE CELINO RIBEIRO DE LIMA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.013.663-** - MARLON CARVALHO CAMBRAIA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "867724/2018",
+            "validity": "08/01/2019 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 252200,
+            "transferValue": 250000,
+            "counterpartValue": 2200,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "864451/2018",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-06-01T03:00:00.000Z",
+        "end": "2021-05-01T03:00:00.000Z",
+        "program": "2068 - Saneamento Basico (Acao: 10GD - Sistemas Publicos de Abastecimento de Agua)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "025326/2018",
+            "organId": "00224/2018",
+            "processId": "25100.004391/2018-71",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Decreto nº 6.170, de 25 de julho de 2007, e Portaria Interministerial nº 424, de 30 de dezembro de 2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O nome original do município era Campos do Arrozal de Inhauns. Em 1801, quando foi elevado à categoria de vila, passou a ser chamada Vila Nova de Anadia, em homenagem ao Visconde de Anadia, ministro português que autorizou a criação da vila. A freguesia foi instalada em 1802. Fez parte da Comarca de Marechal Deodoro até 1833 e a partir desta data, passou para a Comarca de Penedo. Hoje, a cidade tem sua própria comarca. A Festa da Padroeira, no dia 2 de fevereiro, é um dos pontos altos do município, que recebe milhares de fiéis na já tradicional procissão. De população festiva, Anadia se orgulha de manter viva algumas tradições como: carnaval, vaquejada e, principalmente, dos festejos juninos. De maioria católica, Anadia é pertencente a Diocese de Penedo. Sua população estimada em 2010 de acordo com CENSO DE IBGE era de 17.424 habitantes. O município basicamente vive do setor agropecuário, por conta da sua localização e pela pequena população. É um dos maiores produtores de carne bovina e de leite do estado, com reconhecida importância no desenvolvimento da região. Além disso, destaca-se também pela produção de cana-de-açúcar, principalmente devido à presença da Usina Porto Rico. O município sofre com problemas sociais e estruturais. Como a grande maioria das cidades brasileiras não dispõe de um sistema de abastecimento de água para atender a comunidade como um todo, este é uma das grandes necessidades da cidade, visto que a o tratamento da água minimiza os problemas de saúde, logo não superlota os postos de saúde e os hospitais. Esse projeto representa um conjunto de obras, equipamentos e serviços que trará para a sociedade a certeza da inclusão social, e de melhorias na qualidade de vida de todos os munícipes. Serão executados serviços de reforço da rede de distribuição existente através da construção de uma nova captação, uma nova adutora e um novo reservatório de distribuição, com isso a ampliação do abastecimento beneficiará aproximadamente de duas mil a três mil famílias distribuídas nos diversos bairros e comunidade do município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Ampliação do Abastecimento de Água no município de Anadia/AL.",
+            "information": "Em atendimento ao disposto no § 5.º, inciso II do Art.7º e o inciso V do Art. 16 da Portaria Interministerial 424/2016, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Anadia/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc. Desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2018-03-07T03:00:00.000Z",
+            "biddingDate": "2018-05-31T03:00:00.000Z",
+            "homologationDate": "2018-06-20T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120180001",
+              "name": "2068 - Saneamento Basico (Acao: 10GD - Sistemas Publicos de Abastecimento de Agua)",
+              "value": 14624.607,
+              "details": {
+                "code": "3621120180001",
+                "name": "2068 - Saneamento Basico (Acao: 10GD - Sistemas Publicos de Abastecimento de Agua)",
+                "cps": null,
+                "items": "Abastecimento de Água",
+                "couterpartRule": "A contrapartida não é exigida, por tratar-se de transferência de recursos no âmbito do SUS, conforme Art. 74. § 4º, Inciso I, da Lei nº 13.473 de 08/08/2017. Para contrapartida voluntária, vide Anexo [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 14624.607,
+                "couterpartValues": {
+                  "total": 29190.83,
+                  "financial": 29190.83,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 14595.416,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.529.004-** - JOSE CELINO RIBEIRO DE LIMA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001/2019",
+              "type": "Licitação - Concorrência",
+              "date": "2019-07-10T03:00:00.000Z",
+              "processId": "201903110036",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concorrência",
+                "biddingType": "Menor Preço",
+                "processId": "201903110036",
+                "biddingId": "001/2019",
+                "object": "Ampliação do Abastecimento de Água no município de Anadia/AL.",
+                "legalFoundation": "LEI 8666/1993",
+                "justification": "Comunico que a Concorrencia foi realizada dentro da lei da licitção.",
+                "publishDate": "2019-07-10T03:00:00.000Z",
+                "beginDate": "2019-08-14T03:00:00.000Z",
+                "endDate": "2019-09-13T03:00:00.000Z",
+                "biddingValue": 14624.607,
+                "homologationDate": "2019-09-18T03:00:00.000Z",
+                "city": "2703 - ANADIA",
+                "analysisDate": "2019-10-01T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000041/2019",
+              "biddingId": "001/2019",
+              "date": "2019-09-24T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 21162446000192",
+                "hirerDocument": "CNPJ: 12227351000119",
+                "type": "Obras",
+                "object": "Ampliação do Abastecimento de Água no município de Anadia/AL.",
+                "totalValue": 14624.607,
+                "publishDate": "2019-09-24T03:00:00.000Z",
+                "beginDate": "2019-09-23T03:00:00.000Z",
+                "endDate": "2020-09-19T03:00:00.000Z",
+                "signDate": "2019-09-19T03:00:00.000Z",
+                "executionProcessId": "001/2019 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "201903110036 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "864451/2018",
+            "validity": "01/06/2018 a 01/05/2021",
+            "limitDate": "2021-06-30T03:00:00.000Z",
+            "totalValue": 14624.607,
+            "transferValue": 14595.416,
+            "counterpartValue": 29190.83,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "847174/2017",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-09-12T03:00:00.000Z",
+        "end": "2021-09-12T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "016838/2017",
+            "organId": "16838/2017",
+            "processId": "0168382017",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O nome original do município era Campos do Arrozal de Inhauns. Em 1801, quando foi elevado à categoria de vila, passou a ser chamada Vila Nova de Anadia, em homenagem ao Visconde de Anadia, ministro português que autorizou a criação da vila. A freguesia foi instalada em 1802. Fez parte da Comarca de Marechal Deodoro até 1833 e a partir desta data, passou para a Comarca de Penedo. Hoje, a cidade tem sua própria comarca. A Festa da Padroeira, no dia 2 de fevereiro, é um dos pontos altos do município, que recebe milhares de fiéis na já tradicional procissão. De população festiva, Anadia se orgulha de manter viva algumas tradições como: carnaval, vaquejada e, principalmente, dos festejos juninos.De maioria católica, Anadia é pertencente a Diocese de Penedo. Sua população estimada em 2016 era de 17.832 habitantes (IBGE).O município basicamente vive do setor agropecuário, por conta da sua localização e pela pequena população. É um dos maiores produtores de carne bovina e de leite do estado, com reconhecida importância no desenvolvimento da região. Além disso, destaca-se também pela produção de cana-de-açúcar, principalmente devido à presença da Usina Porto Rico. A atual gestão têm como uma de suas prioridades a urbanização de diversas localidades do município, no intuito de melhorar as condições para os municípes e visitantes. O Poder Público Municipal, preocupado com o bem-estar de sua população constatou a necessidade da melhoria da qualidade de vida vivenciada no município, dessa maneira fica visível à necessidade de investimento em várias ruas do Município. A execução da obra solucionará problemas no âmbito de infraestrutura local tais como trafegabilidade e acessibilidade, causando a população problemas de varias natureza, que vai do excesso de poeira durante o período de estiagem e grande acumulo de águas (possas) durante o inverno tornando a acessibilidade de seus moradores difíceis a suas necessidades básicas (saúde, educação e lazer), além de doenças causadas por fenômenos naturais, vale ressaltar que o objeto proposto é de suma importância para o município, tendo em vista que os resultados esperados do objeto compreende dotar o município de uma boa infraestrutura disponibilizando para os habitantes e visitantes mais conforto e segurança. Daí a importância do pleito que visa a Pavimentação de Diversas Ruas no município de Anadia. Esta obra conta com o apoio do deputado federal Ronaldo Lessa, que alocou a emenda de número 37530002 no Ministério das Cidades.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de Diversas Ruas no Município de Anadia/AL.",
+            "information": "Declaramos para os devidos fins junto ao Ministério das Cidades que a Prefeitura Municipal de Anadia ora representado por José Celino Ribeiro de Lima, declara dispor em seu quadro de funcionários profissionais devidamente habilitados com capacidade técnica e gerencial para as obras de Pavimentação de Diversas Ruas no Município de Anadia/AL.",
+            "proposalDate": "2017-03-17T03:00:00.000Z",
+            "biddingDate": "2017-09-12T03:00:00.000Z",
+            "homologationDate": "2017-09-14T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 250767,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250767,
+                "couterpartValues": {
+                  "total": 4917,
+                  "financial": 4917,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00 - Ronaldo Lessa"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.529.004-** - JOSE CELINO RIBEIRO DE LIMA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.672.604-** - BRUNO CAVALCANTI DE ARAUJO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "010/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-05-30T03:00:00.000Z",
+              "processId": "201905200060",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "201905200060",
+                "biddingId": "010/2019",
+                "object": "Pavimentação de Diversas Ruas no Município de Anadia/AL.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "A licitação ocorreu dentro das legalidades e normas da lei 8.666/93.",
+                "publishDate": "2019-05-30T03:00:00.000Z",
+                "beginDate": "2019-06-25T03:00:00.000Z",
+                "endDate": "2019-07-02T03:00:00.000Z",
+                "biddingValue": 250672.42,
+                "homologationDate": "2019-07-25T03:00:00.000Z",
+                "city": "2703 - ANADIA",
+                "analysisDate": "2019-10-10T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000035/2019",
+              "biddingId": "010/2019",
+              "date": "2019-08-06T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 07285336000197",
+                "hirerDocument": "CNPJ: 12227351000119",
+                "type": "Obras",
+                "object": "Pavimentação de Diversas Ruas no Município de Anadia/AL.",
+                "totalValue": 250672.42,
+                "publishDate": "2019-08-06T03:00:00.000Z",
+                "beginDate": "2019-07-29T03:00:00.000Z",
+                "endDate": "2019-12-31T03:00:00.000Z",
+                "signDate": "2019-07-29T03:00:00.000Z",
+                "executionProcessId": "010/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "201905200060 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "847174/2017",
+            "validity": "12/09/2017 a 12/09/2021",
+            "limitDate": "2021-11-11T03:00:00.000Z",
+            "totalValue": 250767,
+            "transferValue": 245850,
+            "counterpartValue": 4917,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "834854/2016",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2016-09-05T03:00:00.000Z",
+        "end": "2020-10-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "016772/2016",
+            "organId": "16772/2016",
+            "processId": "0167722016",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ANADIA ESTÁ LOCALIZADO NA MICRORREGIÃO DE SÃO MIGUEL DOS CAMPOS ONDE ATÉ MEADOS DO SÉCULO XVII, NO TERRITORIO ONDE ESTÁ ATUALMENTE SITUADO O MUNICÍPIO DE ANADIA, EXISTIA UM PEQUENO POVOADO INDÍGENA, DENOMINADO CAMPO DO ARROZAL DE INHAUNS. SUA POPULAÇÃO É DE 17.740 HABITANTES ENQUANTO QUE O SEU ÍNDICE DE DESENVOLVIMENTO HUMANO/PNUD É DE 0,60 HABITANTES SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2000). SUA ECONOMIA É BASEADA NA ATIVIDADE AGROPASTORIL DE FORTE INFLUÊNCIA NO MUNICÍPIO. A POPULAÇÃO DE ANADIA CRESCE CONTINUAMENTE E DESEJA MELHORIAS DE INFRAESTRUTURA NA COMUNIDADE, SENDO ESTA TAMBÉM A META DA ADMINISTRAÇÃO PÚBLICA, OU SEJA, PROPICIAR AOS MUNÍCIPES UMA MELHOR QUALIDADE DE VIDA, PARA O BOM DESEMPENHO EM SUAS ATIVIDADES SOCIAIS DE FORMA GERAL. COM ESSA VISÃO O MUNICÍPIO DE ANADIA LANÇA A PRESENTE PROPOSTA PARA DEFINITIVAMENTE EXECUTAR E ATENDER AS DEMANDAS SOCIAIS DA COMUNIDADE. DIVERSAS RUAS NECESSITAM DE UMA FORTE RECUPERAÇÃO, CONSIDERANDO QUE ESTÁ INTRANSITÁVEL EM ALGUNS PONTOS, DIFICULTANDO O TRÁFEGO DE SEUS MORADORES. TENDO EM VISTA ESSES FATO O MUNICÍPIO RESOLVEU DESENVOLVER UM PROJETO DE PAVIMENTAÇÃO COM O OBJETIVO DE MELHORAR A QUALIDADE DE VIDA E O TRABALHO DE NOSSOS MUNÍCIPES. DESSA FORMA, COMO O MUNICÍPIO NÃO POSSUI CONDIÇÕES ORÇAMENTÁRIAS, O PODER PÚBLICO RESOLVEU SOLICITAR APOIO DA UNIÃO PARA A PAVIMENTAÇÃO DESSAS RUAS DE FORMA A POSSIBILITAR À POPULAÇÃO UMA MELHORIA A DIVERSOS ACESSOS DO MUNICÍPIO COM SEGURANÇA E CONFORTO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ELABORAÇÃO DE PROJETO.",
+            "information": "O MUNICÍPIO DE ANADIA POSSUI EM SEU QUADRO UMA EQUIPE CAPACITADA PARA EXECUTAR O CONVÊNIO.",
+            "proposalDate": "2016-03-15T03:00:00.000Z",
+            "biddingDate": "2016-09-05T03:00:00.000Z",
+            "homologationDate": "2016-09-15T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160015",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 100000,
+              "details": {
+                "code": "5600020160015",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 100000,
+                "couterpartValues": {
+                  "total": 1800,
+                  "financial": 1800,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 98200,
+                  "amendment": "R$ 98.200,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.747.024-** - PAULO HENRIQUE SANTOS DAMASO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.847.618-** - GILBERTO KASSAB"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "834854/2016",
+            "validity": "05/09/2016 a 30/10/2020",
+            "limitDate": "2020-12-29T03:00:00.000Z",
+            "totalValue": 100000,
+            "transferValue": 98200,
+            "counterpartValue": 1800,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "833770/2016",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2016-12-30T02:00:00.000Z",
+        "end": "2018-08-30T03:00:00.000Z",
+        "program": "Apoio a Projetos de Inclusão Digital",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "014098/2016",
+            "organId": "00025/2016",
+            "processId": "01200.000857/2016-10",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Lei Complementar nº 101, de 04 de maio de 2000, na Lei no 8.666, de 21 de junho de 1993, no que couber, na Lei de Diretrizes Orçamentárias do corrente exercício 2016, no Decreto Federal no 93.872, de 23 de dezembro de 1986, no Decreto Federal nº 6.170, de 25 de julho de 2007, regulamentado pela Portaria Interministerial MP/MF/CGU nº 507, de 24 de novembro de 2011, e alterações posteriores",
+            "organ": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ANADIA ESTÁ LOCALIZADO NA MICRORREGIÃO DE SÃO MIGUEL DOS CAMPOS ONDE ATÉ MEADOS DO SÉCULO XVII, NO TERRITORIO ONDE ESTÁ ATUALMENTE SITUADO O MUNICÍPIO DE ANADIA, EXISTIA UM PEQUENO POVOADO INDÍGENA, DENOMINADO CAMPO DO ARROZAL DE INHAUNS. SUA POPULAÇÃO É DE 17.740 HABITANTES ENQUANTO QUE O SEU ÍNDICE DE DESENVOLVIMENTO HUMANO/PNUD É DE 0,60 HABITANTES SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2000). SUA ECONOMIA É BASEADA NA ATIVIDADE AGROPASTORIL DE FORTE INFLUÊNCIA NO MUNICÍPIO. A FINALIDADE DE UM TELECENTRO É EXATAMENTE ESTA: TRANSFORMAR, NÃO A NOSSA VIDA DOMÉSTICA, MAS DETERMINADAS ÁREAS DA NOSSA VIDA EM SOCIEDADE. É UM CONCEITO, ANTES DE SER UM ‘NEGÓCIO’. É UMA PROPOSTA QUE ENSEJA NOVOS PARADIGMAS QUE BUSCAM INTEGRAR ESFORÇOS, NESTE CASO: TECNOLOGIA, SERVIÇOS, DEMANDAS SOCIAIS, EMPRESAS, NOVIDADES, ETC, QUE VISA COMO RESULTADO A SATISFAÇÃO SOCIAL. A EXISTÊNCIA E A UTILIZAÇÃO DE UM TELECENTRO, POR EXEMPLO, INFLUIRÁ NO NÍVEL DE EDUCAÇÃO: MAIS PESSOAS PRECISARÃO APRENDER A MANIPULAR UM COMPUTADOR. MAIS PESSOAS TERÃO ACESSO À TECNOLOGIA DA INFORMAÇÃO. E É UM FATO LARGAMENTE ADMITIDO QUE A EDUCAÇÃO GERA MAIS EDUCAÇÃO. ISTO SE VÊ NO FATO DE QUE OS MAIS EDUCADOS SÃO JUSTAMENTE OS QUE PROCURAM MAIS EDUCAÇÃO. DENTRO DESTA REALIDADE É QUE SOLICITAMOS A ACEITAÇÃO DA PROPOSTAS EM TELA PARA PODERMOS DAR SUPORTE A TELECENTROS QUE SÓ TRAZEM BENEFÍCIOS AOS NOSSOS MUNICÍPES.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE TELECENTROS NO MUNICIPIO DE ANADIA-AL",
+            "information": "O MUNICÍPIO DE ANADIA POSSUI EM SEU QUADRO UMA EQUIPE CAPACITADA PARA EXECUTAR O CONVÊNIO.",
+            "proposalDate": "2016-03-14T03:00:00.000Z",
+            "biddingDate": "2016-12-30T02:00:00.000Z",
+            "homologationDate": "2017-01-25T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2400020160006",
+              "name": "Apoio a Projetos de Inclusão Digital",
+              "value": 160000,
+              "details": {
+                "code": "2400020160006",
+                "name": "Apoio a Projetos de Inclusão Digital",
+                "cps": null,
+                "items": "APOIO A PROJETOS DE INCLUSÃO DIGITAL.",
+                "couterpartRule": "",
+                "totalValue": 160000,
+                "couterpartValues": {
+                  "total": 4496,
+                  "financial": 4496,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 155504,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.747.024-** - PAULO HENRIQUE SANTOS DAMASO",
+            "grantor": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "respGrantor": "***.036.415-** - JAILSON BITTENCOURT DE ANDRADE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "833770/2016",
+            "validity": "30/12/2016 a 30/08/2018",
+            "limitDate": "2018-08-31T03:00:00.000Z",
+            "totalValue": 160000,
+            "transferValue": 155504,
+            "counterpartValue": 4496,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "830026/2016",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2016-09-05T03:00:00.000Z",
+        "end": "2020-10-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "013964/2016",
+            "organId": "13964/2016",
+            "processId": "0139642016",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ANADIA ESTÁ LOCALIZADO NA MICRORREGIÃO DE SÃO MIGUEL DOS CAMPOS ONDE ATÉ MEADOS DO SÉCULO XVII, NO TERRITORIO ONDE ESTÁ ATUALMENTE SITUADO O MUNICÍPIO DE ANADIA, EXISTIA UM PEQUENO POVOADO INDÍGENA, DENOMINADO CAMPO DO ARROZAL DE INHAUNS. SUA POPULAÇÃO É DE 17.740 HABITANTES ENQUANTO QUE O SEU ÍNDICE DE DESENVOLVIMENTO HUMANO/PNUD É DE 0,60 HABITANTES SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2000). SUA ECONOMIA É BASEADA NA ATIVIDADE AGROPASTORIL DE FORTE INFLUÊNCIA NO MUNICÍPIO. A POPULAÇÃO DE ANADIA CRESCE CONTINUAMENTE E DESEJA MELHORIAS DE INFRAESTRUTURA NA COMUNIDADE, SENDO ESTA TAMBÉM A META DA ADMINISTRAÇÃO PÚBLICA, OU SEJA, PROPICIAR AOS MUNÍCIPES UMA MELHOR QUALIDADE DE VIDA, PARA O BOM DESEMPENHO EM SUAS ATIVIDADES SOCIAIS DE FORMA GERAL. COM ESSA VISÃO O MUNICÍPIO DE ANADIA LANÇA A PRESENTE PROPOSTA PARA DEFINITIVAMENTE EXECUTAR E ATENDER AS DEMANDAS SOCIAIS DA COMUNIDADE. DIVERSAS RUAS NECESSITAM DE UMA FORTE RECUPERAÇÃO, CONSIDERANDO QUE ESTÁ INTRANSITÁVEL EM ALGUNS PONTOS, DIFICULTANDO O TRÁFEGO DE SEUS MORADORES. TENDO EM VISTA ESSES FATO O MUNICÍPIO RESOLVEU DESENVOLVER UM PROJETO DE PAVIMENTAÇÃO COM O OBJETIVO DE MELHORAR A QUALIDADE DE VIDA E O TRABALHO DE NOSSOS MUNÍCIPES. DESSA FORMA, COMO O MUNICÍPIO NÃO POSSUI CONDIÇÕES ORÇAMENTÁRIAS, O PODER PÚBLICO RESOLVEU SOLICITAR APOIO DA UNIÃO PARA A PAVIMENTAÇÃO DESSAS RUAS DE FORMA A POSSIBILITAR À POPULAÇÃO UMA MELHORIA A DIVERSOS ACESSOS DO MUNICÍPIO COM SEGURANÇA E CONFORTO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO EM DIVERSAS RUAS NO MUNICÍPIO DE ANADIA.",
+            "information": "O MUNICÍPIO DE ANADIA POSSUI EM SEU QUADRO UMA EQUIPE CAPACITADA PARA EXECUTAR O CONVÊNIO.",
+            "proposalDate": "2016-03-14T03:00:00.000Z",
+            "biddingDate": "2016-09-05T03:00:00.000Z",
+            "homologationDate": "2016-09-15T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160014",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 300000,
+              "details": {
+                "code": "5600020160014",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 4700,
+                  "financial": 4700,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.747.024-** - PAULO HENRIQUE SANTOS DAMASO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.847.618-** - GILBERTO KASSAB"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "830026/2016",
+            "validity": "05/09/2016 a 30/10/2020",
+            "limitDate": "2020-12-29T03:00:00.000Z",
+            "totalValue": 300000,
+            "transferValue": 295300,
+            "counterpartValue": 4700,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "796061/2013",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2020-10-30T03:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "074327/2013",
+            "organId": "74327/2013",
+            "processId": "0743272013",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ANADIA ESTÁ LOCALIZADO NA MICRORREGIÃO DE SÃO MIGUEL DOS CAMPOS ONDE ATÉ MEADOS DO SÉCULO XVII, NO TERRITORIO ONDE ESTÁ ATUALMENTE SITUADO O MUNICÍPIO DE ANADIA, EXISTIA UM PEQUENO POVOADO INDÍGENA, DENOMINADO CAMPO DO ARROZAL DE INHAUNS. SUA POPULAÇÃO É DE 17.740 HABITANTES ENQUANTO QUE O SEU ÍNDICE DE DESENVOLVIMENTO HUMANO/PNUD É DE 0,60 HABITANTES SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2000). SUA ECONOMIA É BASEADA NA ATIVIDADE AGROPASTORIL DE FORTE INFLUÊNCIA NO MUNICÍPIO. A POPULAÇÃO DE ANADIA CRESCE CONTINUAMENTE E DESEJA MELHORIAS DE INFRAESTRUTURA NA COMUNIDADE, SENDO ESTA TAMBÉM A META DA ADMINISTRAÇÃO PÚBLICA, OU SEJA, PROPICIAR AOS MUNÍCIPES UMA MELHOR QUALIDADE DE VIDA, PARA O BOM DESEMPENHO EM SUAS ATIVIDADES SOCIAIS DE FORMA GERAL. COM ESSA VISÃO O MUNICÍPIO DE ANADIA LANÇA A PRESENTE PROPOSTA PARA DEFINITIVAMENTE EXECUTAR E ATENDER AS DEMANDAS SOCIAIS DA COMUNIDADE. DIVERSAS RUAS NECESSITAM DE UMA FORTE RECUPERAÇÃO, CONSIDERANDO QUE ESTÁ INTRANSITÁVEL EM ALGUNS PONTOS, DIFICULTANDO O TRÁFEGO DE SEUS MORADORES. TENDO EM VISTA ESSES FATO O MUNICÍPIO RESOLVEU DESENVOLVER UM PROJETO DE PAVIMENTAÇÃO COM O OBJETIVO DE MELHORAR A QUALIDADE DE VIDA E O TRABALHO DE NOSSOS MUNÍCIPES. DESSA FORMA, COMO O MUNICÍPIO NÃO POSSUI CONDIÇÕES ORÇAMENTÁRIAS, O PODER PÚBLICO RESOLVEU SOLICITAR APOIO DA UNIÃO PARA A PAVIMENTAÇÃO DESSAS RUAS DE FORMA A POSSIBILITAR À POPULAÇÃO UMA MELHORIA A DIVERSOS ACESSOS DO MUNICÍPIO COM SEGURANÇA E CONFORTO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO EM DIVERSAS RUAS DO MUNICÍPIO DE ANADIA/AL.",
+            "information": "O MUNICÍPIO DE ANADIA POSSUI EM SEU QUADRO UMA EQUIPE CAPACITADA PARA EXECUTAR O CONVÊNIO.",
+            "proposalDate": "2013-11-05T02:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020130013",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 1823.8,
+              "details": {
+                "code": "5600020130013",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação e requalificação de infraestrutura de sistemas de transporte público coletivo urbano de passageiros ( Vide aba ANEXOS - Arquivo MOBILIDADE URBANA), Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "Contrato de Repasse com valor igual ou superior a R$ 750.000,00, para Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1823.8,
+                "couterpartValues": {
+                  "total": 45000,
+                  "financial": 45000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1778.8,
+                  "amendment": "R$ 1.778.800,00 - Arthur Lira"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.529.004-** - JOSE CELINO RIBEIRO DE LIMA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "11/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-09-06T03:00:00.000Z",
+              "processId": "201905200059",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "201905200059",
+                "biddingId": "11/2019",
+                "object": "PAVIMENTAÇÃO EM DIVERSAS RUAS DO MUNICÍPIO DE ANADIA/AL.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "A LICITAÇÃO OCORREU DENTRO DA LEGALIDADE.",
+                "publishDate": "2019-09-06T03:00:00.000Z",
+                "beginDate": "2019-11-27T03:00:00.000Z",
+                "endDate": "2019-11-27T03:00:00.000Z",
+                "biddingValue": 1404.84,
+                "homologationDate": "2019-12-16T03:00:00.000Z",
+                "city": "2703 - ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000036/2019",
+              "biddingId": "11/2019",
+              "date": "2020-01-09T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 07285336000197",
+                "hirerDocument": "CNPJ: 12227351000119",
+                "type": "Obras",
+                "object": "PAVIMENTAÇÃO EM DIVERSAS RUAS DO MUNICÍPIO DE ANADIA/AL.",
+                "totalValue": 1404.84,
+                "publishDate": "2020-01-09T03:00:00.000Z",
+                "beginDate": "2019-12-17T03:00:00.000Z",
+                "endDate": "2020-10-30T03:00:00.000Z",
+                "signDate": "2019-12-17T03:00:00.000Z",
+                "executionProcessId": "11/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "201905200059 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "796061/2013",
+            "validity": "31/12/2013 a 30/10/2020",
+            "limitDate": "2020-12-29T03:00:00.000Z",
+            "totalValue": 1823.8,
+            "transferValue": 1778.8,
+            "counterpartValue": 45000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "786802/2013",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2020-10-30T03:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "056736/2013",
+            "organId": "56736/2013",
+            "processId": "056736/2013",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICIPIO DE ANADIA ESTÁ LOCALIZADO NA MICRORREGIÃO DE SÃO MIGUEL DOS CAMPOS ONDE ATÉ MEADOS DO SECULO XVII, NO TERRITORIO ONDE ESTÁ ATUALMENTE SITUADO O MUNICÍPIO DE ANADIA, EXISTIA UM PEQUENO POVOADO INDÍGENA, DENOMINADO CAMPO DO ARROZAL DE INHAUNS. SUA POPULAÇÃO É DE 17.740 HABITANTES ENQUANTO QUE O SEU ÍNDICE DE DESENVOLVIMENTO HUMANO/PNUD É DE 0,60 HABITANTES SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2000). SUA ECONOMIA É BASEADA NA ATIVIDADE AGROPASTORIL DE FORTE INFLUÊNCIA NO MUNICÍPIO. É DIANTE DESTE ASPECTO QUE O MUNICIPIO SE PROPÕE A OFERECER COMO META PRIORITÁRIA A MELHORA DE UM ESPAÇO PARA O DESENVOLVIMENTO DE ATIVIDADES ESPORTIVAS, UM ESPAÇO RECREATIVO E DE LAZER, PROPICIANDO A PRÁTICA ESPORTIVA E SENDO ASSIM UMA FERRAMENTA IMPORTANTE NA FORMAÇÃO PSICOSSOCIAL DE UM CIDADÃO E NÃO EXCLUSIVAMENTE FÍSICA, SENDO DE FUNDAMENTAL IMPORTÂNCIA INCLUSIVE NO DESENVOLVIMENTO MORAL DO INDIVÍDUO. VISTO QUE O ESPORTE É UMA PEÇA FUNDAMENTAL AO PROCESSO DE INCLUSÃO SOCIAL. E É EXATAMENTE ESSE DESENVOLVIMENTO SOCIAL, MORAL E FÍSICO, ATRAVES DO ESPORTE, QUE A REFORMA DO ESTÁDIO MUNICIPAL TEIXEIRÃO IRÁ FOMENTAR JUNTO AOS ESTUDANTES E DESPORTISTAS ANADIENSE, CONDIÇÕES MATERIAIS PARA O APRIMORAMENTO DOS VÁRIOS ATLETAS QUE POR VENTURA VENHAM A SURGIR, PROCURANDO ASSIM ATINGIR UM CONSIDERAVEL Nº DE PESSOAS QUE TERÃO CONDIÇÕES DE SE DEDICAR MAIS AOS SEUS TREINAMENTOS, ALIANDO BEM ESTAR FÍSICO E MENTAL COM INCLUSÃO SOCIAL. COM ISSO, SERÁ POSSIVEL DESPERTAR O INTERESSE DOS JOVENS PARA A PRÁTICA DESPORTIVA E POR CONSEQUÊNCIA, REALÇAR A IMPORTÂNCIA DE UMA VIDA MAIS SAUDÁVEL, PROCURANDO-SE DESSA FORMA, INIBIR, CONDUTAS ILÍCITAS E ANTI-SOCIAIS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REFORMA E AMPLIAÇÃO DO ESTÁDIO DE FUTEBOL TEIXEIRÃO.",
+            "information": "O MUNICÍPIO DE ANADIA POSSUI CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O CONTRATO DE REPASSE.",
+            "proposalDate": "2013-09-05T03:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020130002",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+              "value": 500000,
+              "details": {
+                "code": "5100020130002",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na Lei de Diretrizes Orçamentárias vigente. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 12500,
+                  "financial": 12500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.529.004-** - JOSE CELINO RIBEIRO DE LIMA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "04/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-02-18T03:00:00.000Z",
+              "processId": "20192130015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20192130015",
+                "biddingId": "04/2019",
+                "object": "REFORMA E AMPLIAÇÃO DO ESTÁDIO MUNICIPAL TEIXEIRÃO.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "O CERTAME OCORREU DENTRO DA LEI 8.666/93 E SUAS ALTERAÇÕES.",
+                "publishDate": "2019-02-18T03:00:00.000Z",
+                "beginDate": "2019-03-20T03:00:00.000Z",
+                "endDate": "2019-04-24T03:00:00.000Z",
+                "biddingValue": 343036.95,
+                "homologationDate": "2019-05-14T03:00:00.000Z",
+                "city": "2703 - ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000016/2019",
+              "biddingId": "04/2019",
+              "date": "2019-05-23T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 26773257000170",
+                "hirerDocument": "CNPJ: 12227351000119",
+                "type": "Obras",
+                "object": "REFORMA E AMPLIAÇÃO DO ESTÁDIO MUNICIPAL TEIXEIRÃO.",
+                "totalValue": 343036.95,
+                "publishDate": "2019-05-23T03:00:00.000Z",
+                "beginDate": "2019-05-21T03:00:00.000Z",
+                "endDate": "2019-09-30T03:00:00.000Z",
+                "signDate": "2019-05-21T03:00:00.000Z",
+                "executionProcessId": "04/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20192130015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "786802/2013",
+            "validity": "31/12/2013 a 30/10/2020",
+            "limitDate": "2020-12-29T03:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 487500,
+            "counterpartValue": 12500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "775123/2012",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2012-12-31T02:00:00.000Z",
+        "end": "2016-12-23T02:00:00.000Z",
+        "program": "2068- Saneamento Básico (Cooperação Técnica em Saneamento)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "INADIMPLENTE",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "012064/2012",
+            "organId": "00057/2012",
+            "processId": "25100.027706/2012-63",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Decreto n° 6.170/2007 e Portaria Interministerial MP/MF/CGU n° 507/2011",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O sistema de abastecimento de água é a administrado pela Companhia Estadual de Saneamento de Alagoas – CASAL e não atende adequadamente a área urbana de Anadia. O Sistema de Esgotamento Sanitário inexiste em todo o município de Anadia, porém foi aprovado em 2011 pela FUNASA um projeto de Sistema de Esgotamento Sanitário que atenderá a 100% da área urbana de Anadia. A Drenagem pluvial e quase inexistente e se resume a drenagem superficial usando a declividade natural da cidade e das vilas na área rural. O Sistema de Coleta e destino final de resíduos sólidos existe apenas na sede municipal e conta com um lixão a céu aberto. Desta forma, a realização do Plano Municipal de Saneamento Básico é imprescindível para o desenvolvimento da cidade de Anadia.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Elaboração do Plano Municipal de Saneamento Básico de Anadia.",
+            "information": "A Prefeitura Municipal de Anadia, tem plenas condições técnicas e administrativas para o gerenciamento da elaboração do Plano Municipal de Saneamento Básico. Conta em seus quadros com Engenheiro Sanitarista, Pedagogo, Assistente Social, contador e outros.",
+            "proposalDate": "2012-04-09T03:00:00.000Z",
+            "biddingDate": "2012-12-31T02:00:00.000Z",
+            "homologationDate": "2013-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120120001",
+              "name": "2068- Saneamento Básico (Cooperação Técnica em Saneamento)",
+              "value": 255990.14,
+              "details": {
+                "code": "3621120120001",
+                "name": "2068- Saneamento Básico (Cooperação Técnica em Saneamento)",
+                "cps": null,
+                "items": "Apoiar, técnica e financeiramente, o fortalecimento da gestão dos sistemas de saneamento e promover o desenvolvimento científico e tecnológico por meio de pesquisas aplicáveis ao contexto do saneamento dos pequenos municípios brasileiros.",
+                "couterpartRule": "Municípios com até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 255990.14,
+                "couterpartValues": {
+                  "total": 5990.14,
+                  "financial": 5990.14,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.747.024-** - PAULO HENRIQUE SANTOS DAMASO",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.038.564-** - EVERALDO VIEIRA NETO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002/2013",
+              "type": "Licitação -",
+              "date": null,
+              "processId": "9001096",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "9001096",
+                "biddingId": "002/2013",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A ELABORAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO BÁSICO DO MUNICÍPIO DE ANADIA/AL.",
+                "legalFoundation": "LEI 8.666/1993",
+                "justification": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A ELABORAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO BÁSICO DO MUNICÍPIO DE ANADIA/AL.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 255989.14,
+                "homologationDate": null,
+                "city": "2703 - ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "001096/2014",
+              "biddingId": "002/2013",
+              "date": "2013-12-05T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 16571139000125",
+                "hirerDocument": "CNPJ: 12227351000119",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A ELABORAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO BÁSICO DO MUNICÍPIO DE ANADIA/AL.",
+                "totalValue": 255989.14,
+                "publishDate": "2013-12-05T02:00:00.000Z",
+                "beginDate": "2013-11-29T02:00:00.000Z",
+                "endDate": "2014-11-29T02:00:00.000Z",
+                "signDate": "2013-11-29T02:00:00.000Z",
+                "executionProcessId": "002/2013 ",
+                "biddingModality": "Licitação - ",
+                "processId": "9001096 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Convênio",
+            "status": "Inadimplente",
+            "number": "775123/2012",
+            "validity": "31/12/2012 a 23/12/2016",
+            "limitDate": "2017-02-21T03:00:00.000Z",
+            "totalValue": 255990.14,
+            "transferValue": 250000,
+            "counterpartValue": 5990.14,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "731471/2009",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-01-05T02:00:00.000Z",
+        "program": "Estruturação da Rede de Serviços de Proteção Social Básica",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "068093/2009",
+            "organId": "06809/2009",
+            "processId": "068093/2009",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ANADIA ESTÁ LOCALIZADO NA REGIÃO LESTE DO ESTADO DE ALAGOAS E A 94 KM DA CAPITAL DO ESTADO, MACEIÓ. SEGUNDO O IBGE, SUA POPULAÇÃO É DE 17.274 HABITANTES, TENDO UM IDH DE 0,609 E UM PIB DE 50.266 MIL.É DE GRANDE INPORTÂNCIA A CONSTRUÇÃO DE UM CENTRO DE REEFRÊNCIA DE ASSISTÊNCIA SOCIAL (CRAS) AMPLO E ADEQUADO QUE TERÁ POR FINALIDADE O ACOLHIMENTO DA POPULAÇÃO CARENTE DO MUNICÍPI.A OBRA SERÁ REALIZADA NO POVOADO CHÃ DA MANGABEIRA ZONA URBANA ANADIA/AL E AJUDARÁ A RESOLVER A SITUAÇÃO DE 500 FAMÍLIAS EM SITUAÇÃO DE VUNERABILIDADE SOCIAL NESTE MUNICÍPIO. SERÁ FEITO UM TRABALHO ENVOLVENDO CURSOS E OFICINAS QUE VIABILIZEM A GERAÇÃO DE RENDA PARA A COMUNIDADE, ENTRE OS CURSOS/OFICINAS OFERECIDOS DESTACAMOS CORTE E COSTURA, ESTÉTICA, CONFEITEIRO, MANICURE E PEDICURE, CABELEREIRO, GARÇON, CERÂMICA, PINTURA E BORDADOS AJUDANDO NO DESENVOLVIMENTO ECONÔMICO D ESSA POPULAÇÃO DENTRO DO PRÓPRIO CRAS. TUDO QUE FOR APRENDIDO SERÁ FABRICADO NO PRÓPRIO LOCAL E COMERCIALIZADO COM A AJUDA DOS TÉCNICOS ATÉ QUE ESSAS PESSOAS CONSIGAM DESENVOLVER SEUS TRABALHOS SOZINHOS OU POR MEIO DE COOPERATIVAS OU ASSOCIAÇÕES. O MOTIVO DA SOLICITAÇÃO E OBJETIVO DESTA PROPOSTA É O ATENDIMENTO DAS FAMÍLIAS, OFERTANDO SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA, BENEFÍCIOS EVENTUAIS E EMERGENCIAIS, ALÉM DE ATENDIMENTO AS FAMÍLIAS DO PROGRAMA BOLSA FAMÍLIA DA ÁREA DE ABRANGÊNCIA DO CRAS, GARANTINDO OS DIREITOS SOCIOASSISTENCIAIS E FORTALECENDO OS VÍNCULOS FAMILIARES E A CONVIVÊNCIA COMUNITÁRIA DAS FAMÍLIAS BENEFICIADAS. O OBJETIVO DOS CURSOS DE CAPACITAÇÃO É FAZER COM QUE A POPULAÇÃO CARENTES POSSA APRENDER UMA PROFISSÃO E, CONSEQÜENTEMENTE, ABRIR SEU PRÓPRIO NEGÓCIO OU SER APROVEITADAS NO MERCADO DE TRABALHO. ALGUMAS COSTUREIRAS PODERÃO SER CONTRATADAS PELO MUNICÍPIO, ENQUANTO AS FORMADAS EM ESTÉTICAS PODERÃO ABRIR PEQUENOS SALÕES DE BELEZA EM CASA MESMO. CADA CURSO DISPONIBILIZARÁ 35 VAGAS E AS AULAS ACONTECERÃO NA PRÓPRIA SEDE DO CRAS, MINISTRADAS POR INSTRUTORES CONTRATADOS PELO MUNICÍPIO. OS IDOSOS E AS CRIANÇAS PARTICIPARÃO DE UM GRUPO DE CONVIVÊNCIA, ONDE ESTÃO INCLUÍDAS ATIVIDADES FÍSICAS, DANÇAS E ORIENTAÇÕES DO ESTATUTO DO IDOSO, DA CRIANÇA E DO ADOLESCENTE, ALÉM DA DISPONIBILIZAÇÃO DA CARTEIRA DO IDOSO, ONDE O BENEFICIADO PODE VIAJAR GRATUITAMENTE OU COM DESCONTO DE 50% NAS VIAGENS INTERMUNICIPAIS E INTERESTADUAIS. AS FAMÍLIAS DOS IDOSOS E DAS CRIANÇAS TAMBEM SERÃO ENVOLVIDAS NO PROJETO, APRENDENDO A CUIDAR E TER UM BOM RELACIONAMENTO COM OS TAIS. JÁ AS GESTANTES ATENDIDAS SERÃO ENCAMINHADAS PARA O PRÉ-NATAL, RECEBENDO ENXOVAL E ORIENTAÇÕES SOBRE O PLANEJAMENTO FAMILIAR.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE UM CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL - CRAS.",
+            "information": "",
+            "proposalDate": "2009-08-31T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-21T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020090019",
+              "name": "Estruturação da Rede de Serviços de Proteção Social Básica",
+              "value": 129000,
+              "details": {
+                "code": "5500020090019",
+                "name": "Estruturação da Rede de Serviços de Proteção Social Básica",
+                "cps": "",
+                "items": "Estruturação da rede",
+                "couterpartRule": "",
+                "totalValue": 129000,
+                "couterpartValues": {
+                  "total": 12000,
+                  "financial": 12000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 117000,
+                  "amendment": "R$ 117.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.827.364-** - JOSE AUGUSTO ROCHA SOUZA",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.719.813-** - HERBERT BUENOS AIRES DE CARVALHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01-07/2012",
+              "type": "Licitação -",
+              "date": "2012-07-05T03:00:00.000Z",
+              "processId": "08012012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "08012012",
+                "biddingId": "01-07/2012",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM CONSTRUÇÃO CIVIL PARA CONSTRUÇÃO DO CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL - CRAS.",
+                "legalFoundation": "LEI 8.666/1993",
+                "justification": "A ESCOLHA DA MODALIDADE LICITATÓRIA - CONVITE - ENCONTRA AMPARO NA LEI 8.666/1993 CUJA PREVISÃO É CLARA E PRECISA.",
+                "publishDate": "2012-07-05T03:00:00.000Z",
+                "beginDate": "2012-07-12T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 128885.38,
+                "homologationDate": "2012-08-08T03:00:00.000Z",
+                "city": "2703 - ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "010408/2012",
+              "biddingId": "01-07/2012",
+              "date": "2012-10-10T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12353435000107",
+                "hirerDocument": "CNPJ: 12227351000119",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM CONSTRUÇÃO CIVIL PARA CONSTRUÇÃO DO CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL - CRAS.",
+                "totalValue": 128885.38,
+                "publishDate": "2012-10-10T03:00:00.000Z",
+                "beginDate": "2012-08-08T03:00:00.000Z",
+                "endDate": "2012-12-08T02:00:00.000Z",
+                "signDate": "2012-08-08T03:00:00.000Z",
+                "executionProcessId": "01-07/2012 ",
+                "biddingModality": "Licitação - ",
+                "processId": "08012012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "731471/2009",
+            "validity": "31/12/2009 a 05/01/2016",
+            "limitDate": "2019-03-21T03:00:00.000Z",
+            "totalValue": 129000,
+            "transferValue": 117000,
+            "counterpartValue": 12000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "723552/2009",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-06-30T03:00:00.000Z",
+        "program": "Urbanização, Regularização Fundiária e Integração de Assentamentos Precários",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "094448/2009",
+            "organId": "09444/2009",
+            "processId": "094448/2009",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O direito a moradia é um dos direitos sociais apresentados pela Constituição federal brasileira de 1988. Porém, o pioneirismo em relação ao assunto habitação é creditado a Declaração Universal dos Direitos Humanos (DUDH), que décadas antes da constituinte brasileira, já revelava a importância desta temática para a dignidade humana, no âmbito mundial. Os dados que se referem à habitação no território brasileiro, demonstram as desigualdades relacionadas à moradia. São 54 milhões de pessoas vivendo em condições inadequadas de moradia, número que representa 34,5% da população urbana (Ipea). O economista Robson Gonçalves, utiliza três critérios para definir moradia inadequada: * a rusticidade das estruturas físicas das habitações (uso de materiais não-duráveis e/ou improvisados); * a moradia não ser originariamente construída para habitação, adquirindo essa função apenas de forma esporádica ou improvisada; * a coabitação (a existência de mais de uma família por residência). Com o objetivo de diminuir as desigualdades que afligem a população local através da implementação de políticas públicas eficazes, de eficiência comprovada em diversas cidades do país, o Projeto de Reurbanização e Construção de 17 casas, criado pela Prefeitura Municipal de Anadia-Al, pretende subsidiar, através do convênio com o governo federal, a melhoria nas condições dos assentamentos precários no Centro da cidade, bairro que teve sua demanda verificada através da realização de diagnóstico pela prefeitura. Com população estimada em 17.740 residentes (IBGE- 1º de Julho de 2009), o município de Anadia está situado na Mesorregião Leste de Alagoas, distante 62,36 Km da capital alagoana (Atlas de Desenvolvimento Humano/PNUD). A Pesquisa Nacional por Amostra de Domicílios (Pnad) 2007 gerou dados que compõem o estudo realizado pelo IPEA (Instituto Brasileiro de Pesquisa Aplicada), o qual considera a proliferação de assentamentos precários como um dos principais problemas habitacionais identificados no Brasil. Sendo assim, apesar da amplitude de temas envolvidos no enfrentamento da questão habitacional, faz-se necessário que o poder executivo municipal de Anadia, busque soluções para a melhoria da qualidade nas habitações, proporcionando ambientes adequados, por meio de ações ou programas que envolvam os beneficiários diretos, indiretos e a sociedade em geral na busca de soluções adequadas para a problemática.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REURBANIZAÇÃO E CONSTRUÇÃO DE 17 CASAS NO CENTRO DE ANADIA-ALAGOAS",
+            "information": "",
+            "proposalDate": "2009-11-03T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090283",
+              "name": "Urbanização, Regularização Fundiária e Integração de Assentamentos Precários",
+              "value": 423327.36,
+              "details": {
+                "code": "5300020090283",
+                "name": "Urbanização, Regularização Fundiária e Integração de Assentamentos Precários",
+                "cps": "",
+                "items": "Melhoria em Habitações de Assentamentos Precários",
+                "couterpartRule": "",
+                "totalValue": 423327.36,
+                "couterpartValues": {
+                  "total": 29127.36,
+                  "financial": 29127.36,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 394200,
+                  "amendment": "R$ 394.200,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.747.024-** - PAULO HENRIQUE SANTOS DAMASO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01-03/2013",
+              "type": "Licitação -",
+              "date": null,
+              "processId": "000931",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "000931",
+                "biddingId": "01-03/2013",
+                "object": "FORNECIMENTO DE MATERIAL DE CONSTRUÇÃO.",
+                "legalFoundation": "LEI 8.666/1993",
+                "justification": "LEI QUE INSTITUI NORMAS PARA LICITAÇÕES E CONTRATOS ADMINISTRATIVOS.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 59580.7,
+                "homologationDate": null,
+                "city": "2703 - ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "05-10/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0893",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "02-03/2012",
+              "type": "Licitação - Convite",
+              "date": null,
+              "processId": "0527",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "04-07-06/2013",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0000000",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "10-05-06/2013",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "000",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "03-02/2012",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0136",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "01/2014",
+              "type": "Licitação - Pregão",
+              "date": null,
+              "processId": "0004432",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "4862/2013",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0004862",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "2680",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0002680",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "003/2013",
+              "type": "Licitação - Pregão",
+              "date": null,
+              "processId": "396",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "4863/2013",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0004863",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "003/2014",
+              "type": "Licitação - Pregão",
+              "date": null,
+              "processId": "0004864",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000203/2012",
+              "biddingId": "02-03/2012",
+              "date": "2012-04-04T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 01167400000159",
+                "hirerDocument": "CNPJ: 12227351000119",
+                "type": "Material",
+                "object": "FORNECIMENTO DE MATERIAL DE CONSTRUÇÃO.",
+                "totalValue": 53052.66,
+                "publishDate": "2012-04-04T03:00:00.000Z",
+                "beginDate": "2012-04-04T03:00:00.000Z",
+                "endDate": "2012-10-04T03:00:00.000Z",
+                "signDate": "2012-04-04T03:00:00.000Z",
+                "executionProcessId": "02-03/2012 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "0527 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "723552/2009",
+            "validity": "31/12/2009 a 30/06/2016",
+            "limitDate": "2016-06-30T03:00:00.000Z",
+            "totalValue": 423327.36,
+            "transferValue": 394200,
+            "counterpartValue": 29127.36,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "718092/2009",
+        "uf": "AL",
+        "city": "Anadia",
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-04-22T03:00:00.000Z",
+        "program": "1214.8581.0624 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - Anadia - AL - Emenda Parlamentar - 36200013",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "073722/2009",
+            "organId": "00503/2009",
+            "processId": "25000.658004/2009-59",
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "legalFoundation": "Decreto 6.170/2007",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE ANADIA, LOCALIZADA HÁ 63 KM DA CAPITAL, POSSUI SEGUNDO PROJEÇÃO ESTIMADA PARA O ANO DE 2008 DO INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA - IBGE, APROXIMADAMENTE 17.274 HABITANTES. NOSSO MUNICÍPIO NECESSITA DE INVESTIMENTOS EM TODAS AS ÁREAS ADMINISTRATIVAS, POIS ENCONTRA-SE EM FRANCO DESENVOLVIMENTO. NOSSA ADMINISTRAÇÃO TEM PRIORIZADO INVESTIMENTOS NA ÁREA DA EDUCAÇÃO, SAÚDE, ASSISTÊNCIA SOCIAL, CIDADANIA E LAZER, E NA BUSCA DE MANTER ESSA POLÍTICA, A PREFEITURA MUNICIPAL DE ANADIA SOLICITA INTERSESSÃO NO SENTIDO DE BUSCAR A LIBERAÇÃO DE RECURSOS FINANCEIROS PARA AQUISIÇÃO DE UMA UNIDADE MÓVEL DE SAÚDE DO TIPO A DE SIMPLES REMOÇÃO PARA SER UTILIZADA PELA UBS PSF 4 - CHÃ DA MANGABEIRA CUJO NUMERO DO SCNES É 2011344, JÁ QUE A ASSISTÊNCIA EM SAÚDE NO MUNICÍPIO DE ANADIA NÃO APRESENTA UM ORDENAMENTO SATISFATÓRIO SENDO NOSSA POPULAÇÃO CARENTE E SEM CONDIÇÕES DE ALCANÇAR UM ATENDIMENTO PRIVADO. POR ÚLTIMO, A DIFICULDADE DE MANTER UM SERVIÇO DE SAÚDE ADEGUADO E POR NÃO TER AJUDA DO ESTADO, EXISTE ESSA NECESSIDADE DE TRANSPORTE IMEDIATO DE ALGUNS PACIENTES DOS POVOADOS PARA O MUNICÍPIO DE ANADIA OU PARA OUTROS POLOS, SENDO A AQUISIÇÃO DESSAS UNIDADES MÓVEIS DE SAÚDE DE EXTREMA IMPORTÂNCIA PARA NOSSA POPULAÇÃO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE 01 UNIDADE MÓVEL DE SAÚDE TIPO A DE SIMPLES REMOÇÃO.",
+            "information": "A PREFEITURA MUNICIPAL DE ANADIA DECLARA QUE DISPÕE DE EQUIPE CAPACITADA PARA ATUAR NA COORDENAÇÃO E FISCALIZAÇÃO DURANTE A EXECUÇÃO DESTE CONVÊNIO.",
+            "proposalDate": "2009-09-23T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020091119",
+              "name": "1214.8581.0624 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - Anadia - AL - Emenda Parlamentar - 36200013",
+              "value": 104000,
+              "details": {
+                "code": "3600020091119",
+                "name": "1214.8581.0624 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - Anadia - AL - Emenda Parlamentar - 36200013",
+                "cps": null,
+                "items": "Aquisição de equipamento e material permanente.",
+                "couterpartRule": "Municípios com até 50 mil habitantes. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 4.0%]",
+                "totalValue": 104000,
+                "couterpartValues": {
+                  "total": 4000,
+                  "financial": 4000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.351/0001-19 - MUNICIPIO DE ANADIA",
+            "respProponent": "***.827.364-** - JOSE AUGUSTO ROCHA SOUZA",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.985.194-** - ANA PAULA DO REGO MENEZES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2015",
+              "type": "Licitação - Pregão",
+              "date": "2015-06-05T03:00:00.000Z",
+              "processId": "611",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "611",
+                "biddingId": "01/2015",
+                "object": "AQUISIÇÃO DE AMBULÂNCIA PARA ATENDER AS NECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICÍPIO.",
+                "legalFoundation": "LEI 10520/2002",
+                "justification": "ATENDER AS NECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICÍPIO.",
+                "publishDate": "2015-06-05T03:00:00.000Z",
+                "beginDate": "2015-06-18T03:00:00.000Z",
+                "endDate": "2015-06-18T03:00:00.000Z",
+                "biddingValue": 133000,
+                "homologationDate": "2015-06-22T03:00:00.000Z",
+                "city": "2703 - ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2015",
+              "biddingId": "01/2015",
+              "date": "2015-06-23T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 17495269000199",
+                "hirerDocument": "CNPJ: 12227351000119",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE AMBULÂNCIA PARA ATENDER AS NECESSIDADES DA SECRETARIA DE SAÚDE DESTE MUNICÍPIO.",
+                "totalValue": 133000,
+                "publishDate": "2015-06-23T03:00:00.000Z",
+                "beginDate": "2015-06-23T03:00:00.000Z",
+                "endDate": "2015-06-23T03:00:00.000Z",
+                "signDate": "2015-06-23T03:00:00.000Z",
+                "executionProcessId": "01/2015 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "611 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "MUNICIPIO DE ANADIA",
+            "documentNumber": "12.227.351/0001-19",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Concluída",
+            "number": "718092/2009",
+            "validity": "31/12/2009 a 22/04/2016",
+            "limitDate": "2016-09-28T03:00:00.000Z",
+            "totalValue": 104000,
+            "transferValue": 100000,
+            "counterpartValue": 4000,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

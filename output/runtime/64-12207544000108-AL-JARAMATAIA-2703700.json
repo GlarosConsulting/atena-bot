@@ -1,0 +1,1023 @@
+{
+  "beginDate": "2020-07-14T23:12:30.041Z",
+  "endDate": "2020-07-14T23:15:42.706Z",
+  "data": {
+    "location": {
+      "city": "Jaramataia",
+      "uf": "AL",
+      "ibge": "2703700"
+    },
+    "agreements": [
+      {
+        "agreementId": "871214/2018",
+        "uf": "AL",
+        "city": "Jaramataia",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-09-11T03:00:00.000Z",
+        "end": "2021-08-30T03:00:00.000Z",
+        "program": "Alagoas-Emendas Parlamentares - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "030910/2018",
+            "organId": "30910/2018",
+            "processId": "309102018",
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Jaramataia- AL é um município do semi árido nordestino, que tem na agricultura familiar o maior gerador de renda do município. Sua população encontra-se 2/3 na zona rural e produz basicamente o suficiente para sobreviver. A maior dificuldade encontrada é o escoamento da produção agrícola e o intuito desta proposta é auxiliar a comunidade rural do povoado CAMPO ALEGRE a pavimentar em paralelepípedo a principal rua do povoado (Rua Beto Barreto), que também é utilizada para comercio dos produtos que são produzidos na região através de uma feirinha local. Porém hoje tudo acontece em uma rua de barro , onde no verão tem a poeira e no inverno a lama o que afasta os compradores. Com a pavimentação em paralelepípedo esse problema será resolvido e os produtores rurais terão um valor agregado maior em seus produtos aumentando assim a renda das famílias desta comunidade rural e beneficiando diretamente mais de 250 famílias que residem no local e utilizam dos espaços para comercializar seus produtos. O município de Jaramataia localiza-se a pouco mais de 20 quilômetros da cidade de Arapiraca (segunda maior cidade do Estado de Alagoas) e é a primeira cidade do sertão de Alagoas para quem utiliza a rodovia AL 220. Atualmente o município de Jaramataia possui mais de 5.676 pessoas segundo estimativa oficial do IBGE, porém nossa estimativa é bem maior, chegando as 7 mil pessoas, dessas aproximadamente 1.000 pessoas serão beneficiadas diretamente com esta obra. Além de ajudar no escoamento da produção agrícola está obra ajudará no transporte escolar das crianças que residem no Povoado Campo Alegre, que não irão esperar o ônibus na poeira ou na lama. Na aba anexo segue o memorial descritivo e o levantamento da rua.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Execução de Custeio",
+            "object": "Pavimentação com Pedras Poliédricas",
+            "information": "O Município de Jaramataia possui total capacidade técnica e gerencial para celebrar convênios e contratos de repasse",
+            "proposalDate": "2018-03-23T03:00:00.000Z",
+            "biddingDate": "2018-09-11T03:00:00.000Z",
+            "homologationDate": "2018-09-13T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020180004",
+              "name": "Alagoas-Emendas Parlamentares - Investimento",
+              "value": 747420.66,
+              "details": {
+                "code": "2200020180004",
+                "name": "Alagoas-Emendas Parlamentares - Investimento",
+                "cps": "001/2018",
+                "items": "Fomento ao Setor Agropecuário, Execução de Custeio",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 747420.66,
+                "couterpartValues": {
+                  "total": 754,
+                  "financial": 754,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 746666.66,
+                  "amendment": "R$ 746.666,66 - Jhc"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "respProponent": "***.676.794-** - JEFFERSON TORRES BARRETO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "48/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-05-10T03:00:00.000Z",
+              "processId": "062019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "062019",
+                "biddingId": "48/2019",
+                "object": "1.1 - A presente licitação tem como objeto CONTRATAÇÃO DE EMPRESA PARA PAVIMENTAÇÃO DAS RUAS BETO BARRETO, CONTINUAÇÃO DA BETO BARRETO, TRAVESSA SANTA LUZIA, RUA PROJETADA E ACESSO À ESCOLA CELINA BARBOSA, LOCALIZADAS NO MUNICÍPIO DE JARAMATAIA, de conformidade com as especificações contidas no Cronograma e nas Planilhas que integram este instrumento. 1.2 - As obras e serviços objeto deste contrato deverão ser executados em conformidade com as especificações anexos e subsidiariamente, respeitando as normas c métodos das NB - Normas Brasileiras, e da ABNT' (Associação Brasileira de Normas Técnicas) 1.3 - Todas as despesas decorrentes da execução das obras e serviços, objeto desta licitação, correrão por conta da LICITANTE vencedora.",
+                "legalFoundation": "2.2 - é vedada a participação, nos termos do art. 9°. da Lei 8 666/93, direta ou indiretamente: 2.2.1 - De empresas submetidas a sanções administrativas declaratórias de inidoneidade aplicadas por qualquer ente da administração direta ou indireta da esfera federal, estadual ou municipal, bem como submetidas a penalidades de suspensão do direito de participar em licitações públicas ou impedimento aplicadas pelo Município de Jaramataia 2.2.2 - De empresa cujo sócio-gerente ou responsável técnico, seja servidor ou dirigente de órgão ou entidade da Administração Pública do Município de Jaramataia 2.2.3 - Dc empresa em processo de recuperação judicial ou extrajudicial, falência ou concordata, ou em processo de dissolução ou liquidação, seja este direto ou indireto 2.2.4 - De empresa que tenha em seu quadro dirigente e/ou empregado autor do projeto básico das obras em licitação.",
+                "justification": "1.1  -  A  presente  licitação  tem  como  objeto  CONTRATAÇÃO  DE  EMPRESA  PARA  PAVIMENTAÇÃO  DAS  RUAS  BETO BARRETO,  CONTINUAÇÃO  DA  BETO  BARRETO,  TRAVESSA  SANTA  LUZIA,  RUA  PROJETADA  E  ACESSO À\nESCOLA CELINA  BARBOSA, LOCALIZADAS  NO MUNICÍPIO DE JARAMATAIA, de conformidade  com as especificações  contidas  no  Cronograma  e  nas Planilhas  que  integram  este  instrumento.\n1.2  - As  obras  e  serviços objeto deste contrato deverão ser executados  em  conformidade  com as  especificações  anexos  e subsidiariamente, respeitando as normas c métodos das NB  -  Normas Brasileiras, e da  ABNT'  (Associação  Brasileira de Normas Técnicas)\n1.3 - Todas as  despesas decorrentes da execução das obras e serviços, objeto desta  licitação, correrão  por conta da LICITANTE  vencedora.",
+                "publishDate": "2019-05-10T03:00:00.000Z",
+                "beginDate": "2019-05-28T03:00:00.000Z",
+                "endDate": "2019-06-26T03:00:00.000Z",
+                "biddingValue": 575270.37,
+                "homologationDate": "2019-06-26T03:00:00.000Z",
+                "city": "2773 - JARAMATAIA",
+                "analysisDate": "2020-01-08T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000116/2019",
+              "biddingId": "48/2019",
+              "date": "2019-07-10T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 26761178000149",
+                "hirerDocument": "CNPJ: 12207544000108",
+                "type": "Serviço",
+                "object": "O  presente instrumento  tem  como  objeto  CONTRATAÇÃO  DE  EMPRESA  PARA  PAVIMENTAÇÃO  DAS  RUAS BETO  BARRETO,  CONTINUAÇÃO  DA  BETO  BARRETO.  TRAVESSA  SANTA  LUZIA.  RUA  PROJETADA  E ACESSO  Ã  ESCOLA  CELINA  BARBOSA, LOCALIZADAS NO MUNICÍPIO  DE JARAMATAIA, de conformidade  com  as  especificações  contidas  no  Cronograma  e  nas  Planilhas  que  integram  este  instrumento.",
+                "totalValue": 575270.37,
+                "publishDate": "2019-07-10T03:00:00.000Z",
+                "beginDate": "2019-09-13T03:00:00.000Z",
+                "endDate": "2019-12-10T03:00:00.000Z",
+                "signDate": "2019-07-01T03:00:00.000Z",
+                "executionProcessId": "48/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "062019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE JARAMATAIA",
+            "documentNumber": "12.207.544/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "871214/2018",
+            "validity": "11/09/2018 a 30/08/2021",
+            "limitDate": "2021-10-29T03:00:00.000Z",
+            "totalValue": 747420.66,
+            "transferValue": 746666.66,
+            "counterpartValue": 754,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "728632/2009",
+        "uf": "AL",
+        "city": "Jaramataia",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-01-19T02:00:00.000Z",
+        "end": "2012-01-18T02:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "131589/2009",
+            "organId": "01347/2009",
+            "processId": "59050.004035/2009-11",
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Minimizar os efeitos do longo período de estiagem no município",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Contratação de Caminhão Pipa",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Jaramataia/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-12-22T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090016",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 256000,
+              "details": {
+                "code": "5300020090016",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Todos os municípios, com população abaixo de 50.000 habitantes, localizados em todas as regiões do Brasil. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 256000,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "respProponent": "***.545.868-** - JOAO PINHEIRO DOS SANTOS",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.511.671-** - MARCUS RODRIGO DOS SANTOS MOURA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "07/2011",
+              "type": "Licitação - Pregão",
+              "date": "2011-08-23T03:00:00.000Z",
+              "processId": "08190012011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "08190012011",
+                "biddingId": "07/2011",
+                "object": "Aquisição de um caminhão pipa",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "Por se tratar da compra de um equipamento a maneira mais rápida e segura de realizarmos o processo licitatório é através do pregão presencial",
+                "publishDate": "2011-08-23T03:00:00.000Z",
+                "beginDate": "2011-09-05T03:00:00.000Z",
+                "endDate": "2011-09-08T03:00:00.000Z",
+                "biddingValue": 252000,
+                "homologationDate": "2011-09-08T03:00:00.000Z",
+                "city": "2773 - JARAMATAIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000007/2011",
+              "biddingId": "07/2011",
+              "date": "2011-12-28T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12450888000143",
+                "hirerDocument": "CNPJ: 12207544000108",
+                "type": "Material",
+                "object": "Aquisição de um Caminhão Pipa",
+                "totalValue": 252000,
+                "publishDate": "2011-12-28T02:00:00.000Z",
+                "beginDate": "2010-01-19T02:00:00.000Z",
+                "endDate": "2012-01-18T02:00:00.000Z",
+                "signDate": "2011-10-25T02:00:00.000Z",
+                "executionProcessId": "07/2011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "08190012011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE JARAMATAIA",
+            "documentNumber": "12.207.544/0001-08",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "728632/2009",
+            "validity": "19/01/2010 a 18/01/2012",
+            "limitDate": "2012-10-13T03:00:00.000Z",
+            "totalValue": 256000,
+            "transferValue": 250000,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "727709/2009",
+        "uf": "AL",
+        "city": "Jaramataia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-30T02:00:00.000Z",
+        "program": "Habitação de Interesse Social",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041249/2009",
+            "organId": "04124/2009",
+            "processId": "041249/2009",
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Jaramataia possui um deficit habitacional muito grande e a Prefeitura não tem condições de arcar sózinha com esta carência, razão pela qual há uma necessidade muito grande do apoio do Governo Federal para que seja possível a diminuição dos problemas de moradia. A construção dessas 9 unidades habitacionais na zona urbana do município irá atender a famílias com renda salarial média entre 1 e 2 salários mínimos. A prefeitura irá adquirir um terreno na área central da zona urbana para construção dessas unidades habitacionais.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Unidades Habitacionais",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Jaramataia/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-06-22T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020091522",
+              "name": "Habitação de Interesse Social",
+              "value": 200414.88,
+              "details": {
+                "code": "5600020091522",
+                "name": "Habitação de Interesse Social",
+                "cps": "",
+                "items": "Construção de Habitações Populares",
+                "couterpartRule": "",
+                "totalValue": 200414.88,
+                "couterpartValues": {
+                  "total": 4014.88,
+                  "financial": 4014.88,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 196400,
+                  "amendment": "R$ 196.400,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "respProponent": "***.545.868-** - JOAO PINHEIRO DOS SANTOS",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE JARAMATAIA",
+            "documentNumber": "12.207.544/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "727709/2009",
+            "validity": "31/12/2009 a 30/12/2011",
+            "limitDate": "2011-12-30T02:00:00.000Z",
+            "totalValue": 200414.88,
+            "transferValue": 196400,
+            "counterpartValue": 4014.88,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "723551/2009",
+        "uf": "AL",
+        "city": "Jaramataia",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-12-30T02:00:00.000Z",
+        "program": "Habitação de Interesse Social",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041253/2009",
+            "organId": "04125/2009",
+            "processId": "041253/2009",
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A carência habitacional no município de Jaramataia é muito grande e a Prefeitura não tem condições sózinha de atender a toda população, razão pela qual é muito importante o apoio do Governo Federal para diminuar a falta de moradia da população mais carente. A construção dessas 07 unidades habitacionais serão na zona rural do município e irá atender a famílias com renda mensal entre 1 e 2 salários mínimos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construçào de 07 unidades habitacionais",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Jaramataia/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-06-22T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020090008",
+              "name": "Habitação de Interesse Social",
+              "value": 178881.74,
+              "details": {
+                "code": "5600020090008",
+                "name": "Habitação de Interesse Social",
+                "cps": "",
+                "items": "Habitação de Interesse Social",
+                "couterpartRule": "",
+                "totalValue": 178881.74,
+                "couterpartValues": {
+                  "total": 31931.74,
+                  "financial": 31931.74,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 146950,
+                  "amendment": "R$ 146.950,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "respProponent": "***.545.868-** - JOAO PINHEIRO DOS SANTOS",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE JARAMATAIA",
+            "documentNumber": "12.207.544/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "723551/2009",
+            "validity": "31/12/2009 a 30/12/2012",
+            "limitDate": "2012-12-30T02:00:00.000Z",
+            "totalValue": 178881.74,
+            "transferValue": 146950,
+            "counterpartValue": 31931.74,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "718493/2009",
+        "uf": "AL",
+        "city": "Jaramataia",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-04T02:00:00.000Z",
+        "end": "2010-04-09T03:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "096298/2009",
+            "organId": "01432/2009",
+            "processId": "72031.004924/2009-75",
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "legalFoundation": "Decreto 6170/07 e Portaria interministerial 127/ 08",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Nos dias 6 e 7 de dezembro de 2009, acontecerá pela primeira vez o evento denominado Festa do Leite, onde são esperados mais de 5.000 visitantes por noite, o que sem dúvidas será um grande polo de geração de emprego e renda no perído, tanto de forma direta quanto indireta. O município de Jaramataia situa-se no coração da bacia leiteira alagoana e tudo o que diz respeito ao assunto atrai milhares de turistas e gente da terra. O fato de ser o primeiro evento do gênero no município não irá atrapalhar o fluxo de pessoas haja visto o número de expositores já inscritos e com certeza a Festa se tornará um marco. A Prefeitura já tem uma tradição na realização de grandes eventos, como por exemplo o carnaval que é realizado todos os anos com um sucesso enorme. A realização e a inserção deste evento no calendário turístico do município, significará para a sua população uma excelente alternativa na promoção, incentivo e incremento do turismo local, como forma de alavancar o crescimento e o desenvolvimento turístico do município. O município de Jaramataia com uma população de aproximadamente 6.000 pessoas, está localizado aproximadamente a 160 km da capital, na região da Bacia Leiteira, tem sua economia centralizada na criação de gado leiteiro, seu pequeno comércio local, sua agricultura familiar e principalmente na Prefeitura. Por ser uma das mais importantes cidades da região leiteira do estado, a realização de uma festa nestes moldes que misture a apresentação e o concurso de gado leiteiro com a musica sertaneja irá atrair muita gente a cidade. Eventos desta natureza são considerados como um estímulo para intensificar ainda mais as iniciativas para consolidar o turismo local, pois, além de atrair visitantes, o evento tem como objetivo divulgar, promover e fortalecer as tradições folclóricas, a musicalidade sertaneja, o forró, suas danças e comidas típicas local, e mais, a geração direta e indireta de empregos e renda, além de proporcionar e compartilhar informações sobre as melhores práticas em turismo comunitário. Como resultado, espera-se fortalecer a centralidade regional e promover o desenvolvimento do município em sua área de atuação e influência; incrementar o mercado turístico; proporcionar lazer e descontração à comunidade; ampliar as possibilidades de acesso da população ao desenvolvimento turístico do município",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Festa do Leite",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Jaramataia/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-11-06T02:00:00.000Z",
+            "biddingDate": "2009-12-04T02:00:00.000Z",
+            "homologationDate": "2009-12-24T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090049",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 105600,
+              "details": {
+                "code": "5400020090049",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "FESTIVAIS CULTURAIS",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 105600,
+                "couterpartValues": {
+                  "total": 5600,
+                  "financial": 5600,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "respProponent": "***.545.868-** - JOAO PINHEIRO DOS SANTOS",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE JARAMATAIA",
+            "documentNumber": "12.207.544/0001-08",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Análise",
+            "number": "718493/2009",
+            "validity": "04/12/2009 a 09/04/2010",
+            "limitDate": "2019-03-18T03:00:00.000Z",
+            "totalValue": null,
+            "transferValue": 105600,
+            "counterpartValue": 100000,
+            "yieldValue": 5600
+          }
+        }
+      },
+      {
+        "agreementId": "715055/2009",
+        "uf": "AL",
+        "city": "Jaramataia",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-12-30T02:00:00.000Z",
+        "program": "Territórios Rurais - Infra-estrutura e Serviços - Contrato de Repasse",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "054044/2009",
+            "organId": "54044/2009",
+            "processId": "054044/2009",
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A situação sócio-econômica dos produtores de leite da região semi-árida do Estado é precária devido às deficiências estruturais agravadas pelas constantes secas, principalmente dos pequenos produtores familiares que encontram-se politicamente desorganizados e financeiramente descapitalizados. Com base no exposto e em experiência vivenciada com o Projeto piloto “PRÓ-PAZLEITE I”, no município de BELO MONTE, e também em Jaramataia, com experiência exitosa, a partir de recursos do PRONAF INFRA-ESTRUTURA, além de recursos da Prefeitura; está proposta a idéia de expansão, com a implantação do PROJETO DE FORTALECIMENTO DA PRODUÇÃO FAMILIAR, PROCESSAMENTO E COMERCIALIZAÇÃO DO LEITE – PRÓ-PAZLEITE II, ou seja, UNIDADES COMUNITÁRIAS DE RESFRIAMENTO DE LEITE, para viabilizar o processo de produção e agregação de valor ao leite e aos seus derivados. As ações propostas favorecem o fortalecimento da estrutura produtiva e da organização dos agricultores familiares do território, ações estas articuladas com vistas a melhoria da qualidade de vida desses agricultores. As famílias beneficiadas tanto direta (200 famílias), quanto indiretamente (150 famílias), pertencem a zona rural do município, com renda familiar abaixo de dois salários mínimos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Unidade Comunitária de Resfriamento de Leite",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Jaramataia/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-07-24T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090204",
+              "name": "Territórios Rurais - Infra-estrutura e Serviços - Contrato de Repasse",
+              "value": 113078,
+              "details": {
+                "code": "2200020090204",
+                "name": "Territórios Rurais - Infra-estrutura e Serviços - Contrato de Repasse",
+                "cps": "",
+                "items": "Apoiar a implementação e expansão dos investimentos que beneficiem coletivamente os agricultores familiares.",
+                "couterpartRule": "Os limites de contrapartida são os definidos na LDO (Lei 11.768, de 14/08/2008). A contrapartida de Estados e Municípios será apenas financeira. Para ONGs será aceita contrapartida em Bens e Serviços [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 113078,
+                "couterpartValues": {
+                  "total": 3393,
+                  "financial": 3393,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 109685,
+                  "amendment": "R$ 109.685,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "respProponent": "***.545.868-** - JOAO PINHEIRO DOS SANTOS",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.694.306-** - TEREZA CRISTINA CORREA DA COSTA DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE JARAMATAIA",
+            "documentNumber": "12.207.544/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "715055/2009",
+            "validity": "31/12/2009 a 30/12/2012",
+            "limitDate": "2012-12-30T02:00:00.000Z",
+            "totalValue": 113078,
+            "transferValue": 109685,
+            "counterpartValue": 3393,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "705883/2009",
+        "uf": "AL",
+        "city": "Jaramataia",
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-11-30T02:00:00.000Z",
+        "end": "2011-03-31T03:00:00.000Z",
+        "program": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "027301/2009",
+            "organId": "00085/2009",
+            "processId": "71000.076502/2009-04",
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "legalFoundation": "Decreto Nº 6.170/2007 e Portaria Nº 127/2008",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A origem do município, datada por volta de 1882, é a fazenda Jaramataia, de Manoel Barbosa Farias. Naquela época, havia apenas uma pequena casa onde residia uma senhora conhecida como Luiza. Exatamente onde se encontra hoje construída a cidade era a sede da fazenda. Pouco tempo depois chegou ao local Dezinho Barbosa de Amorim, que começou um pequeno sítio. Os oito filhos do seu casamento continuaram na região formando suas próprias famílias e fazendo crescer o povoado: a Jaramataia dos Barbosa. O nome se originou da grande quantidade de jaramataias - árvores abundantes que cobriam parte das terras. Em 1900 foi construída a primeira capela do povoado. Cinqüenta e quatro anos depois foi concluída a atual matriz de Nossa Senhora da Conceição. O povoado cresceu rápido e em 1961 foi elevado à condição de distrito. O desenvolvimento fez alguns grupos pedirem a emancipação, tendo como líderes Olavo Barbosa de Oliveira, José Barbosa, Aureliano Barbosa César, José Azarias Barbosa, José Maria Cavalcante e José Cícero Barbosa. A autonomia aconteceu por força de Lei 2.444, de maio de 1962, oficialmente em junho, com território desmembrado de Batalha. O município é um dos maiores produtores de leite do Estado e tem como atrações o Centro Cultural Beto Barreto e a Prainha do Açude, que é o ponto de encontro da população local e visitantes no final de semana. Entre os eventos, destacam-se: a festa da Emancipação Política (20 de junho), a tradicional vaquejada (setembro) e a festa da padroeira Nossa Senhora da Conceição (8 de dezembro). O município de Jaramataia está localizado na região central do Estado de Alagoas, limitando-se a norte com o município de Major Izidoro, ao sul com Traipu e Batalha, a leste com Craíbas e Girau do Ponciano e a oeste com Batalha. O mesmo possui área de 104,0 km² e o tipo climático dominante do município é do tipo Tropical Semi-Árido, com chuvas de verão. O período chuvoso se inicia em novembro com término em abril. A precipitação média anual é de 431,8mm. Diante desta realidade é de suma importância a parceria com o Ministério de Desenvolvimento Social e combate a Fome, no qual a mesma permitirá um canal de abertura para o acesso de famílias de baixa renda a instrumentos de captação de água de chuva através da construção de cisternas de placas e capacitação em gestão dos recursos hídricos para convivência com o semi-árido, além de aprofundar as relações de solidariedade no semi-árido contribuindo para novas conquista de direitos e acesso aos espaços de discussões políticos para o público beneficiário do projeto. Durante a execução do projeto pretendemos acompanhar todas as ações e contribuir para a apropriação do público beneficiário, com isso nos permitirá o inicio do processo de mobilização das famílias, reforçar e ampliar os processos organizativos e representativos das organizações no contexto das comunidades para a consolidação das ações. Este trabalho contínuo de mobilização e sensibilização que pretendemos executar estará visível nas ações que garantem o direito de acesso a políticas públicas compatíveis com uma realidade vivida há séculos por uma população. A presente proposta tem por objetivo contribuir para a qualidade de vida das famílias rurais do município de Jaramataia na região semi-árida do Estado de Alagoas, a partir do acesso de Cento e Setenta e Quatro (174) famílias com acesso a água de qualidade e em quantidade para o consumo humano. O mesmo será desenvolvido em oito (08) comunidades rurais do município, cada cisterna terá capacidade para armazenamento de (16.000) litros de água das chuvas. A partir da instalação das cisternas, as famílias receberão informações através de oficinas de formação sobre o manejo da água das cisternas, gerenciamento dos recursos disponíveis na região e outras práticas de convivência com o semi-árido. Estas ações são estrategicas para a transformação da realidade do semi-árido Alagoano. O Município de Jaramataia possui população total de (5.939) habitantes, sendo que mais de 75% dos habitantes residente em área rural.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "O Projeto visa à dotação de infra-estrutura hídrica para consumo humano através da construção de cisternas de placas. Realizar-se-á por meio do estabelecimento de vínculo de cooperação entre as partes, em benefício da população de baixa renda e com dificuldade no acesso a recursos hídricos, no Município de Jaramataia, localizado na região semi-árida do Estado de Alagoas, desde que os beneficiários se enquadrem nos critérios de elegibilidade do Programa Bolsa Família do Governo Federal. (CadÚnico) O Projeto objetiva o acesso, o gerencia-mento e a valorização da água como um direito essencial da vida e da cidadania, ampliando a compreensão e a prática da convivência sustentável e solidária com o ecossistema do semi-árido.",
+            "information": "",
+            "proposalDate": "2009-05-15T03:00:00.000Z",
+            "biddingDate": "2009-11-26T02:00:00.000Z",
+            "homologationDate": "2009-11-30T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020090011",
+              "name": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+              "value": 235419.24,
+              "details": {
+                "code": "5500020090011",
+                "name": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+                "cps": null,
+                "items": "Universalizar as condições de acesso adequado à água potável das populações rurais de baixa renda no semi-árido a partir do armazenamento de água em cisternas, tendo como objeto padronizável: Apoio a construção de cisternas de placas de cimento;",
+                "couterpartRule": "Será exigida dos proponentes a apresentação de contrapartida financeira de acordo com os percentuais dispostos na Lei nº. 11.768 de 14 de agosto de 2008 (Lei de Diretrizes Orçamentárias) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 235419.24,
+                "couterpartValues": {
+                  "total": 9000,
+                  "financial": 9000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 226419.24,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.544/0001-08 - MUNICIPIO DE JARAMATAIA",
+            "respProponent": "***.545.868-** - JOAO PINHEIRO DOS SANTOS",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.864.406-** - Patrus Ananias de Souza"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "016",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "016",
+                "biddingId": null,
+                "object": "Adesão ao serviço voluntário cisterneiro",
+                "legalFoundation": "Lei Nº 9608/98",
+                "justification": "Adesão ao Serviço Voluntário Cisterneiro amparado pelo processo de dispensa de licitação conforme fundamento legal Lei Nº 9608/98.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": null,
+                "city": "2773 - JARAMATAIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "00092010",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "00092010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "00122010",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "00122010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "00052010",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "00052010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "012010",
+              "type": "Licitação - Pregão",
+              "date": "2009-11-30T02:00:00.000Z",
+              "processId": "012010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "00102010",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "00102010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "00112010",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "00112010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "005",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "005",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "003",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "003",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "002",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "002",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "001",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "013",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "013",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "008",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "008",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "012",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "009",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            },
+            {
+              "executionId": "010",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2010",
+              "biddingId": "012010",
+              "date": "2010-03-01T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 08513910000180",
+                "hirerDocument": "CNPJ: 12207544000108",
+                "type": "Material",
+                "object": "Fornecimento de Materiais para construção",
+                "totalValue": 188500.03,
+                "publishDate": "2010-03-01T03:00:00.000Z",
+                "beginDate": "2010-03-01T03:00:00.000Z",
+                "endDate": "2010-09-30T03:00:00.000Z",
+                "signDate": "2010-03-01T03:00:00.000Z",
+                "executionProcessId": "012010 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "012010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE JARAMATAIA",
+            "documentNumber": "12.207.544/0001-08",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "705883/2009",
+            "validity": "30/11/2009 a 31/03/2011",
+            "limitDate": "2014-03-03T03:00:00.000Z",
+            "totalValue": 235419.24,
+            "transferValue": 226419.24,
+            "counterpartValue": 9000,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

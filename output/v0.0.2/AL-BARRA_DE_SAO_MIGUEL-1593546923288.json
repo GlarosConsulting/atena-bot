@@ -1,0 +1,3120 @@
+{
+  "startDate": "2020-06-30T19:41:10.075Z",
+  "endDate": "2020-06-30T19:55:23.288Z",
+  "data": {
+    "search": {
+      "uf": "AL",
+      "city": "BARRA DE SAO MIGUEL"
+    },
+    "agreements": [
+      {
+        "agreementId": "899257/2020",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2020-05-22T03:00:00.000Z",
+        "end": "2023-05-22T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR�STICA - CONTRATO DE REPASSE - OR�AMENTO IMPOSITIVO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "003970/2020",
+            "organId": "03970/2020",
+            "processId": "39702020",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": "O MUNICÍPIO DE BARRA DE SÃO MIGUEL ESTÁ LOCALIZADO NA REGIÃO NORDESTE, ALAGOAS REGIÃO DAS LAGOAS E MARES DO SUL, NA CATEGORIA C DO MAPA DO TURISMO, COM 7.574HAB.PRINCIPAIS PONTOS TURÍSTICOS:PRAIA DAS CONCHAS, BARRAMAR,O RIO ROTEIRO,O CAIS DO PORTO, A IGREJA DA MATRIZ, BARRA ANTIGA, O ENCONTRO DO RIO COM O MAR E AS MARINAS À BEIRA MAR.PRINCIPAIS EVENTOS:FESTAS RELIGIOSAS, CARNAVAL, FESTAS JUNINAS,TORNEIOS ESPORTIVOS AQUÁTICOS DENTRE ELES LOPANA PHOENYX FEST,COM MILHARES DE TURISTAS E VISITANTES.",
+            "justification": null,
+            "targetAudience": "VISITANTES E TURISTAS ADVINDOS DE TODOS OS ESTADOS, QUE SE BENEFICIARÃO COM A CONSTRUÇÃO DO CENTRO DE CONVENÇÕES DA BARRA DE SÃO MIGUEL - AL.",
+            "problem": "A FALTA DE INFRAESTRUTURA TURÍSTICA NO MUNICÍPIO, QUE APESAR DE VIVER EXCLUSIVAMENTE DO TURISMO, AINDA NÃO TEM UM LOCAL PARA GRANDES EVENTOS, DEPENDENDO DESSA 3ª ETAPA PARA CONCLUSÃO DO CENTRO DE CONVENÇÕES NO MUNICÍPIO. A 1ª E 2ª ETAPAS ENCONTRAM-SE EM FASE DE EXECUÇÃO NA PLATAFORMA + BRASIL, COM OS NÚMEROS DE CONVÊNIOS RESPECTIVAMENTE: 809916-2014 E 832032-2016. SERÁ CONSTRUÍDO NAS SEGUINTES COORDENADAS: LAT: 9º 49' 25.44'' S E LONG: 35º 53' 20.35'' W.",
+            "result": "OPORTUNIDADE DO MUNICÍPIO CRESCER E ATRAIR NOVOS E IMPORTANTES INVESTIMENTOS PRIVADOS DO SETOR, O QUE, NA PRÁTICA, SIGNIFICA O FORTALECIMENTO DA BARRA DE SÃO MIGUEL COMO IMPORTANTE DESTINO TURÍSTICO. ESSA OBRA TRATA DE INFRAESTRUTURA TURÍSTICA NUM IMPORTANTE DESTINO DA REGIÃO E DO BRASIL.",
+            "proposalAndObjectivesRelation": "O PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA VISA AO DESENVOLVIMENTO DO TURISMO NOS MUNICÍPIOS BRASILEIROS, PRINCIPALMENTE POR MEIO DE EMPREENDIMENTOS QUE AUMENTEM O FLUXO TURÍSTICO, ESTANDO ASSIM A NOSSA PROPOSTA, DE ACORDO COM OS OBJETIVOS DO PROGRAMA, PROMOVENDO O DESENVOLVIMENTO TURÍSTICO EM NOSSO MUNICÍPIO.",
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "CONSTRUÇÃO DO CENTRO DE CONVENÇÕES DA BARRA DE SÃO MIGUEL - AL - 3ª ETAPA",
+            "information": "O município de Barra de São Miguel possui em seu quadro de funcionários, profissionais capacitados para elaboração, execução, fiscalização e prestação de contas do referido convênio.",
+            "proposalDate": "2020-03-13T03:00:00.000Z",
+            "biddingDate": "2020-05-22T03:00:00.000Z",
+            "homologationDate": "2020-06-05T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020200002",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR�STICA - CONTRATO DE REPASSE - OR�AMENTO IMPOSITIVO",
+              "value": 1251,
+              "details": {
+                "code": "5400020200002",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR�STICA - CONTRATO DE REPASSE - OR�AMENTO IMPOSITIVO",
+                "cps": "007/2018",
+                "items": "Ações Complementares de Obras",
+                "couterpartRule": "0,10 e 4%, para Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1251,
+                "couterpartValues": {
+                  "total": 1964,
+                  "financial": 1964,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1249.036,
+                  "amendment": "R$ 1.249.036,00 - Rodrigo Cunha"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.490.396-** - MARCELO HENRIQUE TEIXEIRA DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "899257/2020",
+            "validity": "22/05/2020 a 22/05/2023",
+            "limitDate": "2023-07-21T03:00:00.000Z",
+            "totalValue": 1251,
+            "transferValue": 1249.036,
+            "counterpartValue": 1964,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "899254/2020",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2020-05-22T03:00:00.000Z",
+        "end": "2023-05-22T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR�STICA - CONTRATO DE REPASSE - OR�AMENTO IMPOSITIVO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "004215/2020",
+            "organId": "04215/2020",
+            "processId": "42152020",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": "O MUNICÍPIO DE BARRA DE SÃO MIGUEL ESTÁ LOCALIZADO NA REGIÃO NORDESTE, ALAGOAS REGIÃO DAS LAGOAS E MARES DO SUL, NA CATEGORIA C DO MAPA DO TURISMO, COM 7.574HAB.PRINCIPAIS PONTOS TURÍSTICOS:PRAIA DAS CONCHAS, BARRAMAR,O RIO ROTEIRO,O CAIS DO PORTO, A IGREJA DA MATRIZ, BARRA ANTIGA, O ENCONTRO DO RIO COM O MAR E AS MARINAS À BEIRA MAR.PRINCIPAIS EVENTOS:FESTAS RELIGIOSAS, CARNAVAL, FESTAS JUNINAS,TORNEIOS ESPORTIVOS AQUÁTICOS DENTRE ELES LOPANA PHOENYX FEST,COM MILHARES DE TURISTAS.",
+            "justification": null,
+            "targetAudience": "TURISTAS E VISITANTES ADVINDOS DE TODOS OS ESTADOS PARA O MUNICÍPIO DE BARRA DE SÃO MIGUEL.",
+            "problem": "A FALTA DE INFRAESTRUTURA DO MUNICÍPIO EM RELAÇÃO AO TURISMO. COM A PAVIMENTAÇÃO DAS RUAS DE ACESSO A ROTA DAS MARINAS, QUE SÃO UM DOS PRINCIPAIS PONTOS TURÍSTICOS DE NOSSO MUNICÍPIO, DARÁ COMODIDADE E CONFORTO AOS TURISTAS QUE VISITAM DIARIAMENTE AS MARINAS. COORDENADAS GEOGRÁFICAS (INÍCIO LATITUDE - 9°49'48.35''S LONGITUDE - 35°54'53.48''W FIM LATITUDE - 9°50'7.00''S LONGITUDE - 35°54'32.56''W)",
+            "result": "COM A PAVIMENTAÇÃO DAS RUAS DO ACESSO A ROTA DAS MARINAS OS TURISTAS DE BARRA DE SÃO MIGUEL TERÃO COMODIDADE PARA CHEGAR A ESSE ATRATIVO TURÍSTICO, ONDE SERÁ AUMENTADO O FLUXO DE TURISTAS E VISITANTES NO MUNICÍPIO, DANDO COMO ALCANÇADO O NOSSO OBJETIVO QUE EM PARCERIA AO MINISTÉRIO DO TURISMO É DESENVOLVER O TURISMO NOS MUNICÍPIOS BRASILEIROS.",
+            "proposalAndObjectivesRelation": "O programa de apoio a Projetos de Infraestrutura Turística visa ao desenvolvimento do turismo nos municípios brasileiros, principalmente por meio da adequação da infraestrutura, estando assim a nossa proposta, de acordo com os objetivos do programa, promovendo o desenvolvimento turístico em nosso município.",
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "PAVIMENTAÇÃO DE ACESSO A ROTA DAS MARINAS NO MUNICÍPIO DE BARRA DE SÃO MIGUEL - AL.",
+            "information": "O município possui em seu quadro de funcionários, técnicos capacitados para elaboração, execução, fiscalização e prestação de contas do referido convênio.",
+            "proposalDate": "2020-03-13T03:00:00.000Z",
+            "biddingDate": "2020-05-22T03:00:00.000Z",
+            "homologationDate": "2020-06-05T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020200002",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR�STICA - CONTRATO DE REPASSE - OR�AMENTO IMPOSITIVO",
+              "value": 482000,
+              "details": {
+                "code": "5400020200002",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR�STICA - CONTRATO DE REPASSE - OR�AMENTO IMPOSITIVO",
+                "cps": "007/2018",
+                "items": "Ações Complementares de Obras",
+                "couterpartRule": "0,10 e 4%, para Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 482000,
+                "couterpartValues": {
+                  "total": 896,
+                  "financial": 896,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 481104,
+                  "amendment": "R$ 481.104,00 - Tereza Nelma"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.490.396-** - MARCELO HENRIQUE TEIXEIRA DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "899254/2020",
+            "validity": "22/05/2020 a 22/05/2023",
+            "limitDate": "2023-07-21T03:00:00.000Z",
+            "totalValue": 482000,
+            "transferValue": 481104,
+            "counterpartValue": 896,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "892720/2019",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2019-12-23T03:00:00.000Z",
+        "end": "2022-12-23T03:00:00.000Z",
+        "program": "Desenvolvimento da Infraestrutura Pesqueira e Aquícola",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "000444/2019",
+            "organId": "00444/2019",
+            "processId": "4442019",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": "O projeto visa o fortalecimento e apoio de comunidade tradicional e o incentivo a produção do massunim de forma adequada (normas técnicas) para sua formalização no mercado consumidor. Através da adequação na produção do pescado este projeto tem a finalidade de combate à pobreza e vulnerabilidade socioeconômica dos marisqueiros: a precariedade não só está restrita ao meio de produção do massunim, mas ao valor monetário recebido pelos marisqueiros do pescado na mão de atravessadores.",
+            "justification": null,
+            "targetAudience": "O público a ser atingido, através do projeto, são os 13 (treze) marisqueiros e seus familiares, que atualmente ocupam espaço inadequado e produzem de forma precária seus produtos, não possuem espaço no mercado consumidor sendo necessário vender seus produtos aos atravessadores (que chegam a ganhar 200% em cima da produção local quando repassam os produtos adquiridos), grande maioria destes marisqueiros são mulheres chefes de família. Com renda mensal de até ½ salário mínimo (por família).",
+            "problem": "Adequação do sistema de produção nos termos de qualidade dos produtos para inserção no mercado formal; Eliminar risco de acidentes quanto à forma de produção do pescado atualmente vendidos pelos marisqueiros; Problemática ambiental: o atual espaço ocupado pelos marisqueiros é área de preservação ambiental, existe há décadas atrás de forma desorganizada e precária com construções inadequadas servindo de local de produção, armazenamento e comercialização",
+            "result": "Adequar de forma satisfatória os marisqueiros em um galpão: Casa do massunim (produção do marisco) com píer para as canoas (uso exclusivo para as embarcações utilizadas na pesca artesanal do massunim ) e equipamentos adequados para a produção, que viabilize o enfrentamento da atual situação de risco de vida, social e econômico no qual se encontra os marisqueiros. Sanando assim problemáticas vinculadas as políticas públicas e surgindo como uma referencia na produção do massunim.",
+            "proposalAndObjectivesRelation": "A promoção e desenvolvimento econômico do produto in natura “massunim” tradicionalmente produzido pela comunidade dos marisqueiros do município e possui demanda da produção artesanal, mas com aspectos que não os qualifica para introdução no mercado formal, com isto afeta a economia local. Com a implantação do projeto a comunidade recebera um local adequado as normas de produção, por meio de ação de políticas públicas sustentáveis o que garante uma comunidade emancipada socioeconomicamente",
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "CONSTRUÇÃO DE ESTRUTURA COM PIER PARA BENEFICIAMENTO E COMERCIALIZAÇÃO DO MASSUNIM NO MUNICÍPIO DE BARRA DE SÃO MIGUEL – AL",
+            "information": "Qualificação técnica e capacidade operacional para a execução do projeto, através de contratação de empresas especializadas de acordo com cada objetivo específico. Tendo sobre gerenciamento e supervisão equipe técnica municipal (mínima).",
+            "proposalDate": "2019-03-12T03:00:00.000Z",
+            "biddingDate": "2019-12-23T03:00:00.000Z",
+            "homologationDate": "2019-12-27T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020190040",
+              "name": "Desenvolvimento da Infraestrutura Pesqueira e Aquícola",
+              "value": 250000,
+              "details": {
+                "code": "2200020190040",
+                "name": "Desenvolvimento da Infraestrutura Pesqueira e Aquícola",
+                "cps": "001/2018",
+                "items": "Elaboração de Estudos e Projetos, Ações Complementares de Obras",
+                "couterpartRule": "Deve seguir o regramento previsto no Artigo 78 da Lei 13.707 (Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2019), de 14/08/2018, conforme versa a Portaria 424/2016. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 11250,
+                  "financial": 11250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 238750,
+                  "amendment": "R$ 238.750,00 - Jhc"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.694.306-** - TEREZA CRISTINA CORREA DA COSTA DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "892720/2019",
+            "validity": "23/12/2019 a 23/12/2022",
+            "limitDate": "2023-02-21T03:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 238750,
+            "counterpartValue": 11250,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "856803/2017",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "097775/2017",
+            "organId": "97775/2017",
+            "processId": "0977752017",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "BARRA DE SÃO MIGUEL FICA A POUCO MAIS DE 20 KM DE MACEIÓ. SUA POPULAÇÃO É ESTIMADA EM CERCA DE 10.000 HABITANTES. A SUA ECONOMIA BASEIA-SE NO TURISMO E PESCA. A PARCERIA COM O MINISTÉRIO DAS CIDADES PARA A REFORMA E MODERNIZAÇÃO DE PRAÇAS PÚBLICAS EM NOSSO MUNICÍPIO SERÁ MUITO IMPORTANTE, POIS DARÁ A POPULAÇÃO MAIS UMA OPORTUNIDADE DE LAZER. APOIAR ESSA IMPORTANTE OBRA É PERMITIR QUE A BARRA DE SÃO MIGUEL VOLTE A OFERECER UM ESPAÇO DE CONVÍVIO DIGNO, COM PLENAS CONDIÇÕES DE USO E, SOBRETUDO, PERMITIR QUE A PREFEITURA MUNICIPAL POSSA DESENVOLVER AÇÕES DE INCLUSÃO SOCIAL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Reforma e Modernização de Praças Públicas no Município da Barra de São Miguel/AL",
+            "information": "Eu, José Medeiros Nicolau, residente e domiciliado na Fazenda Rosa do Sol, s/n, Centro, Município de Barra de São Miguel/AL, possuidor do CPF sob nº 230.654.498-03, na qualidade de Prefeito do Município de Barra de São Miguel/AL, inscrito no CNPJ sob nº 12.263.869/0001-08, DECLARO para os devidos fins que o município possui capacidade técnica e gerencial em fazer gestão e execução do convênio cujo objeto é Reforma e Modernização de Praças Públicas no Município da Barra de São Miguel/AL, objeto da proposta nº 097775/2017 apresentada no Sistema de Convênios – SICONV, tendo como Engenheira Fiscal a Sra. Andrea Maria dos Santos, inscrita no CREA sob nº 020650051-3.",
+            "proposalDate": "2017-11-29T02:00:00.000Z",
+            "biddingDate": "2017-12-30T02:00:00.000Z",
+            "homologationDate": "2018-01-11T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 416000,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 416000,
+                "couterpartValues": {
+                  "total": 1031,
+                  "financial": 1031,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 414969,
+                  "amendment": "R$ 414.969,00 - Cícero Almeida"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.672.604-** - BRUNO CAVALCANTI DE ARAUJO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-05-13T03:00:00.000Z",
+              "processId": "05030152019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "05030152019",
+                "biddingId": "012019",
+                "object": "Obra de engenharia referente a reforma e ampliação das praças no município de barra de São Miguel - AL.",
+                "legalFoundation": "8666/93",
+                "justification": "Justifica-se em especial ao que preconiza a Lei 8666/93.",
+                "publishDate": "2019-05-13T03:00:00.000Z",
+                "beginDate": "2019-05-29T03:00:00.000Z",
+                "endDate": "2019-05-29T03:00:00.000Z",
+                "biddingValue": 403717.66,
+                "homologationDate": "2019-05-31T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": "2019-07-30T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "012019/2019",
+              "biddingId": "012019",
+              "date": "2019-06-03T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 16628118000107",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Material",
+                "object": "Obra de engenharia referente a reforma e ampliação das praças no município de barra de São Miguel - AL.",
+                "totalValue": 403717.66,
+                "publishDate": "2019-06-03T03:00:00.000Z",
+                "beginDate": "2019-05-31T03:00:00.000Z",
+                "endDate": "2020-01-31T03:00:00.000Z",
+                "signDate": "2019-05-31T03:00:00.000Z",
+                "executionProcessId": "012019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "05030152019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "856803/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 416000,
+            "transferValue": 414969,
+            "counterpartValue": 1031,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "832032/2016",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-06-10T03:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "004904/2016",
+            "organId": "04904/2016",
+            "processId": "0049042016",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A BARRA DE SÃO MIGUEL É UM MUNICÍPIO LOCALIZADO NA REGIÃO METROPOLITANA DE MACEIÓ E POSSUI CERCA DE 7.574 MIL HABITANTES, DE ACORDO COM O IBGE 2010. SUA ECONOMIA É VOLTADA EXCLUSIVAMENTE PARA O TURISMO QUE É SUA VOCAÇÃO NATURAL. NA BARRA DE SÃO MIGUEL ESTÃO LOCALIZADAS ALGUMAS DAS MAIS BELAS PRAIAS DO BRASIL. ALGUNS PONTOS TURÍSTICOS COMO A PRAIA DAS CONCHAS, A PRAIA BONITA, A PRAIA DO BARRA MAR, O RIO ROTEIRO, O CAIS DO PORTO, A IGREJA DA MATRIZ, A IGREJINHA DE SANTANA, QUE FICA NO LOCAL ONDE OS ÍNDIOS CAETÉS TERIAM DEVORADO O BISPO SARDINHA, O ENCONTRO DO RIO COM O MAR E AS DEZENAS DE MARINAS À BEIRA MAR, DE ONDE PARTEM LANCHAS, JETS, ESCUNAS E CATAMARÃS, FAZEM DA BARRA UM DESTINO INCRÍVEL. DURANTE O PERÍODO DE ALTA ESTAÇÃO, A CIDADE CHEGA A UMA POPULAÇÃO DE MAIS DE 40 MIL PESSOAS, VINDAS DE TODAS AS PARTES DO MUNDO. O CALENDÁRIO ANUAL DE EVENTOS E FESTIVIDADES É BEM EXTENSO E VAI DESDE AS TRADICIONAIS FESTAS RELIGIOSAS DO NORDESTE BRASILEIRO A UM DOS MAIORES E MAIS CONSAGRADOS CARNAVAIS DE TODA REGIÃO, PASSANDO PELAS FESTAS JUNINAS, TORNEIOS ESPORTIVOS AQUÁTICOS, COMO CAMPEONATOS DE SURF, BODY BOARD E VELA, ATÉ UM DOS MAIS FESTEJADOS EVENTOS NAÚTICOS DO NORDESTE QUE É O LOPANA PHOENYX FEST, QUE ATRAI MILHARES DE TURISTAS E CENTENAS DE EMBARCAÇÕES. A INFRAESTRUTURA DA BARRA DISPÕE DE HOTÉIS, BARES, RESTAURANTES E UMA DIVERSIDADE DE PASSEIOS QUE FAZEM COM QUE A CIDADE SEJA DISPUTADA POR MUITOS. MAS, COMO MUITAS CIDADES DO INTERIOR DO BRASIL, O DESENVOLVIMENTO AINDA ESTÁ ÀS MARGENS DA REALIDADE. A BARRA ESTÁ MUDANDO, MAS AINDA SOFRE COM AUSÊNCIA DE EQUIPAMENTOS PÚBLICOS CAPAZES DE BEM SERVIR AOS TURISTAS E INVESTIDORES. POR ISSO, O MINISTÉRIO DO TURISMO APOIAR A REALIZAÇÃO DESSA OBRA DA 2ª ETAPA DA CONSTRUÇÃO DO CENTRO DE CONVENÇÕES DA BARRA DE SÃO MIGUEL - AL, É DAR A OPORTUNIDADE DO MUNICÍPIO CRESCER E ATRAIR NOVOS E IMPORTANTES INVESTIMENTOS PRIVADOS DO SETOR, O QUE, NA PRÁTICA, SIGNIFICA O FORTALECIMENTO DA BARRA DE SÃO MIGUEL COMO IMPORTANTE DESTINO TURÍSTICO. ESSA OBRA TRATA DE INFRAESTRUTURA TURÍSTICA NUM IMPORTANTE DESTINO DA REGIÃO E DO BRASIL. O CENTRO DE CONVENÇÕES TRARÁ O TURISMO DE NEGÓCIO, TÃO IMPORTANTE PARA MINIMIZAR OS EFEITOS TERRÍVEIS DA BAIXA ESTAÇÃO. ESSA REALIZAÇÃO É A MAIOR DEMANDA DE TODO TRADE, JÁ QUE O CENTRO DE CONVENÇÕES DE MACEIÓ VIVE LOTADO E A BARRA DE SÃO MIGUEL, QUE FICA A VINTE MINUTOS DA CAPITAL, SERÁ A PRINCIPAL ALTERNATIVA PARA QUEM BUSCA ESSE TIPO DE EVENTO. A 1ª ETAPA DA CONSTRUÇÃO DO CENTRO DE CONVENÇÕES ESTÁ DEVIDAMENTE INSERIDO NO SICONV ATRAVÉS DA PROPOSTA Nº 043238/2014 E CONTRATO DE REPASSE Nº 1019881-49/2014, ONDE A MESMA SE ENCONTRA EM ANÁLISE NA CAIXA ECONÔMICA FEDERAL DE ALAGOAS, NO SETOR RESPONSÁVEL GIGOV. A ÁREA DESTINADA A CONSTRUÇÃO DO CENTRO DE CONVENÇÕES ESTÁ LOCALIZADO ATRAVÉS DAS SEGUINTES COORDENADAS GEOGRÁFICA: 9º49'24.2''S E 35º53'20.6''W.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DO CENTRO DE CONVENÇÕES DA BARRA DE SÃO MIGUEL - AL - 2ª ETAPA",
+            "information": "Eu, José Medeiros Nicolau, residente e domiciliado na Fazenda Rosa do Sol, s/n, Centro, Município de Barra de São Miguel/AL, possuidor do CPF sob nº 230.654.498-03, na qualidade de Prefeito do Município de Barra de São Miguel/AL, inscrito no CNPJ sob nº 12.263.869/0001-08, DECLARO para os devidos fins que o município possui capacidade técnica e gerencial em fazer gestão e execução do convênio cujo objeto é APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA – REVITALIZAÇÃO DA PRAÇA MIRIEL CAVALCANTE, objeto da proposta nº 004904/2016 apresentada no Sistema de Convênios – SICONV, tendo como Engenheira Fiscal a Sra. Andrea Maria dos Santos, inscrita no CREA sob nº 020650051-3.",
+            "proposalDate": "2016-03-03T03:00:00.000Z",
+            "biddingDate": "2016-06-10T03:00:00.000Z",
+            "homologationDate": "2016-06-16T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020160008",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+              "value": 1000,
+              "details": {
+                "code": "5400020160008",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "O Programa de Infraestrutura Turística visa o desenvolvimento do turismo nos municípios brasileiros, principalmente por meio de adequação da infraestrutura, de forma que permita a expansão das atividades turísticas e a melhoria da qualidade do produto para o turista, bem como a consecução dos objetivos previstos no Plano Nacional de Turismo.",
+                "couterpartRule": "1) Municípios com até cinquenta mil habitantes: mínimo 0,1% (um décimo por cento) e máximo 4% (quatro por cento) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1000,
+                "couterpartValues": {
+                  "total": 25000,
+                  "financial": 25000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 975000,
+                  "amendment": "R$ 975.000,00 - Ronaldo Lessa"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.774.458-** - NEUSVALDO FERREIRA LIMA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "CC 01/2015",
+              "type": "Licitação - Concorrência",
+              "date": "2015-01-30T02:00:00.000Z",
+              "processId": "1010182015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concorrência",
+                "biddingType": "Menor Preço",
+                "processId": "1010182015",
+                "biddingId": "CC 01/2015",
+                "object": "CONSULTORIA ESPECIALIZADA PARA ELABORAÇÃO DE PLANOS, PROGRAMAS E PROJETOS DE ARQUITETURA, ENGENHARIA E DESENVOLVIMENTO URBANO REFERENTE A OBRAS E SERVIÇOS TÉCNICOS.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "MODALIDADE CONCORRÊNCIA.",
+                "publishDate": "2015-01-30T02:00:00.000Z",
+                "beginDate": "2015-05-05T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 1659.415,
+                "homologationDate": "2015-07-01T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "01 2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-04-18T03:00:00.000Z",
+              "processId": "040200082018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2017",
+              "biddingId": "CC 01/2015",
+              "date": "2015-07-07T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 02281515000132",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Serviço",
+                "object": "CONSULTORIA ESPECIALIZADA PARA ELABORAÇÃO DE PLANOS, PROGRAMAS E PROJETOS DE ARQUITETURA, ENGENHARIA E DESENVOLVIMENTO URBANO REFERENTE A OBRAS E SERVIÇOS TÉCNICOS.",
+                "totalValue": 1659.415,
+                "publishDate": "2015-07-07T03:00:00.000Z",
+                "beginDate": "2015-07-01T03:00:00.000Z",
+                "endDate": "2016-07-01T03:00:00.000Z",
+                "signDate": "2015-07-01T03:00:00.000Z",
+                "executionProcessId": "CC 01/2015 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "1010182015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "832032/2016",
+            "validity": "10/06/2016 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 1000,
+            "transferValue": 975000,
+            "counterpartValue": 25000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "832028/2016",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-06-10T03:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "004805/2016",
+            "organId": "04805/2016",
+            "processId": "0048052016",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A BARRA DE SÃO MIGUEL É UM MUNICÍPIO LOCALIZADO NA REGIÃO METROPOLITANA DE MACEIÓ E POSSUI CERCA DE 8 MIL HABITANTES, DE ACORDO COM O IBGE 2010. SUA ECONOMIA É VOLTADA EXCLUSIVAMENTE PARA O TURISMO QUE É SUA VOCAÇÃO NATURAL. NA BARRA DE SÃO MIGUEL ESTÃO LOCALIZADAS ALGUMAS DAS MAIS BELAS PRAIAS DO BRASIL. ALGUNS PONTOS TURÍSTICOS COMO A PRAIA DAS CONCHAS, A PRAIA BONITA, A PRAIA DO BARRA MAR, O RIO ROTEIRO, O CAIS DO PORTO, A IGREJA DA MATRIZ, A IGREJINHA DE SANTANA, QUE FICA NO LOCAL ONDE OS ÍNDIOS CAETÉS TERIAM DEVORADO O BISPO SARDINHA, O ENCONTRO DO RIO COM O MAR E AS DEZENAS DE MARINAS À BEIRA MAR, DE ONDE PARTEM LANCHAS, JETS, ESCUNAS E CATAMARÃS, FAZEM DA BARRA UM DESTINO INCRÍVEL. DURANTE O PERÍODO DE ALTA ESTAÇÃO, A CIDADE CHEGA A UMA POPULAÇÃO DE MAIS DE 40 MIL PESSOAS, VINDAS DE TODAS AS PARTES DO MUNDO. O CALENDÁRIO ANUAL DE EVENTOS E FESTIVIDADES É BEM EXTENSO E VAI DESDE AS TRADICIONAIS FESTAS RELIGIOSAS DO NORDESTE BRASILEIRO A UM DOS MAIORES E MAIS CONSAGRADOS CARNAVAIS DE TODA REGIÃO, PASSANDO PELAS FESTAS JUNINAS, TORNEIOS ESPORTIVOS AQUÁTICOS, COMO CAMPEONATOS DE SURF, BODY BOARD E VELA, ATÉ UM DOS MAIS FESTEJADOS EVENTOS NAÚTICOS DO NORDESTE QUE É O LOPANA PHOENYX FEST, QUE ATRAI MILHARES DE TURISTAS E CENTENAS DE EMBARCAÇÕES. A INFRAESTRUTURA DA BARRA DISPÕE DE HOTÉIS, BARES, RESTAURANTES E UMA DIVERSIDADE DE PASSEIOS QUE FAZEM COM QUE A CIDADE SEJA DISPUTADA POR MUITOS. MAS, COMO MUITAS CIDADES DO INTERIOR DO BRASIL, O DESENVOLVIMENTO FICOU ÀS MARGENS DA REALIDADE. A BARRA SOFRE COM AUSÊNCIA DE EQUIPAMENTOS PÚBLICOS CAPAZES DE BEM SERVIR AOS TURISTAS E INVESTIDORES. PARA SE TER UMA IDEIA, A PRINCIPAL PRAÇA DA CIDADE, PRAÇA MIRIEL CAVALCANTE ONDE SE ENCONTRA A IGREJA MATRIZ DA CIDADE CARECE DE UMA REVISÃO TOTAL DE SUA INFRAESTRUTURA. NÃO DAR PRA SE CONCEBER DESENVOLVIMENTO ECONÔMICO E TURÍSTICO NUMA CIDADE QUE TEM A SUA PRINCIPAL PRAÇA TÃO MALTRATADA. POR ISSO, O MINISTÉRIO DO TURISMO APOIAR A REALIZAÇÃO DESSA OBRA DE REVITALIZAÇÃO DA PRAÇA MIRIEL CAVALCANTE, ONDE SERÁ APLICADO PISO INTERTRAVADO - QUE É MODERNO E ECOLOGICAMENTE CORRETO POIS ABSORVE ATÉ 35% MAIS ÁGUA, COLOCADO NOVOS BANCOS, CONSTRUINDO PASSEIOS, JARDINS, É DAR A OPORTUNIDADE DO MUNICÍPIO CRESCER E SE DESENVOLVER AINDA MAIS, POIS A PREFEITURA PODE APONTAR COMO RESULTADOS ESPERADOS A ATRAÇÃO DE NOVOS INVESTIMENTOS PRIVADOS, O AUMENTO DO FLUXO DE VISITANTES, O AUMENTO DA OCUPAÇÁO HOTELEIRA, A GERAÇÃO DE EMPREGO E RENDA, O FORTALECIMENTO DA ECONOMIA LOCAL E A CONSAGRAÇÃO DA BARRA DE SÃO MIGUEL COMO UM IMPORTANTE E ATRAENTE DESTINO. A RELAÇÃO DESSA OBRA COM O TURISMO DO MUNICÍPIO E DA REGIÃO FICA EVIDENTE NA MEDIDA QUE REPRESENTA A CONCRETIZAÇÃO DO SONHO DE TODO TRADE, QUE ESPERA HÁ ANOS QUE ESSA PRAÇA RECEBA INVESTIMENTOS QUE A TRANSFORME NUM BELO E IMPONENTE CARTÃO POSTAL E ROTEIRO DE VISITAÇÃO, PORTANTO, ENTENDEMOS QUE A PRESENTE PROPOSTA ESTÁ EM CONFORMIDADE COM O PROGRAMA GOVERNAMENTAL PARA O DESENVOLVIMENTO DO TURISMO, UMA VEZ QUE TEM UM FORTE E INCONTESTÁVEL APELO ECONÔMICO E TURÍSTICO. A PRAÇA MIRIEL CAVALCANTE ESTÁ LOCALIZADA NO CENTRO NO MUNICÍPIO DE BARRA DE SÃO MIGUEL, ATRAVÉS DAS COORDENADAS GEOGRÁFICAS: 9°50'35.94''S E 35°54'11.74''O.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REVITALIZAÇÃO DA PRAÇA MIRIEL CAVALCANTE",
+            "information": "Eu, José Medeiros Nicolau, residente e domiciliado na Fazenda Rosa do Sol, s/n, Centro, Município de Barra de São Miguel/AL, possuidor do CPF sob nº 230.654.498-03, na qualidade de Prefeito do Município de Barra de São Miguel/AL, inscrito no CNPJ sob nº 12.263.869/0001-08, DECLARO para os devidos fins que o município possui capacidade técnica e gerencial em fazer gestão e execução do convênio cujo objeto é APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA, objeto da proposta nº 004805/2016 apresentada no Sistema de Convênios – SICONV, tendo como Engenheira Fiscal a Sra. Andrea Maria dos Santos, inscrita no CREA sob nº 020650051-3.",
+            "proposalDate": "2016-03-03T03:00:00.000Z",
+            "biddingDate": "2016-06-10T03:00:00.000Z",
+            "homologationDate": "2016-06-16T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020160008",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+              "value": 500000,
+              "details": {
+                "code": "5400020160008",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDA PARLAMENTAR - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "O Programa de Infraestrutura Turística visa o desenvolvimento do turismo nos municípios brasileiros, principalmente por meio de adequação da infraestrutura, de forma que permita a expansão das atividades turísticas e a melhoria da qualidade do produto para o turista, bem como a consecução dos objetivos previstos no Plano Nacional de Turismo.",
+                "couterpartRule": "1) Municípios com até cinquenta mil habitantes: mínimo 0,1% (um décimo por cento) e máximo 4% (quatro por cento) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 12500,
+                  "financial": 12500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.774.458-** - NEUSVALDO FERREIRA LIMA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "CC 01/2015",
+              "type": "Licitação - Concorrência",
+              "date": "2015-03-23T03:00:00.000Z",
+              "processId": "1050102015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concorrência",
+                "biddingType": "Menor Preço",
+                "processId": "1050102015",
+                "biddingId": "CC 01/2015",
+                "object": "CONTRATAÇÃO DOS SERVIÇOS DE CONSULTORIA ESPECIALIZADA PARA ELABORAÇÃO DE PLANOS, PROGRAMAS E PROJETOS DE ARQUITETURA, ENGENHARIA E DESENVOLVIMENTO URBANO, REFERENTES A OBRAS E SERVIÇOS TÉCNICOS.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "NECESSIDADE DO MUNICÍPIO EM CONTRATAÇÃO DE EMPRESA PARA ELABORAÇÃO DE PROJETOS.",
+                "publishDate": "2015-03-23T03:00:00.000Z",
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 1659.415,
+                "homologationDate": "2015-07-01T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "012017",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-02-21T03:00:00.000Z",
+              "processId": "012017",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2016",
+              "biddingId": "CC 01/2015",
+              "date": "2015-07-07T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 02281515000132",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Material",
+                "object": "CONTRATAÇÃO DOS SERVIÇOS DE CONSULTORIA ESPECIALIZADA PARA ELABORAÇÃO DE PLANOS, PROGRAMAS E PROJETOS DE ARQUITETURA, ENGENHARIA E DESENVOLVIMENTO URBANO, REFERENTES A OBRAS E SERVIÇOS TÉCNICOS.",
+                "totalValue": 1659.415,
+                "publishDate": "2015-07-07T03:00:00.000Z",
+                "beginDate": "2015-07-01T03:00:00.000Z",
+                "endDate": "2016-07-01T03:00:00.000Z",
+                "signDate": "2015-07-01T03:00:00.000Z",
+                "executionProcessId": "CC 01/2015 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "1050102015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "832028/2016",
+            "validity": "10/06/2016 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 487500,
+            "counterpartValue": 12500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "809916/2014",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-12-03T02:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "Apoio a Projetos de Infraestrutura Turistica - Contrato de Repasse - Proponente Especifico - PLN 25 e Decreto de 11/04/2014",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "043238/2014",
+            "organId": "43238/2014",
+            "processId": "0432382014",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A BARRA DE SÃO MIGUEL É UM MUNICÍPIO LOCALIZADO NA REGIÃO METROPOLITANA DE MACEIÓ E POSSUI CERCA DE 8 MIL HABITANTES, DE ACORDO COM O IBGE 2010. SUA ECONOMIA É VOLTADA EXCLUSIVAMENTE PARA O TURISMO QUE É SUA VOCAÇÃO NATURAL. NA BARRA DE SÃO MIGUEL ESTÃO LOCALIZADAS ALGUMAS DAS MAIS BELAS PRAIAS DO BRASIL. ALGUNS PONTOS TURÍSTICOS COMO A PRAIA DAS CONCHAS, A PRAIA BONITA, A PRAIA DO BARRA MAR, O RIO ROTEIRO, O CAIS DO PORTO, A IGREJA DA MATRIZ, A IGREJINHA DE SANTANA, QUE FICA NO LOCAL ONDE OS ÍNDIOS CAETÉS TERIAM DEVORADO O BISPO SARDINHA, O ENCONTRO DO RIO COM O MAR E AS DEZENAS DE MARINAS À BEIRA MAR, DE ONDE PARTEM LANCHAS, JETS, ESCUNAS E CATAMARÃS, FAZEM DA BARRA UM DESTINO INCRÍVEL. DURANTE O PERÍODO DE ALTA ESTAÇÃO, A CIDADE CHEGA A UMA POPULAÇÃO DE MAIS DE 40 MIL PESSOAS, VINDAS DE TODAS AS PARTES DO MUNDO. O CALENDÁRIO ANUAL DE EVENTOS E FESTIVIDADES É BEM EXTENSO E VAI DESDE AS TRADICIONAIS FESTAS RELIGIOSAS DO NORDESTE BRASILEIRO A UM DOS MAIORES E MAIS CONSAGRADOS CARNAVAIS DE TODA REGIÃO, PASSANDO PELAS FESTAS JUNINAS, TORNEIOS ESPORTIVOS AQUÁTICOS, COMO CAMPEONATOS DE SURF, BODY BOARD E VELA, ATÉ UM DOS MAIS FESTEJADOS EVENTOS NAÚTICOS DO NORDESTE QUE É O LOPANA PHOENYX FEST, QUE ATRAI MILHARES DE TURISTAS E CENTENAS DE EMBARCAÇÕES. A INFRAESTRUTURA DA BARRA DISPÕE DE HOTÉIS, BARES, RESTAURANTES E UMA DIVERSIDADE DE PASSEIOS QUE FAZEM COM QUE A CIDADE SEJA DISPUTADA POR MUITOS. MAS, COMO MUITAS CIDADES DO INTERIOR DO BRASIL, O DESENVOLVIMENTO AINDA ESTÁ ÀS MARGENS DA REALIDADE. A BARRA ESTÁ MUDANDO, MAS AINDA SOFRE COM AUSÊNCIA DE EQUIPAMENTOS PÚBLICOS CAPAZES DE BEM SERVIR AOS TURISTAS E INVESTIDORES. POR ISSO, O MINISTÉRIO DO TURISMO APOIAR A REALIZAÇÃO DESSA OBRA DA 1ª ETAPA DA CONSTRUÇÃO DO CENTRO DE CONVENÇÕES DA BARRA DE SÃO MIGUEL - AL, É DAR A OPORTUNIDADE DO MUNICÍPIO CRESCER E ATRAIR NOVOS E IMPORTANTES INVESTIMENTOS PRIVADOS DO SETOR, O QUE, NA PRÁTICA, SIGNIFICA O FORTALECIMENTO DA BARRA DE SÃO MIGUEL COMO IMPORTANTE DESTINO TURÍSTICO. ESSA OBRA TRATA DE INFRAESTRURA TURÍSTICA NUM IMPORTANTE DESTINO DA REGIÃO E DO BRASIL. O CENTRO DE CONVENÇÕES TRARÁ O TURISMO DE NEGÓCIO, TÃO IMPORTANTE PARA MINIMIZAR OS EFEITOS TERRÍVEIS DA BAIXA ESTAÇÃO. ESSA REALIZAÇÃO É A MAIOR DEMANDA DE TODO TRADE, JÁ QUE O CENTRO DE CONVENÇÕES DE MACEIÓ VIVE LOTADO E A BARRA DE SÃO MIGUEL, QUE FICA A VINTE MINUTOS DA CAPITAL, SERÁ A PRINCIAL ALTERNATIVA PARA QUEM BUSCA ESSE TIPO DE EVENTO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - 1ª ETAPA DA CONSTRUÇÃO DO CENTRO DE CONVENÇÕES DA BARRA DE SÃO MIGUEL - AL",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉCNICA E GERENCIAL APARA EXECUTAR O OBJETO DA PRESENTE PROPOSTA",
+            "proposalDate": "2014-06-25T03:00:00.000Z",
+            "biddingDate": "2014-12-03T02:00:00.000Z",
+            "homologationDate": "2014-12-08T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020140017",
+              "name": "Apoio a Projetos de Infraestrutura Turistica - Contrato de Repasse - Proponente Especifico - PLN 25 e Decreto de 11/04/2014",
+              "value": 2030,
+              "details": {
+                "code": "5400020140017",
+                "name": "Apoio a Projetos de Infraestrutura Turistica - Contrato de Repasse - Proponente Especifico - PLN 25 e Decreto de 11/04/2014",
+                "cps": "",
+                "items": "O Programa de Infraestrutura Turística visa o desenvolvimento do turismo nos municípios brasileiros, principalmente por meio de adequação da infraestrutura, de forma que permita a expansão das atividades turísticas e a melhoria da qualidade do produto para o turista, bem como a consecução dos objetivos previstos no Plano Nacional de Turismo., IV - edificações de uso público destinadas a atividades indutoras de turismo como centros de cultura, museus, casas da memória, centros de convenções, centros de apoio ao turista, teatros, centros de comercialização de produtos artesanais e mirantes públicos;",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes: mínimo 0,1% (um décimo por cento) e máximo 4% (quatro por cento) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 2030,
+                "couterpartValues": {
+                  "total": 30000,
+                  "financial": 30000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 2000,
+                  "amendment": "R$ 2.000.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012016",
+              "type": "Licitação - Concorrência",
+              "date": "2016-08-24T03:00:00.000Z",
+              "processId": "8050172016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concorrência",
+                "biddingType": "Menor Preço",
+                "processId": "8050172016",
+                "biddingId": "012016",
+                "object": "APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - 1ª ETAPA DA CONSTRUÇÃO DO CENTRO DE CONVENÇÕES DA BARRA DE SÃO MIGUEL/AL.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "MODALIDADE DENTRO DA LEI.",
+                "publishDate": "2016-08-24T03:00:00.000Z",
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 1625.623,
+                "homologationDate": "2016-11-17T02:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2016",
+              "biddingId": "012016",
+              "date": "2016-11-18T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12070635000144",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Serviço de Engenharia",
+                "object": "APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - 1ª ETAPA DA CONSTRUÇÃO DO CENTRO DE CONVENÇÕES DA BARRA DE SÃO MIGUEL/AL.",
+                "totalValue": 1625.623,
+                "publishDate": "2016-11-18T02:00:00.000Z",
+                "beginDate": "2016-11-17T02:00:00.000Z",
+                "endDate": "2017-04-17T03:00:00.000Z",
+                "signDate": "2016-11-17T02:00:00.000Z",
+                "executionProcessId": "012016 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "8050172016 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "809916/2014",
+            "validity": "03/12/2014 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 2030,
+            "transferValue": 2000,
+            "counterpartValue": 30000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "809339/2014",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-12-03T02:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "028630/2014",
+            "organId": "28630/2014",
+            "processId": "0286302014",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A BARRA DE SÃO MIGUEL É UM MUNICÍPIO LOCALIZADO NA REGIÃO METROPOLITANA DE MACEIÓ E POSSUI CERCA DE 8 MIL HABITANTES, DE ACORDO COM O IBGE 2010. SUA ECONOMIA É VOLTADA PARA O TURISMO QUE É SUA VOCAÇÃO NATURAL. NA BARRA DE SÃO MIGUEL ESTÃO LOCALIZADAS ALGUMAS DAS MAIS BELAS PRAIAS DO BRASIL. DURANTE O PERÍODO DE ALTA ESTAÇÃO, A CIDADE CHEGA A UMA POPULAÇÃO DE MAIS DE 40 MIL PESSOAS, VINDAS DE TODAS AS PARTES DO MUNDO. SUA INFRAESTRUTURA DE HOTÉIS, BARES, RESTAURANTES E A DIVERSIDADE DE PASSEIOS FAZ COM QUE A BARRA SEJA DISPUTADA POR MUITOS. MAS, COMO TODA CIDADE DO INTERIOR DO BRASIL, O DESENVOLVIMENTO FICOU ÀS MARGENS DA REALIDADE. A BARRA SOFRE COM AUSÊNCIA DE PAVIMENTAÇÃO E DRENAGEM DE SUAS RUAS. POR ISSO, O MINISTÉRIO DAS CIDADES APOIAR A REALIZAÇÃO DESSA OBRA DE PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS DA BARRA DE SÃO MIGUEL – AL, É DAR A OPORTUNIDADE DO MUNICÍPIO CRESCER, DE FORTALECER A SOCIEDADE E ATRAIR NOVOS INVESTIMENTOS PRIVADOS, O QUE, NA PRÁTICA, SIGNIFICA GERAÇÃO DE EMPREGO E RENDA PARA A POPULAÇÃO NATIVA E CIRCUNVIZINHA QUE TANTO DEPENDE DA INTERVENÇÃO DO PODER PÚBLICO. DEPUTADO FEDERAL AUTOR DA EMENDA: ARTHUR LIRA PP-AL EMENDA NÚMERO: 27260003",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O OBJETO DO CONVÊNIO",
+            "proposalDate": "2014-03-16T03:00:00.000Z",
+            "biddingDate": "2014-12-03T02:00:00.000Z",
+            "homologationDate": "2014-12-08T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020140001",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 1012.542,
+              "details": {
+                "code": "5600020140001",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1012.542,
+                "couterpartValues": {
+                  "total": 24942.46,
+                  "financial": 24942.46,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00 - Arthur Lira"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012016",
+              "type": "Licitação - Tomada de Preços",
+              "date": null,
+              "processId": "7120192016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "7120192016",
+                "biddingId": "012016",
+                "object": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DE OBRA REFERENTE A PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "MODALIDADE DENTRO DA LEI.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 850456.68,
+                "homologationDate": "2016-11-07T02:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2016",
+              "biddingId": "012016",
+              "date": "2016-11-17T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 16628118000107",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Serviço de Engenharia",
+                "object": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DE OBRA REFERENTE A PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS.",
+                "totalValue": 850456.68,
+                "publishDate": "2016-11-17T02:00:00.000Z",
+                "beginDate": "2016-11-07T02:00:00.000Z",
+                "endDate": "2017-11-07T02:00:00.000Z",
+                "signDate": "2016-11-07T02:00:00.000Z",
+                "executionProcessId": "012016 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "7120192016 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "809339/2014",
+            "validity": "03/12/2014 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 1012.542,
+            "transferValue": 987600,
+            "counterpartValue": 24942.46,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "805369/2014",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-12-03T02:00:00.000Z",
+        "end": "2018-10-30T03:00:00.000Z",
+        "program": "Apoio a Projetos de Infraestrutura Tur?stica - Contrato de Repasse - Emendas Parlamentares",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "028628/2014",
+            "organId": "28628/2014",
+            "processId": "0286282014",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A BARRA DE SÃO MIGUEL É UM MUNICÍPIO LOCALIZADO NA REGIÃO METROPOLITANA DE MACEIÓ E POSSUI CERCA DE 8 MIL HABITANTES, DE ACORDO COM O IBGE 2010. SUA ECONOMIA É VOLTADA EXCLUSIVAMENTE PARA O TURISMO QUE É SUA VOCAÇÃO NATURAL. NA BARRA DE SÃO MIGUEL ESTÃO LOCALIZADAS ALGUMAS DAS MAIS BELAS PRAIAS DO BRASIL. ALGUNS PONTOS TURÍSTICOS COMO A PRAIA DAS CONCHAS, A PRAIA BONITA, A PRAIA DO BARRA MAR, O RIO ROTEIRO, O CAIS DO PORTO, A IGREJA DA MATRIZ, A IGREJINHA DE SANTANA, QUE FICA NO LOCAL ONDE OS ÍNDIOS CAETÉS TERIAM DEVORADO O BISPO SARDINHA, O ENCONTRO DO RIO COM O MAR E AS DEZENAS DE MARINAS À BEIRA MAR, DE ONDE PARTEM LANCHAS, JETS, ESCUNAS E CATAMARÃS, FAZEM DA BARRA UM DESTINO INCRÍVEL. DURANTE O PERÍODO DE ALTA ESTAÇÃO, A CIDADE CHEGA A UMA POPULAÇÃO DE MAIS DE 40 MIL PESSOAS, VINDAS DE TODAS AS PARTES DO MUNDO. O CALENDÁRIO ANUAL DE EVENTOS E FESTIVIDADES É BEM EXTENSO E VAI DESDE AS TRADICIONAIS FESTAS RELIGIOSAS DO NORDESTE BRASILEIRO A UM DOS MAIORES E MAIS CONSAGRADOS CARNAVAIS DE TODA REGIÃO, PASSANDO PELAS FESTAS JUNINAS, TORNEIOS ESPORTIVOS AQUÁTICOS, COMO CAMPEONATOS DE SURF, BODY BOARD E VELA, ATÉ UM DOS MAIS FESTEJADOS EVENTOS NAÚTICOS DO NORDESTE QUE É O LOPANA PHOENYX FEST, QUE ATRAI MILHARES DE TURISTAS E CENTENAS DE EMBARCAÇÕES. A INFRAESTRUTURA DA BARRA DISPÕE DE HOTÉIS, BARES, RESTAURANTES E UMA DIVERSIDADE DE PASSEIOS QUE FAZEM COM QUE A CIDADE SEJA DISPUTADA POR MUITOS. MAS, COMO MUITAS CIDADES DO INTERIOR DO BRASIL, O DESENVOLVIMENTO FICOU ÀS MARGENS DA REALIDADE. A BARRA ESTÁ MUDANDO MAS AINDA SOFRE COM AUSÊNCIA DE EQUIPAMENTOS PÚBLICOS CAPAZES DE BEM SERVIR AOS TURISTAS E INVESTIDORES. PARA SE TER UMA IDEIA, MAIS DE 60% DE SUAS RUAS SÃO DE BARRO E NÃO POSSUEM DRENAGEM, GUIAS, NEM TAMPOUCO CALÇADAS. NÃO DAR PRA SE CONCEBER DESENVOLVIMENTO ECONÔMICO E TURÍSTICO COM UMA MARCA TÃO VERGONHOSA COMO ESSA. POR ISSO, O MINISTÉRIO DO TURISMO APOIAR A REALIZAÇÃO DESSA OBRA DE RECAPEAMENTO EM ASFALTO E DRENAGEM PLUVIAL DA PRINCIPAL VIA DA CIDADE DA BARRA DE SÃO MIGUEL - AL, QUE SERVE DE ACESSO E CORREDOR PARA AS PRAIAS, RIO, CAIS, MARINAS, PRAÇA DE EVENTOS, PRAÇA DA MATRIZ, ESTÁDIO MUNICIPAL ENTRE OUTROS, É DAR A OPORTUNIDADE DO MUNICÍPIO CRESCER E ATRAIR NOVOS E IMPORTANTES INVESTIMENTOS PRIVADOS DO SETOR, O QUE, NA PRÁTICA, SIGNIFICA O FORTALECIMENTO DA BARRA DE SÃO MIGUEL COMO IMPORTANTE DESTINO TURÍSTICO. ESSA OBRA NÃO TRATA DE “TAPA BURACOS” OU COISA PARECIDA. ELA TRATA DE INFRAESTRURA TURÍSTICA NUM IMPORTANTE CORREDOR DE TRANSPORTE PARA EMBARCAÇÕES, ÔNIBUS E VANS DE DIVERSAS OPERADORAS DE TURISMO QUE VISITAM A CIDADE O ANO INTEIRO. ESSA É TAMBÉM A PRINCIPAL VIA DE ACESSO A MUNDIALMENTE FAMOSA PRAIA DO GUNGA. AS CONDIÇÕES ATUAIS DA VIA QUE SERÁ BENEFICIADA POR ESTE PROJETO, É BASTANTE RUIM E NÃO OFERECE O CONFORTO E A SEGURANÇA NECESÁRIA QUE OS TURISTAS BUSCAM QUANDO ESCOLHEM UM LUGAR PARA CONHECER E PASSEAR. NESTA VIA AINDA ESTÃO LOCALIZADOS UM IMENSO NÚMERO DE ESTABELECIMENTOS COMERCIAIS COMO BANCO, POUSADAS, LOTERIAS, FARMÁRCIAS E SUPERMERCADOS, QUE SERÃO DIRETAMENTE BENEFICIADOS POR ESTA OBRA. DEPUTADO FEDERAL AUTOR DA EMENDA: MAURICIO QUINTELLA - AL NÚMERO DA EMENDA: 13040008.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "RECAPEAMENTO EM ASFALTO DA PRINCIPAL VIA DA CIDADE DA BARRA DE SÃO MIGUEL/ AL- 1ªEtapa",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O OBJETO DO CONVÊNIO",
+            "proposalDate": "2014-03-16T03:00:00.000Z",
+            "biddingDate": "2014-12-03T02:00:00.000Z",
+            "homologationDate": "2014-12-08T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020140008",
+              "name": "Apoio a Projetos de Infraestrutura Tur?stica - Contrato de Repasse - Emendas Parlamentares",
+              "value": 250002.85,
+              "details": {
+                "code": "5400020140008",
+                "name": "Apoio a Projetos de Infraestrutura Tur?stica - Contrato de Repasse - Emendas Parlamentares",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes: mínimo 0,1% (um décimo por cento) e máximo 4% (quatro por cento) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250002.85,
+                "couterpartValues": {
+                  "total": 6252.85,
+                  "financial": 6252.85,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00 - MAURÍCIO QUINTELLA LESSA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-03-11T03:00:00.000Z",
+              "processId": "2100092015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "2100092015",
+                "biddingId": "01",
+                "object": "EXECUÇÃO DE OBRA DE ENGENHARIA REFERENTE AO RECAPEAMENTO ASFÁLTICO DA PRINCIPAL VIA DA CIDADE.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "O VALOR DA LICITAÇÃO SE ENQUADRA NA MODALIDADE TOMADA DE PREÇOS.",
+                "publishDate": "2015-03-11T03:00:00.000Z",
+                "beginDate": "2015-03-26T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 250002.85,
+                "homologationDate": "2015-03-27T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2015",
+              "biddingId": "01",
+              "date": "2015-05-22T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 41160680000198",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Material e Serviço",
+                "object": "EXECUÇÃO DE OBRA DE ENGENHARIA REFERENTE AO RECAPEAMENTO ASFÁLTICO DA PRINCIPAL VIA DA CIDADE.",
+                "totalValue": 250002.85,
+                "publishDate": "2015-05-22T03:00:00.000Z",
+                "beginDate": "2015-04-22T03:00:00.000Z",
+                "endDate": "2015-06-22T03:00:00.000Z",
+                "signDate": "2015-04-01T03:00:00.000Z",
+                "executionProcessId": "01 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "2100092015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "805369/2014",
+            "validity": "03/12/2014 a 30/10/2018",
+            "limitDate": "2016-11-19T02:00:00.000Z",
+            "totalValue": 29,
+            "transferValue": 250002.85,
+            "counterpartValue": 243750,
+            "yieldValue": 6252.85
+          }
+        }
+      },
+      {
+        "agreementId": "795095/2013",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2016-01-30T02:00:00.000Z",
+        "program": "ALAGOAS - OGU 2013",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "045108/2013",
+            "organId": "45108/2013",
+            "processId": "0451082013",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A BARRA DE SÃO MIGUEL É UMA CIDADE ALAGOANA LOCALIZADA A POUCO MAIS DE 30 QUILÔMETROS DA CAPITAL, MACEIÓ. TEM SUA ECONOMIA VOLTADA PARA O TURISMO, MAS TEM UMA ZONA RURAL FORTE, DISTRIBUÍDA EM SEIS COMUNIDADES: PALATÉIA, SANTA CRISTINA, SÃO SEBASTIÃO, RECANTO DA LAGOA, ANDORINHA E ESTIVA DA BARRA. O MINISTÉRIO DA AGRICULTURA APOIAR A AQUISIÇÃO DE UM CAMINHÃO COM CARROCERIA E UM CAMINHÃO COM BASCULANTE, TIPO CAÇAMBA, PARA A BARRA DE SÃO MIGUEL É DAR OPORTUNIDADE A DEZENAS DE PEQUENOS AGRICULTORES DE FOMENTAREM SUAS LAVOURAS E MELHORAREM SUAS VIDAS. ESSE VEÍCULO SERÁ POR DEMAIS IMPORTANTE PARA O DESENVOLVIMENTO DE AÇÕES JUNTO A ESSA CLASSE QUE TANTO LUTA E FAZ PELO MUNICÍPIO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE PATRULHA MECANIZADA.",
+            "information": "DECLARAMOS POSSUIR CAPACDADDE TÉCNICA E GERENCIAL PARA EXECUTAR O OBJETO DA PRESENTE PROPOSTA",
+            "proposalDate": "2013-07-29T03:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-17T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020130004",
+              "name": "ALAGOAS - OGU 2013",
+              "value": 331000,
+              "details": {
+                "code": "2200020130004",
+                "name": "ALAGOAS - OGU 2013",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO E FOMENTO DO SETOR AGROPECUARIO - ACAO: 20ZV",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 331000,
+                "couterpartValues": {
+                  "total": 38500,
+                  "financial": 38500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.941.994-** - KLEBER JUREMA DA ROCHA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "04/2015",
+              "type": "Licitação - Pregão",
+              "date": "2015-03-18T03:00:00.000Z",
+              "processId": "3100112015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial para Registro de Preço",
+                "processId": "3100112015",
+                "biddingId": "04/2015",
+                "object": "AQUISIÇÃO DE VEÍCULO TIPO CAMINHÃO.",
+                "legalFoundation": "LEI 10.520/2002",
+                "justification": "NOS TERMOS DA LEI Nº 10.520, DE 2002, DO DECRETO MUNICIPAL Nº 03/2013, DA LEI Nº 8.078, DE 1990 - CÓDIGO DE DEFESA DO CONSUMIDOR, APLICANDO-SE, SUBSIDIARIAMENTE A LEI Nº 8.666, DE 1993 E AS DEMAIS NORMAS LEGAIS CORRELATAS.",
+                "publishDate": "2015-03-18T03:00:00.000Z",
+                "beginDate": "2015-03-31T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 138000,
+                "homologationDate": "2015-04-01T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2015",
+              "biddingId": "04/2015",
+              "date": "2015-05-12T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 19129296000173",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE VEÍCULO TIPO CAMINHÃO COM CARROCERIA.",
+                "totalValue": 138000,
+                "publishDate": "2015-05-12T03:00:00.000Z",
+                "beginDate": "2015-04-02T03:00:00.000Z",
+                "endDate": "2016-01-30T02:00:00.000Z",
+                "signDate": "2015-04-02T03:00:00.000Z",
+                "executionProcessId": "04/2015 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "3100112015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "795095/2013",
+            "validity": "31/12/2013 a 30/01/2016",
+            "limitDate": "2016-03-30T03:00:00.000Z",
+            "totalValue": 331000,
+            "transferValue": 292500,
+            "counterpartValue": 38500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "792158/2013",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-18T02:00:00.000Z",
+        "end": "2018-01-30T02:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "079046/2013",
+            "organId": "79046/2013",
+            "processId": "0790462013",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A BARRA DE SÃO MIGUEL É UM MUNICÍPIO LOCALIZADO NA REGIÃO METROPOLITANA DE MACEIÓ E POSSUI CERCA DE 8 MIL HABITANTES, DE ACORDO COM O IBGE 2010. SUA ECONOMIA É VOLTADA EXCLUSIVAMENTE PARA O TURISMO QUE É SUA VOCAÇÃO NATURAL. NA BARRA DE SÃO MIGUEL ESTÃO LOCALIZADAS ALGUMAS DAS MAIS BELAS PRAIAS DO BRASIL. ALGUNS PONTOS TURÍSTICOS COMO A PRAIA DAS CONCHAS, A PRAIA BONITA, A PRAIA DO BARRA MAR, O RIO ROTEIRO, O CAIS DO PORTO, A IGREJA DA MATRIZ, A IGREJINHA DE SANTANA, QUE FICA NO LOCAL ONDE OS ÍNDIOS CAETÉS TERIAM DEVORADO O BISPO SARDINHA, O ENCONTRO DO RIO COM O MAR E AS DEZENAS DE MARINAS À BEIRA MAR, DE ONDE PARTEM LANCHAS, JETS, ESCUNAS E CATAMARÃS, FAZEM DA BARRA UM DESTINO INCRÍVEL. DURANTE O PERÍODO DE ALTA ESTAÇÃO, A CIDADE CHEGA A UMA POPULAÇÃO DE MAIS DE 40 MIL PESSOAS, VINDAS DE TODAS AS PARTES DO MUNDO. O CALENDÁRIO ANUAL DE EVENTOS E FESTIVIDADES É BEM EXTENSO E VAI DESDE AS TRADICIONAIS FESTAS RELIGIOSAS DO NORDESTE BRASILEIRO A UM DOS MAIORES E MAIS CONSAGRADOS CARNAVAIS DE TODA REGIÃO, PASSANDO PELAS FESTAS JUNINAS, TORNEIOS ESPORTIVOS AQUÁTICOS, COMO CAMPEONATOS DE SURF, BODY BOARD E VELA, ATÉ UM DOS MAIS FESTEJADOS EVENTOS NAÚTICOS DO NORDESTE QUE É O LOPANA PHOENYX FEST, QUE ATRAI MILHARES DE TURISTAS E CENTENAS DE EMBARCAÇÕES. A INFRAESTRUTURA DA BARRA DISPÕE DE HOTÉIS, BARES, RESTAURANTES E UMA DIVERSIDADE DE PASSEIOS QUE FAZEM COM QUE A CIDADE SEJA DISPUTADA POR MUITOS. MAS, COMO MUITAS CIDADES DO INTERIOR DO BRASIL, O DESENVOLVIMENTO FICOU ÀS MARGENS DA REALIDADE. A BARRA SOFRE COM AUSÊNCIA DE EQUIPAMENTOS PÚBLICOS CAPAZES DE BEM SERVIR AOS TURISTAS E INVESTIDORES. PARA SE TER UMA IDEIA, O ATUAL CAIS MUNICIPAL CARECE DE UMA REVISÃO TOTAL DE SUA INFRAESTRUTURA. NÃO DAR PRA SE CONCEBER DESENVOLVIMENTO ECONÔMICO E TURÍSTICO NUMA CIDADE DE PRAIA COM CAIS MUNICIPAL TÃO MALTRATADO. POR ISSO, O MINISTÉRIO DO TURISMO APOIAR A REALIZAÇÃO DESSA OBRA DE REFORMA E MODERNIZAÇÃO DO CAIS MUNICIPAL, NO MUNICÍPIO DA BARRA DE SÃO MIGUEL ONDE SERÃO COLOCADOS NOVOS E MODERNOS BANCOS, RAMPAS, CONSTRUIDO PASSEIOS, JARDINS, ÁREA DE CONVIVÊNCIA TURÍSTICA E PISO INTERTRAVADO, É DAR A OPORTUNIDADE DO MUNICÍPIO CRESCER E SE DESENVOLVER AINDA MAIS, POIS A PREFEITURA PODE APONTAR COMO RESULTADOS ESPERADOS A ATRAÇÃO DE NOVOS INVESTIMENTOS PRIVADOS, O AUMENTO DO FLUXO DE VISITANTES, O AUMENTO DA OCUPAÇÁO HOTELEIRA, A GERAÇÃO DE EMPREGO E RENDA, O FORTALECIMENTO DA ECONOMIA LOCAL E A CONSAGRAÇÃO DA BARRA DE SÃO MIGUEL COMO UM IMPORTANTE E ATRAENTE DESTINO. A RELAÇÃO DESSA OBRA COM O TURISMO DO MUNICÍPIO E DA REGIÃO FICA EVIDENTE NA MEDIDA QUE REPRESENTA A CONCRETIZAÇÃO DO SONHO DE TODO TRADE, QUE ESPERA HÁ ANOS QUE ESSA PRAÇA SEJA REALMENTE TURÍSTICA E RECEBA INVESTIMENTOS QUE O TRANSFORME NUM BELO E IMPONENTE CARTÃO POSTAL E ROTEIRO DE VISITAÇÃO. PORTANTO, ENTENDEMOS QUE A PRESENTE PROPOSTA ESTÁ EM CONFORMIDADE COM O PROGRAMA GOVERNAMENTAL PARA O DESENVOLVIMENTO DO TURISMO, UMA VEZ QUE TEM UM FORTE E INCONTESTÁVEL APELO ECONÔMICO E TURÍSTICO. SENADOR AUTOR DA EMENDA: BENEDITO DE LIRA - PP – AL. NÚMERO DA EMENDA:29070004",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REURBANIZAÇÃO E MODERNIZAÇÃO DO CAIS MUNICIPAL",
+            "information": "DECLARAMOS CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O OBJETO DA PRESENTE PROPOSTA",
+            "proposalDate": "2013-11-14T02:00:00.000Z",
+            "biddingDate": "2013-12-18T02:00:00.000Z",
+            "homologationDate": "2014-01-07T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020130002",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 304234.47,
+              "details": {
+                "code": "5400020130002",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes: 2% (dois por cento) e 4% (quatro por cento) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 304234.47,
+                "couterpartValues": {
+                  "total": 11734.47,
+                  "financial": 11734.47,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "05",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-05-05T03:00:00.000Z",
+              "processId": "4170032015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "4170032015",
+                "biddingId": "05",
+                "object": "EXECUÇÃO DE OBRA DE ENGENHARIA REFERENTE A REURBANIZAÇÃO E MODERNIZAÇÃO DO CAIS.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "DEVIDO AO VALOR DA OBRA ESTÁ ENQUADRADA NA MODALIDADE TOMADA DE PREÇOS.",
+                "publishDate": "2015-05-05T03:00:00.000Z",
+                "beginDate": "2015-05-22T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 274511.88,
+                "homologationDate": "2015-05-26T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000005/2015",
+              "biddingId": "05",
+              "date": "2015-05-29T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 16628118000107",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Material e Serviço",
+                "object": "EXECUÇÃO DE OBRA DE ENGENHARIA REFERENTE A REURBANIZAÇÃO E MODERNIZAÇÃO DO CAIS.",
+                "totalValue": 274511.88,
+                "publishDate": "2015-05-29T03:00:00.000Z",
+                "beginDate": "2015-05-26T03:00:00.000Z",
+                "endDate": "2015-09-26T03:00:00.000Z",
+                "signDate": "2015-05-26T03:00:00.000Z",
+                "executionProcessId": "05 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "4170032015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "792158/2013",
+            "validity": "18/12/2013 a 30/01/2018",
+            "limitDate": "2017-08-11T03:00:00.000Z",
+            "totalValue": 15,
+            "transferValue": 304234.47,
+            "counterpartValue": 292500,
+            "yieldValue": 11734.47
+          }
+        }
+      },
+      {
+        "agreementId": "785271/2013",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-11-04T02:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041916/2013",
+            "organId": "41916/2013",
+            "processId": "041916/2013",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A BARRA DE SÃO MIGUEL É UM MUNICÍPIO LOCALIZADO NA REGIÃO METROPOLITANA DE MACEIÓ E POSSUI CERCA DE 8 MIL HABITANTES, DE ACORDO COM O IBGE 2010. SUA ECONOMIA É VOLTADA EXCLUSIVAMENTE PARA O TURISMO QUE É SUA VOCAÇÃO NATURAL. NA BARRA DE SÃO MIGUEL ESTÃO LOCALIZADAS ALGUMAS DAS MAIS BELAS PRAIAS DO BRASIL. ALGUNS PONTOS TURÍSTICOS COMO A PRAIA DAS CONCHAS, A PRAIA BONITA, A PRAIA DO BARRA MAR, O RIO ROTEIRO, O CAIS DO PORTO, A IGREJA DA MATRIZ, A IGREJINHA DE SANTANA, QUE FICA NO LOCAL ONDE OS ÍNDIOS CAETÉS TERIAM DEVORADO O BISPO SARDINHA, O ENCONTRO DO RIO COM O MAR E AS DEZENAS DE MARINAS À BEIRA MAR, DE ONDE PARTEM LANCHAS, JETS, ESCUNAS E CATAMARÃS, FAZEM DA BARRA UM DESTINO INCRÍVEL. DURANTE O PERÍODO DE ALTA ESTAÇÃO, A CIDADE CHEGA A UMA POPULAÇÃO DE MAIS DE 40 MIL PESSOAS, VINDAS DE TODAS AS PARTES DO MUNDO. O CALENDÁRIO ANUAL DE EVENTOS E FESTIVIDADES É BEM EXTENSO E VAI DESDE AS TRADICIONAIS FESTAS RELIGIOSAS DO NORDESTE BRASILEIRO A UM DOS MAIORES E MAIS CONSAGRADOS CARNAVAIS DE TODA REGIÃO, PASSANDO PELAS FESTAS JUNINAS, TORNEIOS ESPORTIVOS AQUÁTICOS, COMO CAMPEONATOS DE SURF, BODY BOARD E VELA, ATÉ UM DOS MAIS FESTEJADOS EVENTOS NAÚTICOS DO NORDESTE QUE É O LOPANA PHOENYX FEST, QUE ATRAI MILHARES DE TURISTAS E CENTENAS DE EMBARCAÇÕES. A INFRAESTRUTURA DA BARRA DISPÕE DE HOTÉIS, BARES, RESTAURANTES E UMA DIVERSIDADE DE PASSEIOS QUE FAZEM COM QUE A CIDADE SEJA DISPUTADA POR MUITOS. MAS, COMO MUITAS CIDADES DO INTERIOR DO BRASIL, O DESENVOLVIMENTO FICOU ÀS MARGENS DA REALIDADE. A BARRA SOFRE COM AUSÊNCIA DE EQUIPAMENTOS PÚBLICOS CAPAZES DE BEM SERVIR AOS TURISTAS E INVESTIDORES. PARA SE TER UMA IDEIA, A ATUAL ORLA MARÍTIMA DA CIDADE CARECE DE UMA REVISÃO TOTAL DE SUA INFRAESTRUTURA. NÃO DAR PRA SE CONCEBER DESENVOLVIMENTO ECONÔMICO E TURÍSTICO NUMA CIDADE DE PRAIA COM UMA ORLA TÃO MALTRATADA. POR ISSO, O MINISTÉRIO DO TURISMO APOIAR A REALIZAÇÃO DESSA OBRA DE REURBANIZAÇÃO DA ORLA MARÍTIMA DA BARRA DE SÃO MIGUEL - AL, ONDE SERÁ APLICADO PISO INTERTRAVADO - QUE É MODERNO E ECOLOGICAMENTE CORRETO POIS ABSORVE ATÉ 35% MAIS ÁGUA, COLOCADO NOVOS BANCOS, CONSTRUIDO  PASSEIOS, JARDINS E UM CENTRO DE INFORMAÇÕES TURÍSTICAS, É DAR A OPORTUNIDADE DO MUNICÍPIO CRESCER E SE DESENVOLVER AINDA MAIS, POIS A PREFEITURA  PODE APONTAR COMO RESULTADOS ESPERADOS A ATRAÇÃO DE NOVOS INVESTIMENTOS PRIVADOS, O AUMENTO DO FLUXO DE VISITANTES, O AUMENTO DA OCUPAÇÁO HOTELEIRA, A GERAÇÃO DE EMPREGO E RENDA, O FORTALECIMENTO DA ECONOMIA LOCAL E A CONSAGRAÇÃO DA BARRA DE SÃO MIGUEL COMO UM IMPORTANTE E ATRAENTE DESTINO. A RELAÇÃO DESSA OBRA COM O TURISMO DO MUNICÍPIO E DA REGIÃO FICA EVIDENTE NA MEDIDA QUE REPRESENTA A CONCRETIZAÇÃO DO SONHO DE TODO TRADE, QUE ESPERA HÁ ANOS QUE ESSA ORLA MARÍTIMA RECEBA INVESTIMENTOS QUE A TRANSFORME NUM BELO E IMPONENTE CARTÃO POSTAL E ROTEIRO DE VISITAÇÃO, PORTANTO,  ENTENDEMOS QUE A PRESENTE PROPOSTA ESTÁ EM CONFORMIDADE COM O PROGRAMA GOVERNAMENTAL PARA O DESENVOLVIMENTO DO TURISMO, UMA VEZ QUE TEM UM FORTE E INCONTESTÁVEL APELO ECONÓMICO E TURÍSTICO. DEPUTADA FEDERAL AUTOR DA EMENDA: ROSINHA DA ADEFAL PTdoB - AL NÚMERO DA EMENDA: 27290008",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REURBANIZAÇÃO DA ORLA MARÍTIMA DA BARRA DE SÃO MIGUEL - AL",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O OBJETO DA PRESENTE PROPOSTA",
+            "proposalDate": "2013-07-17T03:00:00.000Z",
+            "biddingDate": "2013-11-04T02:00:00.000Z",
+            "homologationDate": "2013-11-07T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020130002",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 1008.865,
+              "details": {
+                "code": "5400020130002",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes: 2% (dois por cento) e 4% (quatro por cento) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1008.865,
+                "couterpartValues": {
+                  "total": 33865.18,
+                  "financial": 33865.18,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 975000,
+                  "amendment": "R$ 975.000,00 - ROSINHA DA ADEFAL"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "072015",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-07-15T03:00:00.000Z",
+              "processId": "6190082015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "6190082015",
+                "biddingId": "072015",
+                "object": "EXECUÇÃO DE OBRA DE ENGENHARIA REFERENTE A REURBANIZAÇÃO DA ORLA MARÍTIMA DO MUNICÍPIO.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "A LICITAÇÃO DE SE ENQUADRA NA MODALIDADE TOMADA DE PREÇOS.",
+                "publishDate": "2015-07-15T03:00:00.000Z",
+                "beginDate": "2016-03-09T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 971118.15,
+                "homologationDate": "2016-03-17T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000007/2015",
+              "biddingId": "072015",
+              "date": "2016-04-29T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 16628118000107",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Material",
+                "object": "EXECUÇÃO DE OBRA DE ENGENHARIA REFERENTE A REURBANIZAÇÃO DA ORLA MARÍTIMA DO MUNICÍPIO.",
+                "totalValue": 971118.15,
+                "publishDate": "2016-04-29T03:00:00.000Z",
+                "beginDate": "2016-04-29T03:00:00.000Z",
+                "endDate": "2016-11-03T02:00:00.000Z",
+                "signDate": "2016-04-29T03:00:00.000Z",
+                "executionProcessId": "072015 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "6190082015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "785271/2013",
+            "validity": "04/11/2013 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 1008.865,
+            "transferValue": 975000,
+            "counterpartValue": 33865.18,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "784254/2013",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-09-05T03:00:00.000Z",
+        "end": "2018-09-05T03:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041910/2013",
+            "organId": "41910/2013",
+            "processId": "41910/2013",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A BARRA DE SÃO MIGUEL É UM MUNICÍPIO LOCALIZADO NA REGIÃO METROPOLITANA DE MACEIÓ E POSSUI CERCA DE 8 MIL HABITANTES, DE ACORDO COM O IBGE 2010. SUA ECONOMIA É VOLTADA PARA O TURISMO QUE É SUA VOCAÇÃO NATURAL. NA BARRA DE SÃO MIGUEL ESTÃO LOCALIZADAS ALGUMAS DAS MAIS BELAS PRAIAS DO BRASIL. DURANTE O PERÍODO DE ALTA ESTAÇÃO, A CIDADE CHEGA A UMA POPULAÇÃO DE MAIS DE 40 MIL PESSOAS, VINDAS DE TODAS AS PARTES DO MUNDO. SUA INFRAESTRUTURA DE HOTÉIS, BARES, RESTAURANTES E A DIVERSIDADE DE PASSEIOS FAZ COM QUE A BARRA SEJA DISPUTADA POR MUITOS. MAS, COMO TODA CIDADE DO INTERIOR DO BRASIL, O DESENVOLVIMENTO FICOU ÀS MARGENS DA REALIDADE. A BARRA SOFRE COM AUSÊNCIA DE PAVIMENTAÇÃO E DRENAGEM DE SUAS RUAS. POR ISSO, O MINISTÉRIO DAS CIDADES APOIAR A REALIZAÇÃO DESSA OBRA DE PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS DA BARRA DE SÃO MIGUEL – AL, É DAR A OPORTUNIDADE DO MUNICÍPIO CRESCER, DE FORTALECER A SOCIEDADE E ATRAIR NOVOS INVESTIMENTOS PRIVADOS, O QUE, NA PRÁTICA, SIGNIFICA GERAÇÃO DE EMPREGO E RENDA PARA A POPULAÇÃO NATIVA E CIRCUNVIZINHA QUE TANTO DEPENDE DA INTERVENÇÃO DO PODER PÚBLICO. DEPUTADO FEDERAL AUTOR DA EMENDA: ARTHUR LIRA PP-AL EMENDA NÚMERO: 27260001",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS DA BARRA DE SÃO MIGUEL – AL",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O OBJETO DA PRESENTE PROPOSTA",
+            "proposalDate": "2013-07-17T03:00:00.000Z",
+            "biddingDate": "2013-09-05T03:00:00.000Z",
+            "homologationDate": "2013-09-11T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020130013",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 1017.194,
+              "details": {
+                "code": "5600020130013",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação e requalificação de infraestrutura de sistemas de transporte público coletivo urbano de passageiros ( Vide aba ANEXOS - Arquivo MOBILIDADE URBANA), Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "Contrato de Repasse com valor igual ou superior a R$ 750.000,00, para Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1017.194,
+                "couterpartValues": {
+                  "total": 29594.68,
+                  "financial": 29594.68,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00 - Arthur Lira"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.941.994-** - KLEBER JUREMA DA ROCHA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-04-20T03:00:00.000Z",
+              "processId": "3310042015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "3310042015",
+                "biddingId": "02",
+                "object": "EXECUÇÃO DE OBRA DE ENGENHARIA REFERENTE A PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "O VALOR DA LICITAÇÃO SE ENQUADRA NA MODALIDADE TOMADA DE PREÇOS.",
+                "publishDate": "2015-04-20T03:00:00.000Z",
+                "beginDate": "2015-05-19T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 1006.18,
+                "homologationDate": "2015-05-29T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2015",
+              "biddingId": "02",
+              "date": "2015-06-01T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 16628118000107",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Material e Serviço",
+                "object": "EXECUÇÃO DE OBRA DE ENGENHARIA REFERENTE A PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS",
+                "totalValue": 1006.18,
+                "publishDate": "2015-06-01T03:00:00.000Z",
+                "beginDate": "2015-05-29T03:00:00.000Z",
+                "endDate": "2015-09-05T03:00:00.000Z",
+                "signDate": "2015-05-29T03:00:00.000Z",
+                "executionProcessId": "02 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "3310042015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "784254/2013",
+            "validity": "05/09/2013 a 05/09/2018",
+            "limitDate": "2017-11-13T02:00:00.000Z",
+            "totalValue": 4,
+            "transferValue": 1017.194,
+            "counterpartValue": 987600,
+            "yieldValue": 29594.68
+          }
+        }
+      },
+      {
+        "agreementId": "783257/2013",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-08-16T03:00:00.000Z",
+        "end": "2016-02-12T02:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "032020/2013",
+            "organId": "32020/2013",
+            "processId": "032020/2013",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A BARRA DE SÃO MIGUEL É UM MUNICÍPIO LOCALIZADO NA REGIÃO METROPOLITANA DE MACEIÓ E POSSUI CERCA DE 8 MIL HABITANTES, DE ACORDO COM O IBGE 2010. SUA ECONOMIA É VOLTADA EXCLUSIVAMENTE PARA O TURISMO QUE É SUA VOCAÇÃO NATURAL. NA BARRA DE SÃO MIGUEL ESTÃO LOCALIZADAS ALGUMAS DAS MAIS BELAS PRAIAS DO BRASIL. ALGUNS PONTOS TURÍSTICOS COMO A PRAIA DAS CONCHAS, A PRAIA BONITA, A PRAIA DO BARRA MAR, O RIO ROTEIRO, O CAIS DO PORTO, A IGREJA DA MATRIZ, A IGREJINHA DE SANTANA, QUE FICA NO LOCAL ONDE OS ÍNDIOS CAETÉS TERIAM DEVORADO O BISPO SARDINHA, O ENCONTRO DO RIO COM O MAR E AS DEZENAS DE MARINAS À BEIRA MAR, DE ONDE PARTEM LANCHAS, JETS, ESCUNAS E CATAMARÃS, FAZEM DA BARRA UM DESTINO INCRÍVEL. DURANTE O PERÍODO DE ALTA ESTAÇÃO, A CIDADE CHEGA A UMA POPULAÇÃO DE MAIS DE 40 MIL PESSOAS, VINDAS DE TODAS AS PARTES DO MUNDO. O CALENDÁRIO ANUAL DE EVENTOS E FESTIVIDADES É BEM EXTENSO E VAI DESDE AS TRADICIONAIS FESTAS RELIGIOSAS DO NORDESTE BRASILEIRO A UM DOS MAIORES E MAIS CONSAGRADOS CARNAVAIS DE TODA REGIÃO, PASSANDO PELAS FESTAS JUNINAS, TORNEIOS ESPORTIVOS AQUÁTICOS, COMO CAMPEONATOS DE SURF, BODY BOARD E VELA, ATÉ UM DOS MAIS FESTEJADOS EVENTOS NAÚTICOS DO NORDESTE QUE É O LOPANA PHOENYX FEST, QUE ATRAI MILHARES DE TURISTAS E CENTENAS DE EMBARCAÇÕES. A INFRAESTRUTURA DA BARRA DISPÕE DE HOTÉIS, BARES, RESTAURANTES E UMA DIVERSIDADE DE PASSEIOS QUE FAZEM COM QUE A CIDADE SEJA DISPUTADA POR MUITOS. MAS, COMO MUITAS CIDADES DO INTERIOR DO BRASIL, O DESENVOLVIMENTO FICOU ÀS MARGENS DA REALIDADE. A BARRA SOFRE COM AUSÊNCIA DE EQUIPAMENTOS PÚBLICOS CAPAZES DE BEM SERVIR AOS TURISTAS E INVESTIDORES. PARA SE TER UMA IDEIA, MAIS DE 70% DE SUAS RUAS SÃO DE BARRO E NÃO POSSUEM DRENAGEM, GUIAS, NEM TAMPOUCO CALÇADAS. NÃO DAR PRA SE CONCEBER DESENVOLVIMENTO ECONÔMICO E TURÍSTICO COM UMA MARCA TÃO VERGONHOSA COMO ESSA. POR ISSO, O MINISTÉRIO DO TURISMO APOIAR A REALIZAÇÃO DESSA OBRA DE RECAPEAMENTO EM ASFALTO E DRENAGEM PLUVIAL DE DIVERSAS RUAS DA BARRA DE SÃO MIGUEL - AL, MAIS PRECISAMENTE NOS BAIRROS DE PEROBA, CENTRO, SANTANA, SAQUAREMA E RUA DAS MARINAS É DAR A OPORTUNIDADE DO MUNICÍPIO CRESCER E ATRAIR NOVOS E IMPORTANTES INVESTIMENTOS PRIVADOS DO SETOR, O QUE, NA PRÁTICA, SIGNIFICA O FORTALECIMENTO DA BARRA DE SÃO MIGUEL COMO IMPORTANTE DESTINO TURÍSTICO. ESSA OBRA NÃO TRATA DE “TAPA BURACOS” OU COISA PARECIDA. ELA TRATA DE INFRAESTRURA TURÍSTICA NUM IMPORTANTE CORREDOR DE TRANSPORTE PARA EMBARCAÇÕES, ÔNIBUS E VANS DE DIVERSAS OPERADORAS DE TURISMO QUE VISITAM A CIDADE O ANO INTEIRO. AS CONDIÇÕES ATUAIS DA VIA (EM CALÇAMENTO ANTIGO E ESTRAGADO) QUE SERÁ BENEFICIADA POR ESTE PROJETO, É BASTANTE RUIM E NÃO OFERECE O CONFORTO E A SEGURANÇA NECESÁRIA QUE OS TURISTAS BUSCAM QUANDO ESCOLHEM UM LUGAR PARA CONHECER E PASSEAR. ESSA VIA SERÁ DENOMINADA “ROTA DAS MARINAS” E SERÁ A MAIS IMPORTANTE ROTA PARA LIGAR O ACESSO DA CIDADE ÀS PRAIAS E À BARRA, QUE É O ENCONTRO DO RIO COM O MAR. ALÉM DO QUE, SERÁ TAMBÉM A PRICIPAL VIA DE ACESSO AO CAIS DE ONDE PARTEM AS EMBARCAÇÕES QUE FAZEM A TRAVESSIA DOS TURISTAS PARA A FAMOSA E EXUBERANTE PRAIA DO GUNGA. PARA QUE O MTUR TENHA UMA IDEIA MAIS CLARA DA IMPORTÂNCIA DESSA OBRA, HOJE A VIA PARALELA EXISTENTE É TUMULTUADA E TAMBÉM PRECÁRIA, DADA O IMENSO NÚMERO DE ESTABELECIMENTIOS COMERCIAIS COMO BANCO, LOTERIAS, FARMÁRCIAS E SUPERMERCADOS, O QUE CAUSA, NATURALMENTE, TRANSTORNO SÉRIO NO TRÂNSITO LOCAL, QUE NO PERÍODO DE VERÃO E DE ALTA ESTAÇÃO, FICA COMPLETAMENTE PARADO, O QUE PREJUDICA A IMAGEM DO DESTINO E AFUJENTA OS TURISTAS QUE BUSCAM UMA MELHOR INFRAESTRUTURA. DEPUTADO FEDERAL AUTOR DA EMENDA: MAURÍCIO QUINTELLA LESSA NÚMERO DA EMENDA: 13040012 FUNCIONAL PROGRAMÁTICA: 23.695.2076.10V0.0027",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "RECAPEAMENTO EM ASFALTO E DRENAGEM PLUVIAL DE DIVERSAS RUAS DA BARRA DE SÃO MIGUEL - AL",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR EM SUA PLENITUDE O OBJETO DA PRESENTE PROPOSTA.",
+            "proposalDate": "2013-06-03T03:00:00.000Z",
+            "biddingDate": "2013-08-16T03:00:00.000Z",
+            "homologationDate": "2013-08-23T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020130002",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 1028.319,
+              "details": {
+                "code": "5400020130002",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes: 2% (dois por cento) e 4% (quatro por cento) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1028.319,
+                "couterpartValues": {
+                  "total": 53319.41,
+                  "financial": 53319.41,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 975000,
+                  "amendment": "R$ 975.000,00 - MAURÍCIO QUINTELLA LESSA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012014",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-01-30T02:00:00.000Z",
+              "processId": "1230122014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "1230122014",
+                "biddingId": "012014",
+                "object": "RECAPEAMENTO ASFÁLTICO E RECUPERAÇÃO DA DRENAGEM SUPERFICIAL EM DIVERSAS RUAS NA ROTA DAS MARINAS",
+                "legalFoundation": "LEI 8.666 - ART. 22 E 23 - INC. 2",
+                "justification": "DEVIDO AO VALOR FOI ACEITO A MODALIDADE TOMADA DE PREÇOS.",
+                "publishDate": "2014-01-30T02:00:00.000Z",
+                "beginDate": "2014-02-14T02:00:00.000Z",
+                "endDate": "2014-02-14T02:00:00.000Z",
+                "biddingValue": 966608.23,
+                "homologationDate": "2014-02-17T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2014",
+              "biddingId": "012014",
+              "date": "2014-02-19T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 41160680000198",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Material",
+                "object": "RECAPEAMENTO ASFÁLTICO E RECUPERAÇÃO DA DRENAGEM SUPERFICIAL EM DIVERSAS RUAS NA ROTA DA MARINA.",
+                "totalValue": 966608.23,
+                "publishDate": "2014-02-19T03:00:00.000Z",
+                "beginDate": "2014-02-18T03:00:00.000Z",
+                "endDate": "2014-05-18T03:00:00.000Z",
+                "signDate": "2014-02-18T03:00:00.000Z",
+                "executionProcessId": "012014 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "1230122014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "783257/2013",
+            "validity": "16/08/2013 a 12/02/2016",
+            "limitDate": "2016-04-12T03:00:00.000Z",
+            "totalValue": 1028.319,
+            "transferValue": 975000,
+            "counterpartValue": 53319.41,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "782563/2013",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-06-25T03:00:00.000Z",
+        "end": "2021-04-20T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "031653/2013",
+            "organId": "31653/2013",
+            "processId": "031653/2013",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A BARRA DE SÃO MIGUEL É UM MUNICÍPIO LOCALIZADO NA REGIÃO METROPOLITANA DE MACEIÓ E POSSUI CERCA DE 8 MIL HABITANTES, DE ACORDO COM O IBGE 2010. SUA ECONOMIA É VOLTADA PARA O TURISMO QUE É SUA VOCAÇÃO NATURAL. NA BARRA DE SÃO MIGUEL ESTÃO LOCALIZADAS ALGUMAS DAS MAIS BELAS PRAIAS DO BRASIL. DURANTE O PERÍODO DE ALTA ESTAÇÃO, A CIDADE CHEGA A UMA POPULAÇÃO DE MAIS DE 40 MIL PESSOAS, VINDAS DE TODAS AS PARTES DO MUNDO. SUA INFRAESTRUTURA DE HOTÉIS, BARES, RESTAURANTES E A DIVERSIDADE DE PASSEIOS FAZ COM QUE A BARRA SEJA DISPUTADA POR MUITOS. MAS, COMO TODA CIDADE DO INTERIOR DO BRASIL, O DESENVOLVIMENTO FICOU ÀS MARGENS DA REALIDADE. A BARRA SOFRE COM AUSÊNCIA DE EQUIPAMENTOS PÚBLICOS CAPAZES DE BEM SERVIR A COMUNIDADE. PARA SE TER UMA IDEIA, MAIS DE 70% DE SUAS RUAS SÃO DE BARRO E NÃO POSSUEM DRENAGEM, GUIAS, NEM TAMPOUCO CALÇADAS. NÃO DAR PRA SE CONCEBER DESENVOLVIMENTO HUMANO, SOCIAL E ECONÔMICO COM UMA MARCA TÃO VERGONHOSA COMO ESSA. POR ISSO, O MINISTÉRIO DAS CIDADES APOIAR A REALIZAÇÃO DESSA OBRA DE PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS DA BARRA DE SÃO MIGUEL, É DAR A OPORTUNIDADE DO MUNICÍPIO CRESCER E ATRAIR NOVOS E IMPORTANTES INVESTIMENTOS PRIVADOS, O QUE, NA PRÁTICA, SIGNIFICA GERAÇÃO DE EMPREGO E RENDA PARA A POPULAÇÃO NATIVA E CIRCUNVIZINHA QUE TANTO DEPENDE DA INTERVENÇÃO DO PODER PÚBLICO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS DO MUNICÍPIO DA BARRA DE SÃO MIGUEL - AL",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O OBJETO DA PRESENTE PROPOSTA",
+            "proposalDate": "2013-05-29T03:00:00.000Z",
+            "biddingDate": "2013-06-25T03:00:00.000Z",
+            "homologationDate": "2013-07-02T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020130021",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 7065.6,
+              "details": {
+                "code": "5300020130021",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "Contrato de Repasse com valor igual ou superior a R$ 750.000,00, para Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 7065.6,
+                "couterpartValues": {
+                  "total": 144000,
+                  "financial": 144000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 6921.6,
+                  "amendment": "R$ 6.921.600,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012014",
+              "type": "Licitação - Concorrência",
+              "date": "2014-05-30T03:00:00.000Z",
+              "processId": "4170112014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concorrência",
+                "biddingType": "Menor Preço",
+                "processId": "4170112014",
+                "biddingId": "012014",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE OBRA REFERENTE A PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS DO MUNICÍPIO DE BARRA DE SÃO MIGUEL/AL.",
+                "legalFoundation": "ART. 43, VI, DA LEI Nº 8.666/93",
+                "justification": "VALOR PREVISTO PARA CONCORRÊNCIA.",
+                "publishDate": "2014-05-30T03:00:00.000Z",
+                "beginDate": "2014-06-09T03:00:00.000Z",
+                "endDate": "2014-06-09T03:00:00.000Z",
+                "biddingValue": 7008.361,
+                "homologationDate": "2014-06-09T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2014",
+              "biddingId": "012014",
+              "date": "2014-06-10T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 41160680000198",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Serviço de Engenharia",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE OBRA REFERENTE A PAVIMENTAÇÃO E DRENAGEM DE DIVERSAS RUAS DO MUNICÍPIO DE BARRA DE SÃO MIGUEL/AL.",
+                "totalValue": 7008.361,
+                "publishDate": "2014-06-10T03:00:00.000Z",
+                "beginDate": "2014-06-09T03:00:00.000Z",
+                "endDate": "2015-05-09T03:00:00.000Z",
+                "signDate": "2014-06-09T03:00:00.000Z",
+                "executionProcessId": "012014 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "4170112014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "782563/2013",
+            "validity": "25/06/2013 a 20/04/2021",
+            "limitDate": "2021-06-19T03:00:00.000Z",
+            "totalValue": 7065.6,
+            "transferValue": 6921.6,
+            "counterpartValue": 144000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "776218/2012",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2012-12-28T02:00:00.000Z",
+        "end": "2016-08-30T03:00:00.000Z",
+        "program": "ESTRUTURAÇÃO DA REDE DE SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA – CONSTRUÇÃO DE CRAS – RESOLUÇÃO CIT 06/2012 E RESOLUÇÃO CNAS Nº 10/2012.",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "036509/2012",
+            "organId": "36509/2012",
+            "processId": "036509/2012",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "As informações gerais do projeto encontram-se no formulário PROPOSTA CONTRATO DE REPASSE - REFERÊNCIA MÉRITO SOCIAL, anexado na Aba Anexo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL - CRAS",
+            "information": "Em conformidade com o que estabelece o artigo 19, inciso V, da Portaria Interministerial MP/MF/CGU 507/2011, declaro que esta prefeitura dispõe de estrutura física e de pessoal, com capacidade administrativa, técnica e gerencial para a execução do objeto proposto, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legalmente, inclusive as que se referem a licitação, acompanhamento da execução e prestação de contas.",
+            "proposalDate": "2012-08-01T03:00:00.000Z",
+            "biddingDate": "2012-12-28T02:00:00.000Z",
+            "homologationDate": "2013-01-15T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020120021",
+              "name": "ESTRUTURAÇÃO DA REDE DE SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA – CONSTRUÇÃO DE CRAS – RESOLUÇÃO CIT 06/2012 E RESOLUÇÃO CNAS Nº 10/2012.",
+              "value": 268760.2,
+              "details": {
+                "code": "5500020120021",
+                "name": "ESTRUTURAÇÃO DA REDE DE SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA – CONSTRUÇÃO DE CRAS – RESOLUÇÃO CIT 06/2012 E RESOLUÇÃO CNAS Nº 10/2012.",
+                "cps": "",
+                "items": "CONSTRUÇÃO DE CRAS.",
+                "couterpartRule": "",
+                "totalValue": 268760.2,
+                "couterpartValues": {
+                  "total": 5510.2,
+                  "financial": 5510.2,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 263250,
+                  "amendment": "R$ 263.250,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-06-05T03:00:00.000Z",
+              "processId": "519014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "519014",
+                "biddingId": "02",
+                "object": "O CONTRATO TEM POR OBJETO A EXECUÇÃO DE OBRA DE ENGENHARIA REFERENTE A CONSTRUÇÃO DO CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL - CRAS.",
+                "legalFoundation": "LEI 8.666 - ART. 22 E 23 - INC. 2",
+                "justification": "O VALOR DA OBRA SE ENQUADRA NA MODALIDADE TOMADA DE PREÇOS.",
+                "publishDate": "2014-06-05T03:00:00.000Z",
+                "beginDate": "2014-06-17T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 249870.57,
+                "homologationDate": null,
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2014",
+              "biddingId": "02",
+              "date": "2014-06-26T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 16628118000107",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Serviço",
+                "object": "O CONTRATO TEM POR OBJETO A EXECUÇÃO DE OBRA DE ENGENHARIA REFERENTE A CONSTRUÇÃO DO CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL - CRAS.",
+                "totalValue": 249870.57,
+                "publishDate": "2014-06-26T03:00:00.000Z",
+                "beginDate": "2014-06-26T03:00:00.000Z",
+                "endDate": "2014-12-26T02:00:00.000Z",
+                "signDate": "2014-06-26T03:00:00.000Z",
+                "executionProcessId": "02 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "519014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "776218/2012",
+            "validity": "28/12/2012 a 30/08/2016",
+            "limitDate": "2016-10-29T02:00:00.000Z",
+            "totalValue": 268760.2,
+            "transferValue": 263250,
+            "counterpartValue": 5510.2,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "769547/2012",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2012-06-19T03:00:00.000Z",
+        "end": "2014-12-19T02:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "009306/2012",
+            "organId": "09306/2012",
+            "processId": "009306/2012",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município paradisíaco de Barra de São Miguel no Estado de Alagoas e do Brasil, mostrando as belezas naturais, as tradições, manifestações de cultura popular e a culinária típica dentre outros atrativos, onde se vive com completa harmonia com o mar e a agitação de um dos polos turísticos mais visitados do Estado. Atraindo desta forma benefícios a toda população local, importante para valorização do Patrimônio histórico-cultural, ambiental e turístico. Barra de São Miguel é a cidade que é conhecida como a “Capital Cultural das Águas” pelo seu encontro das águas “Mar, rio e lagoa” por metro quadrado do Estado, sua intensidade das belezas naturais e seus atrativos com suas praias paradisíacas de areia fina e águas cristalinas, onde formam-se belas piscinas naturais entre os corais. O lugar, que normalmente onde respira a natureza, , aquecendo a economia local e do próprio Estado.È de fundamental importância para o desenvolvimento da economia do município e servirá como fomento para o fortalecimento da mesma, beneficiando assim diversos setores, entre este e outros motivos, porque jamais saberíamos calcular o benefício que ele poderá trazer para o município e para a população local. Somente a 25 quilômetros da Capital, a Barra de São Miguel é considerada como integrante da Grande Maceió, e oferece uma completa infra-estrutura, além de um completo shopping turístico ar-livre à beira de águas doces ou salgadas, com clima temperatura (Maximo de 30º C e min. 22º C), área de 55 km e população de aproximadamente 7.434 habitantes (IBGE 2010), situada Mesorregião da Mata Alagoana e na Microrregião dos Tabuleiros de São Miguel dos Campos, a Barra de São Miguel já recebeu durante o carnaval cerca de 80 mil pessoas, e na alta temporada em media de 35 mil habitantes das mais diversas classes econômicas, sendo limitado ao norte pelo o Município de Marechal Deodoro: ao sul, pelo Município de Roteiro; ao Leste, pelo Oceano Atlântico e o Oeste pelo o Município de São Miguel dos Campos. Principais pontos turísticos _ reúnem praias, lagoas, arrecifes, coqueiros, mangues e rios,Ilha de três corações, Rio niquim, Croas (banho de areia), Arrecifes, Aquários naturais, Manguezais, Falésias, Praias PRAIA PORTO DE VACAS OU “PRAIA DO MEIO”, PRAIA BONITA, PRAIA DA ATALAIA, e os PASSEIOS TURÍSTICOS ”AQUÁRIOS NATURAIS E ARRECIFES”, “PRAIA DO GUNGA”, “LAGOA DO ROTEIRO” e entre outras atrativos. E festividades e eventos Carnaval, Festa de São Jose, São João Festival Encontro das Águas, São João, Festa da Padroeira Senhora Santana, 02 de Agosto “Emancipação Política”, Festival do Massunim, Réveillon . A execução do objeto deste convenio produzirá maior viabilidade e transformação para o município situado ma região Lagoas e Mares do Sul em um destino turístico consolidado e sustentável e melhoria na qualidade de vida, estando próximo aos pontos turísticos do Cais da Barra e encontro da Lagoa do Roteiro com o mar e servindo de acesso ao Projeto de infra-estrutura Turística do Mirante. O convênio promoverá a pavimentação e drenagem do Bairro José Nunes nas Ruas: Sebastião C. Santos, Dion Silva Lima, José Emídio Santos,Manoel Emídio Santos,Pedro da Silva Lima, Valdemar Marques dos Santos, Wilson C. dos Santos Manoel Cassimiro Vieira, José Antenor Silva e Valdevino A. Santos, proporcionada pela Emenda Parlamentar n° 2579.0009, de autoria do Senador Fernando Collor, no valor de R$ 400.000,00 (quatrocentos mil reais), Funcional Programática n° 23.695.2076.10v0.0027 - Apoio a projetos de infraestrutura turística - no Estado de Alagoas. As Ruas Sebastião C. Santos, Dion Silva Lima, Valdemar Marques dos Santos, Wilson C. dos Santos Manoel Cassimiro Vieira, José Antenor Silva e Valdevino A. Santos, dão acesso a Rua Manoel R. Gouveia, que por sua vez dá acesso aos principais pontos turísticos, descritos na aba anexo (Principais Pontos Turísticos) e as Ruas José Emídio Santos, Manoel Emídio Santos e Pedro da Silva, que estão dentro do Bairro e interligadas entre si.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação e Drenagem do Bairro José Nunues em Barra de São Miguel/AL. Ruas: Sebastião C. Santos, Dion Silva Lima, José Emídio Santos,Manoel Emídio Santos,Pedro da Silva Lima, Valdemar Marques dos Santos, Wilson C. dos Santos Manoel Cassimiro Vieira, José Antenor Silva e Valdevino A. Santos",
+            "information": "O municipio possui capacidade técnica e gerencial",
+            "proposalDate": "2012-03-30T03:00:00.000Z",
+            "biddingDate": "2012-06-19T03:00:00.000Z",
+            "homologationDate": "2012-06-28T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020120003",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 425357.66,
+              "details": {
+                "code": "5400020120003",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "Infraestrutura de acesso, tais como estradas turísticas, ferrovias, pontes, rodovias, túneis e viadutos, orlas fluviais, lacustres e marítimas",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 425357.66,
+                "couterpartValues": {
+                  "total": 35357.66,
+                  "financial": 35357.66,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "05/2012",
+              "type": "Licitação -",
+              "date": "2012-06-08T03:00:00.000Z",
+              "processId": "052012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "052012",
+                "biddingId": "05/2012",
+                "object": "Execução dos serviços de pavimentação e drenagem no Loteamento José Nunes em Barra de São Miguel/AL.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "Guardam conformidade com as exigências legais preconizadas para os instrumentos da espécie, em especial a Lei Federal 8.666/93 e Lei 10.520/02.",
+                "publishDate": "2012-06-08T03:00:00.000Z",
+                "beginDate": "2012-06-26T03:00:00.000Z",
+                "endDate": "2012-06-26T03:00:00.000Z",
+                "biddingValue": 361628.93,
+                "homologationDate": "2012-06-27T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2012",
+              "biddingId": "05/2012",
+              "date": "2012-07-04T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10547648000136",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Serviço",
+                "object": "Execução dos serviços de pavimentação e drenagem no Loteamento José Nunes em Barra de São Miguel/AL.",
+                "totalValue": 361628.93,
+                "publishDate": "2012-07-04T03:00:00.000Z",
+                "beginDate": "2012-06-28T03:00:00.000Z",
+                "endDate": "2013-06-28T03:00:00.000Z",
+                "signDate": "2012-06-28T03:00:00.000Z",
+                "executionProcessId": "05/2012 ",
+                "biddingModality": "Licitação - ",
+                "processId": "052012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "769547/2012",
+            "validity": "19/06/2012 a 19/12/2014",
+            "limitDate": "2015-02-17T02:00:00.000Z",
+            "totalValue": 425357.66,
+            "transferValue": 390000,
+            "counterpartValue": 35357.66,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "744690/2010",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-24T02:00:00.000Z",
+        "end": "2021-06-09T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "078424/2010",
+            "organId": "01379/2010",
+            "processId": "72031.011068/2010-48",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6170/2007 e Portaria Interministerial 127/2008",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A potencialidade turística da Barra de São Miguel é tão explícita, que causa espécie a qualquer pessoa conhecer a disparidade do valor do IDH do município, cujo valor em 2000 foi de 0,639. Isto motivou um estudo elaborado em parceria com o SEBRAE para desenvolver o Programa DLIS – Desenvolvimento Local Integrado e Sustentável, com vistas a diagnosticar os problemas existentes e a identificar as potencialidades e oportunidades que o município tem para reverter esse quadro. O veredicto foi claro: A cidade se habituou à convivência com os veranistas ao ponto de perder seus objetivos próprios, e deixou de fazer os investimentos públicos básicos que orientam e induzem os investimentos privados e o conseqüente desenvolvimento integrado e sustentável. O custo-benefício dos investimentos públicos necessários para criar a infra-estrutura e dar a partida no processo de desenvolvimento de um produto turístico verdadeiramente profissional, é altamente vantajoso. São tantas as potencialidades a serem aproveitadas além das belezas ímpares de suas praias, que por si só já tornam o município competitivo, que uma projeção primária aponta para a formação de um núcleo econômico gerador de mais de cinqüenta milhões de reais por ano, com mais de mil novas oportunidades de trabalho e inserindo socialmente a totalidade da sua população residente e atualmente excluída. Para cumprir esta finalidade e tornar o Município de Barra de São Miguel credenciado a receber estes recursos, foram elaborados projetos integrados, num conjunto denominado de “Construção da Infra-estrutura Turística de Barra de São Miguel”, onde estão previstas ações para que o município de Barra de São Miguel, definitivamente, esteja preparado para fazer desta atividade sua principal fonte de desenvolvimento, utilizando para tal, os indicativos lançados quando da elaboração do projeto DLIS, acima mencionado. A execução desse projeto dar-se-á pela implantação do saneamento básico. Atualmente, sabe-se que o saneamento básico é de vital importância para proteger a saúde da população, minimizar as conseqüências da pobreza e preservar o meio ambiente. A ausência deste serviço essencial fez com que os países em desenvolvimento, dentre eles o Brasil, tenham entrado no terceiro milênio, ressuscitando patologias que remontam o início do século XX, mormente as de veiculação hídrica, como: diarréia, hepatite, cólera, parasitoses intestinais, febre tifóide, dentre outras. Logo, a implantação e ampliação dos sistemas de abastecimento de água e esgotamento sanitário em locais com precárias condições de salubridade é um investimento imprescindível para a melhoria da qualidade de vida da população, tendo como efeito a redução dos gastos com a medicina curativa e a elevação do IDH a parâmetros compatíveis com o de outros estados do país, permitindo desta maneira que o município torne-se capaz de receber investimentos da iniciativa privada para que ocorra seu desenvolvimento turístico definitivo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "3ª Etapa de Implantação do sistema de Esgotamento Sanitário de Barra de São Miguel.",
+            "information": "",
+            "proposalDate": "2010-06-30T03:00:00.000Z",
+            "biddingDate": "2010-12-22T02:00:00.000Z",
+            "homologationDate": "2011-01-06T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100037",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+              "value": 8673.469,
+              "details": {
+                "code": "5400020100037",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+                "cps": null,
+                "items": "Infraestrutura urbanística",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 8673.469,
+                "couterpartValues": {
+                  "total": 173469.39,
+                  "financial": 173469.39,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 8500,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.331.561-** - HERCY AYRES RODRIGUES FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2006",
+              "type": "Licitação - Concorrência",
+              "date": "2006-11-28T02:00:00.000Z",
+              "processId": "4872006",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Concorrência",
+                "biddingType": "Técnica e Preço",
+                "processId": "4872006",
+                "biddingId": "02/2006",
+                "object": "OBRAS E SERVIÇOS DE INFRA-ESTRUTURA TURÍSTICAS DE BARRA DE SÃO MIGUEL/AL",
+                "legalFoundation": "LEI 8666/93",
+                "justification": "OBJETIVAR O DESENVOLVIMENTO E IMPLANTAÇÃO DE UMA INFRA-ESTRUTURA TURÍSTICAS PARA CONSOLIDAR O CRESCIMENTO INTEGRADO, PRODUZINDO RESULTADOS CONCRETOS, HAJA VISTA QUE, O MUNICÍPIO DE BARRA DE SÃO MIGUEL ESTÁ INCLUIDO NO PLANO NACIONAL DE TURISMO.",
+                "publishDate": "2006-11-28T02:00:00.000Z",
+                "beginDate": "2006-12-28T02:00:00.000Z",
+                "endDate": "2007-01-22T02:00:00.000Z",
+                "biddingValue": 114661.976,
+                "homologationDate": "2007-01-26T02:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2013",
+              "biddingId": "02/2006",
+              "date": "2011-01-06T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12770466000155",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Material",
+                "object": "3ª etapa de Implantação do Sistema de Esgotamento Sanitário de Barra de São Miguel",
+                "totalValue": 103585.872,
+                "publishDate": "2011-01-06T02:00:00.000Z",
+                "beginDate": "2012-12-24T02:00:00.000Z",
+                "endDate": "2013-12-18T02:00:00.000Z",
+                "signDate": "2010-12-22T02:00:00.000Z",
+                "executionProcessId": "02/2006 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "4872006 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "744690/2010",
+            "validity": "24/12/2010 a 09/06/2021",
+            "limitDate": "2021-07-09T03:00:00.000Z",
+            "totalValue": 8673.469,
+            "transferValue": 8500,
+            "counterpartValue": 173469.39,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "730528/2009",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2020-08-16T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "112696/2009",
+            "organId": "01878/2009",
+            "processId": "72031.007879/2009-19",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "Decreto 6.170 de 25/07/07 e Portaria Interministerial 127 29/05/08, atualizados.",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A potencialidade turística da Barra de São Miguel é tão explícita, que causa espécie a qualquer pessoa conhecer a disparidade do valor do IDH do município, cujo valor em 2000 foi de 0,639. Isto motivou um estudo elaborado em parceria com o SEBRAE para desenvolver o Programa DLIS – Desenvolvimento Local Integrado e Sustentável, com vistas a diagnosticar os problemas existentes e a identificar as potencialidades e oportunidades que o município tem para reverter esse quadro. O veredicto foi claro: A cidade se habituou à convivência com os veranistas ao ponto de perder seus objetivos próprios, e deixou de fazer os investimentos públicos básicos que orientam e induzem os investimentos privados e o conseqüente desenvolvimento integrado e sustentável. O custo-benefício dos investimentos públicos necessários para criar a infra-estrutura e dar a partida no processo de desenvolvimento de um produto turístico verdadeiramente profissional, é altamente vantajoso. São tantas as potencialidades a serem aproveitadas além das belezas ímpares de suas praias, que por si só já tornam o município competitivo, que uma projeção primária aponta para a formação de um núcleo econômico gerador de mais de cinqüenta milhões de reais por ano, com mais de mil novas oportunidades de trabalho e inserindo socialmente a totalidade da sua população residente e atualmente excluída. Para cumprir esta finalidade e tornar o Município de Barra de São Miguel credenciado a receber estes recursos, foram elaborados projetos integrados, num conjunto denominado de “Construção da Infra-estrutura Turística de Barra de São Miguel”, onde estão previstas ações para que o município de Barra de São Miguel, definitivamente, esteja preparado para fazer desta atividade sua principal fonte de desenvolvimento, utilizando para tal, os indicativos lançados quando da elaboração do projeto DLIS, acima mencionado. A execução desse projeto dar-se-á pela implantação do saneamento básico. Atualmente, sabe-se que o saneamento básico é de vital importância para proteger a saúde da população, minimizar as conseqüências da pobreza e preservar o meio ambiente. A ausência deste serviço essencial fez com que os países em desenvolvimento, dentre eles o Brasil, tenham entrado no terceiro milênio, ressuscitando patologias que remontam o início do século XX, mormente as de veiculação hídrica, como: diarréia, hepatite, cólera, parasitoses intestinais, febre tifóide, dentre outras. Logo, a implantação e ampliação dos sistemas de abastecimento de água e esgotamento sanitário em locais com precárias condições de salubridade é um investimento imprescindível para a melhoria da qualidade de vida da população, tendo como efeito a redução dos gastos com a medicina curativa e a elevação do IDH a parâmetros compatíveis com o de outros estados do país, permitindo desta maneira que o município torne-se capaz de receber investimentos da iniciativa privada para que ocorra seu desenvolvimento turístico definitivo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação do Sistema de Esgotamento Sanitário de Barra de São Miguel – 2ª etapa.",
+            "information": "",
+            "proposalDate": "2009-12-03T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-21T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090050",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 8163,
+              "details": {
+                "code": "5400020090050",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": null,
+                "items": "INFRAESTRUTURA URBANÍSTICA",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 8163,
+                "couterpartValues": {
+                  "total": 164000,
+                  "financial": 164000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 7999,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.654.498-** - JOSE MEDEIROS NICOLAU",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2006",
+              "type": "Licitação - Concorrência",
+              "date": "2006-11-28T02:00:00.000Z",
+              "processId": "4872006",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concorrência",
+                "biddingType": "Menor Preço",
+                "processId": "4872006",
+                "biddingId": "02/2006",
+                "object": "OBRAS E SERVIÇOS DE INFRA-ESTRUTURA TURÍSTICAS DE BARRA DE SÃO MIGUEL/AL",
+                "legalFoundation": "LEI 8666/93",
+                "justification": "OBJETIVAR O DESENVOLVIMENTO E IMPLANTAÇÃO DE UMA INFRA-ESTRUTURA TURÍSTICAS PARA CONSOLIDAR O CRESCIMENTO INTEGRADO, PRODUZINDO RESULTADOS CONCRETOS, HAJA VISTA QUE, O MUNICÍPIO DE BARRA DE SÃO MIGUEL ESTÁ INCLUIDO NO PLANO NACIONAL DE TURISMO.",
+                "publishDate": "2006-11-28T02:00:00.000Z",
+                "beginDate": "2006-12-28T02:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 103585.872,
+                "homologationDate": "2007-01-26T02:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2009",
+              "biddingId": "02/2006",
+              "date": "2007-03-13T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 02339308000191",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Material e Serviço",
+                "object": "INFRAESTRUTURA TURÍSTICA DE BARRA DE SÃO MIGUEL/AL.",
+                "totalValue": 103585.872,
+                "publishDate": "2007-03-13T03:00:00.000Z",
+                "beginDate": "2010-05-31T03:00:00.000Z",
+                "endDate": "2012-05-31T03:00:00.000Z",
+                "signDate": "2007-02-26T03:00:00.000Z",
+                "executionProcessId": "02/2006 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "4872006 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "730528/2009",
+            "validity": "31/12/2009 a 16/08/2020",
+            "limitDate": "2020-08-16T03:00:00.000Z",
+            "totalValue": 8532.239,
+            "transferValue": 7999,
+            "counterpartValue": 164000,
+            "yieldValue": 369239.9
+          }
+        }
+      },
+      {
+        "agreementId": "720200/2009",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "DEPARTAMENTO NAC.DE OBRAS CONTRA AS SECAS",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-05-24T03:00:00.000Z",
+        "program": "1029 - Resposta aos Desastres e Reconstrução",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "115643/2009",
+            "organId": "00021/2009",
+            "processId": "59400.009483/200994",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "DECRETO 6.170/2007",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22204 - DEPARTAMENTO NAC.DE OBRAS CONTRA AS SECAS",
+            "description": null,
+            "justification": "Barra de São Miguel é um município da Região Metropolitana de Maceió, Capital do Estado de Alagoas, com população de aproximadamente 7.572 habitantes conforme senso IBGE 2009, onde quase que sua totalidade sobrevive basicamente do turismo sustentável. Uma cidadezinha pacata nas baixas temporadas e badalada no verão, sem grandes preocupações no que se refere a sua infra-estrutura, praticamente o lugar perfeito para viver, se não fosse às fortes chuvas de inverno, mais precisamente no período de maio a agosto de 2009. Nesse período várias famílias foram obrigadas a deixarem suas residências devido ao acúmulo de água e aos deslizamentos de terra ocorridos na região. Hoje cerca de 45 famílias encontram-se desabrigadas, sem contar que alguns bairros ainda sofrem sem drenagem suficiente para que esses eventos não mais venham ocorrer ou pelo menos que não seja em tão grandes proporções. Em virtude dos fatos expostos o Bairro do Alto de São Marcos um dos mais afetado e apontado pela Defesa Civil como área atingida e em estado de emergência conforme AVADAN NE.HEX 12.302 (ENXURRADAS OU INUNDAÇÕES BRUSCAS) data de 12 de maio de 2009 necessita urgentemente da recomposição de seu sistema de drenagem.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Reconstrução de Cenários - Drenagem no Bairro Alto de São Marcos",
+            "information": "O Município possui capacidade técnica e gerencial, composta por Engenheiro, Arquiteto e Técnico em edificações.",
+            "proposalDate": "2009-12-09T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-13T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220420090027",
+              "name": "1029 - Resposta aos Desastres e Reconstrução",
+              "value": 202000,
+              "details": {
+                "code": "2220420090027",
+                "name": "1029 - Resposta aos Desastres e Reconstrução",
+                "cps": null,
+                "items": "Ações mais comuns: Recuperação/Reconstrução/Ampliação/Implantação de infraestrutura afetada por desastres: açudes, pequenas barragens, cisternas de placa, sistema de abastecimento de água, poço semi-artesiano e demais obras, instalações, equipamentos e materiais permanentes que visem normalizar a situação do desastre.",
+                "couterpartRule": "",
+                "totalValue": 202000,
+                "couterpartValues": {
+                  "total": 2000,
+                  "financial": 2000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 200000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.542.554-** - REGINALDO JOSE DE ANDRADE",
+            "grantor": "22204 - DEPARTAMENTO NAC.DE OBRAS CONTRA AS SECAS",
+            "respGrantor": "***.792.054-** - ELIAS FERNANDES NETO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "TP 001/2011",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2011-09-09T03:00:00.000Z",
+              "processId": "08010032011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "08010032011",
+                "biddingId": "TP 001/2011",
+                "object": "EXECUÇÃO DAS OBRAS RECONSTRUÇÃO DE CENÁRIOS - DRENAGEM NO BAIRRO ALTO DE SÃO MARCOS",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "RECONSTRUÇÃO DE CENÁRIOS - DRENAGEM NO BAIRRO ALTO DE SÃO MARCOS",
+                "publishDate": "2011-09-09T03:00:00.000Z",
+                "beginDate": "2011-09-23T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 200000,
+                "homologationDate": "2011-09-26T03:00:00.000Z",
+                "city": "2711 - BARRA DE SAO MIGUEL",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000253/2011",
+              "biddingId": "TP 001/2011",
+              "date": "2011-09-26T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 41160680000198",
+                "hirerDocument": "CNPJ: 12263869000108",
+                "type": "Obras",
+                "object": "EXUCUÇÃO DA RECONSTRUÇÃO DE CENÁRIO - DRENAGEM NO BAIRRO ALTO DE SÃO MARCOS",
+                "totalValue": 196461.96,
+                "publishDate": "2011-09-26T03:00:00.000Z",
+                "beginDate": "2011-09-26T03:00:00.000Z",
+                "endDate": "2011-11-26T02:00:00.000Z",
+                "signDate": "2011-09-26T03:00:00.000Z",
+                "executionProcessId": "TP 001/2011 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "08010032011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22204 - DEPARTAMENTO NAC.DE OBRAS CONTRA AS SECAS",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "720200/2009",
+            "validity": "31/12/2009 a 24/05/2012",
+            "limitDate": "2012-05-24T03:00:00.000Z",
+            "totalValue": 202000,
+            "transferValue": 200000,
+            "counterpartValue": 2000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "630803/2008",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-07-15T03:00:00.000Z",
+        "end": "2009-07-15T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Excluído no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "079483/2008",
+            "organId": "CR.NR.0255103-24",
+            "processId": "CR.NR.0255103-24",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTACAO EM PARALELEPIPEDO",
+            "information": "",
+            "proposalDate": "2008-07-15T03:00:00.000Z",
+            "biddingDate": "2008-07-15T03:00:00.000Z",
+            "homologationDate": "2008-07-18T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.542.554-** - REGINALDO JOSE DE ANDRADE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "630803/2008",
+            "validity": "15/07/2008 a 15/07/2009",
+            "limitDate": "2009-07-15T03:00:00.000Z",
+            "totalValue": 147333.89,
+            "transferValue": 137060,
+            "counterpartValue": 10273.89,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "628922/2008",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-07-10T03:00:00.000Z",
+        "end": "2009-07-10T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Excluído no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "077932/2008",
+            "organId": "CR.NR.0255104-38",
+            "processId": "CR.NR.0255104-38",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTACAO EM PARALELEPIPEDO",
+            "information": "",
+            "proposalDate": "2008-07-10T03:00:00.000Z",
+            "biddingDate": "2008-07-10T03:00:00.000Z",
+            "homologationDate": "2008-07-15T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.542.554-** - REGINALDO JOSE DE ANDRADE",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "628922/2008",
+            "validity": "10/07/2008 a 10/07/2009",
+            "limitDate": "2009-07-10T03:00:00.000Z",
+            "totalValue": 243257.73,
+            "transferValue": 235960,
+            "counterpartValue": 7297.73,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "627663/2008",
+        "uf": "AL",
+        "city": "BARRA DE SAO MIGUEL",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-27T03:00:00.000Z",
+        "end": "2011-08-15T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Adimplente no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "077171/2008",
+            "organId": "54001257200800161",
+            "processId": "72000.001422/2008-79",
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "legalFoundation": "",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A ação é essencial para minimizar as consequencias da pobreza, preser- var o meio ambiente e dar partida no processo de desenvolvimento de um produto turístico profissional e vantajoso.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Objeto: Implantação do Sistema de EsgotamentoSanitário e Ampliação do Sistema de Abastecimento de Água de Barra de São Miguel - 1ª Etapa.",
+            "information": "",
+            "proposalDate": "2008-06-27T03:00:00.000Z",
+            "biddingDate": "2008-06-27T03:00:00.000Z",
+            "homologationDate": "2008-07-02T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.263.869/0001-08 - MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "respProponent": "***.542.554-** - REGINALDO JOSE DE ANDRADE",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.881.858-** - LUIZ EDUARDO BARRETTO FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SAO MIGUEL",
+            "documentNumber": "12.263.869/0001-08",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "627663/2008",
+            "validity": "27/06/2008 a 15/08/2011",
+            "limitDate": "2011-08-15T03:00:00.000Z",
+            "totalValue": 30579.416,
+            "transferValue": 29662.033,
+            "counterpartValue": 917382.48,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

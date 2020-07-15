@@ -1,0 +1,563 @@
+{
+  "startDate": "2020-06-30T20:43:32.457Z",
+  "endDate": "2020-06-30T20:46:13.552Z",
+  "data": {
+    "search": {
+      "uf": "AL",
+      "city": "BELEM"
+    },
+    "agreements": [
+      {
+        "agreementId": "870717/2018",
+        "uf": "AL",
+        "city": "BELEM",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-31T02:00:00.000Z",
+        "end": "2021-12-31T03:00:00.000Z",
+        "program": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "048847/2018",
+            "organId": "00817/2018",
+            "processId": "25100.007663/2018-95",
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "legalFoundation": "Decreto nº 6.170, de 25 de julho de 2007 e suas alterações, combinado com a Portaria Interministerial nº 424, de 30 de dezembro de 2016 e suas alterações.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de BELÉM, está inserido no território da zona da mata alagoana, localizado na Mesorregião do Agreste Alagoano, seu principal acesso é através da BR 316, distante 106 Km da Capital, possui uma área de 48,196 km2, população de 4.551 habitantes, conforme Censo (IBGE 2010), fazendo fronteira com os municípios de Palmeira dos Índios, Tanque D’arca e Taquarana. A população de Belém enfrenta problemas de ordem social, com grande carência, principalmente na zona rural do município, onde existem unidades de taipa, o que ocasiona sérios problemas a saúde da população. A principal atividade econômica dessa população é a agricultura; Segundo levantamentos realizados o Município de Belém possui diversas localidades onde se predomina as construções rudimentares de taipa, o que necessita urgente de investimentos para melhorar as condições de habitabilidade, ações de promoção e vigilância em saúde, erradicar o veículo transmissor da doença, e construir habitações de qualidade para oferecer uma vida digna a população do município. O investimento para melhoria da situação precária que se encontram as comunidades a serem beneficiadas, além da preocupação eminente que o vetor se propague a atinja novas áreas, piorando ainda mais a situação do município, e a vida dos munícipes. Com base nos estudos o Município encontra-se na área de prioritários para investimentos para melhorar a qualidade de vida destas pessoas que ainda não possuem uma moradia digna; para garantir em primeiro lugar a saúde e qualidade de vida. As comunidades a serem atendidas com este convênio são: Povoado Barro Vermelho, Povoado Cabeça Dantas e Povoado Monte Douro, áreas rurais do Município de Belém.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Implantação de Melhorias Habitacionais para o Controle da Doença de Chagas.",
+            "information": "Pelo presente instrumento, o MUNICÍPIO DE BELÉM/ALAGOAS, pessoa jurídica de direito público, inscrita no CNPJ sob nº. 12.227.641/0001-62, com sede na Rua do Comércio, s/n – centro – CEP: 57.630-000, neste ato representado por seu (sua) Prefeito (a) Municipal, Sr(a) Ana Paula Antero Santa Rosa Barbosa, divorciada, Advogada, CPF nº 027.851.274-71 e Residente e domiciliada à Fazenda São Miguel – Zona Rural – Belém/AL, CEP: 57.630-000, em conformidade com o art.1º, §1º, XXIX, da Portaria Interministerial nº 424, de 30.12.2016, DECLARO, para fins de formalização de convênio com a Fundação Nacional de Saúde Funasa, que possui experiência nas atividades referentes à matéria relacionada ao convênio, bem como que possui capacidade técnica e gerencial para celebrar, executar e prestar contas, observadas as condições previstas no convênio e no Plano de Trabalho.",
+            "proposalDate": "2018-05-29T03:00:00.000Z",
+            "biddingDate": "2018-12-31T02:00:00.000Z",
+            "homologationDate": "2019-01-17T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120180019",
+              "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+              "value": 500000,
+              "details": {
+                "code": "3621120180019",
+                "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+                "cps": null,
+                "items": "Unidades Habitacionais",
+                "couterpartRule": "A contrapartida não é exigida, por tratar-se de transferência de recursos no âmbito do SUS, conforme Art. 74. § 4º, Inciso I, da Lei nº 13.473 de 08/08/2017. Para contrapartida voluntária, vide Anexo [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 500000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "respProponent": "***.851.274-** - ANA PAULA ANTERO SANTA ROSA BARBOSA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE BELEM",
+            "documentNumber": "12.227.641/0001-62",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "870717/2018",
+            "validity": "31/12/2018 a 31/12/2021",
+            "limitDate": "2022-03-01T03:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 500000,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "868624/2018",
+        "uf": "AL",
+        "city": "BELEM",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-06-21T03:00:00.000Z",
+        "end": "2021-07-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "032839/2018",
+            "organId": "32839/2018",
+            "processId": "328392018",
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de BELÉM, está inserido no território da zona da mata alagoana, localizado na Mesorregião do Agreste Alagoano, seu principal acesso é através da BR 316, distante 106 Km da Capital, possui uma área de 48,196 km2, população em torno de 4.517 habitantes, segundo estimativa do IBGE 2016, , fazendo fronteira com os municípios de Palmeira dos Índios, Tanque D’arca e Taquarana. A agricultura da região é pautada no cultivo de milho, mandioca e feijão. Sua economia é baseada principalmente por atividades agrícolas e pecuárias, onde prevalece a agricultura familiar. O Município de Belém está com carência de investimentos em infraestrutura urbana, todos os equipamentos públicos da cidade estão em péssimo estado de conservação, devido ao tempo sem manutenção; desta forma, a gestão após assumir em janeiro de 2017, elaborou um plano de ação para recuperação dos equipamentos e para buscar recursos para construção de novos o que trará condições ao município de proporcionar melhor qualidade de vida a sua população oferecendo ambientes públicos de qualidade. Desta forma, o objeto ora pleiteado de Pavimentação e drenagem de ruas do Município, será de fundamental importância não só para a população que reside na cidade, mas também para atrair novos visitantes; pois durante o período chuvoso existe o problema da trafegabilidade, bem como no período de seca que a poeira assola os moradores. A pavimentação e drenagem é obra de fundamental importância para melhorar a qualidade de vida dos moradores, tanto em relação a saúde; o Município vem enfrentando uma seca que assola a vários meses o município o que faz com que a poeira aumente cada dia mais. Esta obra vai facilitar além da trafegabilidade o escoamento da produção. É necessário investimentos na área de infraestrutura afim de garantir essa melhoria a toda população da cidade, principalmente os que residem diretamente na área. A área a ser beneficiada com a pavimentação fica localizada no perímetro urbano do Município de Belém/Alagoas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Pavimentação e Drenagem de Ruas do Município de Belém/AL.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº. 424, de 30 de dezembro de 2016, atesto para os devidos fins, que a Prefeitura Municipal de Belém/AL, possui quadro de profissionais, da área de engenharia, GMC – Gerente Municipal de Convênios, CPL – Comissão Permanente de Licitação, contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de Capacidade Técnica e Gerencial para Gestão e Execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto, tais como: licitações, execução e fiscalização de obras, prestação de contas.",
+            "proposalDate": "2018-03-26T03:00:00.000Z",
+            "biddingDate": "2018-06-21T03:00:00.000Z",
+            "homologationDate": "2018-07-04T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020180033",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 225357.14,
+              "details": {
+                "code": "5300020180033",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "007/2018",
+                "items": "INFRAESTRUTURA URBANA, Unidades Habitacionais, Equipamentos Comunitários, Pavimentação, Drenagem, Abastecimento de Água, Esgotamento Sanitário, Energia Elétrica e Iluminação, Coleta e Tratamento de Resíduos Sólidos, Contenção e Estabilização de Encostas, Regularização Fundiária, Aquisição de Terreno, Aquisição de Equipamentos e Insumos, Elaboração de Estudos e Projetos, Instrumentos e Ações em Planejamento e Gestão Pública, Ações Complementares de Obras, Gerenciamento, Trabalho Social, Transporte Público",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 225357.14,
+                "couterpartValues": {
+                  "total": 2500,
+                  "financial": 2500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 222857.14,
+                  "amendment": "R$ 222.857,14 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "respProponent": "***.851.274-** - ANA PAULA ANTERO SANTA ROSA BARBOSA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002-2020",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2020-04-16T03:00:00.000Z",
+              "processId": "232020",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aguardando Aceite",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "232020",
+                "biddingId": "002-2020",
+                "object": "TERRAPLANAGEM,DRENAGEM DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO EM PARALELEPÍPEDO DA RUA DOS COQUEIROS NO CENTRO – BELÉM/ALAGOAS.",
+                "legalFoundation": "8.666/1993",
+                "justification": "A NECESSIDADE DE DOTAR DE INFRAESTRUTURA A RUA DOS COQUEIROS, A QUAL CARECE DE INVESTIMENTOS PARA GARANTIR A MELHORIA PARA POPULAÇÃO.",
+                "publishDate": "2020-04-16T03:00:00.000Z",
+                "beginDate": "2020-04-28T03:00:00.000Z",
+                "endDate": "2020-04-29T03:00:00.000Z",
+                "biddingValue": 180874.74,
+                "homologationDate": "2020-04-29T03:00:00.000Z",
+                "city": "2715 - BELEM",
+                "analysisDate": null,
+                "accepted": "Aguardando Aceite"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2020",
+              "biddingId": "002-2020",
+              "date": "2020-04-30T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 29210567000174",
+                "hirerDocument": "CNPJ: 12227641000162",
+                "type": "Material e Serviço",
+                "object": "TERRAPLANAGEM,DRENAGEM DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO EM PARALELEPÍPEDO DA RUA DOS COQUEIROS NO CENTRO – BELÉM/ALAGOAS.",
+                "totalValue": 180874.74,
+                "publishDate": "2020-04-30T03:00:00.000Z",
+                "beginDate": "2020-04-29T03:00:00.000Z",
+                "endDate": "2021-04-29T03:00:00.000Z",
+                "signDate": "2020-04-29T03:00:00.000Z",
+                "executionProcessId": "002-2020 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "232020 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE BELEM",
+            "documentNumber": "12.227.641/0001-62",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "868624/2018",
+            "validity": "21/06/2018 a 30/07/2021",
+            "limitDate": "2021-09-28T03:00:00.000Z",
+            "totalValue": 225357.14,
+            "transferValue": 222857.14,
+            "counterpartValue": 2500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "864450/2018",
+        "uf": "AL",
+        "city": "BELEM",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-06-01T03:00:00.000Z",
+        "end": "2021-05-01T03:00:00.000Z",
+        "program": "2068 - Saneamento Basico (Acao: 10GD - Sistemas Publicos de Abastecimento de Agua)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "025395/2018",
+            "organId": "00222/2018",
+            "processId": "25100.004389/2018-01",
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "legalFoundation": "Decreto nº 6.170, de 25 de julho de 2007, e Portaria Interministerial nº 424, de 30 de dezembro de 2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de BELÉM, está inserido no território da zona da mata alagoana, localizado na Mesorregião do Agreste Alagoano, seu principal acesso é através da BR 316, distante 106 Km da Capital, possui uma área de 48,196 km2, população de 4.551 habitantes, conforme Censo (IBGE 2010), , fazendo fronteira com os municípios de Palmeira dos Índios, Tanque D’arca e Taquarana. A agricultura da região é pautada no cultivo de milho, mandioca e feijão. Sua economia é baseada principalmente por atividades agrícolas e pecuárias, onde prevalece a agricultura familiar. A administração elaborou um plano de ação para recuperação dos equipamentos e construção de novos o que trará condições ao Município de proporcionar melhor qualidade aos nossos municipes, os quais terão acesso a equipamentos de qualidade. Desta forma, foi identificado uma grande prioridade que é o fornecimento de água potável a população, pois é um dos princípios básicos o acesso a água de qualidade; é vislumbrando a implantação de um sistema de abastecimento de água para atender a área urbana da cidade de Belém. A água bem mais precioso do ser humano e que é fundamental a sua existência, se não for utilizada com boa qualidade trará problemas de saúde para população, desta forma, como a Gestão preza pela saúde e bem estar é que priorizamos este projeto para garantir que as águas que cheguem as torneiras das residências sejam propicias para o consumo humano. A implantação do sistema de abastecimento de água irá suprir a carência, com nova estrutura para atender a nossa população.A importância sanitária da água é muito importante; a implantação ou melhoria dos serviços de abastecimento de água traz como resultado uma rápida e sensível melhoria na saúde e nas condições de vida de uma comunidade, principalmente através do controle e prevenção de doenças, da promoção de hábitos higiênicos e a melhoria da limpeza pública; reflete-se também, no estabelecimento de meios que importam em melhoria do conforto e da segurança coletiva e constitui o melhor investimento em benefício da saúde pública. Ressalta-se, conforme tem sido constatado em muitos lugares, que a implantação ou melhoria dos sistemas de abastecimento de água traz como consequência uma diminuição sensível na incidência das doenças relacionadas a água. Estes efeitos benéficos se acentuam bastante com a implantação e melhoria dos sistemas de esgotos sanitários .O Município de Belém não possui hoje um sistema implantado de abastecimento de água, sendo o abastecimento feito a população da área urbana através de poços artesianos e ligações rudimentares, com isso a carência para implantar um sistema completo e adequado é primordial para melhoria nos serviços e atendimento a população. Com a conclusão da obra estimasse atender a cerca de três mil pessoas de forma ampla, levando água das residências de qualidade através de um sistema funcional.Foi escolhida a sede do Município para implantar o sistema, pois o mesmo é item fundamental para implementação dos outros componentes que compõe o saneamento, como: esgoto, pavimentação e drenagem , para que assim possamos reduzir a carência nos serviços. O Município está buscando junto a FUNASA parceria para capacitação dos profissionais que compõe a equipe técnica do Município designada para levantamentos e estudos para elaboração do Plano de Saneamento que é peça fundamental para garantir investimentos na área.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Implantação do Sistema de Abastecimento de Água (Elaboração de Projeto e Execução de obra) no Município de Belém/Alagoas.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº. 424, de 30 de dezembro de 2016, atesto para os devidos fins, que a Prefeitura Municipal de Belém/AL, possui quadro de profissionais, da área de engenharia, GMC – Gerente Municipal de Convênios, Engenheiro Civil, Assistente Social, CPL – Comissão Permanente de Licitação, contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de Capacidade Técnica e Gerencial para Gestão e Execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto da Proposta nº 025395/2018, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2018-03-07T03:00:00.000Z",
+            "biddingDate": "2018-05-31T03:00:00.000Z",
+            "homologationDate": "2018-06-20T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120180001",
+              "name": "2068 - Saneamento Basico (Acao: 10GD - Sistemas Publicos de Abastecimento de Agua)",
+              "value": 4000,
+              "details": {
+                "code": "3621120180001",
+                "name": "2068 - Saneamento Basico (Acao: 10GD - Sistemas Publicos de Abastecimento de Agua)",
+                "cps": null,
+                "items": "Abastecimento de Água",
+                "couterpartRule": "A contrapartida não é exigida, por tratar-se de transferência de recursos no âmbito do SUS, conforme Art. 74. § 4º, Inciso I, da Lei nº 13.473 de 08/08/2017. Para contrapartida voluntária, vide Anexo [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 4000,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 4000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "respProponent": "***.851.274-** - ANA PAULA ANTERO SANTA ROSA BARBOSA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "PP 019-2018",
+              "type": "Licitação - Pregão",
+              "date": "2018-12-06T02:00:00.000Z",
+              "processId": "2062018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "2062018",
+                "biddingId": "PP 019-2018",
+                "object": "Elaboração de diagnósticos, estudos de concepção e viabilidade, relatório técnico preliminar\n(RTP), projetos básico e complementar de engenharia e estudos ambientais para\nimplantação de um sistema de abastecimento de água no município de Belém/AL",
+                "legalFoundation": "Lei 10.520/2002",
+                "justification": "O presente processo licitatório corresponde a necessidade de contratação de empresa qualificada para elaboração de projetos e estudos afim de garantir posteriormente a execução do sistema de abastecimento de água de Belém/AL.",
+                "publishDate": "2018-12-06T02:00:00.000Z",
+                "beginDate": "2018-12-19T02:00:00.000Z",
+                "endDate": "2018-12-26T02:00:00.000Z",
+                "biddingValue": 199999.69,
+                "homologationDate": "2018-12-26T02:00:00.000Z",
+                "city": "2715 - BELEM",
+                "analysisDate": "2020-04-06T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000025/2018",
+              "biddingId": "PP 019-2018",
+              "date": "2018-12-26T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 26498695000177",
+                "hirerDocument": "CNPJ: 12227641000162",
+                "type": "Serviço de Engenharia",
+                "object": "Elaboração de diagnósticos, estudos de concepção e viabilidade, relatório técnico preliminar\n(RTP), projetos básico e complementar de engenharia e estudos ambientais para\nimplantação de um sistema de abastecimento de água no município de Belém/AL",
+                "totalValue": 143699.77,
+                "publishDate": "2018-12-26T02:00:00.000Z",
+                "beginDate": "2018-12-26T02:00:00.000Z",
+                "endDate": "2019-12-26T03:00:00.000Z",
+                "signDate": "2018-12-26T02:00:00.000Z",
+                "executionProcessId": "PP 019-2018 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "2062018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE BELEM",
+            "documentNumber": "12.227.641/0001-62",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "864450/2018",
+            "validity": "01/06/2018 a 01/05/2021",
+            "limitDate": "2021-06-30T03:00:00.000Z",
+            "totalValue": 4000,
+            "transferValue": 4000,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "818116/2015",
+        "uf": "AL",
+        "city": "BELEM",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2015-12-31T02:00:00.000Z",
+        "end": "2019-11-30T03:00:00.000Z",
+        "program": "Apoio ao Desenvolvimento Sustentável de Territórios Rurais – No Estado de Alagoas",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "028556/2015",
+            "organId": "28556/2015",
+            "processId": "0285562015",
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de BELÉM, está inserido no território da zona da mata alagoana, localizado na Mesorregião do Agreste Alagoano, seu principal acesso é através da BR 316, distante 106 Km da Capital, possui uma área de 48,196 km2, população em torno de 4.551 habitantes, segundo o censo demográfico do IBGE 2000, IDH de 0,600 segundo o Atlas de Desenvolvimento Humano/PNUD (2000), faz fronteira com os municípios de Palmeira dos Índios, Tanque D’arca e Taquarana. Os agricultores do Município estão organizados em pequenas associações rurais e cooperativas. Produzem basicamente culturais da agricultura de subsistência, como milho, mandioca e feijão. Sua economia é baseada principalmente por atividades agrícolas e pecuárias, onde prevalece a agricultura familiar. Os pequenos e médios produtores não dispõe de mecanização agrícola que tragam benefícios a eles, que consigam aumentar suas produtividades agrícolas e pecuária, fazendo com que melhorem sua alta estima e de certa forma, diminuam o êxodo rural. Entre os problemas enfrentados pelos agricultores temos a falta de água em períodos de estiagens, as dificuldades de infra-estrutura para armazenagem de silagem, esterco e adubo de aviário. As dificuldades encontradas atualmente pela agricultura familiar são inúmeras, pela falta de equipamentos adequados para a produção e transporte. Por se tratar de pequenas propriedades rurais e bastante diversificadas, torna-se inviável aos produtores a aquisição própria de equipamentos. Para tanto, com a aquisição dos equipamentos, o município realizará os serviços essenciais aos grupos de agricultores organizados como: distribuição de adubos líquidos, trilhar, abanar e ensacar os cereais colhidos, serviços de gradeamento e aração das propriedades rurais. Com a Aquisição dos equipamentos AGRÍCOLAS: GRADE ARADORA, TRATOR AGRÍCOLA, BATEDEIRA DE CEREAIS, beneficiará diretamente os 500 (quinhentos) produtores rurais, com uma média mensal de atendimento de 50 famílias de agricultores familiares. O público alvo direto deste projeto são todos os agricultores do município, abrangendo diretamente os pequenos agricultores organizados em grupos familiares nas diversas comunidades rurais. Os equipamentos serão utilizados em todo o território rural do município de Belém, sendo que sua guarda, operação e manutenção ficará a cargo da Prefeitura Municipal. Os equipamentos deverão ser novos, entregues devidamente na sede da Prefeitura Municipal, especificamente na Secretaria Municipal de Agricultura, e somente serão aceitos após análise e aceitabilidade dos mesmos, que deverão atender as especificações técnicas. O processo de aquisição dos equipamentos será através do procedimento licitatorio do tipo menor preço, após atender todos os pré-requisitos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE PATRULHA MECANIZADA",
+            "information": "A Prefeitura Municipal de Belém dispõe de lugar para a guarda da patrulha, bem como de operadores para trabalharem no serviço de preparo de solo e beneficiamento da produção agrícola. Os custos de manutenção e salário do tratorista ocorram por conta da Prefeitura.",
+            "proposalDate": "2015-07-16T03:00:00.000Z",
+            "biddingDate": "2015-12-31T02:00:00.000Z",
+            "homologationDate": "2016-01-21T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020150097",
+              "name": "Apoio ao Desenvolvimento Sustentável de Territórios Rurais – No Estado de Alagoas",
+              "value": 151000,
+              "details": {
+                "code": "2200020150097",
+                "name": "Apoio ao Desenvolvimento Sustentável de Territórios Rurais – No Estado de Alagoas",
+                "cps": "",
+                "items": "Apoiar a implementação e expansão dos investimentos que beneficiem coletivamente os agricultores familiares.",
+                "couterpartRule": "Os limites de contrapartida são os definidos na LDO (Lei 13.080, de 02/01/2015). [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 151000,
+                "couterpartValues": {
+                  "total": 10728,
+                  "financial": 10728,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 140272,
+                  "amendment": "R$ 140.272,00 - Paulão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.227.641/0001-62 - MUNICIPIO DE BELEM",
+            "respProponent": "***.851.274-** - ANA PAULA ANTERO SANTA ROSA BARBOSA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.603.673-** - ALBERTO ALFREDO LEAL NUNES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "20-2018",
+              "type": "Licitação - Pregão",
+              "date": "2018-12-20T02:00:00.000Z",
+              "processId": "2142018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "2142018",
+                "biddingId": "20-2018",
+                "object": "Aquisição de Máquinas e Equipamentos Agrícolas (Patrulha Mecanizada)",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "O presente processo tem objetivo de Aquisição de Máquinas e Equipamentos Agrícolas (Patrulha Mecanizada), conforme Convênio nº 818116/2015.",
+                "publishDate": "2018-12-20T02:00:00.000Z",
+                "beginDate": "2019-01-10T02:00:00.000Z",
+                "endDate": "2019-01-21T02:00:00.000Z",
+                "biddingValue": 143000,
+                "homologationDate": "2019-01-21T02:00:00.000Z",
+                "city": "2715 - BELEM",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2019",
+              "biddingId": "20-2018",
+              "date": "2019-01-24T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 08489098000102",
+                "hirerDocument": "CNPJ: 12227641000162",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE MÁQUINAS E EQUIPAMENTOS AGRÍCOLAS (PATRULHA MECANIZADA)",
+                "totalValue": 10000,
+                "publishDate": "2019-01-24T02:00:00.000Z",
+                "beginDate": "2019-01-23T02:00:00.000Z",
+                "endDate": "2019-08-30T03:00:00.000Z",
+                "signDate": "2019-01-23T02:00:00.000Z",
+                "executionProcessId": "20-2018 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "2142018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE BELEM",
+            "documentNumber": "12.227.641/0001-62",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "818116/2015",
+            "validity": "31/12/2015 a 30/11/2019",
+            "limitDate": "2020-01-29T03:00:00.000Z",
+            "totalValue": 151000,
+            "transferValue": 140272,
+            "counterpartValue": 10728,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

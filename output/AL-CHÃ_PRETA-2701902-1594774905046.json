@@ -1,0 +1,2442 @@
+{
+  "beginDate": "2020-07-14T21:41:09.991Z",
+  "endDate": "2020-07-14T23:25:50.281Z",
+  "data": {
+    "location": {
+      "city": "Chã Preta",
+      "uf": "AL",
+      "ibge": "2701902"
+    },
+    "agreements": [
+      {
+        "agreementId": "856960/2017",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-19T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "026801/2017",
+            "organId": "26801/2017",
+            "processId": "0268012017",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população estimada de 7.146 habitantes, segundo dados do IBGE, censo de 2010, com economia baseada na agricultura e na pecuária, renda média familiar de 1/2 (meio) salário mínimo. É uma cidade que possui atrativos turísticos em desenvolvimento, uma natureza rica e diversificada própria para o ecoturismo e para o turismo de aventura, possui, ainda, uma área de reserva da floresta tropical, de esplendido visual natural de mata virgem, lindas cachoeiras, a Serra Lisa, ponto mais alto de Alagoas, com uma área de aproximadamente l hectare, toda em pedra, plana e de maravilhosa visão paisagística, e de onde se pode avistar, além dos imensos tapetes verdes ondulados, a importante Serra da Barriga, palco da luta por liberdade de Zumbi e seus guerreiros negros. A implantação do objeto pleiteado, que é PAVIMENTAÇAO DE DIVERSAS RUAS NO MUNICIPIO DE CHÃ PRETA, situadas na zona urbana do município, visa prover o município de infraestrutura adequada, solucionando problemas de trafegabilidade e acessibilidade. É importante ressaltar que o objeto em questão é de interesse do município, tendo em vista que, os resultados esperados com a implantação do objeto compreendem dotar o município desta importante infraestrutura que virá melhorar a qualidade de vida da população, oferecendo trafegabilidade, conforto e segurança. Destaca-se que o pleito é referente à emenda número 29070005, de autoria do Senador Benedito de Lira.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em Paralelepípedo e Drenagem de diversas ruas no município de Chã Preta",
+            "information": "DECLARO PARA OS DEVIDOS FINS E EFEITOS LEGAIS JUNTO AO MINISTÉRIO DAS CIDADES QUE O MUNICÍPIO DE CHÃ PRETA POSSUI CAPACIDADE TÉCNICA E GERENCIAL PARA FAZER A GESTÃO E EXECUÇÃO DO OBJETO DO CONVÊNIO, INFORMO QUE O RESPONSÁVEL PELO GERENCIAMENTO DO CONVÊNIO SERÁ A SRª ALEXSANDRA BARBOSA DA SILVA, CPF N° 032.449.944-23, GESTOR DE CONVÊNIOS DO MUNICÍPIO, E QUE O SENHOR UBIRATAN DE FRANÇA PESSOA, ENGENHEIRO, CREA Nº 020611505-9/RN SERÁ O RESPONSÁVEL PELO GERENCIAMENTO TÉCNICO DA OBRA.",
+            "proposalDate": "2017-03-28T03:00:00.000Z",
+            "biddingDate": "2017-12-19T02:00:00.000Z",
+            "homologationDate": "2017-12-26T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 337550.46,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 337550.46,
+                "couterpartValues": {
+                  "total": 50885.42,
+                  "financial": 50885.42,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 286665.04,
+                  "amendment": "R$ 286.665,04 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "TP002/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-11-20T02:00:00.000Z",
+              "processId": "0022018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0022018",
+                "biddingId": "TP002/2018",
+                "object": "Pavimentação em Paralelepípedo e Drenagem de diversas ruas no município de Chã Preta",
+                "legalFoundation": "Decreto 6170/07",
+                "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população estimada de 7.146 habitantes, segundo dados do IBGE, censo de 2010, com economia baseada na agricultura e na pecuária, renda média familiar de 1/2 (meio) salário mínimo. É uma cidade que possui atrativos turísticos em desenvolvimento, uma natureza rica e diversificada própria para o ecoturismo e para o turismo de aventura, possui, ainda, uma área de reserva da floresta tropical, de esplendido visual natural de mata virgem, lindas cachoeiras, a Serra Lisa, ponto mais alto de Alagoas, com uma área de aproximadamente l hectare, toda em pedra, plana e de maravilhosa visão paisagística, e de onde se pode avistar, além dos imensos tapetes verdes ondulados, a importante Serra da Barriga, palco da luta por liberdade de Zumbi e seus guerreiros negros. A implantação do objeto pleiteado, que é PAVIMENTAÇAO DE DIVERSAS RUAS NO MUNICIPIO DE CHÃ PRETA, situadas na zona urbana do município, visa prover o município de infraestrutura adequada, solucionando problemas de trafegabilidade e acessibilidade. É importante ressaltar que o objeto em questão é de interesse do município, tendo em vista que, os resultados esperados com a implantação do objeto compreendem dotar o município desta importante infraestrutura que virá melhorar a qualidade de vida da população, oferecendo trafegabilidade, conforto e segurança.",
+                "publishDate": "2018-11-20T02:00:00.000Z",
+                "beginDate": "2018-12-10T02:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 337550.46,
+                "homologationDate": "2018-12-20T02:00:00.000Z",
+                "city": "2737 - CHA PRETA",
+                "analysisDate": "2019-10-30T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2018",
+              "biddingId": "TP002/2018",
+              "date": "2018-12-21T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 24820357000184",
+                "hirerDocument": "CNPJ: 12334629000157",
+                "type": "Serviço de Engenharia",
+                "object": "Pavimentação em paralelepípedo em diversas ruas, através dos contratos de repasse nº 104111607-30 e nº 1041610-98, no município de Chã Preta em conformidade com as planilhas que integram este instrumento e proposta da empresa vencedora.",
+                "totalValue": 337550.46,
+                "publishDate": "2018-12-21T02:00:00.000Z",
+                "beginDate": "2018-12-21T02:00:00.000Z",
+                "endDate": "2019-12-20T03:00:00.000Z",
+                "signDate": "2018-12-21T02:00:00.000Z",
+                "executionProcessId": "TP002/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0022018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "856960/2017",
+            "validity": "19/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 337550.46,
+            "transferValue": 286665.04,
+            "counterpartValue": 50885.42,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "846221/2017",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-10-17T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "026865/2017",
+            "organId": "26865/2017",
+            "processId": "0268652017",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população estimada de 7.146 habitantes, segundo dados do IBGE, censo de 2010, com economia baseada na agricultura e na pecuária, renda média familiar de 1/2 (meio) salário mínimo. É uma cidade que possui atrativos turísticos em desenvolvimento, uma natureza rica e diversificada própria para o ecoturismo e para o turismo de aventura, possui, ainda, uma área de reserva da floresta tropical, de esplendido visual natural de mata virgem, lindas cachoeiras, a Serra Lisa, ponto mais alto de Alagoas, com uma área de aproximadamente l hectare, toda em pedra, plana e de maravilhosa visão paisagística, e de onde se pode avistar, além dos imensos tapetes verdes ondulados, a importante Serra da Barriga, palco da luta por liberdade de Zumbi e seus guerreiros negros. A implantação do objeto pleiteado, que é PAVIMENTAÇAO DE DIVERSAS RUAS NO MUNICIPIO DE CHÃ PRETA, situadas na zona urbana do município, visa prover o município de infraestrutura adequada, solucionando problemas de trafegabilidade e acessibilidade. É importante ressaltar que o objeto em questão é de interesse do município, tendo em vista que, os resultados esperados com a implantação do objeto compreendem dotar o município desta importante infraestrutura que virá melhorar a qualidade de vida da população, oferecendo trafegabilidade, conforto e segurança. Destaca-se que o pleito é referente à emenda número 29070005, de autoria do Deputado Federal Ronaldo Lessa.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em Paralelepípedos e Drenagem de diversas ruas no município de Chã Preta - 02",
+            "information": "DECLARO PARA OS DEVIDOS FINS E EFEITOS LEGAIS JUNTO AO MINISTÉRIO DAS CIDADES QUE O MUNICÍPIO DE CHÃ PRETA POSSUI CAPACIDADE TÉCNICA E GERENCIAL PARA FAZER A GESTÃO E EXECUÇÃO DO OBJETO DO CONVÊNIO, INFORMO QUE O RESPONSÁVEL PELO GERENCIAMENTO DO CONVÊNIO SERÁ A SRª ALEXSANDRA BARBOSA DA SILVA, CPF N° 032.449.944-23, GESTOR DE CONVÊNIOS DO MUNICÍPIO, E QUE O SENHOR UBIRATAN DE FRANÇA PESSOA, ENGENHEIRO, CREA Nº 020611505-9/RN SERÁ O RESPONSÁVEL PELO GERENCIAMENTO TÉCNICO DA OBRA.",
+            "proposalDate": "2017-03-28T03:00:00.000Z",
+            "biddingDate": "2017-10-17T02:00:00.000Z",
+            "homologationDate": "2017-10-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 317560.28,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 317560.28,
+                "couterpartValues": {
+                  "total": 12597.75,
+                  "financial": 12597.75,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 304962.53,
+                  "amendment": "R$ 304.962,53 - Ronaldo Lessa"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "TP002/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-11-20T02:00:00.000Z",
+              "processId": "0022018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0022018",
+                "biddingId": "TP002/2018",
+                "object": "Pavimentação em Paralelepípedo e Drenagem de diversas ruas no município de Chã Preta",
+                "legalFoundation": "Decreto 6170/07",
+                "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população estimada de 7.146 habitantes, segundo dados do IBGE, censo de 2010, com economia baseada na agricultura e na pecuária, renda média familiar de 1/2 (meio) salário mínimo. É uma cidade que possui atrativos turísticos em desenvolvimento, uma natureza rica e diversificada própria para o ecoturismo e para o turismo de aventura, possui, ainda, uma área de reserva da floresta tropical, de esplendido visual natural de mata virgem, lindas cachoeiras, a Serra Lisa, ponto mais alto de Alagoas, com uma área de aproximadamente l hectare, toda em pedra, plana e de maravilhosa visão paisagística, e de onde se pode avistar, além dos imensos tapetes verdes ondulados, a importante Serra da Barriga, palco da luta por liberdade de Zumbi e seus guerreiros negros. A implantação do objeto pleiteado, que é PAVIMENTAÇAO DE DIVERSAS RUAS NO MUNICIPIO DE CHÃ PRETA, situadas na zona urbana do município, visa prover o município de infraestrutura adequada, solucionando problemas de trafegabilidade e acessibilidade. É importante ressaltar que o objeto em questão é de interesse do município, tendo em vista que, os resultados esperados com a implantação do objeto compreendem dotar o município desta importante infraestrutura que virá melhorar a qualidade de vida da população, oferecendo trafegabilidade, conforto e segurança.",
+                "publishDate": "2018-11-20T02:00:00.000Z",
+                "beginDate": "2018-12-10T02:00:00.000Z",
+                "endDate": "2018-12-20T02:00:00.000Z",
+                "biddingValue": 317560.28,
+                "homologationDate": "2018-12-20T02:00:00.000Z",
+                "city": "2737 - CHA PRETA",
+                "analysisDate": "2019-10-30T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2018",
+              "biddingId": "TP002/2018",
+              "date": "2018-12-21T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 24820357000184",
+                "hirerDocument": "CNPJ: 12334629000157",
+                "type": "Serviço de Engenharia",
+                "object": "Pavimentação em paralelepípedo em diversas ruas, através dos contratos de repasse nº 104111607-30 e nº 1041610-98, no município de Chã Preta em conformidade com as planilhas que integram este instrumento e proposta da empresa vencedora.",
+                "totalValue": 317560.28,
+                "publishDate": "2018-12-21T02:00:00.000Z",
+                "beginDate": "2018-12-21T02:00:00.000Z",
+                "endDate": "2019-12-20T03:00:00.000Z",
+                "signDate": "2018-12-21T02:00:00.000Z",
+                "executionProcessId": "TP002/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0022018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "846221/2017",
+            "validity": "17/10/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 317560.28,
+            "transferValue": 304962.53,
+            "counterpartValue": 12597.75,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "753388/2010",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-30T02:00:00.000Z",
+        "end": "2013-06-20T03:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "104491/2010",
+            "organId": "04491/2010",
+            "processId": "104491/2010",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Chã Preta, localizado a Região Norte do Estado de Alagoas e aproximadamente 100 km da capital alagoana, com uma população total de 7.146 habitantes, segundos dados do IBGE/2010, tem sua economia baseada na agricultura e na pecuária e uma população carente de atividades físicas, renda média familiar de 1/2 salário mínimo (Renda per Capita R$62,21). O objeto da presente proposta, é a Complementação do Estádio Municipal, se faz necessário, tendo em vista as evidencias que o homem contemporâneo utiliza cada vez menos suas potencialidades corporais e de que o baixo nível de atividade física é fator decisivo no desenvolvimento de doenças degenerativas. Desta forma, sustenta-se a hipótese da necessidade de se promoverem mudanças no seu estilo de vida, levando-a a incorporar a prática de atividades físicas ao seu cotidiano. Nesta perspectiva, e no interesse em conceitos como “ATIVIDADES FISICAS”, “ESTILO DE VIDA” e “QUALIDADE DE VIDA”, é que, implementamos ações voltadas para determinação e operacionalização de variáveis que possam contribuir para a melhoria do bem estar do individuo por meio do incremento do nível de atividade física habitual da população, beneficiando cerca de 800 famílias tanto da zona rural quanto da zona urbana. O projeto de Complementção do Estádio Municipal de Chã Preta, trará possibilidades para a comunidade buscar essa qualidade de vida e descobrir diferentes formas de atividades físicas e esportes, fazendo com que esse objeto traga muitos benefícios físicos e mentais e sem duvida mudará o estilo de vida da comunidade chãpretense.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REFORMA E AMPLIAÇÃO DE QUADRA ESPORTIVA",
+            "information": "Atestamos para os devidos fins, nos termos do inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, que a Prefeitura Municipal de Chã Preta/Al. Possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil e jurídico para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta.",
+            "proposalDate": "2010-12-08T02:00:00.000Z",
+            "biddingDate": "2010-12-30T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 298500,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 298500,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "753388/2010",
+            "validity": "30/12/2010 a 20/06/2013",
+            "limitDate": "2013-07-20T03:00:00.000Z",
+            "totalValue": 298500,
+            "transferValue": 292500,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "753386/2010",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-30T02:00:00.000Z",
+        "end": "2012-10-30T02:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "104490/2010",
+            "organId": "04490/2010",
+            "processId": "104490/2010",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Chã Preta, localizado a Região Norte do Estado de Alagoas e aproximadamente 100 km da capital alagoana, com uma população total de 7.146 habitantes, segundos dados do IBGE/2010, tem sua economia baseada na agricultura e na pecuária e uma população carente de atividades físicas, renda média familiar de 1/2 salário mínimo(Renda per Capíta R$ 62,21). O objeto da presente proposta, é a 3ª ETAPA COMPLEMENTAÇÃO DA CONSTRUÇÃO DE CAMPO DE FUTEBOL, se faz necessário, tendo em vista as evidencias que o homem contemporâneo utiliza cada vez menos suas potencialidades corporais e de que o baixo nível de atividade física é fator decisivo no desenvolvimento de doenças degenerativas. Desta forma, sustenta-se a hipótese da necessidade de se promoverem mudanças no seu estilo de vida, levando-a a incorporar a prática de atividades físicas ao seu cotidiano. Nesta perspectiva, e no interesse em conceitos como “ATIVIDADES FISICAS”, “ESTILO DE VIDA” e “QUALIDADE DE VIDA”, é que, implementamos ações voltadas para determinação e operacionalização de variáveis que possam contribuir para a melhoria do bem estar do individuo por meio do incremento do nível de atividade física habitual da população, beneficiando cerca de 800 famílias tanto da zona rural quanto da zona urbana. O projeto de Complementção do Estádio Municipal de Chã Preta, trará possibilidades para a comunidade buscar essa qualidade de vida e descobrir diferentes formas de atividades físicas e esportes, fazendo com que esse objeto traga muitos benefícios físicos e mentais e sem duvida mudará o estilo de vida da comunidade chãpretense.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "3ª ETAPA COMPLEMENTAÇÃO DA CONSTRUÇÃO DE CAMPO DE FUTEBOL.",
+            "information": "Atestamos para os devidos fins, no termos do inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, a Prefeitura Municipal de Chã Preta/Al. Possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil e jurídico para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta.",
+            "proposalDate": "2010-12-08T02:00:00.000Z",
+            "biddingDate": "2010-12-30T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 597000,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 597000,
+                "couterpartValues": {
+                  "total": 12000,
+                  "financial": 12000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 585000,
+                  "amendment": "R$ 585.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "753386/2010",
+            "validity": "30/12/2010 a 30/10/2012",
+            "limitDate": "2012-11-29T02:00:00.000Z",
+            "totalValue": 597000,
+            "transferValue": 585000,
+            "counterpartValue": 12000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "743836/2010",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-21T02:00:00.000Z",
+        "end": "2015-12-15T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO / APOIO AO PEQUENO E MEDIO PRODUTOR AGROPECUÁRIO.",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "072038/2010",
+            "organId": "72038/2010",
+            "processId": "072038/2010",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundo dados do IBGE, e IDH-M 0,559, tem sua economia baseada na agricultura e na pecuária de corte e leite, sendo 52% da população sendo rural. É Dotado de população carente que dependem, basicamente, da agricultura para prover seus recursos de sobrevivência e sustento da família (renda per capita R$62,21). Há no município vários assentamentos, entre os quais um destaca-se como modelo no Estado de Alagoas, bem como, 500 tarefas de terras arrendadas para o fomento a agricultura familiar, com um total aproximado de 614 agricultores familiares e 80 agricultores assentados (IBGE senso agropecuário 95/96). A execução deste objeto RECUPERAÇÃO DA ESTRADA VISCINAL BOA ESPERANÇA tem a finalidade dotar o município de infra-estrutura agropecuária necessária para o fortalecimento da agricultura familiar, promover o desenvolvimento do setor agropecuário através da expansão da atividade de escoamento dos produtos agropecuários, beneficiando cerca de 200 famílias agricultora familiar da região da Boa Esperança, bem como aos comerciantes e público em geral que poderão dispor de produtos com qualidade e quantidade para comercialização e consumo, principalmente no inverno em que as chuvas prejudicam as estradas, interrompendo o transporte dos produtos. A execução da obras solucionará problemas no âmbito do setor agropecuário, tais como: problemas de trafegabilidade e acessibilidade do campo a cidade para escoamento dos produtos da agricultura familiar. É importante ressaltar que objeto em questão é de interesse para o município, considerando que, os resultados esperados com a implantação do objeto compreendem melhorar a qualidade de vida do homem do campo por meio da geração de emprego e renda, disponibilizar ao pequeno agricultor conforto e segurança para escoamento dos seus produtos o ano inteiro sem interrupção nos períodos de chuva. .",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "RECUPERAÇÃO DA ESTRADA VISCINAL BOA ESPERANÇA",
+            "information": "",
+            "proposalDate": "2010-06-14T03:00:00.000Z",
+            "biddingDate": "2010-12-21T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020100098",
+              "name": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO / APOIO AO PEQUENO E MEDIO PRODUTOR AGROPECUÁRIO.",
+              "value": 316128.83,
+              "details": {
+                "code": "2200020100098",
+                "name": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO / APOIO AO PEQUENO E MEDIO PRODUTOR AGROPECUÁRIO.",
+                "cps": "",
+                "items": "*Apoio ao Desenvolvimento do Setor Agropecuário",
+                "couterpartRule": "LEI Nº 11.768, DE 14 DE AGOSTO DE 2008. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 316128.83,
+                "couterpartValues": {
+                  "total": 23628.83,
+                  "financial": 23628.83,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.873.614-** - AUDALIO DE VASCONCELOS HOLANDA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.941.994-** - KLEBER JUREMA DA ROCHA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001/2012",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2012-06-01T03:00:00.000Z",
+              "processId": "0012012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0012012",
+                "biddingId": "001/2012",
+                "object": "Execução de obras de engenharia e infraestrutura relativo a reforma das praças municipais Padre Dimas e Canteiro, Padre Cícero e Manoel Firmino; recuperação de estrada vicinal de acesso ao povoado de boa esperança e reforma e ampliação de quadra poliesportiva para usufruto dos munícipes do município de Chã Preta/AL.",
+                "legalFoundation": "lei 8.666/93",
+                "justification": "Após analise do edital da tomada de preço e minuta do contrato, os mesmos estão de acordo com a legislação aplicável, especialmente com a lei 8.666/1993.",
+                "publishDate": "2012-06-01T03:00:00.000Z",
+                "beginDate": "2012-06-21T03:00:00.000Z",
+                "endDate": "2012-06-21T03:00:00.000Z",
+                "biddingValue": 342978.55,
+                "homologationDate": "2012-06-22T03:00:00.000Z",
+                "city": "2737 - CHA PRETA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2012",
+              "biddingId": "001/2012",
+              "date": "2012-06-29T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 14848416000179",
+                "hirerDocument": "CNPJ: 12334629000157",
+                "type": "Obras",
+                "object": "RECUPERAÇÃO DA ESTRADA VICINAL BOA ESPERANÇA.",
+                "totalValue": 342978.55,
+                "publishDate": "2012-06-29T03:00:00.000Z",
+                "beginDate": "2012-06-29T03:00:00.000Z",
+                "endDate": "2012-12-29T02:00:00.000Z",
+                "signDate": "2012-06-29T03:00:00.000Z",
+                "executionProcessId": "001/2012 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "743836/2010",
+            "validity": "21/12/2010 a 15/12/2015",
+            "limitDate": "2016-01-14T02:00:00.000Z",
+            "totalValue": 316128.83,
+            "transferValue": 292500,
+            "counterpartValue": 23628.83,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "742709/2010",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-17T02:00:00.000Z",
+        "end": "2012-12-17T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "053888/2010",
+            "organId": "53888/2010",
+            "processId": "053888/2010",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundo dados do IBGE, tem sua economia baseada na agricultura e na agropecuária, possui como principais atrativos turísticos uma natureza rica e diversificada própria para o ecoturismo e para o turismo de aventura, possui, ainda, área de reserva da floresta tropical e atlântica, de esplêndido visual natural de mata virgem, lindas cachoeiras, a Serra Lisa, ponto mais alto de Alagoas, com uma área de no máximo l hectare, toda em pedra, plana e de maravilhosa visão paisagística e de onde se pode avistar, além dos imensos tapetes verdes ondulados, a importante Serra da Barriga, palco da luta por liberdade de Zumbi e seus guerreiros negros. Ideal para o vôo livre, salto de asa delta e paraglider, por se tratar de montanha com encosta, de clima seco no verão, ambiente propício para que o atleta possa aproveitar melhor as térmicas (massa de ar); o Casarão do Major Guilherme, patrimônio preservado do 1º engenho de Chã Preta. O interesse na implantação do objeto pleiteado: RECONSTRUÇÃO DA PRAÇA EM PROJETO I, LOCALIZADA NA RUA PADRE DIMAS, S/N – CENTRO; CONSTRUÇÃO DA PRAÇA EM PROJETO II, LOCALIZADA NA RUA LEONCIO VIEIRA DA SILVA, S/N – CENTRO; CONSTRUÇÃO DA PRAÇA EM PROJETO III, LOCALIZADA NA RUA MELO BRANDÃO, S/N – CENTRO; ECONSTRUÇÃO DA PRAÇA CENTRAL DR. MANOEL FIRMINO TEIXEIRA DE VASCONCELOS, LOCALIZADA NA RUA DR. CHICO TEIXEIRA, S/N – CENTRO; RESTAURAÇÃO DA PRAÇA NARCISIO VASCONCELOS LOCALIZADA NA RUA CEL PEDRO TEIXERIA, S/N – CENTRO; RECONSTRUÇÃO DA PRAÇA PE CÍCERO, LOCALIZADA NA RUA OTHON CORREIA, S/N – CENTRO, no município de Chã Preta/AL, visa promover a melhoria da qualidade de vida dos cidadãos em poder dispor de praças públicas, com área arborizada, ampla e esteticamente agradável, possibilitando uma maior freqüência e integração entre as pessoas que moram no local e seus visitantes. A melhoria das praças no município de Chã Preta, certamente contribuirá para o aquecimento do comercio local, expansão da atividade turística e melhoria dos produtos e serviços ofertados pelos equipamentos turísticos já existentes e formação de grupos de agentes turísticos, guias, recepcionistas, cozinheiros, etc, que contribuirão para o crescimento de toda a cidade e região, conforme o Plano Nacional do Turismo 2007/2010. A execução destas obras solucionará problemas no âmbito do turismo, tais como: oferecer conforto e lazer a população local e ao turista, bem como, agregará valor ao caráter humanitário e promoverá valorização nas áreas residenciais e embelezará a cidade. É importante ressaltar que objeto em questão é de interesse turístico para o município, tendo em vista que, os resultados esperados com a implantação do objeto compreendem dotar o município desta importante infraestrutura turística, melhorando a qualidade de vida da população, por meio da geração de emprego e renda e disponibilizará ao turista conforto, segurança e mobilidade prazerosa. Destaca-se que o objeto é referente a emenda nº 24610006,funcional programática nº. 23.695.1166.10v0.0027, de autoria do parlamentar Francisco Tenório.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "RECONSTRUÇÃO DA PRAÇA EM PROJETO I, LOCALIZADA NA RUA PADRE DIMAS, S/N – CENTRO; CONSTRUÇÃO DA PRAÇA EM PROJETO II, LOCALIZADA NA RUA LEONCIO VIEIRA DA SILVA, S/N – CENTRO; CONSTRUÇÃO DA PRAÇA EM PROJETO III, LOCALIZADA NA RUA MELO BRANDÃO, S/N – CENTRO; RECONSTRUÇÃO DA PRAÇA CENTRAL DR. MANOEL FIRMINO TEIXEIRA DE VASCONCELOS, LOCALIZADA NA RUA DR. CHICO TEIXEIRA, S/N – CENTRO; RESTAURAÇÃO DA PRAÇA NARCISIO VASCONCELOS LOCALIZADA NA RUA CEL PEDRO TEIXERIA, S/N – CENTRO; RECONSTRUÇÃO DA PRAÇA PE CÍCERO, LOCALIZADA NA RUA OTHON CORREIA, S/N - CENTRO.",
+            "information": "",
+            "proposalDate": "2010-05-07T03:00:00.000Z",
+            "biddingDate": "2010-12-17T02:00:00.000Z",
+            "homologationDate": "2010-12-27T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100021",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+              "value": 497448.98,
+              "details": {
+                "code": "5400020100021",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+                "cps": "",
+                "items": "Praça publica",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 497448.98,
+                "couterpartValues": {
+                  "total": 9948.98,
+                  "financial": 9948.98,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "742709/2010",
+            "validity": "17/12/2010 a 17/12/2012",
+            "limitDate": "2013-01-16T02:00:00.000Z",
+            "totalValue": 497448.98,
+            "transferValue": 487500,
+            "counterpartValue": 9948.98,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "736295/2010",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-30T02:00:00.000Z",
+        "end": "2013-06-28T03:00:00.000Z",
+        "program": "ALAGOAS - OGU 2010",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "051525/2010",
+            "organId": "51525/1525",
+            "processId": "051525",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Chã Preta tem na sua origem a agricultura como fonte de renda para o desenvolvimento local, sendo cultivado em sua área rural vários produtos que integram a mesa dos brasileiros como: inhame, batata-doce, macaxeira, mandioca, milho, feijão, fava, laranja, banana, manga, caju, acerola, pitanga, abacaxi, melancia, mamão, hortaliças, ovos, frango, leite, mel, peixe e carnes vermelhas, todos provindos da agricultura familiar produzidos biologicamente corretos. A economia do município de Chã Preta gira em torno da agropecuária, e com zona urbana caracterizada por comércio e serviços ainda tímidos. Quanto as características sócio-econômicas encontramos os seguintes dados: IDH – M(0,56), IDH – LONGV(0,61), IDH – EDUC.(0,61), IDH – RENDA(0,46), IDH – RENDA PER CAPITA R$(62,21), Nº. DE HABITANTES(7.760), POPULAÇÃO RURAL(4.088), % POP. RURAL (52%), fonte IBGE 2007. De acordo com o PNUD – Programa das Nações unidas para o Desenvolvimento, que utiliza os dados do ADH – Atlas de Desenvolvimento Humano, estariam estes municípios classificados no patamar de médio desenvolvimento. Claro que há vários estudos e teorias que justificam essa classificação, mas o que se encontra é uma realidade totalmente oposta quando se percorre os municípios do interior de Alagoas, principalmente a zona rural deles. Encontramse famílias agricultoras vivendo exclusivamente de programas governamentais, como o Bolsa Família, ou quando tem muita sorte, uma aposentadoria do idoso que mora com aquela família, pai ou mãe do chefe de família ou da esposa. Essa realidade necessita transformações urgentes. Essas famílias devem ter sua dignidade humana garantida, principalmente quando o chefe de família é a mulher agricultora que mantém sozinha a sua casa, porque o esposo a abandonou. É necessário, inverter o processo do êxodo rural para o “êxodo urbano”, quando as ex-famílias agricultoras que migraram para a zona urbana, em sua maioria a capital do estado, inchando a massa favelada e acabando por aumentar sua situação de miséria e marginalidade, entrando no mundo da violência para sobreviver, estarão retornando ao campo, pois dali haverá como garantir o seu sustento de forma digna. Os agricultores não-assentados são os que mais sofrem com a falta de assistência técnica constante, devido à escassez de pessoal para tal finalidade no quadro do estado que é a ATER responsável por essa parcela de agricultores. Já os assentamentos costumam ser assistidos por prestadoras de serviço de Assistência Técnica e Extensão Rural (ATER) contratadas pelo INCRA, porém, percebe-se também, algumas falhas nesse processo relatadas como também percebidas de modo geral na região proposta, pelos secretários municipais que quando não diretamente, acabam por tomar conhecimento através dos técnicos agrícolas (TA’s) do quadro da Secretaria. Alguns assentamentos, inclusive, encontram-se desassistidos porque não foi renovado o contrato com a instituição de ATER pelo INCRA, como é o caso do Assentamento Mundaú do Areia, há 03 anos, no município de Chã Preta. É uma situação preocupante, tendo em vista, que essas famílias, hoje não produzem mais a laranja e a banana que produziam antes, porque “a terra não dá mais fruto bom”. São situações críticas, como essas, que devem ser sanadas em caráter de urgência e que infelizmente, por padecerem da ignorância, os agricultores ficam marginalizados e migram para a zona urbana a fim de encontrar outras fontes de sobrevivência, sem sucesso. O homem do campo deve ficar no campo e nosso papel nesse contexto é garantir seu desenvolvimento, não sua subsistência. A falta de recursos municipais para assistência técnica, incentivo a produção e escoamento da produção agropecuária, nos leva recorrer aos órgãos que possam viabilizar essa proposta que será de suma importância para o nosso município principalmente para a agricultura familiar.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE EQUIPAMENTOS PARA MELHORIA DA INFRA-ESTRUTURA E LOGÍSTICA DA PRODUÇÃO AGROPECUÁRIA.",
+            "information": "",
+            "proposalDate": "2010-05-04T03:00:00.000Z",
+            "biddingDate": "2010-12-30T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020100069",
+              "name": "ALAGOAS - OGU 2010",
+              "value": 185000,
+              "details": {
+                "code": "2200020100069",
+                "name": "ALAGOAS - OGU 2010",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra- Estrutura Agropecuária",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 185000,
+                "couterpartValues": {
+                  "total": 9500,
+                  "financial": 9500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 175500,
+                  "amendment": "R$ 175.500,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "06/2012",
+              "type": "Licitação - Pregão",
+              "date": "2012-06-01T03:00:00.000Z",
+              "processId": "00012012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "00012012",
+                "biddingId": "06/2012",
+                "object": "AQUISIÇÃO DE CAÇAMBA BASCULANTE 0KM.",
+                "legalFoundation": "LEI 8.666/93 E LEI 10.520/02",
+                "justification": "ENSEJOU A LICITAÇÃO NA MODALIDADE PREGÃO PRESENCIAL DE Nº 06/2012, CUJO OBJETO É A AQUISIÇÃO DE UM CAMINHÃO CAÇAMBA E MAQUINAS E IMPLEMENTOS AGRÍCOLAS, LEVANDO-SE EM CONSIDERAÇÃO A LEI Nº 10.520/02, SUBSIDIADA PELA LEI Nº 8.666/93 E ALTERAÇÕES POSTERIORES.",
+                "publishDate": "2012-06-01T03:00:00.000Z",
+                "beginDate": "2012-06-15T03:00:00.000Z",
+                "endDate": "2012-06-15T03:00:00.000Z",
+                "biddingValue": 179000,
+                "homologationDate": "2012-06-19T03:00:00.000Z",
+                "city": "2737 - CHA PRETA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2012",
+              "biddingId": "06/2012",
+              "date": "2012-07-02T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09236843000670",
+                "hirerDocument": "CNPJ: 12334629000157",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE CAÇAMBA 0KM.",
+                "totalValue": 179000,
+                "publishDate": "2012-07-02T03:00:00.000Z",
+                "beginDate": "2012-06-21T03:00:00.000Z",
+                "endDate": "2012-12-31T02:00:00.000Z",
+                "signDate": "2012-06-21T03:00:00.000Z",
+                "executionProcessId": "06/2012 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "00012012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "736295/2010",
+            "validity": "30/12/2010 a 28/06/2013",
+            "limitDate": "2013-07-28T03:00:00.000Z",
+            "totalValue": 185000,
+            "transferValue": 175500,
+            "counterpartValue": 9500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "732675/2010",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-04-28T03:00:00.000Z",
+        "end": "2011-02-20T03:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "027943/2010",
+            "organId": "00222/2010",
+            "processId": "720310070582010-16",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/2007, Portaria Interministerial 127/2008 e Portaria MTur 153/2009",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "DATA DE REALIZAÇÃO DO EVENTO: 28 de abril a 01 de maio de 2010. O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundo dados do IBGE, tem sua economia baseada na agricultura e na agropecuária, possui como principais atrativos turísticos uma natureza rica e diversificada própria para o ecoturismo e para o turismo de aventura, possui, ainda, área de reserva da floresta tropical e atlântica, de esplêndido visual natural de mata virgem, lindas cachoeiras, a Serra Lisa, ponto mais alto de Alagoas, com uma área de no máximo l hectare, toda em pedra, plana e de maravilhosa visão paisagística e de onde se pode avistar, além dos imensos tapetes verdes ondulados, a importante Serra da Barriga, palco da luta por liberdade de Zumbi e seus guerreiros negros. Ideal para o vôo livre, salto de asa delta e paraglider, por se tratar de montanha com encosta, de clima seco no verão, ambiente propício para que o atleta possa aproveitar melhor as térmicas (massa de ar); o Casarão do Major Guilherme, patrimônio preservado do 1º engenho de Chã Preta. O interesse na implantação do objeto pleiteado, 17ª SEMANA DA CULTURA, nos dias 28 de abril a 01 de maio de 2010, visa, divulgar talentos locais e mostrar a cultura do povo chapretense aos visitantes que aparecem de diversos lugares do estado, do país e até mesmo do mundo em busca da tradição cultural, e da riqueza histórica inspirada em estilos como o barroco e rococó. O público do evento é sempre diversificado entre todas as idades. A programação é repleta de espetáculos musicais, com shows de talentos da terra e de renome nacional, além disso peças teatrais animam o público. Para completar professores ministram oficinas culturais de diferentes temas como: artes cênicas, literatura, artesanato, saúde e bem estar, dança, música, ecoturismo, entre outras, que certamente proverão o município de um aquecimento considerável da economia local, expansão da atividade turística e melhoria dos produtos e serviços ofertados pelos equipamentos turísticos já existentes e formação de grupos de agentes turísticos, guias, recepcionistas, cozinheiros, etc, que contribuirão para o crescimento de toda a cidade e região, conforme o Plano Nacional do Turismo 2007/2010. O público esperado é de cerca de 15 mil pessoas por dia, o que proporcionará uma troca riquíssima de cultura e conhecimento e que consolidará Chã Preta como um dos mais aprazíveis destino para o ecoturismo em Alagoas. A riqueza cultural da região chapretense é visível para além de suas manifestações folclóricas e populares e tem dado contribuições para o cenário literário brasileiro, destacando nomes como o cantor de vaquejada CARAVEIA, muito famoso entre os nordestinos. A execução desta festa solucionará problemas no âmbito do turismo, tais como: tornar Chã Preta conhecida nacionalmente pelas suas riquezas culturais e naturais. É importante ressaltar que objeto em questão é de interesse turístico para o município, tendo em vista que, os resultados esperados com a implantação do objeto compreendem dotar o município desta importante ferramenta turística, melhorando a qualidade de vida da população, por meio da geração de emprego e renda e disponibilizará ao turista conforto, segurança e entretenimento. Vale informar que o município realizou o evento 1o Festival Junino na data de 23 a 28/06/2009, o I FESTIVAL NATALINO na data de 24/12/2009 e o resultado foram excelentes tanto no aquecimento da economia como nas transformações culturais voltadas para o turismo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "17ª SEMANA DA CULTURA",
+            "information": "",
+            "proposalDate": "2010-03-29T03:00:00.000Z",
+            "biddingDate": "2010-04-27T03:00:00.000Z",
+            "homologationDate": "2010-05-13T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100019",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 106500,
+              "details": {
+                "code": "5400020100019",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "H) FESTIVAIS CULTURAIS;",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 106500,
+                "couterpartValues": {
+                  "total": 6500,
+                  "financial": 6500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.797.948-** - CARLOS ALBERTO DA SILVA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Concluída",
+            "number": "732675/2010",
+            "validity": "28/04/2010 a 20/02/2011",
+            "limitDate": "2011-03-22T03:00:00.000Z",
+            "totalValue": 106500,
+            "transferValue": 100000,
+            "counterpartValue": 6500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "731727/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2015-06-24T03:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "134963/2009",
+            "organId": "13496/2009",
+            "processId": "134963/2009",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Chã Preta, localizado a Região Norte do Estado de Alagoas e aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundos dados do IBGE, tem sua economia baseada na agricultura e na pecuária e uma população carente de atividades físicas, renda média familiar de 1/2 salário mínimo. O objeto da presente proposta, 2ª ETAPA DA CONSTRUÇÃO DE CAMPO DE FUTEBOL, se faz necessário, tendo em vista as evidencias que o homem contemporâneo utiliza cada vez menos suas potencialidades corporais e de que o baixo nível de atividade física é fator decisivo no desenvolvimento de doenças degenerativas. Desta forma, sustenta-se a hipótese da necessidade de se promoverem mudanças no seu estilo de vida, levando-a a incorporar a prática de atividades físicas ao seu cotidiano. Nesta perspectiva, e no interesse em conceitos como “ATIVIDADES FISICAS”, “ESTILO DE VIDA” e “QUALIDADE DE VIDA”, é que, implementamos ações voltadas para determinação e operacionalização de variáveis que possam contribuir para a melhoria do bem estar do individuo por meio do incremento do nível de atividade física habitual da população, beneficiando cerca de 800 famílias tanto da zona rural quanto da zona urbana. O projeto de construção do CAMPO DE FUTEBOL Chã Preta, trará possibilidades para a comunidade buscar essa qualidade de vida e descobrir diferentes formas de atividades físicas e esportes, fazendo com que esse objeto traga muitos benefícios físicos e mentais e sem duvida mudará o estilo de vida da comunidade chãpretense.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "2ª ETAPA DA CONSTRUÇÃO DE CAMPO DE FUTEBOL",
+            "information": "",
+            "proposalDate": "2009-12-29T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 519675,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 519675,
+                "couterpartValues": {
+                  "total": 12675,
+                  "financial": 12675,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 507000,
+                  "amendment": "R$ 507.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.873.614-** - AUDALIO DE VASCONCELOS HOLANDA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.719.813-** - HERBERT BUENOS AIRES DE CARVALHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "731727/2009",
+            "validity": "31/12/2009 a 24/06/2015",
+            "limitDate": "2015-06-24T03:00:00.000Z",
+            "totalValue": 519675,
+            "transferValue": 507000,
+            "counterpartValue": 12675,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "731725/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2015-06-24T03:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "131458/2009",
+            "organId": "13145/2009",
+            "processId": "131458/2009",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Chã Preta, localizado a Região Norte do Estado de Alagoas e aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundos dados do IBGE, tem sua economia baseada na agricultura e na pecuária e uma população carente de atividades físicas, renda média familiar de 1/2 salário mínimo. O objeto da presente proposta, 1ª ETAPA DA CONSTRUÇÃO DE CAMPO DE FUTEBOL, se faz necessário, tendo em vista as evidencias que o homem contemporâneo utiliza cada vez menos suas potencialidades corporais e de que o baixo nível de atividade física é fator decisivo no desenvolvimento de doenças degenerativas. Desta forma, sustenta-se a hipótese da necessidade de se promoverem mudanças no seu estilo de vida, levando-a a incorporar a prática de atividades físicas ao seu cotidiano. Nesta perspectiva, e no interesse em conceitos como “ATIVIDADES FISICAS”, “ESTILO DE VIDA” e “QUALIDADE DE VIDA”, é que, implementamos ações voltadas para determinação e operacionalização de variáveis que possam contribuir para a melhoria do bem estar do individuo por meio do incremento do nível de atividade física habitual da população, beneficiando cerca de 800 famílias tanto da zona rural quanto da zona urbana. O projeto de construção do CAMPO DE FUTEBOL Chã Preta, trará possibilidades para a comunidade buscar essa qualidade de vida e descobrir diferentes formas de atividades físicas e esportes, fazendo com que esse objeto traga muitos benefícios físicos e mentais e sem duvida mudará o estilo de vida da comunidade chãpretense.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "1ª ETAPA DA CONSTRUÇÃO DE CAMPO DE FUTEBOL",
+            "information": "",
+            "proposalDate": "2009-12-22T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 403377.37,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 403377.37,
+                "couterpartValues": {
+                  "total": 13377.37,
+                  "financial": 13377.37,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.873.614-** - AUDALIO DE VASCONCELOS HOLANDA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.719.813-** - HERBERT BUENOS AIRES DE CARVALHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "731725/2009",
+            "validity": "31/12/2009 a 24/06/2015",
+            "limitDate": "2015-06-24T03:00:00.000Z",
+            "totalValue": 403377.37,
+            "transferValue": 390000,
+            "counterpartValue": 13377.37,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "731724/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-12-26T02:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "131443/2009",
+            "organId": "13144/2009",
+            "processId": "131443/2009",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Chã Preta, localizado a Região Norte do Estado de Alagoas e aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundos dados do IBGE, tem sua economia baseada na agricultura e na pecuária, renda média familiar de 1/2 salário mínimo e uma população carente de atividades físicas. O presente objeto, CONSTRUÇÃO DE QUADRA POLIESPORTIVA, se faz necessário, tendo em vista as evidencias que o homem contemporâneo utiliza cada vez menos suas potencialidades corporais e de que o baixo nível de atividade física é fator decisivo no desenvolvimento de doenças degenerativas. Desta forma, sustenta-se a hipótese da necessidade de se promoverem mudanças no seu estilo de vida, levando-a a incorporar a prática de atividades físicas ao cotidiano, beneficiando cerca de 800 famílias tanto da zona urbana quanto da zona rural. Nesta perspectiva, e no interesse em conceitos como “ATIVIDADES FISICAS”, “ESTILO DE VIDA” e “QUALIDADE DE VIDA”, é que, construindo um movimento no sentido de valorizar ações voltadas para determinação e operacionalização de variáveis que possam contribuir para a melhoria do bem estar do individuo por meio do incremento do nível de atividade física habitual da população. O projeto de construção da quadra poliesportiva descoberta de Chã Preta, trará a possibilidade da comunidade buscar essa qualidade de vida e descobrir diferentes formas de atividades físicas e esportes, fazendo com que esse objeto traga muitos benefícios físicos e mentais e sem duvida mudará o estilo de vida da comunidade chãpretense.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE QUADRA POLIESPORTIVA",
+            "information": "",
+            "proposalDate": "2009-12-22T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 120000,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 120000,
+                "couterpartValues": {
+                  "total": 3000,
+                  "financial": 3000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 117000,
+                  "amendment": "R$ 117.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "731724/2009",
+            "validity": "31/12/2009 a 26/12/2012",
+            "limitDate": "2012-12-26T02:00:00.000Z",
+            "totalValue": 120000,
+            "transferValue": 117000,
+            "counterpartValue": 3000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "730578/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2010-12-31T02:00:00.000Z",
+        "program": "1287 - Saneamento Rural (Melhorias Habitacionais para controle da doença de Chagas)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "070807/2009",
+            "organId": "00679/2009",
+            "processId": "25100.068.464/2009-62",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Portaria Interministerial MPOG/ MF/CGU nº 127/2008 e Decreto nº 6.170/2007",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O município de Chã Preta localizado na região norte do Estado de Alagoas, tem sua economia baseada na agricultura e na pecuaria. A grande maioria da população habita em casas construídas com utilização da técnica de Taipa em Pau-a-pique e em precárias condições pra sobrevivência da família. Esse tipo de construção contem frestas em que o inseto transmissor da Doença de Chagas, o barbeiro, se esconde e se prolifera. O objetivo desse convênio é levar a população carente de Chã chã Preta a melhoria da qualidade de vida, da saúde e da moradia, muitas vezes precárias ou inadequadas, oferecendo moradia dígna, assim como, erradicar a proliferação do inseto transmissor da doença de chagas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE CASAS RESIDENCIAIS.",
+            "information": "O Município de Chã Preta possui equipe técnica apta para desenvolver o presente projeto de Melhorias Habitacionais para controle da doença de Chagas.",
+            "proposalDate": "2009-09-10T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120090023",
+              "name": "1287 - Saneamento Rural (Melhorias Habitacionais para controle da doença de Chagas)",
+              "value": 623166.4,
+              "details": {
+                "code": "3621120090023",
+                "name": "1287 - Saneamento Rural (Melhorias Habitacionais para controle da doença de Chagas)",
+                "cps": null,
+                "items": "Melhorar as condições físico-sanitárias da casa por meio de restauração ou reconstrução; restauração compreende, dentre os principais serviços: reboco das paredes e pintura; calçada de proteção; cobertura com materiais; piso cimentado ou de madeira; recuperação de abrigo de animais e depósitos; substituição de cercas;implantação e ou recuperação de instalações sanitárias. Nos casos em que as casas não suportarem reformas, as mesmas serão demolidas e reconstruídas.",
+                "couterpartRule": "Municípios com até 50.000 habitantes: de 2% a 4% . [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 623166.4,
+                "couterpartValues": {
+                  "total": 23166.4,
+                  "financial": 23166.4,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 600000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.337.283-** - FRANCISCO DANILO BASTOS FORTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "730578/2009",
+            "validity": "31/12/2009 a 31/12/2010",
+            "limitDate": "2010-12-31T02:00:00.000Z",
+            "totalValue": 623166.4,
+            "transferValue": 600000,
+            "counterpartValue": 23166.4,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "729090/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-26T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "110015/2009",
+            "organId": "11001/2009",
+            "processId": "110015/2009",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundo dados do IBGE, renda média familiar de 1/2 salário mínimo, possui como principais atrativos turísticos uma natureza rica e diversificada própria para o ecoturismo e para o turismo de aventura, possui, ainda, área de reserva da floresta tropical e atalântica, de esplêndido visual natural de mata virgem, lindas cachoeiras, a Serra Lisa, ponto mais alto de Alagoas, com uma área de no máximo l hectare, toda em pedra, plana e de maravilhosa visão paisagística, e de onde se pode avistar, além dos imensos tapetes verdes ondulados, a importante Serra da Barriga, palco da luta por liberdade de Zumbi e seus guerreiros negros. Ideal para o vôo livre, salto de asa delta e paraglider, por se tratar de montanha com encosta, de clima seco no verão, ambiente propício para que o atleta possa aproveitar melhor as térmicas (massa de ar); o Casarão do Major Guilherme, patrimonio preservado do 1º engenho de Chã Preta. A implantação do objeto pleiteado, Construção da Estrada de acesso ao casarão do Major Guilherme Teixeira,conhecida como estrada do jundiá, passando por uma parte da reserva da mata atlântica, um local de terreno fertil, de onde brotam arvores que mais parecerem acontecimentos extraordinários pelo seu tamanho, bem como, pela barragem que fez funcionar a usina a vapor, que forneceu a 1ª energia para o município de chã Preta, visa prover o município de infraestrutura adequada para expansão da atividade turística e melhoria dos produtos e serviços ofertados, conforme o Plano Nacional do Turismo 2007/2010, beneficiando cerca de 1000 familias, tanto a área rural quanto a urbana. O Casarão do Major Guilherme, construído em meados do século XIX, é um dos principais patrimônio histórico cultural de Chã Preta, por ser um testemunho físico da história do município. Sendo uma das mais antigas edificações arquitetônica, ainda imponente, do século passado, experiência de um tempo remoto, além das estruturas preservadas da igreja e do porão onde os negros castigados ficavam impedidos do contato com outras pessoas. As lendas que envolvem o casarão mais combinam com filme de mistério, pois conta-se lendas de que à noite luzes acendem e apagam, ouvem-se vozes, gritos, choros no casarão, e muito mais. A execução da obras solucionará problemas no âmbito do turismo, tais como: problemas de trafegabilidade e acessibilidade a pontos turísticos É importante ressaltar que objeto em questão é de interesse turístico para o município, tendo em vista que, os resultados esperados com a implantação do objeto compreendem dotar o município desta importante infraestrutura turística, melhorando a qualidade de vida da população, por meio da geração de emprego e renda e disponibilizar ao turista conforto e segurança. Destaca-se que o pleito é referente à emenda número 24610010 de funcional programática nº. 23.695.1166.10V0.0027, de autoria do parlamentar Francisco Tenório.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "1ª ETAPA DA CONSTRUÇÃO DA ESTRADA DE ACESSO AO CASARÃO DO MAJOR GUILHERME TEIXEIRA.",
+            "information": "",
+            "proposalDate": "2009-11-30T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090006",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+              "value": 250000,
+              "details": {
+                "code": "5400020090006",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "cps": "",
+                "items": "Infraestrutura em ferrovias, rodovias, estradas, túneis, viadutos e pontes",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 6250,
+                  "financial": 6250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "729090/2009",
+            "validity": "31/12/2009 a 26/12/2011",
+            "limitDate": "2011-12-26T02:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 243750,
+            "counterpartValue": 6250,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "727505/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-06-23T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "128452/2009",
+            "organId": "12845/2009",
+            "processId": "128452/2009",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundo dados do IBGE, com economia baseada na agricultura e na pecuária, renda média familiar de 1/2 (meio) salário mínimo. É uma cidade que possui atrativos turísticos em desenvolvimento, uma natureza rica e diversificada própria para o ecoturismo e para o turismo de aventura, possui, ainda, uma área de reserva da floresta tropical, de esplendido visual natural de mata virgem, lindas cachoeiras, a Serra Lisa, ponto mais alto de Alagoas, com uma área de aproximadamente l hectare, toda em pedra, plana e de maravilhosa visão paisagística, e de onde se pode avistar, além dos imensos tapetes verdes ondulados, a importante Serra da Barriga, palco da luta por liberdade de Zumbi e seus guerreiros negros. A implantação do objeto pleiteado, que é PAVIMENTAÇAO DAS RUAS ANTONIO MEDEIROS E AURELIANO TEIXEIRA, situadas na zona urbana do município, visa prover o município de infraestrutura adequada, solucionando problemas de trafegabilidade e acessibilidade, beneficiando cerca de 80 famílias. É importante ressaltar que o objeto em questão é de interesse do município, tendo em vista que, os resultados esperados com a implantação do objeto compreendem dotar o município desta importante infraestrutura que virá melhorar a qualidade de vida da população, oferecendo trafegabilidade, conforto e segurança. Destaca-se que o pleito é referente à emenda número 24610003 de funcional programática nº 23.695.1166.10V0.0027, de autoria do parlamentar Francisco Tenório.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ETAPA Nº 01 DA PAVIMENTAÇÃO DAS RUAS ANTONIO MEDEIROS E AURELIANO TEIXEIRA.",
+            "information": "",
+            "proposalDate": "2009-12-17T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020094508",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 232070,
+              "details": {
+                "code": "5600020094508",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Infra-estrutura",
+                "couterpartRule": "",
+                "totalValue": 232070,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 226070,
+                  "amendment": "R$ 226.070,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.873.614-** - AUDALIO DE VASCONCELOS HOLANDA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.941.994-** - KLEBER JUREMA DA ROCHA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "003/2011",
+              "type": "Licitação -",
+              "date": "2011-05-26T03:00:00.000Z",
+              "processId": "00001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "00001",
+                "biddingId": "003/2011",
+                "object": "Pavimentação em paralelepípedo de vias publicas.",
+                "legalFoundation": "8.6666/1993",
+                "justification": "Conforme Lei 8.6666/1993",
+                "publishDate": "2011-05-26T03:00:00.000Z",
+                "beginDate": "2011-06-10T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 189885.21,
+                "homologationDate": "2011-06-13T03:00:00.000Z",
+                "city": "2737 - CHA PRETA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2011",
+              "biddingId": "003/2011",
+              "date": "2011-06-15T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10578411000112",
+                "hirerDocument": "CNPJ: 12334629000157",
+                "type": "Obras",
+                "object": "Pavimentação em paralelepípedo de vias publicas em conformidade com as plantas, especificações e descriminações.",
+                "totalValue": 189885.21,
+                "publishDate": "2011-06-15T03:00:00.000Z",
+                "beginDate": "2011-06-08T03:00:00.000Z",
+                "endDate": "2011-09-15T03:00:00.000Z",
+                "signDate": "2011-06-14T03:00:00.000Z",
+                "executionProcessId": "003/2011 ",
+                "biddingModality": "Licitação - ",
+                "processId": "00001 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "727505/2009",
+            "validity": "31/12/2009 a 23/06/2016",
+            "limitDate": "2017-01-07T02:00:00.000Z",
+            "totalValue": 232070,
+            "transferValue": 226070,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "727504/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-06-23T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "132038/2009",
+            "organId": "13203/2009",
+            "processId": "132038/2009",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundo dados do IBGE, e IDH-M 0,559, tem sua economia baseada na agricultura e na pecuária de corte e leite, com 52% da população sendo rural. É Dotado de população carente que dependem, basicamente, da agricultura para prover seus recursos de sobrevivência e sustento da família (renda per capita R$62,21), renda média familiar: até 1/2 salário mínimo. O presente objeto que é PAVIMENTAÇÃO DA RUA MANOEL ROBERTO BRANDÃO E ALTO DA ALEGRIA(PARALELEPIPEDOS), situadas na zona urbana deste município, tem por objetivo a execução de obras de infra-estrutura de pavimentação, complementando trechos já pavimentados, por se tratarem de soluções simples para o problema de acessibilidade e tráfego das famílias residentes naquela região, beneficiando um total de 90 famílias. O objeto proposto poderá empregar mão de obra local, possibilitando a geração de empregos, em um meio extremamente carente. Paralelamente, irá proporcionar aumento da vida média, da pessoa humana, pela redução da mortalidade, inclusive infantil, em conseqüência da menor incidência dos casos de doenças infecciosas e parasitárias, devido à implantação e a urbanização das referidas ruas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO DA RUA MANOEL ROBERTO BRANDÃO E ALTO DA ALEGRIA (PARALELEPÍPEDOS).",
+            "information": "",
+            "proposalDate": "2009-12-22T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020094494",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 146194.25,
+              "details": {
+                "code": "5600020094494",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Infra-estrutura",
+                "couterpartRule": "",
+                "totalValue": 146194.25,
+                "couterpartValues": {
+                  "total": 9134.25,
+                  "financial": 9134.25,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 137060,
+                  "amendment": "R$ 137.060,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.873.614-** - AUDALIO DE VASCONCELOS HOLANDA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.941.994-** - KLEBER JUREMA DA ROCHA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "005/2011",
+              "type": "Licitação -",
+              "date": null,
+              "processId": "00002",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "00002",
+                "biddingId": "005/2011",
+                "object": "Pavimentação em paralelepípedo em vias públicas.",
+                "legalFoundation": "8.6666/1993",
+                "justification": "baseado na lei 8666/1993",
+                "publishDate": null,
+                "beginDate": "2011-05-19T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 97355.6,
+                "homologationDate": "2011-06-23T03:00:00.000Z",
+                "city": "2737 - CHA PRETA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2011",
+              "biddingId": "005/2011",
+              "date": "2011-06-17T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10578411000112",
+                "hirerDocument": "CNPJ: 12334629000157",
+                "type": "Obras",
+                "object": "Pavimentação em paralelepípedo em vias publicas.",
+                "totalValue": 97355.6,
+                "publishDate": "2011-06-17T03:00:00.000Z",
+                "beginDate": "2011-06-14T03:00:00.000Z",
+                "endDate": "2011-09-15T03:00:00.000Z",
+                "signDate": "2011-06-14T03:00:00.000Z",
+                "executionProcessId": "005/2011 ",
+                "biddingModality": "Licitação - ",
+                "processId": "00002 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "727504/2009",
+            "validity": "31/12/2009 a 23/06/2016",
+            "limitDate": "2017-01-07T02:00:00.000Z",
+            "totalValue": 146194.25,
+            "transferValue": 137060,
+            "counterpartValue": 9134.25,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "727176/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-23T02:00:00.000Z",
+        "end": "2010-04-06T03:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - PROGRAMAÇÃO.",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "100682/2009",
+            "organId": "01833/2009",
+            "processId": "72031.007765/2009-61",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07 e Portaria Interministerial 127/08",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "DATA DE REALIZAÇÃO DO EVENTO: 24/12/2009 O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundo dados do IBGE, tem sua economia baseada na agricultura e na agropecuária, possui como principais atrativos turísticos uma natureza rica e diversificada própria para o ecoturismo e para o turismo de aventura, possui, ainda, área de reserva da floresta tropical e atlântica, de esplêndido visual natural de mata virgem, lindas cachoeiras, a Serra Lisa, ponto mais alto de Alagoas, com uma área de no máximo l hectare, toda em pedra, plana e de maravilhosa visão paisagística e de onde se pode avistar, além dos imensos tapetes verdes ondulados, a importante Serra da Barriga, palco da luta por liberdade de Zumbi e seus guerreiros negros. Ideal para o vôo livre, salto de asa delta e paraglider, por se tratar de montanha com encosta, de clima seco no verão, ambiente propício para que o atleta possa aproveitar melhor as térmicas (massa de ar); o Casarão do Major Guilherme, patrimônio preservado do 1º engenho de Chã Preta. O interesse na implantação do objeto pleiteado, FESTIVIDADES NATALINAS, no dia 24 de dezembro de 2009, visa, prover o município de um aquecimento considerável da economia local, expansão da atividade turística e melhoria dos produtos e serviços ofertados pelos equipamentos turísticos já existentes e formação de grupos de agentes turísticos, guias, recepcionistas, cozinheiros, etc, que contribuirão para o crescimento de toda a cidade e região, conforme o Plano Nacional do Turismo 2007/2010. O público esperado é de cerca de 15 mil pessoas, o que proporcionará uma troca riquíssima de cultura e conhecimento e que consolidará Chã Preta como um dos mais aprazíveis destino para o ecoturismo em Alagoas. Comemorar o Natal, através de uma grande festa, constitui-se um momento importante, pois além de reforçar os laços de família, atrai, encanta e integra os participantes, expressando a face da coletividade e da interação social, oferecendo a elas um momento especial, que muitas vezes não teriam a oportunidade de vivenciar, portanto, a execução desta festa solucionará problemas no âmbito do turismo, tais como: tornar Chã Preta conhecida nacionalmente pelas suas riquezas naturais e culturais. É importante ressaltar que objeto em questão é de interesse turístico para o município, tendo em vista que, os resultados esperados com a implantação do objeto compreendem dotar o município desta importante ferramenta turística, melhorando a qualidade de vida da população, por meio da geração de emprego e renda e disponibilizará ao turista conforto, segurança e entretenimento. Vale informar que o município realizou o evento 1o Festival Junino na data de 23 a 28/06/2009 e o resultado foi excelente tanto no aquecimento da economia como nas transformações culturais voltadas para o turismo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "I FESTIVAL NATALINO",
+            "information": "",
+            "proposalDate": "2009-11-18T02:00:00.000Z",
+            "biddingDate": "2009-12-23T02:00:00.000Z",
+            "homologationDate": "2010-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090041",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - PROGRAMAÇÃO.",
+              "value": 116500,
+              "details": {
+                "code": "5400020090041",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - PROGRAMAÇÃO.",
+                "cps": null,
+                "items": "EVENTOS NATALINOS",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 116500,
+                "couterpartValues": {
+                  "total": 6500,
+                  "financial": 6500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 110000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "727176/2009",
+            "validity": "23/12/2009 a 06/04/2010",
+            "limitDate": "2010-04-06T03:00:00.000Z",
+            "totalValue": 116500,
+            "transferValue": 110000,
+            "counterpartValue": 6500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "724740/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-12-26T02:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "104502/2009",
+            "organId": "10450/2009",
+            "processId": "104502/2009",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundo dados do IBGE, e IDH-M 0,559, tem sua economia baseada na agricultura e na pecuária de corte e leite, sendo 52% da população sendo rural. É Dotado de população carente que dependem, basicamente, da agricultura para prover seus recursos de sobrevivência e sustento da família (renda per capita R$62,21), renda média familiar: até 1/2 salário mínimo. Há no município vários assentamentos, entre os quais um destaca-se como modelo no Estado de Alagoas, bem como, 500 tarefas de terras arrendadas para o fomento a agricultura familiar, com um total aproximado de 614 agricultores familiares e 80 agricultores assentados (IBGE senso agropecuário 95/96). O presente PROJETO PAVIMENTAÇÃO DO CONJUNTO BENEDITO VASCONCELOS E RUA FREI MATIAS (PARALELEPIPEDOS), situadas na zona urbana deste município, tem por objetivo a execução de obra de pavimentação, complementando trechos já pavimentados, por se tratarem de soluções simples para o problema de acessibilidade e tráfego das familias residentes naquela região, beneficiando um total de 80 familias. O projeto proposto poderá empregar mão de obra local, possibilitando a geração de empregos, em um meio extremamente carente. Paralelamente, irá proporcionar aumento da vida média, da pessoa humana, pela redução da mortalidade, inclusive infantil, em conseqüência da menor incidência dos casos de doenças infecciosas e parasitárias, devido à implantação e a urbanização das referidas ruas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO DO CONJUNTO BENEDITO VASCONCELOS E RUA FREI MATIAS(PARALELEPIPEDOS).",
+            "information": "",
+            "proposalDate": "2009-11-25T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-02-09T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020092646",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 157062.68,
+              "details": {
+                "code": "5600020092646",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 157062.68,
+                "couterpartValues": {
+                  "total": 10112.68,
+                  "financial": 10112.68,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 146950,
+                  "amendment": "R$ 146.950,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "724740/2009",
+            "validity": "31/12/2009 a 26/12/2012",
+            "limitDate": "2012-12-26T02:00:00.000Z",
+            "totalValue": 157062.68,
+            "transferValue": 146950,
+            "counterpartValue": 10112.68,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "724666/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-26T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "110042/2009",
+            "organId": "11004/2009",
+            "processId": "110042/2009",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundo dados do IBGE, e IDH-M 0,559, tem sua economia baseada na agricultura e na pecuária, com 52% da população sendo rural. É dotado de população carente que dependem, basicamente, da agricultura para prover seus sustentos, com uma renda familiar até 1/2 salário mínino e uma renda per capita R$62,21. possui como principais atrativos turísticos uma natureza rica e diversificada própria para o ecoturismo e para o turismo de aventura, possui, ainda, uma área de reserva da floresta tropical, de esplendido visual natural de mata virgem, lindas cachoeiras, a Serra Lisa, ponto mais alto de Alagoas, com uma área de aproximadamente l hectare, toda em pedra, plana e de maravilhosa visão paisagística, e de onde se pode avistar, além dos imensos tapetes verdes ondulados, a importante Serra da Barriga, palco da luta por liberdade de Zumbi e seus guerreiros negros. Ideal para o vôo livre, salto de asa delta e paraglider, por se tratar de montanha com encosta, de clima seco no verão, ambiente propício para que o atleta possa aproveitar melhor as térmicas (massa de ar); o Casarão do Major Guilherme, 1º engenho de Chã Preta. A implantação do objeto pleiteado, que é Construção da Estrada de acesso a Serra Lisa, situada na Zona Rural, um dos pontos turísticos mais importante de Chã Preta, com os serviços de drenagem e pavimentação, com passagem por uma parte da reserva de floresta tropical e por uma das belas nascentes conhecida como o banho das virgens, visa prover o município de infraestrutura adequada para expansão da atividade turística e melhoria dos produtos e serviços ofertados, conforme o Plano Nacional do Turismo 2007/2010. A execução da obra solucionará problemas no âmbito do turismo, tais como: problemas de trafegabilidade e acessibilidade a pontos turísticos É importante ressaltar que o objeto em questão é de interesse turístico para o município, tendo em vista que, os resultados esperados com a implantação do objeto compreendem dotar o município desta importante infraestrutura turística, melhorando a qualidade de vida da população, por meio da geração de emprego e renda e disponibilizar ao turista conforto e segurança, beneficiando cerca de 200 famílias. Destaca-se que o pleito é referente à emenda número 24610003 de funcional programática nº 23.695.1166.10V0.0027, de autoria do parlamentar Francisco Tenório.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "1a ETAPA SERVIÇOS DE DRENAGEM E PAVIMENTAÇÃO DA ESTRADA DE ACESSO A SERRA LISA.",
+            "information": "",
+            "proposalDate": "2009-11-30T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090006",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+              "value": 143500,
+              "details": {
+                "code": "5400020090006",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "cps": "",
+                "items": "Infraestrutura em ferrovias, rodovias, estradas, túneis, viadutos e pontes",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 143500,
+                "couterpartValues": {
+                  "total": 7000,
+                  "financial": 7000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 136500,
+                  "amendment": "R$ 136.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "724666/2009",
+            "validity": "31/12/2009 a 26/12/2011",
+            "limitDate": "2011-12-26T02:00:00.000Z",
+            "totalValue": 143500,
+            "transferValue": 136500,
+            "counterpartValue": 7000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "719126/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-26T02:00:00.000Z",
+        "program": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO / APOIO AO PEQUENO E MEDIO PRODUTOR AGROPECUÁRIO.",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "132715/2009",
+            "organId": "13271/2009",
+            "processId": "132715/2009",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundo dados do IBGE, e IDH-M 0,559, tem sua economia baseada na agricultura e na pecuária de corte e leite, sendo 52% da população sendo rural. É Dotado de população carente que dependem, basicamente, da agricultura para prover seus recursos de sobrevivência e sustento da família (renda per capita R$62,21). Há no município vários assentamentos, entre os quais um destaca-se como modelo no Estado de Alagoas, bem como, 500 tarefas de terras arrendadas para o fomento a agricultura familiar, com um total aproximado de 614 agricultores familiares e 80 agricultores assentados (IBGE senso agropecuário 95/96),. A execução deste objeto CONSTRUÇÃO DO MERCADO PÚBLICO MUNICIPAL, solucionará problemas no âmbito da agricultura e da pecuária, beneficiando diretamente cerca de 30 familias e indiretamente cerca de 700 familias, tanto da zona urbana quanto da zona rural, visto a grande necessidade de um local adequado para comercialização dos produtos. É importante ressaltar que o objeto em questão é de interesse para o município, tendo em vista que os resultados esperados com a implantação do objeto compreendem dotar o município de importante ferramenta de reforço, promoção e incentivo ao desenvolvimento sustentável da Agricultura Familiar. Destaca-se que o pleito é referente à emenda de autoria do parlamentar Francisco Tenório, funcional programática nº. 20.605.6003.7H17.0027.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE MERCADO PÚBLICO MUNICIPAL.",
+            "information": "",
+            "proposalDate": "2009-12-23T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090096",
+              "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO / APOIO AO PEQUENO E MEDIO PRODUTOR AGROPECUÁRIO.",
+              "value": 300000,
+              "details": {
+                "code": "2200020090096",
+                "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO / APOIO AO PEQUENO E MEDIO PRODUTOR AGROPECUÁRIO.",
+                "cps": "",
+                "items": "AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra-Estrutura Agropecuária 8.Projetos de Energização Rural",
+                "couterpartRule": "LEI Nº 11.768, DE 14 DE AGOSTO DE 2008. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 7500,
+                  "financial": 7500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "719126/2009",
+            "validity": "31/12/2009 a 26/12/2011",
+            "limitDate": "2011-12-26T02:00:00.000Z",
+            "totalValue": 300000,
+            "transferValue": 292500,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "719125/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2012-12-26T02:00:00.000Z",
+        "program": "EMENDA PARLAMENTAR - ESTADO AL",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "062514/2009",
+            "organId": "06251/2009",
+            "processId": "062514/2009",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Chã Preta, localizado na Região Norte do Estado de Alagoas a aproximadamente 100 km da capital alagoana, com uma população total de 7.073 habitantes, segundo dados do IBGE, e IDH-M 0,559, tem sua economia baseada na agricultura e na pecuária de corte e leite, sendo 52% da população sendo rural. É Dotado de população carente que dependem, basicamente, da agricultura para prover seus recursos de sobrevivência e sustento da família (renda per capita R$62,21). Há no município vários assentamentos, entre os quais um destaca-se como modelo no Estado de Alagoas, bem como, 500 tarefas de terras arrendadas para o fomento a agricultura familiar, com um total aproximado de 614 agricultores familiares e 80 agricultores assentados (IBGE senso agropecuário 95/96),. O acesso a zona rural se dá por vicinais de chão, de difícil acesso, que, em épocas de inverno chuvoso tornam-se totalmente intransitáveis, gerando um custo muito alto ao pequeno produtor pela dificuldade de escoamento dos produtos e pela ausência de máquinas e equipamentos para recuperação dos acessos. A implantação do objeto pleiteado que AQUISIÇÃO DE MÁQUINAS E EQUIPAMENTOS AGRÍCOLAS, visa beneficiar dietamente 694 familias e indiretamente 900 familias, nas comunidades rurais e associações, com os serviços de recuperação e conservação de estradas vicinais, preparos de áreas para plantio, terraços, colheita e beneficiamento de produtos agropecuários, obras de drenagem, irrigação e aração de terras. A execução deste objeto solucionará problemas no âmbito da agricultura e é importante ressaltar que o objeto em questão é de interesse para o município, tendo em vista que os resultados esperados com a implantação do objeto compreendem dotar o município de importante ferramenta de reforço, promoção e incentivo ao desenvolvimento sustentável da Agricultura Familiar. Destaca-se que o pleito é referente à emenda de autoria do parlamentar Francisco Tenório, funcional programática nº. 20.605.6003.7H17.0027.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE MÁQUINAS E EQUIPAMENTOS AGRÍCOLAS.",
+            "information": "",
+            "proposalDate": "2009-08-17T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090066",
+              "name": "EMENDA PARLAMENTAR - ESTADO AL",
+              "value": 429400,
+              "details": {
+                "code": "2200020090066",
+                "name": "EMENDA PARLAMENTAR - ESTADO AL",
+                "cps": "",
+                "items": "Apoio a Projetos de Desenvolvimento do Setor Agropecuário AÇÃO: 7H17 I - INVESTIMENTO 1.PROJETOS DE MECANIZAÇÃO AGRÍCOLA 2.PROJETOS DE RECUPERAÇÃO DE ESTRADAS VICINAIS 3.PROJETOS DE IRRIGAÇÃO E DRENAGEM 4.PROJETOS DE DESENVOLVIMENTO DA PECUÁRIA 5.PROJETOS DE AGROINDUSTRIALIZAÇÃO 6.PROJETOS DE METEOROLOGIA AGROPECUÁRIA 7.PROJETOS DE INFRA-ESTRUTURA AGROPECUÁRIA 8.PROJETOS DE ENERGIZAÇÃO RURAL",
+                "couterpartRule": "Municípios com até 50 mil habitantes - Conforme LEI Nº 11.768,14/08/2008(LDO 2009) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 429400,
+                "couterpartValues": {
+                  "total": 29650,
+                  "financial": 29650,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 399750,
+                  "amendment": "R$ 399.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001/2009",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0012009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "0012009",
+                "biddingId": null,
+                "object": "AQUISIÇÃO DE MÁQUINAS AGRÍCOLAS",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "A LEGISLAÇÃO FACULTA A ADMINISTRAÇÃO PÚBLICA, A AQUISIÇÃO DO OBJETO MEDIANTE O PROCESSO DE DISPENSA DE LICITAÇÃO, CONFORME PRECEITUA O INCISO V, ARTIGO 24, DA LEI 8.666/93.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": "2011-03-17T03:00:00.000Z",
+                "city": "2737 - CHA PRETA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2011",
+              "biddingId": "001/2009",
+              "date": "2011-03-17T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 08489098000102",
+                "hirerDocument": "CNPJ: 12334629000157",
+                "type": "Material",
+                "object": "FORNECIMENTO DE EQUIPAMENTO AGRÍCOLA",
+                "totalValue": 9900,
+                "publishDate": "2011-03-17T03:00:00.000Z",
+                "beginDate": "2011-03-17T03:00:00.000Z",
+                "endDate": "2012-03-17T03:00:00.000Z",
+                "signDate": "2011-03-17T03:00:00.000Z",
+                "executionProcessId": "001/2009 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "0012009 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "719125/2009",
+            "validity": "31/12/2009 a 26/12/2012",
+            "limitDate": "2013-01-26T02:00:00.000Z",
+            "totalValue": 429400,
+            "transferValue": 399750,
+            "counterpartValue": 29650,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "703751/2009",
+        "uf": "AL",
+        "city": "Chã Preta",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-06-18T03:00:00.000Z",
+        "end": "2009-08-30T03:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "020627/2009",
+            "organId": "00498/2009",
+            "processId": "72000.002669/2009-93",
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "legalFoundation": "Decreto 6170/2007 e Portaria Interministerial 127/2008",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "LOCALIZADA A POUCO MAIS DE SETENTA QUILÔMETROS DA CAPITAL DE ALAGOAS, CHÃ PRETA SE DESTACA PELO SEU CLIMA É POR SUAS EXUBERANTES BELEZAS NATURAIS, JÁ UQE FICA NA MICRORREGIÃO SERRANA DOS QUILOMBOS, BERÇO DA LUTA DOS ESCRAVOS (PRÓXIMA AO QUILOMBO DE ZUMBI DOS PALMARES) E OFERECE UMA NATUREZA RICA E DIVERSIFICADA PRÓPRIA PARA O ECO TURISMO E PARA O TURISMO DE AVENTURA, UMA VEZ QUE ESTÁ 463 METROS ACIMA DO NÍVEL DO MAR. SUA ECONOMIA ESTÁ BASEADA AGRICULTURA E NA PECUÁRIA DE CORTE E LEITE. NOS SEUS MAIS DE 200 KM/2 DE EXTENSÃO, CHÃ PRETA ABRIGA CERCA DE 10 MIL HABITANTES, QUE SÃO CONHECIDOS COMO UM POVO ORDEIRO E ACOLHEDOR. COM A INICIATIVA DE PROMOVER UM EVENTO COMO O 1° FESTIVAL JUNINO, DE 19 A 28 DO CORRENTE MÊS, A PREFEITURA E OS ORGANIZADORES ESPERAM UM AQUECIMENTO CONSIDERÁVEL DA ECONOMIA LOCAL - ATÉ PORQUE ESSE EVENTO É A PORTA DE PARTIDA PARA A INCLUSÃO DE CHÃ PRETA NO ROTEIRO TURÍSTICO DO ESTADO; A ATRAÇÃO DE NOVOS INVESTIMENTOS NO SETOR; A GERAÇÃO IMEDIATA DE EMPREGO E RENDA PARA A POPULAÇÃO DA REGIÃO; A MELHORIA DOS SERVIÇOS OFERTADOS PELOS EQUIPAMENTOS TURÍSTICOS JÁ EXISTENTES E A FORMAÇÃO DE UM GRUPO DE AGENTES TURÍSTICOS - GUIAS, RECEPCIONISTAS, COZINHEIROS, ETC., QUE IRÃO, CERTAMENTE, CORROBORAR PARA O CRESCIMENTO DE TODA CIDADE E REGIÃO. O PÚBLICO ESPERADO É DE CERCA DE 15 MIL PESSOAS POR NOITE, O QUE PROPORCIONARÁ UMA TROCA RIQUÍSSIMA DE CULTURA E CONHECIMENTO E QUE CONSOLIDARÁ CHÃ PRETA COMO O MAIS APRAZÍVEL DESTINO PARA O ECO TURISMO EM ALAGOAS. DESSA FORMA, APOIANDO A REALIZAÇÃO DO 1° FESTIVAL JUNINO DE CHÃ PRETA, O MINISTÉRIO DO TURISMO E O GOVERNO FEDERAL ESTÃO OFERECNDO A TODO UM POVO A OPORTUNIDADE DE FAZER DA INDÚSTRIA DO TURISMO UMA IMPORTANTE ALAVANCA DE DESENVOLVIMENTO HUMANO, SOCIAL E ECONÔMICO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "I FESTIVAL JUNINO",
+            "information": "",
+            "proposalDate": "2009-04-30T03:00:00.000Z",
+            "biddingDate": "2009-06-18T03:00:00.000Z",
+            "homologationDate": "2009-07-10T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090049",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 265000,
+              "details": {
+                "code": "5400020090049",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "EVENTOS JUNINOS",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 265000,
+                "couterpartValues": {
+                  "total": 15000,
+                  "financial": 15000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.334.629/0001-57 - MUNICIPIO DE CHA PRETA",
+            "respProponent": "***.411.904-** - RITA COIMBRA CERQUEIRA TENORIO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CHA PRETA",
+            "documentNumber": "12.334.629/0001-57",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "703751/2009",
+            "validity": "18/06/2009 a 30/08/2009",
+            "limitDate": "2009-08-30T03:00:00.000Z",
+            "totalValue": 265000,
+            "transferValue": 250000,
+            "counterpartValue": 15000,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

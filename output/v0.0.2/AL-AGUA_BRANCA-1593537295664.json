@@ -1,0 +1,2368 @@
+{
+  "startDate": "2020-06-30T16:47:40.352Z",
+  "endDate": "2020-06-30T17:14:55.664Z",
+  "data": {
+    "search": {
+      "uf": "AL",
+      "city": "AGUA BRANCA"
+    },
+    "agreements": [
+      {
+        "agreementId": "857213/2017",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-28T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "029027/2017",
+            "organId": "29027/2017",
+            "processId": "0290272017",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O principal objetivo é atender a solicitação da população de várias comunidades do município de Água Branca, no que diz respeito a prática do esporte (bastante carente devido a falta de locais adequados), levando em conta que o esporte é uma arma social para um melhor desenvolvimento em uma sociedade. Visamos aproximar as pessoas e fazer com que estas exercitem não somente o corpo, mas também a sua mente e para que prosperem buscando melhores resultados na qualidade de vida, seja na área profissional ou dedicada ao lazer. É importante observar que o esporte tem o seu reconhecimento universal, enquanto que sua prática sempre produz benefícios de grande importância ao seu participante. Assim sendo, a implantação e/ou modernização de infraestruturas esportivas, sobretudo na zona rural de Água Branca, alimenta de forma positiva a prática do esporte para a nossa juventude e demais faixas etárias que sofrem por não terem locais para efetuar essas práticas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "implantação e/ou modernização de infraestruturas esportivas na zona rural do município de Água Branca.",
+            "information": "Este município tem capacidade técnica e gerencial para execução desta obra, de acordo com o quadro de técnicos e demais funcionários da prefeitura.",
+            "proposalDate": "2017-03-29T03:00:00.000Z",
+            "biddingDate": "2017-12-28T02:00:00.000Z",
+            "homologationDate": "2018-01-02T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020170010",
+              "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+              "value": 300000,
+              "details": {
+                "code": "5100020170010",
+                "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+                "cps": "",
+                "items": "Implantacao e Modernizacao de Infraestrutura Esportiva",
+                "couterpartRule": "a) 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com ATÉ cinquenta mil habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 7500,
+                  "financial": 7500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.417.104-** - JOSE CARLOS DE CARVALHO",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.360.667-** - LEONARDO CARNEIRO MONTEIRO PICCIANI"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "05/2019",
+              "type": "Subconvênio - Registro de Chamamento Público",
+              "date": null,
+              "processId": "",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Subconvênio - Registro de Chamamento Público",
+                "buyType": null,
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": null,
+                "biddingId": null,
+                "object": "Contratação de empresa para execução dos serviços de 01 (uma) Quadra de Esportes no Povoado Lagoa das Pedras, Água Branca - AL",
+                "legalFoundation": null,
+                "justification": "A localidade nunca foi contemplada por um espaço esportivo desse modelo.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": null,
+                "city": "2701 - AGUA BRANCA",
+                "analysisDate": "2020-01-21T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000686/2019",
+              "biddingId": "05/2019",
+              "date": "2019-12-18T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05011000000100",
+                "hirerDocument": "CNPJ: 12350153000148",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DOS SERVIÇOS DE CONSTRUÇÃO DE (01) UMA QUADRA DE ESPORTES NO POVOADO LAGOA DAS PEDRAS LOCALIZADO NA ZONA RURAL DO MUNICÍPIO DE ÁGUA BRANCA",
+                "totalValue": 195439.61,
+                "publishDate": "2019-12-18T03:00:00.000Z",
+                "beginDate": "2019-11-21T03:00:00.000Z",
+                "endDate": "2020-11-21T03:00:00.000Z",
+                "signDate": "2019-11-21T03:00:00.000Z",
+                "executionProcessId": "05/2019 ",
+                "biddingModality": " ",
+                "processId": " "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "857213/2017",
+            "validity": "28/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 300000,
+            "transferValue": 292500,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "857083/2017",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "028661/2017",
+            "organId": "28661/2017",
+            "processId": "0286612017",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Água Branca é caracterizado por ruas bastante acidentadas devido ao seu relevo (localizada em região montanhosa) além da existência de diversas ruas a serem contempladas com pavimentação e que a pavimentação com recurso próprio é quase impossível. Tendo em vista essa demanda de calçamentos e as dificuldade em executar essas obras com recurso próprio, precisamos de parceiras com o governo federal e demais órgãos competentes para atendermos as necessidades da população da nossa cidade. A ausência parcial ou completa deste importante componente do espaço urbano tende a gerar outras necessidades ao local, pois o calçamento significa o fim da convivência diária com os adventos dos efeitos climáticos, onde ora os mesmos convivem com a poeira, ora com a lama. O pó, além do incômodo da sujeira, pode intensificar problemas respiratórios, já no período de chuvas o pavimento sofre com o tráfego e possíveis erosões, o que pode resultar até mesmo em trechos intransitáveis, comprometendo a locomoção dos moradores além dos caminhões coletores de lixo que ficam sem acesso nessas ruas no período chuvoso, ou seja, o impacto é direto na melhoria da qualidade de vida da população.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Este repasse será destinado para pavimentação em paralelepípedo em diversas ruas, localizado na zona urbana do município de Água Branca - Alagoas",
+            "information": "O município tem capacidade técnica e gerencial para execução da obra, tendo em vista o corpo técnico de funcionários locados na secretaria de obras",
+            "proposalDate": "2017-03-28T03:00:00.000Z",
+            "biddingDate": "2017-12-30T02:00:00.000Z",
+            "homologationDate": "2018-01-15T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 257063.43,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 257063.43,
+                "couterpartValues": {
+                  "total": 4150,
+                  "financial": 4150,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 252913.43,
+                  "amendment": "R$ 252.913,43 - Pedro Vilela"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.417.104-** - JOSE CARLOS DE CARVALHO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.672.604-** - BRUNO CAVALCANTI DE ARAUJO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2019",
+              "type": "Subconvênio - Registro de Chamamento Público",
+              "date": null,
+              "processId": "",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Subconvênio - Registro de Chamamento Público",
+                "buyType": null,
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": null,
+                "biddingId": null,
+                "object": "EXECUÇÃO DE SERVIÇOS DE PAVIMENTAÇÃO EM PARALELEPÍPEDO NA RUA JOSÉ FERNANDES TORRES E RUA ARACI TORRES, SITUADAS NA ZONA URBANA DO MUNICÍPIO DE ÁGUA BRANCA.",
+                "legalFoundation": null,
+                "justification": "Os moradores dessas ruas sofrem bastante em período de chuva, pois nesse período as tubulações de esgotamento sanitário e água são danificadas constantemente devido a erosão, pois mesma acaba deixando os tubos descobertos e com isso os veículos que passam por essas ruas acabam quebrando as tubulações.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": null,
+                "city": "2701 - AGUA BRANCA",
+                "analysisDate": "2019-11-06T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000480/2019",
+              "biddingId": "02/2019",
+              "date": "2019-08-12T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05011000000100",
+                "hirerDocument": "CNPJ: 12350153000148",
+                "type": "Serviço de Engenharia",
+                "object": "EXECUÇÃO DE SERVIÇOS DE PAVIMENTAÇÃO EM PARALELEPÍPEDO NA RUA JOSÉ FERNANDES TORRES E RUA ARACI TORRES, SITUADAS NA ZONA URBANA DO MUNICÍPIO DE ÁGUA BRANCA.",
+                "totalValue": 227576.48,
+                "publishDate": "2019-08-12T03:00:00.000Z",
+                "beginDate": "2019-07-01T03:00:00.000Z",
+                "endDate": "2019-07-01T03:00:00.000Z",
+                "signDate": "2019-07-01T03:00:00.000Z",
+                "executionProcessId": "02/2019 ",
+                "biddingModality": " ",
+                "processId": " "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "857083/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 257063.43,
+            "transferValue": 252913.43,
+            "counterpartValue": 4150,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "855533/2017",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T02:00:00.000Z",
+        "end": "2020-09-29T03:00:00.000Z",
+        "program": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "096585/2017",
+            "organId": "01339/2017",
+            "processId": "25100.017198/2017-10",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 424/2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "Água Branca é um município brasileiro do estado de Alagoas, situado no sertão. Localiza-se a uma latitude 09º15 39 sul e a uma longitude 37º56 10 oeste, estando a uma altitude de 570 metros. É o segundo ponto mais alto de Alagoas. Sua população estimada em 2016 era de 20.422 habitantes. Possui uma área de 456,6 km². Os povoados contemplados com Melhorias Habitacionais de Controle a doenças de Chagas são: Lageiro do couro, Morro Vermelho, Sítio Gregório, Sítio Mulungu e Papaterra.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Melhorias Habitacionais para o Controle da Doença de Chagas no Município de Água Branca/AL.",
+            "information": "",
+            "proposalDate": "2017-11-23T02:00:00.000Z",
+            "biddingDate": "2017-12-29T02:00:00.000Z",
+            "homologationDate": "2018-01-16T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170028",
+              "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+              "value": 492263.8,
+              "details": {
+                "code": "3621120170028",
+                "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+                "cps": null,
+                "items": "Implantação de Melhorias Habitacionais para Controle da Doença de Chagas (MHCDC).",
+                "couterpartRule": "Não será exigida a contrapartida, conforme Art. 79, §4, da Lei de Diretrizes Orçamentárias – LDO 2017 (Lei nº 13.408, de 26 de dezembro de 2016). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 492263.8,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 492263.8,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.417.104-** - JOSE CARLOS DE CARVALHO",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": null,
+              "processId": "07160082018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "07160082018",
+                "biddingId": "03/2018",
+                "object": "Contratação de empresa especializada para a execução dos serviços de construção de 10(dez) casas populares na zona rural do município de Água Branca- AL",
+                "legalFoundation": "LEI 8.666/1993",
+                "justification": "No município de Água Branca ainda existem diversas famílias morando em casas de taipa sem as condições mínimas adequadas. Esses programa veio para transformar as vidas dessas pessoas e dar uma melhoria na qualidade de vida das mesmas. Todavia, busca evitar a transmissão da doença de chagas, que é provocada pelo protozoário Trypanosoma Cruzi que se hospeda em insetos, o barbeiro é o transmissor oficial.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 492263.8,
+                "homologationDate": null,
+                "city": "2701 - AGUA BRANCA",
+                "analysisDate": null,
+                "accepted": ""
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000623/2018",
+              "biddingId": "03/2018",
+              "date": "2018-10-02T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 15149245000152",
+                "hirerDocument": "CNPJ: 12350153000148",
+                "type": "Obras",
+                "object": "EXECUÇÃO DOS SERVIÇOS DE CONSTRUÇÃO DE 10 (DEZ) CASAS POPULARES NA ZONA RURAL DO MUNICÍPIO DE ÁGUA BRANCA -AL",
+                "totalValue": 492263.8,
+                "publishDate": "2018-10-02T03:00:00.000Z",
+                "beginDate": "2018-09-21T03:00:00.000Z",
+                "endDate": "2019-09-21T03:00:00.000Z",
+                "signDate": "2018-09-21T03:00:00.000Z",
+                "executionProcessId": "03/2018 ",
+                "biddingModality": " ",
+                "processId": " "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "855533/2017",
+            "validity": "29/12/2017 a 29/09/2020",
+            "limitDate": "2020-11-28T03:00:00.000Z",
+            "totalValue": 492263.8,
+            "transferValue": 492263.8,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "830467/2016",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-14T02:00:00.000Z",
+        "end": "2021-02-26T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "015976/2016",
+            "organId": "15976/2016",
+            "processId": "0159762016",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Água Branca/AL, esta localizada a 302 Km da capital de Maceió/AL, com aproximadamente 20.545 hab., estando a uma altitude de 730 m do nível do mar, é o segundo ponto mais alto do estado de alagoas, dona do 3º IDH do Alto Sertão. Como é uma cidade (Perímetro Urbano)entre serras é muito acidentado e o Perímetro Urbano necessita de diversas pavimentações em paralelepípedos para melhor ordenar o convívio urbano, com a chegada deste advento/projetos serão beneficiados em torno de 2.000(dois mil) habitantes localizados no perímetro urbano, alcançando assim diversos benefícios, como acesso de veículos e demais serviços em sua residência.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Pavimentação em Paralelepípedos em Diversas ruas da Cidades.",
+            "information": "A Prefeita do Município de Água Branca/AL, ALBANI SANDES GOMES,declara para os devidos fins necessários que a Prefeitura Municipal de Água Branca/AL, tem capacidade técnica e gerencial em fazer a gestão e execução do objeto deste convênio. Para tanto indico o Engenheiro LUIZ CARLOS RAMOS TORRES, CREA n.º 02019752-62, que será responsável pelo gerenciamento técnico pela obra.",
+            "proposalDate": "2016-03-15T03:00:00.000Z",
+            "biddingDate": "2016-12-14T02:00:00.000Z",
+            "homologationDate": "2016-12-22T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160014",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 503100,
+              "details": {
+                "code": "5600020160014",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 503100,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 493100,
+                  "amendment": "R$ 493.100,00 - Paulão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.720.804-** - ALBANI SANDES GOMES",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.847.618-** - GILBERTO KASSAB"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "022018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-05-07T03:00:00.000Z",
+              "processId": "04020372018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "04020372018",
+                "biddingId": "022018",
+                "object": "Implantação de Pavimentação em Paralelepípedo de Diversas Ruas da Cidade",
+                "legalFoundation": "ART. 22, 23, 27, 40, 43 E 54 DA LEI 8.666/93",
+                "justification": "Implantação de Pavimentação em Paralelepípedo de Diversas Ruas da Cidade",
+                "publishDate": "2018-05-07T03:00:00.000Z",
+                "beginDate": "2018-05-24T03:00:00.000Z",
+                "endDate": "2018-05-24T03:00:00.000Z",
+                "biddingValue": 480318.58,
+                "homologationDate": "2018-05-29T03:00:00.000Z",
+                "city": "2701 - AGUA BRANCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000425/2018",
+              "biddingId": "022018",
+              "date": "2018-06-28T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 18286438000143",
+                "hirerDocument": "CNPJ: 12350153000148",
+                "type": "Serviço",
+                "object": "Implantação de Pavimentação em Paralelepípedos em Diversas ruas da Cidades.",
+                "totalValue": 480318.58,
+                "publishDate": "2018-06-28T03:00:00.000Z",
+                "beginDate": "2018-05-30T03:00:00.000Z",
+                "endDate": "2019-05-30T03:00:00.000Z",
+                "signDate": "2018-05-30T03:00:00.000Z",
+                "executionProcessId": "022018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "04020372018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "830467/2016",
+            "validity": "14/12/2016 a 26/02/2021",
+            "limitDate": "2021-04-27T03:00:00.000Z",
+            "totalValue": 503100,
+            "transferValue": 493100,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "820725/2015",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2015-12-24T02:00:00.000Z",
+        "end": "2019-11-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "027029/2015",
+            "organId": "27029/2015",
+            "processId": "0270292015",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Água Branca Branca-AL, esta localizada a 302 Km da capital Maceió-AL, com aproximadamente 20.545 hab., estando a uma altitude de 730 m do nível do mar, é o segundo ponto mais alto do estado de alagoas, dona do 3º IDH do Alto-Sertão. Como é uma cidade (Perímetro Urbano) entre serras é muito acidentado e o Perímetro Urbano necessita de diversas pavimentações em paralelepípedos para melhor ordenar o convívio urbano, com a chegada deste advento/projeto serão beneficiados em torno de 2.000(dois mil) habitantes localizados no perímetro urbano, alcançando assim diversos benefícios, como acesso de veículos e demais serviços em sua residência.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Pavimentação em Paralelepípedos em Diversas ruas da Cidade.",
+            "information": "A Prefeita do Município de Água Branca/AL, ALBANI SANDES GOMES , declara para os devido fins necessários que esta Prefeitura Municipal de Água Branca/AL, tem capacidade técnica e gerencial em fazer a gestão e execução do objeto deste convênio. Para tanto indico o Engenheiro LUIZ CARLOS RAMOS TORRES, CREA n.º 02019752-62, que será responsável pelo gerenciamento técnico pela obra.",
+            "proposalDate": "2015-07-14T03:00:00.000Z",
+            "biddingDate": "2015-12-24T02:00:00.000Z",
+            "homologationDate": "2015-12-30T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020150015",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 503100,
+              "details": {
+                "code": "5600020150015",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA - VIDE ABA ANEXOS OS OBJETOS PASSÍVEIS DE ATENDIMENTO NESSA AÇÃO",
+                "couterpartRule": "1% (um por cento) e 20% (vinte por cento) para os demais municípios acima de 50.000 habitantes; [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 503100,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 493100,
+                  "amendment": "R$ 493.100,00 - Paulão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.720.804-** - ALBANI SANDES GOMES",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.211.464-** - AGUINALDO VELLOSO BORGES RIBEIRO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "820725/2015",
+            "validity": "24/12/2015 a 30/11/2019",
+            "limitDate": "2020-01-29T03:00:00.000Z",
+            "totalValue": 503100,
+            "transferValue": 493100,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "774658/2012",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2012-12-31T02:00:00.000Z",
+        "end": "2014-12-31T02:00:00.000Z",
+        "program": "Implantação e Qualificação de equipamentos e serviços públicos de apoio a produção, abastecimento e consumo de alimentos – Centros de Distribuição de Alimentos - Edital Nº 03/2012 SESAN",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "028488/2012",
+            "organId": "28488/2012",
+            "processId": "028488/2012",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto 6.170/07 e Portaria 507/2008",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A Unidade de Apoio à Distribuição de Alimentos da Agricultura Familiar será implantada/localizada na Rua/Travessa Lourenço Bezerra de Mello , s/n – centro, Água Branca, Alagoas.Com a implantação temos o objetivo de estruturar o espaço físico, através de construção projetada, equipar com móveis, utensílios e adequar convenientemente para qualificar e operacionalizar a distribuição de gêneros alimentícios da agricultura familiar adquiridos por meio do Programa de Aquisição de Alimentos. Com a implantação da Unidade no município ensejará crescimento nas ações pertinentes à agricultura familiar,propiciando integração com os municípios do Território da Cidadania. Todos com população inferior a 50 mil habitantes. O imóvel, objeto da implantação da unidade, localiza-se na área urbana, beneficiado com rede de água tratada, iluminação pública, pavimentação do acesso projetada, utilização de rede de esgoto, regular coleta de lixo e canalização de águas pluviais.Existe, em área contígua o Centro de Treinamento dos Agricultores Familiares, construído com recursos do PRONAF e contrapartida do Governo Municipal. A Central de Compras deste município foi instalada (inaugurada) em 05.07.2011, em local provisório (Mercado Público Municipal), adaptações realizadas para o funcionamento, obedecendo os normativos do Programa. A operacionalização dos serviços, no momento, é restrita a área do município de Água Branca, abragendo todos os agricultores familiares. Todavia, sendo o nosso projeto selecionado e habilitado, a Central abrigará outros municípios do entorno, como Canapí, Inhapí, Mata Grande e Pariconha/AL, todos vinculados ao território da cidadania. O PAA na sua contextualização,alimentado pela pujança da nossa Agricultura Familiar, tende articular-se com outros programas afins destarte o PNAE,contemplado pela Lei nº 11.947/2009, cujas ações pontuadas alavancarão o desenvolvimento do Alto Sertão Alagoano e portanto estes programas acima mencionado tem um único o objetivo: o agricultura familiar, que é bastante grande em nosso Município. A distribuição dos gêneros alimentícios da Agricultura Familiar dar-se-á em consonância com as diretrizes emanados do Programa, com os Municípios que irão fazer parte deste Projeto e com os Conselhos que participam ativamente da organização do PAA e atendendo, prioritariamente, às entidades cadastradas ao benefício que, após abastecidos, e havendo disponibilização, outros segmentos poderão ser atendidos, agregando oportunidades de valorização à comercialização nos municípios. As ações do Programa serão divulgadas pelo site “www.aguabranca.al.gov.br” pela imprensa falada, escrita e televisada, faixas e panfletos, além do corpo-a-corpo que integra a comunidade dos agricultores familiares e por todos Municípios que integrarão este Projeto. No momento o Município de Água Branca - AL já faz a gestão do PAA Municipal, pois temos envolvidos vários técnicos do município, como: Nutricionista, Assistente Social, Engenheiro Agrônomo e Técnico Agrícola, portanto com o advento da Unidade de Apoio à Distribuição de Alimentos da Agricultura Familiar será complementada com os outros técnicos dos Municípios integrantes e os recursos para manter este Projeto será readaptado e conforme demanda será mantido pelo orçamento Municipal. No município de Água Branca - AL, é rotineiro as ações de Assistência Técnica e Extensão Rural (ATER) em parceria com a Secretaria de Agricultura do Estado de Alagoas, pois o nosso município é totalmente voltado para agricultura familiar.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Unidade de Apoio à Distribuição de Alimentos da Agricultura Familiar por meio de construção de edificação e aquisição de equipamentos e utensílios.",
+            "information": "Declaro para dos devidos fins, que em atendimento ao disposto no inciso V, Artigo 19, da Portaria Interministerial n° 507, de 24 de novembro de 2011, atesto para os devidos fins que a Secretaria Municipal de Agricultura e Meio Ambiente possui quadro de profissionais composto por: Nutricionista a Senhorita Camila Andrade Café - CRN 6 / 5624 (Coordenador de Segurança Alimentar e Nutricional, acompanha o desenvolvimento e execução do projeto e responsável técnico pelo planejamento e operação dos serviços de alimentação e nutrição), Assistente Social: Claúdia Nara Lima Bezerra Dantas - CRESS/AL 2091 (Técnica de Proteção Social Básica, elabora diagnóstico e acompanhamento dos públicos prioritários), Técnico de Elaboração de Projetos e Responsável Técnico: o Senhor Alexandre Batista dos Santos - Técnico Agrícola - Matrícula N° 15.592 (Contatos: (82)3644-1139/1136/1398 / 9984-4178 / pmab2009@hotmail.com), Engenheiro Civl o Senhor George Magno Peixoto - CREA AL D15, e demais profissionais que atendem os requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como, licitações, execução e fiscalização de obras, aquisição de bens, etc...",
+            "proposalDate": "2012-06-08T03:00:00.000Z",
+            "biddingDate": "2012-12-31T02:00:00.000Z",
+            "homologationDate": "2013-01-07T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020120012",
+              "name": "Implantação e Qualificação de equipamentos e serviços públicos de apoio a produção, abastecimento e consumo de alimentos – Centros de Distribuição de Alimentos - Edital Nº 03/2012 SESAN",
+              "value": 454600,
+              "details": {
+                "code": "5500020120012",
+                "name": "Implantação e Qualificação de equipamentos e serviços públicos de apoio a produção, abastecimento e consumo de alimentos – Centros de Distribuição de Alimentos - Edital Nº 03/2012 SESAN",
+                "cps": "",
+                "items": "Implantar Unidades de Apoio à Distribuição de Alimentos da Agricultura Familiar em Municípios do Território da Cidadania.",
+                "couterpartRule": "Art. 36 da Lei nº 12.465, de 12 de agosto de 2011 (LDO/2012). [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 454600,
+                "couterpartValues": {
+                  "total": 4600,
+                  "financial": 4600,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 450000,
+                  "amendment": "R$ 450.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.078.508-** - JOSE CARLOS VIEIRA",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.467.346-** - TEREZA HELENA GABRIELLI BARRETO CAMPELLO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "774658/2012",
+            "validity": "31/12/2012 a 31/12/2014",
+            "limitDate": "2015-03-01T03:00:00.000Z",
+            "totalValue": 454600,
+            "transferValue": 450000,
+            "counterpartValue": 4600,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "747265/2010",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2011-01-19T02:00:00.000Z",
+        "end": "2013-01-17T02:00:00.000Z",
+        "program": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "061854/2010",
+            "organId": "00710/2010",
+            "processId": "59200.000091/2010-50",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "ÁGUA BRANCA É UM MUNICÍPIO BRASILEIRO DO ESTADO DE ALAGOAS, SITUADO: À 304 DA CAPITAL MACEIÓ E NA MESOREGIÃO SERTÃO ALAGOANO E MICROREGIÃO SERRANA DO SERTÃO ALAGOANO COM UMA ÁREA DE 454,72km². LOCALIZA-SE A UMA LATITUDE 09º15`39” SUL E UMA LONGITUDE 37º56`10” OESTE, ESTANDO A UMA ALTITUDE 570 METROS. É O SEGUNDO PONTO MAIS ALTO DE ALAGOAS. LIMITES: AO NORTE TACARATU(PE) E MATA GRANDE(AL), AO SUL DELMIRO GOUVEIA(AL) E OLHO D`ÁGUA DO CASADO(AL), AO LESTE COM INHAPI(AL) E OLHO D`ÁGUA DO CASADO(AL) E A OESTE COM PARICONHA(AL).POPULAÇÃO ESTIMADA EM 2009 (IBGE) 19.989 HABITANTES. POPULAÇÃO URBANA 5.078 HABITANTES(IBGE). POPULAÇÃO RURAL 14.911 HABITANTES(IBGE). IDH 0,697 (PNUD/IBGE). O MUNCIPIO DE ÁGUA BRANCA FAZ PARTE DO TERRITÓRIO DA CIDADANIA DO ALTO SERTÃO ALAGOANO. NÚMERO DE PRODUTORES RURAIS 7.748 (IBGE). NÚMERO DE ASSOCIAÇÕES DE PRODUTORES RURAIS 23 E 94 COMUNIDADES RURAIS. PRINCIPAIS CULTURAS:(PRODUÇÃO E ÁREAS EM 2009): BANANA(286 TONELADAS E 26ha), MANGA(270 TONELADAS E 30ha), LARANJA(38 TONELADAS E 09ha), CANA-DE-AÇUCAR(2.640 TONELADAS E 55ha), FEIJÃO CARIOCA(13.226 TONELADAS E 3.850ha), FEIJÃO MULATINHO(1.956 TONELADAS E 450ha), MADIOCA/AIPIM/MACAXEIRA(8.400 TONELADAS E 700ha), MILHO EM GRÃO(9.594 TONELADAS E 2.500ha), ALGODÃO(132 TONELADAS E 500ha) E MAMONA(02 TONELADAS E 10ha). PRODUTOS ARTESANAIS PRODUZIDOS NO MUNICÍPIO: TECELAGEM (COBERTOR / COBERTA, TAPETES, CORTINAS), BARRO (JARROS, POTES, PRATOS), PALHA (BOLSAS, CHAPEUS), CIPÓ (MÓVEIS, BALAIOS, CAÇUÁ), SINGELEZA (MANTAS, ACABAMENTOS).NO MOMENTO OS ARTESÃES E AGRICULTORES FAMILIARES TEM MUITA DIFICULDADE NO ESCOAMENTO DA PRODUÇÃO, COM O ADVENTO DA CONSTRUÇÃO DO CENTRO DE PRODUÇÃO, EXPOSIÇÃO E VENDA,PODERÃO ASSIM SEREM ATENDIDOS NAS PRETENSÕES DE AUMENTO DAS ÁREAS CULTIVADAS, MELHOR ESCOAMENTO E AUMENTO NA PRODUÇÃO, COM ISSO BENEFICIANDO APROXIMADO 300 PESSOAS DIRETAMENTE E 3.000 PESSOAS INDIRETAMENTE, PORTANTO GERANDO,SIGNIFICATIVAMENTE, EMPREGO E RENDA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE 01 (UM) CENTRO DE PRODUÇÃO, EXPOSIÇÃO E VENDA NO MUNCÍPIO DE ÁGUA BRANCA/AL.",
+            "information": "",
+            "proposalDate": "2010-05-24T03:00:00.000Z",
+            "biddingDate": "2010-12-31T02:00:00.000Z",
+            "homologationDate": "2011-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100012",
+              "name": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+              "value": 306150,
+              "details": {
+                "code": "5300020100012",
+                "name": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+                "cps": null,
+                "items": "Apoio à Implantação de Infra-Estrutura Social e Produtiva em Espaços Sub-Regionais",
+                "couterpartRule": "Municípios com até 50.000 habitantes localizados nas Mesorregiões Prioritárias da PNDR [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 306150,
+                "couterpartValues": {
+                  "total": 6150,
+                  "financial": 6150,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 300000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.312.544-** - JOSE RODRIGUES GOMES",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.669.809-** - MARCIA REGINA SARTORI DAMO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "747265/2010",
+            "validity": "19/01/2011 a 17/01/2013",
+            "limitDate": "2013-02-16T02:00:00.000Z",
+            "totalValue": 306150,
+            "transferValue": 300000,
+            "counterpartValue": 6150,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "737827/2010",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-31T02:00:00.000Z",
+        "end": "2012-10-31T02:00:00.000Z",
+        "program": "ALAGOAS - OGU 2010",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "053909/2010",
+            "organId": "53909/2010",
+            "processId": "053909/2010",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "ÁGUA BRANCA É UM MUNICÍPIO BRASILEIRO DO ESTADO DE ALAGOAS, SITUADO: À 304 DA CAPITAL MACEIÓ E NA MESOREGIÃO SERTÃO ALAGOANO E MICROREGIÃO SERRANA DO SERTÃO ALAGOANO COM UMA ÁREA DE 454,72km². LOCALIZA-SE A UMA LATITUDE 09º15`39” SUL E UMA LONGITUDE 37º56`10” OESTE, ESTANDO A UMA ALTITUDE 570 METROS. É O SEGUNDO PONTO MAIS ALTO DE ALAGOAS. LIMITES: AO NORTE TACARATU(PE) E MATA GRANDE(AL), AO SUL DELMIRO GOUVEIA(AL) E OLHO D`ÁGUA DO CASADO(AL), AO LESTE COM INHAPI(AL) E OLHO D`ÁGUA DO CASADO(AL) E A OESTE COM PARICONHA(AL).POPULAÇÃO ESTIMADA EM 2009 (IBGE) 19.989 HABITANTES. POPULAÇÃO URBANA 5.078 HABITANTES(IBGE). POPULAÇÃO RURAL 14.911 HABITANTES(IBGE). IDH 0,697 (PNUD/IBGE). O MUNCIPIO DE ÁGUA BRANCA FAZ PARTE DO TERRITÓRIO DA CIDADANIA DO ALTO SERTÃO ALAGOANO. NÚMERO DE PRODUTORES RURAIS 7.748 (IBGE). NÚMERO DE ASSOCIAÇÕES DE PRODUTORES RURAIS 23 E 94 COMUNIDADES RURAIS. PRINCIPAIS CULTURAS:(PRODUÇÃO E ÁREAS EM 2009): BANANA(286 TONELADAS E 26ha), MANGA(270 TONELADAS E 30ha), LARANJA(38 TONELADAS E 09ha), CANA-DE-AÇUCAR(2.640 TONELADAS E 55ha), FEIJÃO CARIOCA(13.226 TONELADAS E 3.850ha), FEIJÃO MULATINHO(1.956 TONELADAS E 450ha), MADIOCA/AIPIM/MACAXEIRA(8.400 TONELADAS E 700ha), MILHO EM GRÃO(9.594 TONELADAS E 2.500ha), ALGODÃO(132 TONELADAS E 500ha) E MAMONA(02 TONELADAS E 10ha). NO MOMENTO A ADMINISTRAÇÃO TEM MUITA DIFICULDADE NA COBERTURA E ESCOAMENTO DA PRODUÇÃO, COM O ADVENTO DA AQUISIÇÃO DA PATRULHA MECANIZADA, OS AGRICULTORES PODERÃO SEREM ATENDIDOS NAS PRETENSÕES DE AUMENTO DAS ÁREAS CULTIVADAS, MELHOR ESCOAMENTO E AUMENTO NA PRODUÇÃO AGRÍCOLA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PATRULHA MECANIZADA",
+            "information": "",
+            "proposalDate": "2010-05-08T03:00:00.000Z",
+            "biddingDate": "2010-12-31T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020100069",
+              "name": "ALAGOAS - OGU 2010",
+              "value": 100500,
+              "details": {
+                "code": "2200020100069",
+                "name": "ALAGOAS - OGU 2010",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra- Estrutura Agropecuária",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 100500,
+                "couterpartValues": {
+                  "total": 3000,
+                  "financial": 3000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 97500,
+                  "amendment": "R$ 97.500,00 - DEP RENAN FILHO"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.312.544-** - JOSE RODRIGUES GOMES",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "082011",
+              "type": "Licitação - Pregão",
+              "date": "2011-05-30T03:00:00.000Z",
+              "processId": "5002011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "5002011",
+                "biddingId": "082011",
+                "object": "Aquisição de uma Patrulha Mecanizada.",
+                "legalFoundation": "Lei nº 8.666/93 e Lei nº 10.520/2002",
+                "justification": "Contratação de Empresa especializada para fornecimento de 01 (uma) Patrulha Mecanizada.",
+                "publishDate": "2011-05-30T03:00:00.000Z",
+                "beginDate": "2011-06-13T03:00:00.000Z",
+                "endDate": "2011-06-13T03:00:00.000Z",
+                "biddingValue": 100500,
+                "homologationDate": "2011-06-30T03:00:00.000Z",
+                "city": "2701 - AGUA BRANCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000393/2012",
+              "biddingId": "082011",
+              "date": "2011-09-28T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05453608000195",
+                "hirerDocument": "CNPJ: 12350153000148",
+                "type": "Material",
+                "object": "Constitui objeto desta contratação de empresa para a Aquisição de uma Patrulha Mecanizada destinado  a Secretária Municipal de Agricultura e Meio Ambiente.",
+                "totalValue": 82000,
+                "publishDate": "2011-09-28T03:00:00.000Z",
+                "beginDate": "2011-07-08T03:00:00.000Z",
+                "endDate": "2011-12-31T02:00:00.000Z",
+                "signDate": "2011-07-08T03:00:00.000Z",
+                "executionProcessId": "082011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "5002011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "737827/2010",
+            "validity": "31/12/2010 a 31/10/2012",
+            "limitDate": "2015-02-20T02:00:00.000Z",
+            "totalValue": 100500,
+            "transferValue": 97500,
+            "counterpartValue": 3000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "737566/2010",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2010-06-11T03:00:00.000Z",
+        "end": "2011-08-18T03:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "006616/2010",
+            "organId": "00739/2010",
+            "processId": "720310101892010-72",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto 6170/2007, Portaria Interministerial 127/2008 e Portaria MTur 153/2009",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Água Branca promove o VII Festival de Inverno nos dias 11, 12 e 13 de Junho de 2010. Dona de um dos climas mais frios de Alagoas que varia de 15ºc a 18ºc, a cidade de Água Branca – a 302 km da capital Maceió, com aproxidamente 20.000 habitantes, estando a uma altitude de 730m do nível do mar é o segundo ponto mais alto do estado de Alagoas, dona do 4º IDH (0,697) do estado, de cachoeiras ( a do Vai-Vem), Casarios e Monumentos Religiosos que estão em processo de tombamento a nível de estado (Instituto Pró-Memória), de várias manifestações culturais (Guerreiros de Santa Joana, Pastoril, Reisado, São Gonçalo, etc.), Festival Gastronômico (Buchada de Bode, etc.), economia baseada na Agricultura Familiar (Produção de banana, laranja, macaxeira/mandioca/aipim, manga, feijão, milho). O Festival de Inverno constitui a principal atração do calendário turístico da região do Alto-Sertão, bem como de todo o Estado. O VII Festival de Inverno conta com uma programação variada que incluem apresentações culturais, musicais, atividades esportivas. Espera-se com a realização do VII Festival terá um público superior (público esperado 52.000/cinqüenta e duas mil pessoas nos três dias) ao VI Festival de Inverno realizado em 31/07 à 02/08/2009 com um público de 35.000(trinta e cinco mil) pessoas nos três dias, impacto/interesse em aumentar o fluxo Turístico local e regional, aumento de pousadas domiciliares e geração de emprego e renda. Na parte musical estão reservados vários shows, sendo com apresentações de nível local, regional e nacional. Consta ainda a realização de provas de MotoCross, Trilha Ecológica, Encontro de Jeepeiros, amostras de artesanatos e festival gastronômico, com isso gerando empregos diretos e indiretos. O VII Festival de Inverno, que conta com apoio do Governo Federal através do Ministério do Turismo, representa para o município de Água Branca a sua inclusão definitiva no Circuito Turístico do Frio da Região Nordestina, reafirmando mais uma vez o estado de Alagoas como umas grandes opções turísticas em qualquer época do ano.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "VII FESTIVAL DE INVERNO",
+            "information": "DECLARO PARA OS DEVIDOS FINS, QUE O MUNICIPIO DE ÁGUA BRANCA TEM CAPACIDADE TÉCNICA E GERENCIAL PARA A EXECUÇÃO DO OBJETO.",
+            "proposalDate": "2010-02-25T03:00:00.000Z",
+            "biddingDate": "2010-06-11T03:00:00.000Z",
+            "homologationDate": "2010-09-22T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100019",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 104200,
+              "details": {
+                "code": "5400020100019",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "K) FESTIVAIS DE INVERNO/VERÃO",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 104200,
+                "couterpartValues": {
+                  "total": 4200,
+                  "financial": 4200,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.312.544-** - JOSE RODRIGUES GOMES",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.797.948-** - CARLOS ALBERTO DA SILVA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0062010",
+              "type": "Inexigibilidade",
+              "date": null,
+              "processId": "0062010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "0062010",
+                "biddingId": null,
+                "object": "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DAS APRESETAÇÕES ARTÍSTICAS DO VII FESTIVAL DE INVERNO DO MUNICÍPIO DE ÁGUA BRANCA.",
+                "legalFoundation": "Art. 25,inciso III da Lei 8.666/93",
+                "justification": "REALIZAÇÃO DO VII FESTIVAL DE INVERNO",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 104200,
+                "homologationDate": null,
+                "city": "2701 - AGUA BRANCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000006/2010",
+              "biddingId": "0062010",
+              "date": "2010-06-15T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11335759000141",
+                "hirerDocument": "CNPJ: 12350153000148",
+                "type": "Serviço",
+                "object": "REALIZAR AS APRESENTAÇÕES ARTÍSTICAS DO VII FESTIVAL DE INVERNO NO MUNICÍPIO DE ÁGUA BRANCA.",
+                "totalValue": 104200,
+                "publishDate": "2010-06-15T03:00:00.000Z",
+                "beginDate": "2010-06-11T03:00:00.000Z",
+                "endDate": "2010-08-11T03:00:00.000Z",
+                "signDate": "2010-06-11T03:00:00.000Z",
+                "executionProcessId": "0062010 ",
+                "biddingModality": "Inexigibilidade ",
+                "processId": "0062010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "737566/2010",
+            "validity": "11/06/2010 a 18/08/2011",
+            "limitDate": "2011-08-18T03:00:00.000Z",
+            "totalValue": 104200,
+            "transferValue": 100000,
+            "counterpartValue": 4200,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "735323/2010",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-31T02:00:00.000Z",
+        "end": "2013-04-29T03:00:00.000Z",
+        "program": "ALAGOAS - OGU 2010",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "053910/2010",
+            "organId": "53910/2010",
+            "processId": "053910/2010",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "ÁGUA BRANCA É UM MUNICÍPIO BRASILEIRO DO ESTADO DE ALAGOAS, SITUADO: À 304 DA CAPITAL MACEIÓ E NA MESOREGIÃO SERTÃO ALAGOANO E MICROREGIÃO SERRANA DO SERTÃO ALAGOANO COM UMA ÁREA DE 454,72km². LOCALIZA-SE A UMA LATITUDE 09º15`39” SUL E UMA LONGITUDE 37º56`10” OESTE, ESTANDO A UMA ALTITUDE 570 METROS. É O SEGUNDO PONTO MAIS ALTO DE ALAGOAS. LIMITES: AO NORTE TACARATU(PE) E MATA GRANDE(AL), AO SUL DELMIRO GOUVEIA(AL) E OLHO D`ÁGUA DO CASADO(AL), AO LESTE COM INHAPI(AL) E OLHO D`ÁGUA DO CASADO(AL) E A OESTE COM PARICONHA(AL).POPULAÇÃO ESTIMADA EM 2009 (IBGE) 19.989 HABITANTES. POPULAÇÃO URBANA 5.078 HABITANTES(IBGE). POPULAÇÃO RURAL 14.911 HABITANTES(IBGE). IDH 0,697 (PNUD/IBGE). O MUNCIPIO DE ÁGUA BRANCA FAZ PARTE DO TERRITÓRIO DA CIDADANIA DO ALTO SERTÃO ALAGOANO. NÚMERO DE PRODUTORES RURAIS 7.748 (IBGE). NÚMERO DE ASSOCIAÇÕES DE PRODUTORES RURAIS 23 E 94 COMUNIDADES RURAIS. PRINCIPAIS CULTURAS:(PRODUÇÃO E ÁREAS EM 2009): BANANA(286 TONELADAS E 26ha), MANGA(270 TONELADAS E 30ha), LARANJA(38 TONELADAS E 09ha), CANA-DE-AÇUCAR(2.640 TONELADAS E 55ha), FEIJÃO CARIOCA(13.226 TONELADAS E 3.850ha), FEIJÃO MULATINHO(1.956 TONELADAS E 450ha), MADIOCA/AIPIM/MACAXEIRA(8.400 TONELADAS E 700ha), MILHO EM GRÃO(9.594 TONELADAS E 2.500ha), ALGODÃO(132 TONELADAS E 500ha) E MAMONA(02 TONELADAS E 10ha). NO MOMENTO A ADMINISTRAÇÃO TEM MUITA DIFICULDADE NA COBERTURA E ESCOAMENTO DA PRODUÇÃO, COM O ADVENTO DA AQUISIÇÃO DA PATRULHA MECANIZADA, OS AGRICULTORES PODERÃO SEREM ATENDIDOS NAS PRETENSÕES DE AUMENTO DAS ÁREAS CULTIVADAS, MELHOR ESCOAMENTO E AUMENTO NA PRODUÇÃO AGRÍCOLA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PATRULHA MECANIZADA",
+            "information": "",
+            "proposalDate": "2010-05-08T03:00:00.000Z",
+            "biddingDate": "2010-12-31T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020100069",
+              "name": "ALAGOAS - OGU 2010",
+              "value": 181800,
+              "details": {
+                "code": "2200020100069",
+                "name": "ALAGOAS - OGU 2010",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra- Estrutura Agropecuária",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 181800,
+                "couterpartValues": {
+                  "total": 6300,
+                  "financial": 6300,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 175500,
+                  "amendment": "R$ 175.500,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.312.544-** - JOSE RODRIGUES GOMES",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "072011",
+              "type": "Licitação - Pregão",
+              "date": "2011-05-30T03:00:00.000Z",
+              "processId": "5032011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "5032011",
+                "biddingId": "072011",
+                "object": "Aquisição de 01 (uma) Patrulha Mecanizada.",
+                "legalFoundation": "Lei nº 8.666/93 e Lei nº 10.520/2002",
+                "justification": "Aquisição de 01 (uma) Patrulha Mecanizada.",
+                "publishDate": "2011-05-30T03:00:00.000Z",
+                "beginDate": "2011-06-13T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 181800,
+                "homologationDate": "2011-06-30T03:00:00.000Z",
+                "city": "2701 - AGUA BRANCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000392/2012",
+              "biddingId": "072011",
+              "date": "2011-09-28T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05453608000195",
+                "hirerDocument": "CNPJ: 12350153000148",
+                "type": "Material",
+                "object": "Constitui objeto desta contratação de empresa para a Aquisição de uma Patrulha Mecanizada destinada a Secretaria Municipal de Agricultura e Meio Ambiente.",
+                "totalValue": 98500,
+                "publishDate": "2011-09-28T03:00:00.000Z",
+                "beginDate": "2011-07-08T03:00:00.000Z",
+                "endDate": "2011-12-31T02:00:00.000Z",
+                "signDate": "2011-07-08T03:00:00.000Z",
+                "executionProcessId": "072011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "5032011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "735323/2010",
+            "validity": "31/12/2010 a 29/04/2013",
+            "limitDate": "2015-02-10T02:00:00.000Z",
+            "totalValue": 181800,
+            "transferValue": 175500,
+            "counterpartValue": 6300,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "730000/2009",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-01-26T02:00:00.000Z",
+        "program": "EMENDA PARLAMENTAR - ESTADO AL",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "074823/2009",
+            "organId": "07482/2009",
+            "processId": "074823/2009",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Melhorar a infraestrutura e logística da produção agrícola e fomentar agroindústria familiar bem como permitir a venda dos produtos típicos deste municipio, como:farinha, feijão,milho,macaxeira,tapioca,andu, feijão verde e frutas(manga,banana,laranja,limão,acerola),permitir também atendimento de demandas com amplo efeito sócio-econômico aos pequenos produtores rurais.Reduzindo o gargalo provocado pelo o atravessador.E orfetando melhores condições de higienização dos produtos ofertados a populção.o IDH 0,597.Renda média familiar R$250,00.Número de famílias beneficiadas diretamente num total de 200.Número de famílias beneficiadas indiretamente num total de 3.000.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Reforma e ampliação do Mercado Público da Sede do Município.",
+            "information": "DECLARAÇÃO para os devidos os devidos fins, que a Prefeitura Municipal de Água Branca - Al, encontra-se com capacidade técnica para Projetar, Reformar e manter o Mercado Público Municipal.",
+            "proposalDate": "2009-09-28T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090066",
+              "name": "EMENDA PARLAMENTAR - ESTADO AL",
+              "value": 298500,
+              "details": {
+                "code": "2200020090066",
+                "name": "EMENDA PARLAMENTAR - ESTADO AL",
+                "cps": "",
+                "items": "Apoio a Projetos de Desenvolvimento do Setor Agropecuário AÇÃO: 7H17 I - INVESTIMENTO 1.PROJETOS DE MECANIZAÇÃO AGRÍCOLA 2.PROJETOS DE RECUPERAÇÃO DE ESTRADAS VICINAIS 3.PROJETOS DE IRRIGAÇÃO E DRENAGEM 4.PROJETOS DE DESENVOLVIMENTO DA PECUÁRIA 5.PROJETOS DE AGROINDUSTRIALIZAÇÃO 6.PROJETOS DE METEOROLOGIA AGROPECUÁRIA 7.PROJETOS DE INFRA-ESTRUTURA AGROPECUÁRIA 8.PROJETOS DE ENERGIZAÇÃO RURAL",
+                "couterpartRule": "Municípios com até 50 mil habitantes - Conforme LEI Nº 11.768,14/08/2008(LDO 2009) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 298500,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.720.804-** - ALBANI SANDES GOMES",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2011",
+              "type": "Licitação -",
+              "date": "2011-05-19T03:00:00.000Z",
+              "processId": "4722011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "",
+                "processId": "4722011",
+                "biddingId": "01/2011",
+                "object": "Reforma e ampliação do mercado público",
+                "legalFoundation": "Decreto 6170/07",
+                "justification": "Melhorar a infraestrutura e logistica da produção agricola e fomentar agroindustria familiar bem como permitir a venda dos produtos típicos deste municipio, como feijão, farinha, milho, macaxeira, tapioca, andu, feijão verde e frutas(manga, laranja, limão, acerola), permitir também atendimento de demandas com amplo efeito sócio-econômico aos pequenos produtores rurais.",
+                "publishDate": "2011-05-19T03:00:00.000Z",
+                "beginDate": "2011-06-14T03:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 265622.97,
+                "homologationDate": "2011-06-20T03:00:00.000Z",
+                "city": "2701 - AGUA BRANCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000389/2011",
+              "biddingId": "01/2011",
+              "date": "2011-08-25T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 07540216000199",
+                "hirerDocument": "CNPJ: 12350153000148",
+                "type": "Serviço",
+                "object": "Reforma e ampliação do mercado público do município d Água Branca destinado a Secretaria Municipal de Agricultura e Meio Ambiente",
+                "totalValue": 265622.97,
+                "publishDate": "2011-08-25T03:00:00.000Z",
+                "beginDate": "2013-01-31T02:00:00.000Z",
+                "endDate": "2013-12-31T02:00:00.000Z",
+                "signDate": "2011-06-20T03:00:00.000Z",
+                "executionProcessId": "01/2011 ",
+                "biddingModality": "Licitação - ",
+                "processId": "4722011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "730000/2009",
+            "validity": "31/12/2009 a 26/01/2016",
+            "limitDate": "2017-06-04T03:00:00.000Z",
+            "totalValue": 298500,
+            "transferValue": 292500,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "728643/2009",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-01-20T02:00:00.000Z",
+        "end": "2012-01-19T02:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "131551/2009",
+            "organId": "01355/2009",
+            "processId": "59050.004036/2009-66",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICIPIO DE ÁGUA BRANCA ESTÁ LOCALIZADO NA REGIÃO NORDESTE - SEMI-ÁRIDO-ALTO SERTÃO DO ESTADO DE ALAGOAS, COM DUAS ESTAÇÕES BEM DEFINIDAS - CHUVAS(INVERNO) E ESTIAGEM/SECA(VERÃO),DESTA FORMA ANUALMENTE DECRETA SITUAÇÃO DE EMERGÊNCIA POR SITUAÇÃO DE ESTIAGEM/SECA QUE AFETA CONSTATEMENTE.DESTA FORMA NÃO POSSUINDO FROTA PARA ATENDER A DEMANDA DE ABASTECIMENTO DA ÁGUA POTÁVEL E A PREOCUPAÇÃO COM A TRANSMISSÃO DE DOENÇAS ATRAVÉS DO CONSUMO HUMANO DA ÁGUA,NÃO PRÓPRIA PARA ESTE FIM.POR ISSO VEM ATRAVÉS DESTE PLEITEAR A AQUISIÇÃO DE CAMINHÃO PIPA PARA O FORNECIMENTO DE ÁGUA POTÁVEL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE 01 (UM) CARRO - PIPA.",
+            "information": "DECLARO PARA OS DEVIDOS FINS, QUE O MUNICIPIO DE ÁGUA BRANCA - AL, ENCONTRA-SE COM CAPACIDADE TÉCNICA E GERENCIAL.",
+            "proposalDate": "2009-12-22T02:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2011-09-27T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090016",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 252600,
+              "details": {
+                "code": "5300020090016",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Alínea b, parágrafo 2º, do Artigo 40, da LDO/2009 - Os limites mínimos de contrapartida poderão ser reduzidos para 1%. (Portaria nº 58-A, de 26/03/2009, publicada no DOU de 08/04/2009) [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 252600,
+                "couterpartValues": {
+                  "total": 27053.46,
+                  "financial": 27053.46,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 225546.54,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.312.544-** - JOSE RODRIGUES GOMES",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.042.835-** - IVONE MARIA VALENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "09/2011",
+              "type": "Licitação - Pregão",
+              "date": "2011-06-01T03:00:00.000Z",
+              "processId": "04932011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "04932011",
+                "biddingId": "09/2011",
+                "object": "AQUISIÇÃO DE 01 (UM) CARRO-PIPA.",
+                "legalFoundation": "LEI N° 10.520/02 E LEI N° 8.666/93",
+                "justification": "AQUISIÇÃO DE 01 (UM) CARRO-PIPA.",
+                "publishDate": "2011-06-01T03:00:00.000Z",
+                "beginDate": "2011-06-16T03:00:00.000Z",
+                "endDate": "2011-06-16T03:00:00.000Z",
+                "biddingValue": 247000,
+                "homologationDate": "2011-07-27T03:00:00.000Z",
+                "city": "2701 - AGUA BRANCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000423/2011",
+              "biddingId": "09/2011",
+              "date": "2011-11-07T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12450888000143",
+                "hirerDocument": "CNPJ: 12350153000148",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE 01 (UM) CARRO-PIPA.",
+                "totalValue": 247000,
+                "publishDate": "2011-11-07T02:00:00.000Z",
+                "beginDate": "2011-08-02T03:00:00.000Z",
+                "endDate": "2011-12-31T02:00:00.000Z",
+                "signDate": "2011-08-02T03:00:00.000Z",
+                "executionProcessId": "09/2011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "04932011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "728643/2009",
+            "validity": "20/01/2010 a 19/01/2012",
+            "limitDate": "2013-01-09T02:00:00.000Z",
+            "totalValue": 252600,
+            "transferValue": 225546.54,
+            "counterpartValue": 27053.46,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "722422/2009",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-21T02:00:00.000Z",
+        "end": "2012-12-13T02:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "095066/2009",
+            "organId": "50014/2009",
+            "processId": "59550.000979/2009-89",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto nº 6.170/2007 c/ Portaria Interministerial MP/MF/MCT nº 165/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "A recuperação de estradas vicinais, casas reisedenciais, vias urbanas, escolas e esgotos sanitários, foram danos ocasionados pelas fortes chuvas torrenciais caídas no município causando transtornos a população deste MUNICÍPIO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Recuperação de toda malha viária do município,pavimentação de vias urbanas, recuperação de casas residenciais, escolas e esgoto.",
+            "information": "O PREFEITO DO MUNICÍPIO DE ÁGUA BRANCA-AL, JOSÉ RODRIGUES GOMES DECLARA PARA OS FINS NECESSÁRIOS QUE ESTA PREFEITURA MUNICIPAL DE ÁGUA BRANCA -AL, TEM CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUÇÃO DOS SERVIÇOS DE RECUPERAÇÃO DOS DANOS CAUSADOS PELA ENXURRADAS DO 1º SEMESTRE DE 2009.",
+            "proposalDate": "2009-11-05T02:00:00.000Z",
+            "biddingDate": "2009-12-21T02:00:00.000Z",
+            "homologationDate": "2009-12-23T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320090122",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 318000,
+              "details": {
+                "code": "2220320090122",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Todos os municípios, com população abaixo de 50.000 habitantes, localizados em todas as regiões do Brasil. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 318000,
+                "couterpartValues": {
+                  "total": 14200,
+                  "financial": 14200,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 303800,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.312.544-** - JOSE RODRIGUES GOMES",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002/2010",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2010-06-09T03:00:00.000Z",
+              "processId": "05112010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "05112010",
+                "biddingId": "002/2010",
+                "object": "Execuçao dos serviços de recuperação de estradas vicinais no municipio de Água Branca - AL",
+                "legalFoundation": "8.666/93",
+                "justification": "A recuperação de estradas vicinais, casas residenciais, vias urbanas, escolas e esgotos sanitários, foram danos ocasionados pelas fortes chuvas torrenciais caídas no Município e causando transtornos a população.",
+                "publishDate": "2010-06-09T03:00:00.000Z",
+                "beginDate": "2010-06-25T03:00:00.000Z",
+                "endDate": "2010-06-25T03:00:00.000Z",
+                "biddingValue": 276489.11,
+                "homologationDate": "2010-06-30T03:00:00.000Z",
+                "city": "2701 - AGUA BRANCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000006/2011",
+              "biddingId": "002/2010",
+              "date": "2012-08-06T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 07540216000199",
+                "hirerDocument": "CNPJ: 12350153000148",
+                "type": "Material",
+                "object": "Execução dos serviços complementares de drenagem e Recuperação de pavimentação, escolas e casas do município de Água Branca",
+                "totalValue": 30594.55,
+                "publishDate": "2012-08-06T03:00:00.000Z",
+                "beginDate": "2011-11-29T02:00:00.000Z",
+                "endDate": "2011-12-21T02:00:00.000Z",
+                "signDate": "2011-11-29T02:00:00.000Z",
+                "executionProcessId": "002/2010 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "05112010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "722422/2009",
+            "validity": "21/12/2009 a 13/12/2012",
+            "limitDate": "2013-11-21T02:00:00.000Z",
+            "totalValue": 318000,
+            "transferValue": 303800,
+            "counterpartValue": 14200,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "707090/2009",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-30T02:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "069899/2009",
+            "organId": "69899/2009",
+            "processId": "069899/2009",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "decreto 6170",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A cidade de Água Branca, localizada na região nordeste, incrustada na micro-região do Sertão Alagoano, apresenta-se com uma altitude de 570 metros acima do nível do mar, cobrindo 456,7 km2 de extensão territorial com população estimada de 20.000 habitantes, a 302 km da capital do Estado, Maceió, com uma renda média familiar percapita de R$ 2.200,00 (IBGE 2006). A realização do VI Festival de Inverno, período de 31 de julho a 02 de agosto de 2009, aconteceu em clima harmonioso e hospitaleiro, com elevado calor humano, ostentado pelo frio e esparsas pancadas de chuvas, registrando temperatura média de 15 graus. No decorrer do evento a equipe administrativa mantinha desmedida apreensão em virtude do acotovelamento, mercê da grande aglomeração presente (aproximadamente 30 mil pessoas de público nos três dias), auspiciosamente gratificante à organização, porém, passivo de fortuitas reservas em decorrência do espaço físico para o mega acontecimento. Todavia é sabido que o uso de equipamentos sonoros de alta potência torna-se prejudicial e agride sensivelmente as edificações do perímetro, formados por casarios históricos, igrejas e monumentos (estes em estudo há algum tempo passíveis de tombamento, via Pró-Memória, a nível Estadual). Considerando que a administração atual pretende preparar a cidade, adequando-a para o fluxo turístico cultural, de aventuras e religioso, somado ao potencial do artesanato diversificado, manifestações folclóricas e farta opção na gastronomia sertaneja, urge, veementemente, a necessidade da Construção da Praça Pública, espaço novo e viável para as realizações festivas do calendário tais como: Festa da Padroeira Nossa Senhora da Conceição, Carnaval, Emancipação Política do Município, São João, Festivais e tantos outros entretenimentos que propiciem a inclusão definitiva de Água Branca no Circuito Turístico Estadual e Brasileiro, reafirmando que Água Branca avança na conquista desde filão gerador de emprego e renda, grande desafio sustentável.Contando-se com o advento da PRAÇA PÚBLICA, área que vai abrigar confortavelmente a população presente e dar maior satisfação ao turista, espera-se que a cidade possa oferecer atrativos e segurança na realização dos eventos. Obviamente, uma cidade com suporte e infraestrutura alavanca o potencial para o crescimento das atividades afins.Daí, o grande pleito pela indiscutível e necessária PRAÇA PÚBLICA, benificiando cerca de 1.000 familias na zona urbana e 3.000 familias da zona rural.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DA 1ª ETAPA DA PRAÇA PÚBLICA, LOCALIZADA A RUA LOURENÇO BEZERRA, AS MARGENS DA RODOVIA AL 145, PERIMETRO URBANO.",
+            "information": "Declaramos para os devidos fins , que a Prefeitura Municipal de Água Branca - AL, encontra-se com capacidade técnica para projetar, construir e manter a Praça Pública.Atraves do Engenheiro George Magno Bezerra Peixoto CREA 499-D",
+            "proposalDate": "2009-09-04T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-15T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090005",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 348215,
+              "details": {
+                "code": "5400020090005",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO, PRAÇA PUBLICA",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 348215,
+                "couterpartValues": {
+                  "total": 6965,
+                  "financial": 6965,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 341250,
+                  "amendment": "R$ 341.250,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.312.544-** - JOSE RODRIGUES GOMES",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "707090/2009",
+            "validity": "31/12/2009 a 30/12/2011",
+            "limitDate": "2011-12-30T02:00:00.000Z",
+            "totalValue": 348215,
+            "transferValue": 341250,
+            "counterpartValue": 6965,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "704300/2009",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-07-31T03:00:00.000Z",
+        "end": "2009-11-05T02:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "008958/2009",
+            "organId": "00781/2009",
+            "processId": "72000.003666/2009-77",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "Decreto 6170/07 e Portaria interministerial 127/08",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Água Branca promove o VI Festival de Inverno. Dona de um dos climas mais frios de Alagoas, a cidade de Água Branca – a 302 km de Maceió, com aproxidamente 20.000 habitamtes,estando a altitude de 570m é o segundo ponto mais de Alagoas - realiza no período de 31 de julho a 2 de agosto o seu VI Festival de Inverno, que se constitui hoje em uma das atrações do calendário turístico da região do sertão, bem como de todo o Estado. O festival conta com uma programação variada que inclui apresentações culturais, musicais, atividades esportivas.Acredita-se que o VI Festival terá um público superior ao do ano passado em torno de 30%(Aproximadamente 15.000 pessoas de público nos três dias). Na parte musical estão reservados vários shows, sendo com apresentações de nível nacional e regional. Consta ainda a realização de provas de motocross, trilha ecológica, encontro de jipeiros, mostra de artesanato e festival gastronômico, com isso gerando empregos diretos e indiretos. Nessa época do ano, Água Branca tem uma temperatura média noturna entre 15 e 18 graus, o que atrai gente de toda região para curtir um pouquinho do frio que a cidade oferece.O IV Festival, que conta com apoio do governo atrvés do Ministério do Turismo,representa para o muni´cipio de Água Branca a sua inclusão definitiva no Circuito de Turístico do Frio da região nordestina, reafirmando mais uma vez o estado de Alagoas como umas grandes opções turísticas em qualquer época do ano.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "VI FESTIVAL DE INVERNO DE AGUA BRANCA/AL",
+            "information": "",
+            "proposalDate": "2009-04-03T03:00:00.000Z",
+            "biddingDate": "2009-07-31T03:00:00.000Z",
+            "homologationDate": "2009-08-28T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090049",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 200000,
+              "details": {
+                "code": "5400020090049",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "FESTIVAIS DE INVERNO",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 200000,
+                "couterpartValues": {
+                  "total": 50000,
+                  "financial": 50000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 150000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.312.544-** - JOSE RODRIGUES GOMES",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "052009",
+              "type": "Inexigibilidade",
+              "date": null,
+              "processId": "052009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "052009",
+                "biddingId": null,
+                "object": "Apresentação Artisticas na realização do VI Festival de Inverno",
+                "legalFoundation": "Art. 25, inciso III da Lei 8666/93",
+                "justification": "Realização do VI Festival de Inverno",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 180000,
+                "homologationDate": null,
+                "city": "2701 - AGUA BRANCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "704300/2009",
+            "validity": "31/07/2009 a 05/11/2009",
+            "limitDate": "2009-11-05T02:00:00.000Z",
+            "totalValue": 200000,
+            "transferValue": 150000,
+            "counterpartValue": 50000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "701222/2008",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2008-12-22T02:00:00.000Z",
+        "end": "2010-04-30T03:00:00.000Z",
+        "program": "Apoio à Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "015805/2008",
+            "organId": "00254/2008",
+            "processId": "71000.542887/2008-12",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "lei complementar 101/00, lei 8666/93, decreto 6170/07, lei 11514/07 e lei 11647/2008",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A feira livre do município de Água Branca representa cultural e economicamente um comércio alternativo de grande expressão das riquezas artesanais, alimentícias e vestuárias do município e da região, conferindo quase sempre um diagnóstico educacional da qualidade de vida dos seus habitantes. A feira livre do município é realizada semanalmente nos domingos. O descuido com a higiene da feira livre, bem como a pouca ou quase nenhuma organização dos feirantes e a falta de informações são responsáveis por índices cada vez mais altos da procura dos consumidores por outros centros comercializadores de hortigranjeiros a exemplo de supermercados de grande porte e quitandas que oferecem produtores com qualidades visuais e sanitárias de melhor aspecto. A apresentação das mercadorias é sempre um atrativo forte na hora da escolha dos consumidores, cada vez mais exigentes e seletistas na procura por produtos com atrativos qualitativos e de preços acessíveis. O comércio das feiras livres apresenta uma singularidade importantíssima para o desenvolvimento turístico da região por ter sempre uma expressão regional de forte impacto para quem está visitando ou conhecendo o município. É neste momento onde o produtor, artesões, entre outros estarão vendendo uma imagem muitas vezes até inconscientemente da criatividade, capacidade empreendedora, receptividade e a valorização local, projetando, assim, a imagem do município. A iniciativa de se promover à reestruturação da feira livre de Água Branca partiu do pressuposto que não se caracteriza efetivamente nenhum processo de mudança sem a ousadia de ariscar e dentro desse pensamento à entidade proponente vem articulando parcerias e implementando atividades para a sua execução de fato. Um diagnóstico realizado recentemente mostrou a situação preocupante que se encontram os produtos e serviços oferecidos na feira, incidindo numa necessidade urgente de se trabalhar aspectos sanitários e estruturais que resguardem a saúde pública dos consumidores que fazem uso desses serviços. A comercialização geralmente ocorre de forma rudimentar, em cima de lonas plásticas e cavaletes o que diminui o tempo de vida útil dos alimentos, aumentando com isso ainda mais o percentual de perda de produtos desde a sua colheita até a sua comercialização. Água Branca possui um grande potencial frutífero sazonal na região das serras onde são explorados produtos como a manga, acerola, goiaba, pinha, caju e umbu nativo que são colhidos e vendidos “in natura”, como polpas e doces nas feiras e nos estabelecimentos comerciais. Já nas áreas do entorno dos açudes e barragens os agricultores produzem hortaliças, sendo estas em menor quantidade e em períodos não regulares. Praticamente durante todo o ano, tanto nas áreas de serras como de sequeiro são plantados e colhidos os mais diversos produtos originários da agricultura familiar, tais como: macaxeira, melancia, jerimum, feijão de corda e de arranque e milho. Também são produzidos: farinha, carne de galinha caipira, ovos, leite, mel, etc. Todavia, a maioria destes produtos não é comercializada pelos agricultores por falta de locais apropriados, pois os mesmos não dispõem de recursos, infra-estrutura ou logística para deslocar sua produção para a feira livre do município e/ou outras cidades da região. Com isso o que se vê todo o ano são produtores procurando ajuda na prefeitura no sentido de solicitar apoio para comercializar seus produtos dentro dos programas sociais, contudo a prefeitura não dispõe de recursos suficientes para tal. O retorno do investimento se prever na economia advindo da redução no sistema de saúde e progressivo crescimento da economia local em virtude do aumento das relações comerciais neste setor alimentício",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Equipar a feira livre do município de Agua Branca para que agricultores familiares, pronafianos e beneficiários do Programa Compra Direta Local da Agricultura Familiar – CDLAF adquiram habilidade e competência em comercializar seus produtos, visando alcançar a autonomia financeira através da melhoria de renda. Também visa contribuir para melhoria operacional da feira-livre, dando-lhe visibilidade pela oferta de produtos oriundos da agricultura familiar com qualidade, higiene e bom atendimento.",
+            "information": "",
+            "proposalDate": "2008-11-28T02:00:00.000Z",
+            "biddingDate": "2008-12-19T02:00:00.000Z",
+            "homologationDate": "2008-12-22T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020080010",
+              "name": "Apoio à Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo",
+              "value": 114923,
+              "details": {
+                "code": "5500020080010",
+                "name": "Apoio à Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo",
+                "cps": null,
+                "items": "Ampliar a atuação pública com ações locais conjugadas, que abranjam atividades de produção, processamento e distribuição agroalimentar, de forma a: construir e organizar e organizar sistemas locais cooperativos e solidários, de segurança alimentar e nutricional; ampliar a disponibilidade agroalimentar , com qualidade e preços acessíveis valorizar a diversidade dos hábitos de consumo e; promover atividades geradoras de trabalho e renda dos municípios.",
+                "couterpartRule": "",
+                "totalValue": 114923,
+                "couterpartValues": {
+                  "total": 5163,
+                  "financial": 5163,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 109760,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.903.984-** - GEOVANE BRAGA DA SILVA",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.785.061-** - JOAO AUGUSTO DE FREITAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "701222/2008",
+            "validity": "22/12/2008 a 30/04/2010",
+            "limitDate": "2010-04-30T03:00:00.000Z",
+            "totalValue": 114923,
+            "transferValue": 109760,
+            "counterpartValue": 5163,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "629960/2008",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-07-29T03:00:00.000Z",
+        "end": "2011-07-08T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Excluído no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "078704/2008",
+            "organId": "CR.NR.0265394-58",
+            "processId": "CR.NR.0265394-58",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTACAO EM PARALELEPIPEDO",
+            "information": "",
+            "proposalDate": "2008-07-29T03:00:00.000Z",
+            "biddingDate": "2008-07-29T03:00:00.000Z",
+            "homologationDate": "2008-08-07T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.683.644-** - JOSE REINALDO DE SA FALCAO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "629960/2008",
+            "validity": "29/07/2008 a 08/07/2011",
+            "limitDate": "2011-07-08T03:00:00.000Z",
+            "totalValue": 202474.23,
+            "transferValue": 196400,
+            "counterpartValue": 6074.23,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "629185/2008",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-12T03:00:00.000Z",
+        "end": "2008-10-18T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Concluído no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "078146/2008",
+            "organId": "54001257200800490",
+            "processId": "72000.002375/2008-81",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Promoção e incentivo ao turismo no Município de Água Branca/AL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Objeto: \"5º Festival de Inverno de Água Branca\"",
+            "information": "",
+            "proposalDate": "2008-06-12T03:00:00.000Z",
+            "biddingDate": "2008-06-12T03:00:00.000Z",
+            "homologationDate": "2008-07-04T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.683.644-** - JOSE REINALDO DE SA FALCAO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.881.858-** - LUIZ EDUARDO BARRETTO FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "629185/2008",
+            "validity": "12/06/2008 a 18/10/2008",
+            "limitDate": "2008-10-18T03:00:00.000Z",
+            "totalValue": 157500,
+            "transferValue": 150000,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "628296/2008",
+        "uf": "AL",
+        "city": "AGUA BRANCA",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-30T03:00:00.000Z",
+        "end": "2009-06-30T03:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Excluído no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "077492/2008",
+            "organId": "CR.NR.0257548-32",
+            "processId": "CR.NR.0257548-32",
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "legalFoundation": "",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTACAO EM PARALELEPIPEDO DE DIVERSAS RUAS DO MUNICIPIODE AGUA BR ANCA",
+            "information": "",
+            "proposalDate": "2008-06-30T03:00:00.000Z",
+            "biddingDate": "2008-06-30T03:00:00.000Z",
+            "homologationDate": "2008-07-03T03:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.350.153/0001-48 - MUNICIPIO DE AGUA BRANCA",
+            "respProponent": "***.683.644-** - JOSE REINALDO DE SA FALCAO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE AGUA BRANCA",
+            "documentNumber": "12.350.153/0001-48",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "628296/2008",
+            "validity": "30/06/2008 a 30/06/2009",
+            "limitDate": "2009-06-30T03:00:00.000Z",
+            "totalValue": 304432.99,
+            "transferValue": 295300,
+            "counterpartValue": 9132.99,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

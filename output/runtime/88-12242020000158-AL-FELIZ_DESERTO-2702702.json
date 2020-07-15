@@ -1,0 +1,2066 @@
+{
+  "beginDate": "2020-07-15T00:09:34.385Z",
+  "endDate": "2020-07-15T00:17:59.185Z",
+  "data": {
+    "location": {
+      "city": "Feliz Deserto",
+      "uf": "AL",
+      "ibge": "2702702"
+    },
+    "agreements": [
+      {
+        "agreementId": "895210/2019",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2019-12-30T03:00:00.000Z",
+        "end": "2022-12-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "050042/2019",
+            "organId": "50042/2019",
+            "processId": "500422019",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": "A presente proposta tem como objeto a Pavimentação em vias urbanas do município, é considerada de grande relevância para a população e o município. O Município tem sua população voltada para 4.345 habitantes de acordo com senso IBGE 2010. As ruas, se encontram DENTRO DO PERÍMETRO URBANO DO MUNICÍPIO.",
+            "justification": null,
+            "targetAudience": "Serão beneficiadas famílias residentes e visitantes que trafegam pelo município.",
+            "problem": "O problema a ser resolvido é a carência da infraestrutura urbana adequada que sofre com a falta da pavimentação, sendo o local estratégico para a melhoria da qualidade de vida e o desenvolvimento do comercio e do município. A ausência de pavimentação das vias é fator desestimulante para todas as formas, além do comércio local.",
+            "result": "A obra proporcionará qualidade de vida aos moradores, melhorando a mobilidade e extinguindo antigos transtornos advindo da poeira e da lama, além de atrair o comércio e a construção de residências espalhando-se pelo Município. Estas ações conjugadas têm potencial para geração de emprego tanto na construção civil como no comércio local e a expectativa é a geração permanente de empregos diretos e indiretos.",
+            "proposalAndObjectivesRelation": "No sentido de promover o desenvolvimento do potencial econômico e social do Município, é que se apresenta esta proposta ao órgão concedente, com vista, a angariar investimentos para infra-estrutura local, capaz de promover o melhoramento dos setor comercial da cidade como a qualidade de vida da população, de maneira, que as obras beneficiara diretamente a economia do município, permitindo o melhoramento da atividade comercial local, propiciando o fluxo de veículos e pessoas.",
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Pavimentação em vias urbanas do município de Feliz Deserto/AL.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 19, da Portaria Interministerial nº 507, de 24 de novembro de 2011, atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc ..",
+            "proposalDate": "2019-11-14T03:00:00.000Z",
+            "biddingDate": "2019-12-30T03:00:00.000Z",
+            "homologationDate": "2020-01-02T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020190004",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 297960,
+              "details": {
+                "code": "5300020190004",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "007/2018",
+                "items": "Pavimentação",
+                "couterpartRule": "",
+                "totalValue": 297960,
+                "couterpartValues": {
+                  "total": 11460,
+                  "financial": 11460,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 286500,
+                  "amendment": "R$ 286.500,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.472.494-** - ROSIANA LIMA BELTRAO SIQUEIRA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "895210/2019",
+            "validity": "30/12/2019 a 30/12/2022",
+            "limitDate": "2023-02-28T03:00:00.000Z",
+            "totalValue": 297960,
+            "transferValue": 286500,
+            "counterpartValue": 11460,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "870551/2018",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-06-28T03:00:00.000Z",
+        "end": "2021-07-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "032835/2018",
+            "organId": "32835/2018",
+            "processId": "328352018",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Localizado no extremo sul do litoral de Alagoas, a 119 km da capital, entre as cidades de Coruripe e Piaçabuçu, o Município de Feliz Deserto tem sua população voltada para 4.345 habitantes de acordo com senso IBGE 2010. Feliz Deserto é um município detentor de natureza exuberante com um extenso cordão litorâneo de 12 km de praias inexploradas de águas esverdeadas, mornas e cristalinas, além de um vasto coqueiral e pequenas dunas que constroem um cenário paradisíaco de rara beleza. Com clima quente durante todo o ano e temperaturas acima de 23°C a cidade é um cenário perfeito para o desenvolvimento do turismo e de atividades pesqueiras. As largas margens das praias de Feliz Deserto são propícias, também, para acampamento e a prática de esportes praticados na areia e náuticos, as principais fontes de renda da população constituem na pesca artesanal, bem como as culturas do coco e da cana de açúcar, destinadas às usinas instaladas nos municípios vizinhos, além da confecção de artesanato produzido principalmente com a palha da taboa. O artesanato da cidade é internacionalmente conhecido e comercializado por intermédio da instituição Artesãs Associadas de Feliz Deserto. No calendário FESTIVO de Feliz Deserto destaca-se, além das tradicionais festas de Carnaval, São João, Emancipação Política e da Padroeira Nossa Senhora Mãe dos Homens, o Festival do Maçunim e Gincana de Pesca de Arremesso, considerado, sem sombra de dúvida, o maior evento de pesca esportiva de arremesso do Norte e Nordeste Brasileiro, em premiação, estrutura de lazer, entretenimento e participação popular, o Festival atrai turistas, competidores e visitantes das mais diversas partes do país e, também, do exterior. Assim, como diversos municípios brasileiros Feliz Deserto também tem dificuldades para expandir as atividades turísticas. Para tanto necessita de obras estruturantes que ofertem comodidade, beleza e qualidade de serviços para o público a que se destina o “turista”. Por isto a solicitação da obra, visando a melhoria dos serviços ofertados ao público turístico, sendo este o foco da administração pública atual. Espera-se com a obra da Construção da Orla ofertar novos pontos de visita ao turista, com a qualidade que o turismo exige para o seu desenvolvimento. Vale ressaltar que o número de turistas que visitam a cidade e lá se hospedam só tem aumentado com o decorrer dos anos, a taxa de ocupação no verão chega a 100%. O investimento solicitado junto ao governo federal através do Ministério do Turismo para Construção da Orla vislumbram como resultado principal o crescimento do turismo como um forte segmento econômico que caminha na contramão da crise vivida pelo país. Assim a administração pública tenta minimizar a falta de emprego, os impactos ambientais e socioculturais, promovendo o desenvolvimento econômico através do turismo. A Construção da Orla tem como coordenadas geográficas: 10°17'57.3''S 36°17'28.6''W Na obra de construção será implantada a bancos, quiosques, paisagismos, banheiros.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Construção da Orla, no município de Feliz Deserto/AL.",
+            "information": "Em atendimento ao disposto no § 5.º, inciso II do Art.7º e o inciso V do Art. 16 da Portaria Interministerial 424/2016, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc. Desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2018-03-26T03:00:00.000Z",
+            "biddingDate": "2018-06-28T03:00:00.000Z",
+            "homologationDate": "2018-07-02T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020180004",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+              "value": 919989.59,
+              "details": {
+                "code": "5400020180004",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+                "cps": "007/2018",
+                "items": "Equipamentos Comunitários, Ações Complementares de Obras",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 919989.59,
+                "couterpartValues": {
+                  "total": 8112.2,
+                  "financial": 8112.2,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 911877.39,
+                  "amendment": "R$ 911.877,39 - Marx Beltrão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.472.494-** - ROSIANA LIMA BELTRAO SIQUEIRA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "032020",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2020-05-07T03:00:00.000Z",
+              "processId": "20201504002",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aguardando Aceite",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20201504002",
+                "biddingId": "032020",
+                "object": "CONTRATAÇÃO DE EMPRESA DO RAMO DE ENGENHARIA PARA SERVIÇOS DE CONSTRUÇÃO DA ORLA MARÍTIMA DO MUNICÍPIO DE FELIZ DESERTO/AL.",
+                "legalFoundation": "LEI 86666/93",
+                "justification": "CONTRATAÇÃO DE EMPRESA DO RAMO DE ENGENHARIA PARA SERVIÇOS DE CONSTRUÇÃO DA ORLA MARÍTIMA DO MUNICÍPIO DE FELIZ DESERTO/AL.",
+                "publishDate": "2020-05-07T03:00:00.000Z",
+                "beginDate": "2020-05-26T03:00:00.000Z",
+                "endDate": "2020-05-26T03:00:00.000Z",
+                "biddingValue": 917077.96,
+                "homologationDate": "2020-05-28T03:00:00.000Z",
+                "city": "2753 - FELIZ DESERTO",
+                "analysisDate": null,
+                "accepted": "Aguardando Aceite"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000017/2020",
+              "biddingId": "032020",
+              "date": "2020-06-03T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 27486197000177",
+                "hirerDocument": "CNPJ: 12242020000158",
+                "type": "Obras",
+                "object": "CONTRATAÇÃO DE EMPRESA DO RAMO DE ENGENHARIA PARA SERVIÇOS DE CONSTRUÇÃO DA ORLA MARÍTIMA DO MUNICÍPIO DE FELIZ DESERTO/AL.",
+                "totalValue": 917077.96,
+                "publishDate": "2020-06-03T03:00:00.000Z",
+                "beginDate": "2018-06-28T03:00:00.000Z",
+                "endDate": "2021-07-30T03:00:00.000Z",
+                "signDate": "2020-05-29T03:00:00.000Z",
+                "executionProcessId": "032020 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20201504002 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "870551/2018",
+            "validity": "28/06/2018 a 30/07/2021",
+            "limitDate": "2021-09-28T03:00:00.000Z",
+            "totalValue": 919989.59,
+            "transferValue": 911877.39,
+            "counterpartValue": 8112.2,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "870153/2018",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-06-28T03:00:00.000Z",
+        "end": "2021-07-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "035378/2018",
+            "organId": "35378/2018",
+            "processId": "353782018",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Localizado no extremo sul do litoral de Alagoas, a 119 km da capital, entre as cidades de Coruripe e Piaçabuçu, o Município de Feliz Deserto tem sua população voltada para 4.345 habitantes de acordo com senso IBGE 2010. Feliz Deserto é um município detentor de natureza exuberante com um extenso cordão litorâneo de 12 km de praias inexploradas de águas esverdeadas, mornas e cristalinas, além de um vasto coqueiral e pequenas dunas que constroem um cenário paradisíaco de rara beleza. Com clima quente durante todo o ano e temperaturas acima de 23°C a cidade é um cenário perfeito para o desenvolvimento do turismo e de atividades pesqueiras. As largas margens das praias de Feliz Deserto são propícias, também, para acampamento e a prática de esportes praticados na areia e náuticos, as principais fontes de renda da população constituem na pesca artesanal, bem como as culturas do coco e da cana de açúcar, destinadas às usinas instaladas nos municípios vizinhos, além da confecção de artesanato produzido principalmente com a palha da taboa. O artesanato da cidade é internacionalmente conhecido e comercializado por intermédio da instituição Artesãs Associadas de Feliz Deserto. No calendário FESTIVO de Feliz Deserto destaca-se, além das tradicionais festas de Carnaval, São João, Emancipação Política e da Padroeira Nossa Senhora Mãe dos Homens, o Festival do Maçunim e Gincana de Pesca de Arremesso, considerado, sem sombra de dúvida, o maior evento de pesca esportiva de arremesso do Norte e Nordeste Brasileiro, em premiação, estrutura de lazer, entretenimento e participação popular, o Festival atrai turistas, competidores e visitantes das mais diversas partes do país e, também, do exterior. Assim, como diversos municípios brasileiros Feliz Deserto também tem dificuldades para expandir as atividades turísticas. Para tanto necessita de obras estruturantes que ofertem comodidade, beleza e qualidade de serviços para o público a que se destina o “turista”. Por isto a solicitação da obra, visando a melhoria dos serviços ofertados ao público turístico, sendo este o foco da administração pública atual. Espera-se com a obra da Reforma do centro de comercialização de produtos associados ao turismo, ofertar novos pontos de visita ao turista, com a qualidade que o turismo exige para o seu desenvolvimento. Vale ressaltar que o número de turistas que visitam a cidade e lá se hospedam só tem aumentado com o decorrer dos anos, a taxa de ocupação no verão chega a 100%. O investimento solicitado junto ao governo federal através do Ministério do Turismo vislumbram como resultado principal o crescimento do turismo como um forte segmento econômico que caminha na contramão da crise vivida pelo país. Assim a administração pública tenta minimizar a falta de emprego, os impactos ambientais e socioculturais, promovendo o desenvolvimento econômico através do turismo. A Reforma do centro de comercialização de produtos associados ao turismo, tem como coordenadas geográficas: S 10°17'33.45'' e O 36°18'3.59'' Na reforma da obra serão implantados, paisagismo, pinturas, reparo das calçadas, etc.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Reforma do centro de comercialização de produtos associados ao turismo, no município de Feliz Deserto/AL.",
+            "information": "Em atendimento ao disposto no § 5.º, inciso II do Art.7º e o inciso V do Art. 16 da Portaria Interministerial 424/2016, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc. Desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2018-03-28T03:00:00.000Z",
+            "biddingDate": "2018-06-28T03:00:00.000Z",
+            "homologationDate": "2018-07-02T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020180004",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+              "value": 241676.18,
+              "details": {
+                "code": "5400020180004",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+                "cps": "007/2018",
+                "items": "Equipamentos Comunitários",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 241676.18,
+                "couterpartValues": {
+                  "total": 9295.23,
+                  "financial": 9295.23,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 232380.95,
+                  "amendment": "R$ 232.380,95 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.472.494-** - ROSIANA LIMA BELTRAO SIQUEIRA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "022020",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2020-05-07T03:00:00.000Z",
+              "processId": "20201504001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aguardando Aceite",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20201504001",
+                "biddingId": "022020",
+                "object": "CONTRATAÇÃO DE EMPRESA DO RAMO DE ENGENHARIA PARA REFORMA DO TERMINAL TURÍSTICO.",
+                "legalFoundation": "LEI 86666/93",
+                "justification": "CONTRATAÇÃO DE EMPRESA DO RAMO DE ENGENHARIA PARA REFORMA DO TERMINAL TURÍSTICO.",
+                "publishDate": "2020-05-07T03:00:00.000Z",
+                "beginDate": "2020-05-25T03:00:00.000Z",
+                "endDate": "2020-05-25T03:00:00.000Z",
+                "biddingValue": 158889.57,
+                "homologationDate": "2020-05-27T03:00:00.000Z",
+                "city": "2753 - FELIZ DESERTO",
+                "analysisDate": null,
+                "accepted": "Aguardando Aceite"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000016/2020",
+              "biddingId": "022020",
+              "date": "2020-06-29T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 27486197000177",
+                "hirerDocument": "CNPJ: 12242020000158",
+                "type": "Obras",
+                "object": "CONTRATAÇÃO DE EMPRESA DO RAMO DE ENGENHARIA PARA REFORMA DO TERMINAL TURÍSTICO NO MUNICÍPIO DE FELIZ DESERTO/AL.",
+                "totalValue": 158889.57,
+                "publishDate": "2020-06-29T03:00:00.000Z",
+                "beginDate": "2018-06-28T03:00:00.000Z",
+                "endDate": "2021-07-30T03:00:00.000Z",
+                "signDate": "2020-06-22T03:00:00.000Z",
+                "executionProcessId": "022020 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20201504001 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "870153/2018",
+            "validity": "28/06/2018 a 30/07/2021",
+            "limitDate": "2021-09-28T03:00:00.000Z",
+            "totalValue": 241676.18,
+            "transferValue": 232380.95,
+            "counterpartValue": 9295.23,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "852204/2017",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-27T02:00:00.000Z",
+        "end": "2021-10-30T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "025296/2017",
+            "organId": "25296/2017",
+            "processId": "0252962017",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Localizado no extremo sul do litoral de Alagoas, a 119 km da capital, entre as cidades de Coruripe e Piaçabuçu, o Município tem 4.345 habitantes (IBGE 2010). Feliz Deserto é um município detentor de natureza exuberante com um extenso cordão litorâneo de 12 km de praias inexploradas de águas esverdeadas, mornas e cristalinas, além de um vasto coqueiral e pequenas dunas que constroem um cenário paradisíaco de rara beleza. Com clima quente durante todo o ano e temperaturas acima de 23°C a cidade é um cenário perfeito para o desenvolvimento do turismo e de atividades pesqueiras. As largas margens das praias de Feliz Deserto são propícias, também, para acampamento e a prática de esportes praticados na areia e náuticos, as principais fontes de renda da população constituem na pesca artesanal, bem como as culturas do coco e da cana de açúcar, destinadas às usinas instaladas nos municípios vizinhos, além da confecção de artesanato produzido principalmente com a palha da taboa. O artesanato da cidade é internacionalmente conhecido e comercializado por intermédio da instituição Artesãs Associadas de Feliz Deserto. No calendário festivo de Feliz Deserto destaca-se, além das tradicionais festas de Carnaval, São João, Emancipação Política e da Padroeira Nossa Senhora Mãe dos Homens, o Festival do Maçunim e Gincana de Pesca de Arremesso, considerado, sem sombra de dúvida, o maior evento de pesca esportiva de arremesso do Norte e Nordeste Brasileiro, em premiação, estrutura de lazer, entretenimento e participação popular, o Festival atrai turistas, competidores e visitantes das mais diversas partes do país e, também, do exterior. O município é muito carente em infraestrutura, precisamos melhorar as condições de infraestrutura visando atrair cada vez mais os turistas. Esta proposta que tem como Objeto o Recapeamento Asfáltico da Avenida Governador Ronaldo Lessa, tem a finalidade de promover a melhoria, ampliação e complementação da infraestrutura. A execução da obra solucionará problemas no âmbito de infraestrutura local tais como trafegabilidade e acessibilidade, causando a população e aos visitantes problemas de varias natureza, que vai do excesso de poeira durante o período de estiagem e grande acumulo de águas (possas) durante o inverno tornando a acessibilidade das áreas difíceis, vale ressaltar que o objeto proposto é de suma importância para o município, tendo em vista que os resultados esperados do objeto compreende dotar o município de uma boa infraestrutura disponibilizando para os habitantes e visitantes mais conforto e segurança. O recapeamento dar acesso à Orla Marítima do município, e irá ajudar no acesso de grande parte da população e dos visitantes à Praça de Eventos e ao Ginásio Poliesportivo, onde são realizados diversos eventos turísticos, como a Festa Junina, o Festival do Massunim e o acesso a Orla onde é realizado todos os anos a Gincana de Pesca. Daí a importância do pleito que visa a o recapeamento de Feliz Deserto. A Avenida Governador Ronaldo Lessa localiza-se na seguinte coordenadas: 10°17'57.2''S 36°17'28.3''W.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Recapeamento asfáltico da Av. Governador Ronaldo Lessa no município de Feliz Deserto - AL",
+            "information": "Atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras.",
+            "proposalDate": "2017-03-27T03:00:00.000Z",
+            "biddingDate": "2017-12-27T02:00:00.000Z",
+            "homologationDate": "2018-01-02T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170005",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+              "value": 510091.14,
+              "details": {
+                "code": "5400020170005",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+                "cps": "",
+                "items": "I – construção, revitalização e reforma de infraestrutura urbana para adequação de espaços de interesse turístico (saneamento básico, sistemas de drenagem urbana, paisagismo, sinalização turística e praças; parques urbanos, pavimentação, execução de calçadas, passeios, iluminação pública e ciclovias/ciclofaixas, se os projetos estiverem associados a parques, praças, orlas e outros atrativos turísticos, sendo necessária a apresentação de mapa (croqui) que evidencie a associação àqueles atrativos",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 510091.14,
+                "couterpartValues": {
+                  "total": 13816.14,
+                  "financial": 13816.14,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 496275,
+                  "amendment": "R$ 243.750,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.472.494-** - ROSIANA LIMA BELTRAO SIQUEIRA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.774.458-** - NEUSVALDO FERREIRA LIMA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "022020",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "022020",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "022020",
+                "biddingId": null,
+                "object": "CONTRATAÇÃO DE EMPRESA DO RAMO DE ENGENHARIA PARA SERVIÇOS DE RECAPEAMENTO ASFÁLTICO DA AVENIDA GOVERNADOR RONALDO LESSA, NO MUNICÍPIO DE FELIZ DESERTO/AL.",
+                "legalFoundation": "LEI 86666/93",
+                "justification": "CONTRATAÇÃO DE EMPRESA DO RAMO DE ENGENHARIA PARA SERVIÇOS DE RECAPEAMENTO ASFÁLTICO DA AVENIDA GOVERNADOR RONALDO LESSA, NO MUNICÍPIO DE FELIZ DESERTO/AL.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": null,
+                "city": "2753 - FELIZ DESERTO",
+                "analysisDate": "2020-07-09T03:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000015/2020",
+              "biddingId": "022020",
+              "date": "2020-05-20T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 27486197000177",
+                "hirerDocument": "CNPJ: 12242020000158",
+                "type": "Obras",
+                "object": "EXECUÇÃO DE SERVIÇOS DE RECAPEAMENTO ASFÁLTICO DA AVENIDA GOVERNADOR RONALDO LESSA.",
+                "totalValue": 567251.53,
+                "publishDate": "2020-05-20T03:00:00.000Z",
+                "beginDate": "2017-12-27T02:00:00.000Z",
+                "endDate": "2021-10-30T03:00:00.000Z",
+                "signDate": "2020-05-20T03:00:00.000Z",
+                "executionProcessId": "022020 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "022020 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "852204/2017",
+            "validity": "27/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T03:00:00.000Z",
+            "totalValue": 510091.14,
+            "transferValue": 496275,
+            "counterpartValue": 13816.14,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "830556/2016",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-08-18T03:00:00.000Z",
+        "end": "2020-08-30T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "014592/2016",
+            "organId": "14592/2016",
+            "processId": "0145922016",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Feliz Deserto tem uma população de 4.746 habitantes. É um município alagoano situado no litoral sul do Estado, distante 114 km da capital, que se destaca na região por suas belas praias de águas calmas e mornas, belíssimo coqueiral além da Várzea da Marituba, considerado o Pantanal Alagoano. Feliz deserto também se destaca com seus eventos culturais e religiosos onde podemos destacar o “Festival do Maçunim” que acontece todos os anos no mês de setembro e já está na sua 18° edição, consolidado no Estado como o maior festival de pesca e arremesso. Outro grande atrativo de nosso município é o artesanato que é conhecido internacionalmente, pelo trabalho em bolsas, cadeiras, cestas com a palha da taboa. Com tudo isso o município ainda é muito carente em infraestrutura, precisamos melhorar as condições de infraestrutura visando atrair cada vez mais os turistas, pois uma das principais dificuldades é a conservação das suas praças centrais uma delas e mais atrativa para os turista é a Praça Domingos Mendes localizada no Centro da cidade e ponto de descanso e lazer para os turistas que estão de passagem pelo município, com o apoio do Ministério queremos recuperar toda área danificada da Praça Domingos Mendes e adequar à praça as necessidades atuais melhorando a recepção e o atendimento aos turistas que visitam nosso município como, por exemplo, a instalação de parque infantil, quiosque para venda de água e outros produtos, instalação de banheiro (masculino, feminino e para deficientes), rampas de acessibilidade e outras benfeitorias necessárias para uma melhor recepção, com isso querem melhorar a infraestrutura turística para que possamos receber o turista de forma mais adequada.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "2° Etapa da Urbanização da Praça Domingos Mendes.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 19, da Portaria Interministerial nº 507, de 24 de novembro de 2011, atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc ..",
+            "proposalDate": "2016-03-14T03:00:00.000Z",
+            "biddingDate": "2016-08-18T03:00:00.000Z",
+            "homologationDate": "2016-08-25T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160014",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 304272.17,
+              "details": {
+                "code": "5600020160014",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 304272.17,
+                "couterpartValues": {
+                  "total": 8972.17,
+                  "financial": 8972.17,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00 - Marx Beltrão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.093.344-** - MAYKON BELTRAO LIMA SIQUEIRA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.847.618-** - GILBERTO KASSAB"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "022020",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2020-05-07T03:00:00.000Z",
+              "processId": "20201504001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20201504001",
+                "biddingId": "022020",
+                "object": "URBANIZAÇÃO DA PRAÇA DOMINGOS MENDES.",
+                "legalFoundation": "LEI 86666/93",
+                "justification": "URBANIZAÇÃO DA PRAÇA DOMINGOS MENDES.",
+                "publishDate": "2020-05-07T03:00:00.000Z",
+                "beginDate": "2020-05-25T03:00:00.000Z",
+                "endDate": "2020-05-25T03:00:00.000Z",
+                "biddingValue": 191356.22,
+                "homologationDate": "2020-05-27T03:00:00.000Z",
+                "city": "2753 - FELIZ DESERTO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000016/2020",
+              "biddingId": "022020",
+              "date": "2020-06-29T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 27486197000177",
+                "hirerDocument": "CNPJ: 12242020000158",
+                "type": "Obras",
+                "object": "URBANIZAÇÃO DA PRAÇA DOMINGOS MENDES.",
+                "totalValue": 191356.22,
+                "publishDate": "2020-06-29T03:00:00.000Z",
+                "beginDate": "2016-08-18T03:00:00.000Z",
+                "endDate": "2020-08-30T03:00:00.000Z",
+                "signDate": "2020-06-22T03:00:00.000Z",
+                "executionProcessId": "022020 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20201504001 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "830556/2016",
+            "validity": "18/08/2016 a 30/08/2020",
+            "limitDate": "2020-10-29T03:00:00.000Z",
+            "totalValue": 304272.17,
+            "transferValue": 295300,
+            "counterpartValue": 8972.17,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "769758/2012",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2012-08-06T03:00:00.000Z",
+        "end": "2016-08-31T03:00:00.000Z",
+        "program": "ALAGOAS - OGU 2012",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "017855/2012",
+            "organId": "17855/2012",
+            "processId": "017855/2012",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Feliz Deserto é um município alagoano situado no litoral sul do Estado, Mesorregião Leste Alagoano, Microrregião de Penedo, distante 116 km da capital Maceió, tendo como principal via de acesso a AL – 101 SUL Rod. Eng. Guttenberg Brêda Neto, Coordenadas Geográficas 10°17’31,2” Latitude Sul e 36°18’21,6” Latitude Oeste e possui uma população de 4370 habitantes, sendo 3421 na Zona Urbana e 949 na Zona Rural e o IDH de Feliz Deserto é de 0,609. O Município de Feliz Deserto tem aproximadamente 300 produtores rurais, o numero de Associações são de 06, sendo elas: Ass. Dos Artesões da Palha da Taboa; Ass. Dos Produtores de Coco (ASPROFELD); Ass. Do Povoado Pontes da Oficina de Papel; Ass. Casa do Mel; Ass. Dos Agricultores e Criadores de Peixe do Povoado Pontes e Ass. Das Marisqueiras. As principais culturas são a da Cana-de-açúcar com uma área aproximada de 3.000 hectares, cultura do coco com uma área de 4.000 hectares, cultura da mandioca com 100 hectares, inhame com 50 hectares, milho e feijão são lavouras temporárias que depende de áreas de cana desocupadas nas épocas de plantio com aproximadamente 350 hectares cada uma. O Município tem como economia, o turismo, a pesca, o artesanato e o cultivo da cana-de-açúcar, cultivo do coco além de outras atividades agrícolas. A cidade apresenta um grande potencial agrícola em que se destaca a produção de coco e a cana-de-açúcar. Infelizmente a prefeitura dispõe de poucos equipamentos e materiais para os pequenos agricultores, sendo umas grandes dificuldades para o seu desenvolvimento. Com o apoio do Ministério da Agricultura, Pecuária e Abastecimento – MAPA na Aquisição de uma Patrulha Mecanizada, o Município de Feliz Deserto tem como objetivo, com a aquisição desse equipamento, desenvolver o potencial endógeno e fortalecer a base produtiva local, aumentando a autonomia e a sustentabilidade dos pequenos produtores locais, com isso, diminuído as desigualdades inter e intra-regionais e gerando mais trabalho, emprego e renda. Através deste programa o município tem como objetivo beneficiar mais de 200 famílias diretamente de pequenos produtores e mais de 100 famílias indiretamente, pois estes produtores têm grandes dificuldades no desenvolvimento das suas culturas por não dispor de equipamentos necessários para uma melhor produtividade, deixando de gerar renda e emprego no nosso município, Com isso a aquisição desse equipamento trará a oportunidade a esses pequenos agricultores, principalmente no cultivo do coco de desenvolver suas culturas fazendo com que a produtividade aumente gerando trabalho, emprego e renda. Serão beneficiados na zona urbana e na zona rural do município, cerca de 300 (trezentas) famílias com salário médio entre 02 e 03 salários mínimos. Os produtos beneficiados serão o coco, cana-de-açúcar, mandioca, inhame, feijão de corda, milho, entre outros. O município já foi beneficiado com recursos do Ministério da Agricultura, e se encontra em execução, objeto Patrulha Mecanizada, Aquisição de uma Retro Escavadeira, n° do convênio 332173-00/2010 e objeto Construção do Mercado Publico de Feliz Deserto, n° do convênio 373872-27/2011. A Prefeitura Municipal de Feliz deserto Através do seu representante legal Maykon Beltrão Lima Siqueira se compromete em implantar um plano racional de utilização, conservação e manutenção do objeto do pleito, além de colocar para apreciação do Conselho municipal de Desenvolvimento Rural Sustentável – CMDRS o objeto ora proposto. A Aquisição da Patrulha Mecanizada será adquirida com recursos da emenda parlamentar n° 22890001 do Senador Renan Calheiros, funcional programática n° 20.605.2014.8611.0027, no valor de R$ 292.500,00 (duzentos e noventa e dois mil e quinhentos reais), cujo título – Aquisição de Patrulha Mecanizada possui vinculo com o programa n° 2200020120003, do Ministério da Agricultura, Pecuária e Abastecimento.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE PATRULHA MECANIZADA.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2012-05-04T03:00:00.000Z",
+            "biddingDate": "2012-08-06T03:00:00.000Z",
+            "homologationDate": "2012-08-27T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020120003",
+              "name": "ALAGOAS - OGU 2012",
+              "value": 298500,
+              "details": {
+                "code": "2200020120003",
+                "name": "ALAGOAS - OGU 2012",
+                "cps": "",
+                "items": "APOIO AO PEQUENO E MÉDIO PRODUTOR AGROPECUÁRIO *************************************************************** AÇÃO: 8611****************************************************** I -INVESTIMENTO 1.Projetos de Recuperação e Correção de Solos 2.Projetos de Mecanização Agrícola 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Infra-Estrutura Agropecuária 7.Projetos de Energização Rural",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 298500,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.093.344-** - MAYKON BELTRAO LIMA SIQUEIRA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2015",
+              "type": "Licitação - Pregão",
+              "date": "2015-11-26T02:00:00.000Z",
+              "processId": "11170022015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "11170022015",
+                "biddingId": "03/2015",
+                "object": "AQUISIÇÃO DE PATRULHA MECANIZADA",
+                "legalFoundation": "LEI 8.666",
+                "justification": "LICITAÇÃO PARA AQUISIÇÃO DE UM CAMINHÃO",
+                "publishDate": "2015-11-26T02:00:00.000Z",
+                "beginDate": "2015-12-14T02:00:00.000Z",
+                "endDate": "2015-12-16T02:00:00.000Z",
+                "biddingValue": 285000,
+                "homologationDate": "2015-12-17T02:00:00.000Z",
+                "city": "2753 - FELIZ DESERTO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "001003/2015",
+              "biddingId": "03/2015",
+              "date": "2016-01-05T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12450888000143",
+                "hirerDocument": "CNPJ: 12242020000158",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE PATRULHA MECANIZADA",
+                "totalValue": 285000,
+                "publishDate": "2016-01-05T02:00:00.000Z",
+                "beginDate": "2015-12-22T02:00:00.000Z",
+                "endDate": "2016-02-20T02:00:00.000Z",
+                "signDate": "2015-12-22T02:00:00.000Z",
+                "executionProcessId": "03/2015 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "11170022015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "769758/2012",
+            "validity": "06/08/2012 a 31/08/2016",
+            "limitDate": "2016-10-30T02:00:00.000Z",
+            "totalValue": 298500,
+            "transferValue": 292500,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "769574/2012",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2012-08-06T03:00:00.000Z",
+        "end": "2018-01-30T02:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "017841/2012",
+            "organId": "17841/2012",
+            "processId": "017841/2012",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Feliz Deserto possui uma população de aproximadamente 4.370 habitantes. É um município alagoano situado no litoral sul do Estado, distante 114 km da capital, que se destaca na região por suas belas praias de águas calmas e mornas, belíssimo coqueiral além da Várzea da Marituba, considerado o Pantanal Alagoano. Feliz deserto também se destaca com seus eventos culturais e religiosos onde podemos destacar o “Festival do Maçunim” que acontece todos os anos no mês de setembro e já está na sua 18° edição, consolidado no Estado como o maior festival de pesca e arremesso. Outro grande atrativo turístico de nosso município é o artesanato que é conhecido internacionalmente, pelo trabalho em bolsas, cadeiras, cestas com a palha da taboa. Com tudo isso o município ainda é muito carente em infraestrutura turística, precisamos melhorar as condições de infraestrutura visando atrair cada vez mais os turistas, pois uma das principais dificuldades é a conservação das suas praças centrais uma delas e mais atrativa para os turista é a Praça Domingos Mendes localizada no Centro da cidade e ponto de descanso e lazer para os turistas que estão de passagem pelo município, com o apoio do Ministério do Turismo queremos recupera toda área danificada da Praça Domingos Mendes e adequar à praça as necessidades atuais melhorando a recepção e o atendimento aos turistas que visitam nosso município como, por exemplo, a instalação de parque infantil, quiosque para venda de água e outros produtos, instalação de banheiro (masculino, feminino e para deficientes), rampas de acessibilidade e outras benfeitorias necessárias para uma melhor recepção, com isso querem melhorar a infraestrutura turística para que possamos receber o turista de forma mais adequada. Com a Emenda Parlamentar n° 2579.0009, Função Programática: 23.695.2076.10V0.0027 – APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA – NO ESTADO DE ALAGOAS, Emenda do Senador Fernando Collor, o Município de Feliz Deserto – AL pretende melhora as condições de infraestrutura para um melhor recepção aos turistas que visitam nosso município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REFORMA DA PRAÇA DOMINGOS MENDES.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2012-05-04T03:00:00.000Z",
+            "biddingDate": "2012-08-06T03:00:00.000Z",
+            "homologationDate": "2012-08-27T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020120003",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 309893.26,
+              "details": {
+                "code": "5400020120003",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "Infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 309893.26,
+                "couterpartValues": {
+                  "total": 17393.26,
+                  "financial": 17393.26,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.472.494-** - ROSIANA LIMA BELTRAO SIQUEIRA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012015",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-07-17T03:00:00.000Z",
+              "processId": "07070112015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "07070112015",
+                "biddingId": "0012015",
+                "object": "Contratação da Empresa Especializada na Área de Engenharia Civil, para a execução das obras de Urbanização e reformas da praça Domingos Mendes.",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "Contratação da Empresa Especializada na Área de Engenharia Civil, para a execução das obras de Urbanização e reformas da praça Domingos Mendes.",
+                "publishDate": "2015-07-17T03:00:00.000Z",
+                "beginDate": "2015-08-03T03:00:00.000Z",
+                "endDate": "2015-08-03T03:00:00.000Z",
+                "biddingValue": 479135.56,
+                "homologationDate": "2015-08-05T03:00:00.000Z",
+                "city": "2753 - FELIZ DESERTO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "001001/2015",
+              "biddingId": "0012015",
+              "date": "2015-08-07T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11968506000105",
+                "hirerDocument": "CNPJ: 12242020000158",
+                "type": "Material e Serviço",
+                "object": "Contratação da Empresa Especializada na Área de Engenharia Civil, para a execução das obras de Urbanização e reformas da praça Domingos Mendes.",
+                "totalValue": 479135.56,
+                "publishDate": "2015-08-07T03:00:00.000Z",
+                "beginDate": "2012-08-06T03:00:00.000Z",
+                "endDate": "2016-02-06T02:00:00.000Z",
+                "signDate": "2015-08-06T03:00:00.000Z",
+                "executionProcessId": "0012015 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "07070112015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "769574/2012",
+            "validity": "06/08/2012 a 30/01/2018",
+            "limitDate": "2018-03-31T03:00:00.000Z",
+            "totalValue": 309893.26,
+            "transferValue": 292500,
+            "counterpartValue": 17393.26,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "740922/2010",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-29T02:00:00.000Z",
+        "end": "2012-12-03T02:00:00.000Z",
+        "program": "OGU 2010",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "071868/2010",
+            "organId": "71868/2010",
+            "processId": "071868/2010",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Feliz Deserto é um município alagoano situado no litoral sul do Estado, distante 116 km da capital Maceió. Tem como economia, o turismo, a pesca, o artesanato e o cultivo da cana-de-açúcar, cultivo do coco além de outras atividades agrícolas. A cidade apresenta um grande potencial agrícola em que se destaca a produção de coco e a cana-de-açúcar. Infelizmente a prefeitura dispõe de poucos equipamentos e materiais para os pequenos agricultores, sendo umas grandes dificuldades para o seu desenvolvimento, e com o apoio a pequena produção agropecuária, por meio do estímulo à promoção da agregação de valor dos seus produtos vai melhorar a renda e a qualidade de vida dos produtores de nossa região.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Projeto de Mecanização Agrícola, Aquisição de Equipamento Agrícola, Retro Escavadeira.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-06-14T03:00:00.000Z",
+            "biddingDate": "2010-12-29T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020100100",
+              "name": "OGU 2010",
+              "value": 200000,
+              "details": {
+                "code": "2200020100100",
+                "name": "OGU 2010",
+                "cps": "",
+                "items": "APOIO AO PEQUENO E MÉDIO PRODUTOR AGROPECUÁRIO *************************************************************** AÇÃO: 8611****************************************************** I -INVESTIMENTO 1.Projetos de Recuperação e Correção de Solos 2.Projetos de Mecanização Agrícola 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Infra-Estrutura Agropecuária 7.Projetos de Energização Rural",
+                "couterpartRule": "MUNICÍPIOS COM ATÉ 50.000(CINQUENTA MIL HABITANTES) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 200000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.093.344-** - MAYKON BELTRAO LIMA SIQUEIRA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012012",
+              "type": "Licitação - Pregão",
+              "date": "2012-02-07T02:00:00.000Z",
+              "processId": "012012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "012012",
+                "biddingId": "012012",
+                "object": "AQUISIÇÃO DE UMA MÁQUINA RETROESCAVADEIRA",
+                "legalFoundation": "LEI FEDERAL 10520/2002, 8666/1993",
+                "justification": "DEVE-SE A NECESSIDADE FACE A MANUTENÇÃO DAS AÇÕES GOVERNAMENTAIS NO ATENDIMENTO A POPULAÇÃO",
+                "publishDate": "2012-02-07T02:00:00.000Z",
+                "beginDate": "2012-02-07T02:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 185000,
+                "homologationDate": "2012-02-24T02:00:00.000Z",
+                "city": "2753 - FELIZ DESERTO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2012",
+              "biddingId": "012012",
+              "date": "2012-03-01T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10893377000170",
+                "hirerDocument": "CNPJ: 12242020000158",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE UMA MÁQUINA RETROESCAVADEIRA",
+                "totalValue": 185000,
+                "publishDate": "2012-03-01T03:00:00.000Z",
+                "beginDate": "2012-02-28T03:00:00.000Z",
+                "endDate": "2012-12-03T02:00:00.000Z",
+                "signDate": "2012-02-28T03:00:00.000Z",
+                "executionProcessId": "012012 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "012012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "740922/2010",
+            "validity": "29/12/2010 a 03/12/2012",
+            "limitDate": "2013-10-12T03:00:00.000Z",
+            "totalValue": 200000,
+            "transferValue": 195000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "737950/2010",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-23T02:00:00.000Z",
+        "end": "2012-08-23T03:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "028712/2010",
+            "organId": "28712/2010",
+            "processId": "028712/2010",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Feliz Deserto possui uma população de aproximadamente 4.370 habitantes. É um município alagoano situado no litoral sul do Estado, distante 114 km da capital, que se destaca na região por suas belas praias de águas calmas e mornas, belíssimos coqueirais além da Várzea da Marituba, considerado o Pantanal Alagoano. Feliz deserto também se destaca com seus eventos culturais e religiosos onde podemos destacar o “Festival do Massunin” que acontece todos os anos no mês de setembro e já está na sua 16° edição, consolidado no Estado como o maior festival de pesca e arremesso. Outro grande atrativo turístico de nosso município é o artesanato que é conhecido internacionalmente, pelo trabalho em bolsas, cadeiras, cestas com a palha da taboa. Com tudo isso o município ainda é muito carente em infra-estrutura turística, precisamos melhorar as condições de infra-estrutura visando atrair cada vez mais os turistas, pois uma das principais dificuldades é que as artesães não possui um local proprio para produzir e comercializar os seus produtos, com isso prejudica o desenvolvimento da atividade em nossa região. São cerca de 100 famílias que vivem do artesanato, onde necessitam de um ponto próprio para realizar seus trabalhos, pois os pontos em que cada família se encontram são alugados.A relação entre o centro de artesanato e o turismo na região é que o artesanato de Feliz Deserto é conhecido internacionalmente, pois já participou de varias feiras internacionais aonde se destacou no trabalho com a palha da tabou, e todo turista que vem a região tem o interesse de adquirir nosso artesanato, com isso o artesanato torna-se uma das principais atrações turisticas de nossa região. Com a construção do centro de artesanato a beira da rodovia AL-101 Sul, estaremos proporcionando as turistas um maior conforto, pois os onibus das empresas turisticas não entram na cidade devido ao dificil acesso, com isso muitas vezes esses onibus não param em nossa cidade, com isso diariamente cerca de 350 turitas deixam de aproveitar o passeio em nossa cidade. então nosso publico alvo são esses turistas que passeiam por alagoas, que vem com pacotes fechados de 07 dias para conhecer toda a região. com tudo isso esperamos um aumento no fluxo de turitas na faixa de 12.000 pessoas por mês em nosso municipio.Como explicado acima esse Centro de Artesanato proporcionara aos turistas um conforto maior quando vinher ao nosso municipio aondo poderemos anteder essa demanda de forma correta, com isso estando em conformidade com o programa governamental.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de um centro de artesanato no município de Feliz Deserto.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-03-30T03:00:00.000Z",
+            "biddingDate": "2010-12-23T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100021",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+              "value": 200000,
+              "details": {
+                "code": "5400020100021",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+                "cps": "",
+                "items": "Centro público de comercialização de produtos artesanais",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 200000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.093.344-** - MAYKON BELTRAO LIMA SIQUEIRA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "737950/2010",
+            "validity": "23/12/2010 a 23/08/2012",
+            "limitDate": "2012-09-22T03:00:00.000Z",
+            "totalValue": 200000,
+            "transferValue": 195000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "735170/2010",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-27T02:00:00.000Z",
+        "end": "2014-10-22T02:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "049741/2010",
+            "organId": "49741/2010",
+            "processId": "049741/2010",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Melhorar as condições de Infra Estrutura da Zona Urbana do município, onde existem várias áreas totalmente carentes. Ruas a serem beneficiadas: Ruas do Conjunto Divaldo Suruagy, estas ruas são localizadas na zona urbana do município e o conjunto Divaldo Suruagy tem hoje cerca de 100 casas construídas e outras 150 em fase de construção o que com uma média de 5 moradores por residência teremos uma população atendida de cerca de 1250 pessoas com uma renda média de 1 salário mínimo, ruas do Povoado Flexeiras, aonde tem cerca de 50 casas construídas e ruas do Conjunto Nossa Senhora do Socorro aonde tem mais de 300 casas construídas, com esse beneficiamento daremos melhores condições as famílias carentes do nosso Municipio.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de diversas ruas do Município de Feliz Deserto – AL.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-04-30T03:00:00.000Z",
+            "biddingDate": "2010-12-27T02:00:00.000Z",
+            "homologationDate": "2011-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100103",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 328061.13,
+              "details": {
+                "code": "5300020100103",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "INFRAESTRUTURA URBANA",
+                "couterpartRule": "",
+                "totalValue": 328061.13,
+                "couterpartValues": {
+                  "total": 32761.13,
+                  "financial": 32761.13,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.093.344-** - MAYKON BELTRAO LIMA SIQUEIRA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2012",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2012-06-11T03:00:00.000Z",
+              "processId": "012012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "012012",
+                "biddingId": "01/2012",
+                "object": "PAVIMENTAÇÃO DE DIVERSAS RUAS DO MUNICÍPIO",
+                "legalFoundation": "LEI 86666",
+                "justification": "LICITAÇÃO TOMADA DE PREÇO ITEM 2",
+                "publishDate": "2012-06-11T03:00:00.000Z",
+                "beginDate": "2012-06-26T03:00:00.000Z",
+                "endDate": "2012-06-27T03:00:00.000Z",
+                "biddingValue": 310384.64,
+                "homologationDate": "2012-06-27T03:00:00.000Z",
+                "city": "2753 - FELIZ DESERTO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2012",
+              "biddingId": "01/2012",
+              "date": "2012-07-02T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10531423000191",
+                "hirerDocument": "CNPJ: 12242020000158",
+                "type": "Obras",
+                "object": "PAVIMENTAÇÃO DE DIVERSAS RUAS",
+                "totalValue": 310384.64,
+                "publishDate": "2012-07-02T03:00:00.000Z",
+                "beginDate": "2012-06-28T03:00:00.000Z",
+                "endDate": "2013-06-23T03:00:00.000Z",
+                "signDate": "2012-06-28T03:00:00.000Z",
+                "executionProcessId": "01/2012 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "012012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "735170/2010",
+            "validity": "27/12/2010 a 22/10/2014",
+            "limitDate": "2017-02-15T02:00:00.000Z",
+            "totalValue": 328061.13,
+            "transferValue": 295300,
+            "counterpartValue": 32761.13,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "721985/2009",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2011-12-26T02:00:00.000Z",
+        "program": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "041113/2009",
+            "organId": "04111/2009",
+            "processId": "041113/2009",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Feliz Deserto não possui um local apropriado para comercialização de produtos agro-pecuários (feira livre/mercado público) e a implantação de um mercado público irá facilitar a vida dos moradores do município. Os produtores de coco, macaxeira, cana de açúcar e os pecuaristas de um modo geral serão os maiores beneficiados com a implantação de um local apropriado para comercialização de suas mercadorias além da população toda que terá um local digno para fazer sua feira completa. O IDH de Feliz Deserto é 0,609. Serão beneficiadas todas as famílias da zona urbana do município, cerca de 500 (quinhentas) com salário médio entre 2 e 3 salários minimos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção do Mercado Público de Feliz Deserto",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-06-21T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-19T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090055",
+              "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+              "value": 368471.36,
+              "details": {
+                "code": "2200020090055",
+                "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+                "cps": "",
+                "items": "Apoio ao Desenvolvimento do Setor Agropecuário",
+                "couterpartRule": "Municípios com até 50.000 (cinqüenta mil) habitantes. (Lei 11768/08, art. 40 §1º, inc I-a) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 368471.36,
+                "couterpartValues": {
+                  "total": 27221.36,
+                  "financial": 27221.36,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 341250,
+                  "amendment": "R$ 341.250,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.093.344-** - MAYKON BELTRAO LIMA SIQUEIRA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "721985/2009",
+            "validity": "31/12/2009 a 26/12/2011",
+            "limitDate": "2011-12-26T02:00:00.000Z",
+            "totalValue": 368471.36,
+            "transferValue": 341250,
+            "counterpartValue": 27221.36,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "710190/2009",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-23T02:00:00.000Z",
+        "end": "2015-11-28T02:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041110/2009",
+            "organId": "41110/2009",
+            "processId": "041110/2009",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Melhorar as condições de Infra Estrutura da Zona Urbana do município, onde existem várias áreas totalmente carentes. Ruas a serem beneficiadas: Rua 02 do Conjunto Divaldo Suruagy Rua 03 do Conjunto Divaldo Suruagy Estas ruas são localizadas na zon urbana do município e o conjunto Divaldo Suruagy tem hoje cerca de 100 casas constridas e outras 150 em fase de construção o que com uma média de 5 moradores por residência teremos uma população atendida de cerca de 1250 pessoas com uma renda média de 1 salário mínimo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de diversas ruas do município de Feliz Deserto",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Feliz Deserto/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-06-21T03:00:00.000Z",
+            "biddingDate": "2009-12-23T02:00:00.000Z",
+            "homologationDate": "2010-01-18T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020091340",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 201031.82,
+              "details": {
+                "code": "5600020091340",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 201031.82,
+                "couterpartValues": {
+                  "total": 4631.82,
+                  "financial": 4631.82,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 196400,
+                  "amendment": "R$ 196.400,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.093.344-** - MAYKON BELTRAO LIMA SIQUEIRA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.719.813-** - HERBERT BUENOS AIRES DE CARVALHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2011",
+              "type": "Licitação - Concorrência",
+              "date": "2011-05-12T03:00:00.000Z",
+              "processId": "012011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concorrência",
+                "biddingType": "Menor Preço",
+                "processId": "012011",
+                "biddingId": "01/2011",
+                "object": "TERRAPLANAGEM E PAVIMENTAÇÃO DE RUAS DO CONJUNTO DIVALDO SURUAGY",
+                "legalFoundation": "LEI 8.6666",
+                "justification": "LICITAÇÃO PARA A EXECUÇÃO DA TERRAPLANAGEM E PAVIMENTAÇÃO DE RUAS DO CONJUNTO DIVALDO SURUAGY",
+                "publishDate": "2011-05-12T03:00:00.000Z",
+                "beginDate": "2011-06-13T03:00:00.000Z",
+                "endDate": "2011-06-16T03:00:00.000Z",
+                "biddingValue": 201945.15,
+                "homologationDate": "2011-06-16T03:00:00.000Z",
+                "city": "2753 - FELIZ DESERTO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2011",
+              "biddingId": "01/2011",
+              "date": "2011-06-16T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12829933000175",
+                "hirerDocument": "CNPJ: 12242020000158",
+                "type": "Obras",
+                "object": "TERRAPLANAGEM E PAVIMENTAÇÃO DE RUAS DO CONJUNTO DIVALDO SURUAGY",
+                "totalValue": 201945.15,
+                "publishDate": "2011-06-16T03:00:00.000Z",
+                "beginDate": "2011-06-16T03:00:00.000Z",
+                "endDate": "2012-06-10T03:00:00.000Z",
+                "signDate": "2011-06-16T03:00:00.000Z",
+                "executionProcessId": "01/2011 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "012011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "710190/2009",
+            "validity": "23/12/2009 a 28/11/2015",
+            "limitDate": "2015-11-28T02:00:00.000Z",
+            "totalValue": 201031.82,
+            "transferValue": 196400,
+            "counterpartValue": 4631.82,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "704838/2009",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-09-10T03:00:00.000Z",
+        "end": "2010-01-14T02:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "048964/2009",
+            "organId": "00989/2009",
+            "processId": "72031.001554/2009-14",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "Decreto 6170/07 e Portaria interministerial 127/08",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Feliz Deserto cuja população é de aproximadamente 4.370habitantes é um município alagoano situado no litoral sul do Estado, que se destaca na região por suas riquezas naturais e culturais e por seus eventos festivos, a exemplo do “16º EDIÇÃO DO FESTIVAL DO MASUNIN”, realizado no período de 11 à 13/09/2009. O Festival do Massunin de tradição turística e cultural com referência na região, tem se consolidado como grande evento que apresenta as manifestações culturais, como a religiosidade, o folclore, os costumes os saberes e fazeres de um povo ordeiro e que transmite alegria. Embasada por esta tradição o município de Feliz Deserto desenvolve no mês de setembro este evento que prestigia toda a cultura do seu povo, possibilitando assim a elevação da auto-estima de toda a comunidade. Ainda servirá para incrementar a economia local, gerando empregos de forma direta e indireta para toda a população, pois as comemorações possibilitam aos ambulantes, barraqueiros, comerciantes a hoteleiros e empresários em geral impulsionar a geração de renda para o município. Por possuir um potencial turístico de grandes riquezas culturais e naturais, a exemplo da Várzea da Marituba, considerado o Pantanal Alagoano, o município tem atraído inúmeros visitantes da Região Nordeste. O evento tem duração de três dias e conta com uma programação diversa: apresentações de grupos culturais, shows com bandas musicais, grupos de coral, teatro e exposição de artesanato, como também o fortalecimento do turismo sustentável local. “O Festival do Massunin” estimula as potencialidades humanas, o desenvolvimento turístico e cultural da cidade, valorizando a qualidade das ações apresentadas e o aperfeiçoamento de seus profissionais, promovendo a inclusão social. Com o evento, pretende-se ainda: Aumentar em 20% o fluxo turístico do município e da região, provocando a permanência do turista na cidade por um período maior de dias; Gerar renda extra para 60% da população local; Consolidar o evento no calendário turístico estadual e inserí-lo no calendário turístico nacional.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Realização do 16º Festival do Massunin de Feliz Deserto/AL.",
+            "information": "A prefeitura Municipal de Feliz Deserto/AL, declara que tem capacidade técnica para executar o projeto 10º Festival do Massunin",
+            "proposalDate": "2009-07-13T03:00:00.000Z",
+            "biddingDate": "2009-09-10T03:00:00.000Z",
+            "homologationDate": "2009-10-02T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090049",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 135500,
+              "details": {
+                "code": "5400020090049",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "EVENTOS DE PESCA ESPORTIVA",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 135500,
+                "couterpartValues": {
+                  "total": 5500,
+                  "financial": 5500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 130000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.093.344-** - MAYKON BELTRAO LIMA SIQUEIRA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012/2009",
+              "type": "Inexigibilidade",
+              "date": null,
+              "processId": "0122009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "0122009",
+                "biddingId": null,
+                "object": "CONTRATAÇÃO DE SERVIÇO ARTÍSTICOS REFERENTE AO FESTIVAL DO MAÇUNIM",
+                "legalFoundation": "LEI 8.6666",
+                "justification": "INEXIGIBILIDADE PARA CONTRATAÇÃO DE BANDAS",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 181900,
+                "homologationDate": "2009-09-04T03:00:00.000Z",
+                "city": "2753 - FELIZ DESERTO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000012/2009",
+              "biddingId": "012/2009",
+              "date": "2009-09-25T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 03077802000198",
+                "hirerDocument": "CNPJ: 12242020000158",
+                "type": "Serviço",
+                "object": "REALIZAÇÃO DE SERVIÇOS ARTISTICOS",
+                "totalValue": 181900,
+                "publishDate": "2009-09-25T03:00:00.000Z",
+                "beginDate": "2009-09-08T03:00:00.000Z",
+                "endDate": "2009-10-08T03:00:00.000Z",
+                "signDate": "2009-09-08T03:00:00.000Z",
+                "executionProcessId": "012/2009 ",
+                "biddingModality": "Inexigibilidade ",
+                "processId": "0122009 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "704838/2009",
+            "validity": "10/09/2009 a 14/01/2010",
+            "limitDate": "2017-07-02T03:00:00.000Z",
+            "totalValue": 135500,
+            "transferValue": 130000,
+            "counterpartValue": 5500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "702575/2008",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2008-12-24T02:00:00.000Z",
+        "end": "2009-02-28T03:00:00.000Z",
+        "program": "PROMOÇÃO E PARTICIPAÇÃO EM EVENTOS TURISTICOS NACIONAIS E INTERNACIONAIS - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "021318/2008",
+            "organId": "01550/2008",
+            "processId": "72000.006035/2008-29",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "decreto6170/07eportariainterministerial/08",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Feliz Deserto é um município alagoano situado no litoral sul do Estado, que se destaca na região por suas riquezas naturais e culturais e por seus eventos festivos, a exemplo do “Natal de Luz e Cultura”, realizado no período de 24 à 26/12/2008 e que contribui com o espírito da ocasião, elevando a auto-estima dos participantes, da comunidade e do público em geral atraindo visitantes dos municípios vizinhos. Por possuir um potencial turístico de grandes riquezas culturais e naturais, a exemplo da Várzea da Marituba, considerado o Pantanal Alagoano, o município tem atraído inúmeros visitantes da Região Nordeste. O evento tem duração de três dias e conta com uma programação diversa: apresentações de grupos culturais (pastoril, guerreiro, entre outros), shows com bandas musicais, grupos de coral, teatro e exposição de artesanato. Centenas de pessoas beneficiam-se com os empregos diretos e indiretos gerados com o evento, além de favorecer a preservação das manifestações culturais alagoanas que elevam a auto-estima da população local, gerando renda aos envolvidos, como também o fortalecimento do turismo sustentável local. “Natal de Luz e Cultura” estimula as potencialidades humanas, o desenvolvimento turístico e cultural da cidade, valorizando a qualidade das ações apresentadas e o aperfeiçoamento de seus profissionais, promovendo a inclusão social e a auto estima da população através da geração de renda provocada com os empregos diretos e indiretos gerados com esse evento. Com o evento, pretende-se ainda: Aumentar em 20% o fluxo turístico do município e da região, provocando a permanência do turista na cidade por um período maior de dias; Gerar renda extra para 60% da população local; Consolidar o evento no calendário turístico estadual e inserí-lo no calendário turístico nacional.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Realizar o Natal de Luz e Cultura de Feliz Deserto no período de 24 à 26/12/2008.",
+            "information": "",
+            "proposalDate": "2008-12-05T02:00:00.000Z",
+            "biddingDate": "2008-12-24T02:00:00.000Z",
+            "homologationDate": "2009-01-21T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020080007",
+              "name": "PROMOÇÃO E PARTICIPAÇÃO EM EVENTOS TURISTICOS NACIONAIS E INTERNACIONAIS - PROGRAMAÇÃO",
+              "value": 256000,
+              "details": {
+                "code": "5400020080007",
+                "name": "PROMOÇÃO E PARTICIPAÇÃO EM EVENTOS TURISTICOS NACIONAIS E INTERNACIONAIS - PROGRAMAÇÃO",
+                "cps": null,
+                "items": "FESTIVIDADES NATALINAS",
+                "couterpartRule": "Municípios mais de 50.000 habitantes  áreas PNDR (Decreto Nº. 6047/2007), SUDENE (Lei Complementar Nº. 125/2007) e SUDAM (Lei Complementar Nº. 124/2007) [Percentual Mínimo Contrapartida: 5.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 256000,
+                "couterpartValues": {
+                  "total": 12800,
+                  "financial": 12800,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243200,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.472.494-** - ROSIANA LIMA BELTRAO SIQUEIRA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.881.858-** - LUIZ EDUARDO BARRETTO FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "262008",
+              "type": "Licitação - Convite",
+              "date": null,
+              "processId": "262008",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "262008",
+                "biddingId": "262008",
+                "object": "Serviços de Locação de Equipamentos para os Festejos Natalinos.",
+                "legalFoundation": "LEI 8666/93",
+                "justification": "Serviços de Locação de Equipamentos para os Festejos Natalinos que ocorrerá entre os dias 24 a 26 de dezembro de 2008.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 60000,
+                "homologationDate": "2008-12-05T02:00:00.000Z",
+                "city": "2753 - FELIZ DESERTO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000026/2008",
+              "biddingId": "262008",
+              "date": "2008-12-09T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09207823000167",
+                "hirerDocument": "CNPJ: 12242020000158",
+                "type": "Serviço",
+                "object": "Serviços de Locação de Equipamentos para os Festejos Natalinos que ocorrerá entre os dias 24 a 26 de dezembro de 2008.",
+                "totalValue": 60000,
+                "publishDate": "2008-12-09T02:00:00.000Z",
+                "beginDate": "2008-12-24T02:00:00.000Z",
+                "endDate": "2009-02-28T03:00:00.000Z",
+                "signDate": "2008-12-09T02:00:00.000Z",
+                "executionProcessId": "262008 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "262008 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "702575/2008",
+            "validity": "24/12/2008 a 28/02/2009",
+            "limitDate": "2017-07-30T03:00:00.000Z",
+            "totalValue": 256000,
+            "transferValue": 243200,
+            "counterpartValue": 12800,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "702152/2008",
+        "uf": "AL",
+        "city": "Feliz Deserto",
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-12-29T02:00:00.000Z",
+        "end": "2009-04-24T03:00:00.000Z",
+        "program": "PROMOÇÃO E PARTICIPAÇÃO EM EVENTOS TURISTICOS NACIONAIS E INTERNACIONAIS - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "011470/2008",
+            "organId": "01572/2008",
+            "processId": "72000.006095/2008-41",
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "legalFoundation": "decreto6170/07eportariainterministerial127/08",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Feliz Deserto é um município alagoano situado no litoral sul do Estado, distante 116 km da capital Maceió, a 14 km da Foz do Rio São Francisco, e a 48 km da cidade histórica de Penedo. Tem como economia, o turismo, a pesca, o artesanato e o cultivo da cana-de-açúcar. A cidade apresenta um potencial turístico de grandes riquezas culturais e naturais, formando ambientes diferentes revelados na paisagem como a Várzea da Marituba, considerado o Pantanal Alagoano, ecossistema de grande importância para a sobrevivência da fauna e da flora regional. A cidade destaca-se na região, através de seus eventos festivos, a exemplo do Festival Turístico e de Tradições Populares de Feliz Deserto, atraindo visitantes não só da região, como também, de Estados vizinhos. Milhares de pessoas beneficiam-se com os empregos diretos e indiretos gerados com este evento, e a inclusão das diversas manifestações culturais têm elevado a auto-estima da população, além é claro, da geração de renda provocada. O município é conhecido internacionalmente por seu artesanato confeccionados com palhas de taboa através das mãos artesãs que com seu trançado produz lindos objetos úteis e decorativos. O evento tem duração de seis dias, com uma programação diversa: apresentações de grupos culturais (pastoril, banda de pífano, guerreiro entre outros), show com bandas musicais, feira de artesanato, competição de pesca de arremesso, culminando com a procissão de Nossa Senhora Mãe dos Homens, cuja imagem vem acompanhada por milhares de peregrinos e cavaleiros.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Realizar o Festival Turístico e de Tradições Populares de Feliz Deserto, no período de 27 à 31/12/2008.",
+            "information": "",
+            "proposalDate": "2008-11-20T02:00:00.000Z",
+            "biddingDate": "2008-12-29T02:00:00.000Z",
+            "homologationDate": "2009-01-02T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020080007",
+              "name": "PROMOÇÃO E PARTICIPAÇÃO EM EVENTOS TURISTICOS NACIONAIS E INTERNACIONAIS - PROGRAMAÇÃO",
+              "value": 256000,
+              "details": {
+                "code": "5400020080007",
+                "name": "PROMOÇÃO E PARTICIPAÇÃO EM EVENTOS TURISTICOS NACIONAIS E INTERNACIONAIS - PROGRAMAÇÃO",
+                "cps": null,
+                "items": "OUTROS EVENTOS",
+                "couterpartRule": "Municípios mais de 50.000 habitantes  áreas PNDR (Decreto Nº. 6047/2007), SUDENE (Lei Complementar Nº. 125/2007) e SUDAM (Lei Complementar Nº. 124/2007) [Percentual Mínimo Contrapartida: 5.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 256000,
+                "couterpartValues": {
+                  "total": 12800,
+                  "financial": 12800,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243200,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.020/0001-58 - PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "respProponent": "***.472.494-** - ROSIANA LIMA BELTRAO SIQUEIRA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.881.858-** - LUIZ EDUARDO BARRETTO FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "PREFEITURA MUNICIPAL DE FELIZ DESERTO",
+            "documentNumber": "12.242.020/0001-58",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Análise",
+            "number": "702152/2008",
+            "validity": "29/12/2008 a 24/04/2009",
+            "limitDate": "2009-04-24T03:00:00.000Z",
+            "totalValue": null,
+            "transferValue": 256000,
+            "counterpartValue": 243200,
+            "yieldValue": 12800
+          }
+        }
+      }
+    ]
+  }
+}
