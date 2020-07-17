@@ -22,11 +22,11 @@ import ConvenientExecution, {
   Contract,
 } from './convenient_execution';
 import Accountability, { Data as AccountabilityData } from './accountability';
+import { Company } from '../../app';
 
 export interface Agreement {
   agreementId: string;
-  uf: string;
-  city: string;
+  company: Company;
   name: string;
   status: string;
   start: Date;
@@ -91,7 +91,7 @@ class Agreements extends Page {
 
   async getAll(
     page: number,
-    { uf, city }: { uf: string; city: string },
+    company: Company,
     search: (webdriver: WebDriver) => void,
   ): Promise<Agreement[]> {
     const getTableRows = async () => {
@@ -250,8 +250,7 @@ class Agreements extends Page {
 
         const agreement: Agreement = {
           agreementId: id,
-          uf,
-          city,
+          company,
           name,
           status: summaryStatus,
           start: parse(start, 'dd/MM/yyyy', new Date()),

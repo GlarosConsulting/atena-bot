@@ -22,7 +22,7 @@ interface Log {
   };
 }
 
-interface Company {
+export interface Company {
   cnpj: string;
   name: string;
   city: {
@@ -55,6 +55,8 @@ async function run(): Promise<void> {
       return [];
     }
   };
+
+  console.time('Total time:');
 
   const companies = await getCompanies({ page: 1, rowsPerPage: 100 });
   const agreements: Agreement[] = [];
@@ -112,7 +114,7 @@ async function run(): Promise<void> {
     for (let i = -1; i < pagesCount; i++) {
       lastPage = i;
 
-      const all = await agreementsPage.getAll(i, location, newWebDriver =>
+      const all = await agreementsPage.getAll(i, company, newWebDriver =>
         search({ newWebDriver, company }),
       );
 
@@ -165,6 +167,8 @@ async function run(): Promise<void> {
       },
     );
   }
+
+  console.timeEnd('Total time:');
 
   for (const logId of Object.keys(logs)) {
     const log = logs[logId];

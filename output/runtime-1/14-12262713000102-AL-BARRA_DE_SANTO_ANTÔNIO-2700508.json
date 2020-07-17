@@ -1,0 +1,1256 @@
+{
+  "beginDate": "2020-07-17T14:29:06.914Z",
+  "endDate": "2020-07-17T14:34:20.229Z",
+  "data": {
+    "location": {
+      "city": "Barra de Santo Antônio",
+      "uf": "AL",
+      "ibge": "2700508"
+    },
+    "agreements": [
+      {
+        "agreementId": "867784/2018",
+        "company": {
+          "id": "04669424-bd1d-4714-8f42-8fc38af2cc1b",
+          "cnpj": "12262713000102",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+            "name": "Barra de Santo Antônio",
+            "uf": "AL",
+            "ibge": "2700508"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-21T02:00:00.000Z",
+        "end": "2020-12-31T03:00:00.000Z",
+        "program": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "027177/2018",
+            "organId": "00131/2018",
+            "processId": "59553.000190/2018-99",
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "legalFoundation": "Decreto 6.170/2007 e Port. 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A presente proposta visa o estabelecimento de políticas públicas através de ações que objetivem o DESENVOLVIMENTO REGIONAL E TERRITORIAL através da PAVIMENTAÇÃO E DRENAGEM DE ÁGUAS PLUVIAIS DAS RUAS PROJETADA 11, 12 E 30 DO LOTEAMENTO RUME FARIAS NO MUNICÍPIO DE BARRA DE SANTO ANTÔNIO/AL. Para tanto a Prefeitura Municipal de Barra de Santo Antônio possui projeto de engenharia que visa a pavimentação e drenagem das ruas que farão parte deste projeto. Barra de Santo Antônio é um município brasileiro do estado de Alagoas, localizado na Região Metropolitana de Maceió. Sua população segundo o IBGE 2010 é de 14.230 habitantes, a distância do município até a capital é de 40 km. Seu Índice de Desenvolvimento Humano (IDH) é de 0,594, segundo o Atlas de Desenvolvimento Humano/PNUD (2010). Em 2015, o salário médio mensal era de 1.8 salários mínimos. A proporção de pessoas ocupadas em relação à população total era de 6.6%. Na comparação com os outros municípios do estado, ocupava as posições 38 de 102 e 61 de 102, respectivamente. Já na comparação com cidades do país todo, ficava na posição 3020 de 5570 e 4506 de 5570, respectivamente. Considerando domicílios com rendimentos mensais de até meio salário mínimo por pessoa, tinha 51.6% da população nessas condições, o que o colocava na posição 56 de 102 dentre as cidades do estado e na posição 1073 de 5570 dentre as cidades do Brasil. Barra de Santo Antônio deve sua colonização aos holandeses, que chegaram ao litoral por volta de 1853. A partir daí começou o progresso no povoado, que era constituído por poucas casas de taipa construídas à margem do rio Santo Antônio, que corta a cidade em dois locais distintos - um mais urbano, sede da cidade (à margem direita) e o outro, mais turístico e nativo (à margem esquerda). A agricultura local é composta basicamente da produção de alimentos da agricultura familiar, plantio de cana de açúcar e coco. No sentido de promover o desenvolvimento do potencial econômico do Município, é que se apresenta esta proposta, com vista, a angariar investimentos para infraestrutura econômica do Município, capaz de promover o melhoramento dos setores produtivos e comerciais da cidade, de maneira, que a obra de pavimentação beneficiará diretamente a economia do município, permitindo o melhoramento no escoamento da produção e da atividade comercial local, propiciando o fluxo de veículos e pessoas. Estas limitações de obras de infraestrutura impedem o desenvolvimento das potencialidades da região, pois se tornam gargalos para crescimento sustentável do município. Desta forma, a realização da referida obra se torna de suma importância para a elevação das condições de habitabilidade da população, pois promove o desenvolvimento econômico através da melhoria do acesso ao município. Justificamos que os investimentos na pavimentação destas ruas, beneficiará diretamente a economia do Município, nos diversos setores, como por exemplo no setor agrícola, facilitando a trafegabilidade da produção da zona rural para a urbana, aumentando a produção agrícola, com vista ao abastecimento da cidade e seus comércios. O problema a ser resolvido é a carência da infraestrutura urbana adequada para a trafegabilidade do escoamento da produção do município. Resultados Esperados: Esperamos com esta importante obra conseguirmos não apenas interligar vias importantes de rota de transporte para escoamento da produção, como também fortalecermos a cadeia produtiva local estimulando a produção e garantindo a qualidade/quantidade e o retorno financeiro aos produtores. O público alvo são os produtores locais, moradores do bairro que se beneficiarão com a implantação da obra, além dos visitantes que a cidade frequentemente recebe.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "PAVIMENTAÇÃO E DRENAGEM DE ÁGUAS PLUVIAIS DAS RUAS PROJETADA 11, 12 E 30 DO LOTEAMENTO RUME FARIAS NO MUNICÍPIO DE BARRA DE SANTO ANTÔNIO/AL, COM A FINALIDADE DE FOMENTAR O DESENVOLVIMENTO REGIONAL E TERRITORIAL.",
+            "information": "Para os devidos fins administrativos e efeitos legais, declaro junto ao Ministério da Integração Nacional, por intermédio da Secretaria de Desenvolvimento Regional – SDR/MI, que a Prefeitura Municipal de Barra de Santo Antônio/AL, inscrita no CNPJ sob o nº 12.262.713/0001-02, dispõe de pessoal com capacidade administrativa e técnica para execução do objeto constante do Plano de Trabalho para Pavimentação em Paralelepípedo e Drenagem em diversas ruas na Zona Urbana, no município de Barra de Santo Antônio/AL, com a finalidade de fomentar o DESENVOLVIMENTO REGIONAL E TERRITORIAL proposto para formalização de Convênio. A obra será acompanhada pelo engenheiro Ricardo Alexandre de Brito Barros, CREA/AL nº 021206452-5. Esclareço, ainda, que este Proponente assume a responsabilidade pela execução do objeto proposto em todas as fases exigidas legalmente, licitação, acompanhamento da execução e prestação de contas.",
+            "proposalDate": "2018-03-13T03:00:00.000Z",
+            "biddingDate": "2018-12-19T02:00:00.000Z",
+            "homologationDate": "2018-12-21T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020180005",
+              "name": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+              "value": 251439.65,
+              "details": {
+                "code": "5300020180005",
+                "name": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+                "cps": null,
+                "items": "Pavimentação, Drenagem",
+                "couterpartRule": "No caso de municípios com ate 50.000 habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 251439.65,
+                "couterpartValues": {
+                  "total": 1439.65,
+                  "financial": 1439.65,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "respProponent": "***.600.988-** - EMANUELLA CORADO ACIOLI DE MOURA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.013.663-** - MARLON CARVALHO CAMBRAIA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "documentNumber": "12.262.713/0001-02",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "867784/2018",
+            "validity": "21/12/2018 a 31/12/2020",
+            "limitDate": "2021-03-01T03:00:00.000Z",
+            "totalValue": 251439.65,
+            "transferValue": 250000,
+            "counterpartValue": 1439.65,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "837813/2016",
+        "company": {
+          "id": "04669424-bd1d-4714-8f42-8fc38af2cc1b",
+          "cnpj": "12262713000102",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+            "name": "Barra de Santo Antônio",
+            "uf": "AL",
+            "ibge": "2700508"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2016-12-14T02:00:00.000Z",
+        "end": "2021-02-26T03:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "014052/2016",
+            "organId": "14052/2016",
+            "processId": "0140522016",
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "com a execução deste projeto para pavimentação da rua principal do loteamento sem terras, do povoado de Santa Luzia, aproximadamente 150 famílias serão beneficiadas DIRETAMENTE, haja visto que em épocas de chuvas esta via fica praticamente intransitável, dificultando a vida dos moradores e especialmente a dos alunos da rede escolar municipal. SALIENTAMOS QUE O POVOADO DE SANTA LUZIA, TEM UMA POPULAÇÃO COM CERCA DE 2.500 HABITANTES",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação da rua principal do loteamento sem terras de Santa Luzia.",
+            "information": "a Prefeitura disponibilizara engenheira para acompanhamento das obras e Gestor de Convênios para operacionalização do siconv. ESCLARECEMOS QUE A ENGENHEIRA JULIANA NOBRE NÓBREGA,CONTINUA SENDO NOSSA ENGENHEIRA RESPONSÁVEL.",
+            "proposalDate": "2016-03-14T03:00:00.000Z",
+            "biddingDate": "2016-12-14T02:00:00.000Z",
+            "homologationDate": "2016-12-22T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160014",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 250000,
+              "details": {
+                "code": "5600020160014",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 4150,
+                  "financial": 4150,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "respProponent": "***.339.154-** - JOSE ROGERIO CAVALCANTE FARIAS",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.847.618-** - GILBERTO KASSAB"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-04-12T03:00:00.000Z",
+              "processId": "022018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "022018",
+                "biddingId": "02/2018",
+                "object": "EXECUÇÃO DE SERVIÇOS DE PAVIMENTAÇÃO EM PARALELEPÍPEDO DA RUA PROJETADA 02 LOCALIZADA NO POVOADO DE SANTA LUZIA.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "EXECUÇÃO DE SERVIÇOS DE PAVIMENTAÇÃO EM PARALELEPÍPEDO DA RUA PROJETADA 02 LOCALIZADA NO POVOADO DE SANTA LUZIA.",
+                "publishDate": "2018-04-12T03:00:00.000Z",
+                "beginDate": "2018-05-02T03:00:00.000Z",
+                "endDate": "2018-06-15T03:00:00.000Z",
+                "biddingValue": 250000,
+                "homologationDate": "2018-06-26T03:00:00.000Z",
+                "city": "2709 - BARRA DE SANTO ANTONIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2018",
+              "biddingId": "02/2018",
+              "date": "2018-06-28T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 24110961000117",
+                "hirerDocument": "CNPJ: 12262713000102",
+                "type": "Obras",
+                "object": "EXECUÇÃO DE SERVIÇOS DE PAVIMENTAÇÃO EM PARALELEPÍPEDO DA RUA PROJETADA 02 LOCALIZADA NO POVOADO DE SANTA LUZIA.",
+                "totalValue": 223021.7,
+                "publishDate": "2018-06-28T03:00:00.000Z",
+                "beginDate": "2018-06-27T03:00:00.000Z",
+                "endDate": "2019-06-27T03:00:00.000Z",
+                "signDate": "2018-06-27T03:00:00.000Z",
+                "executionProcessId": "02/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "022018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "documentNumber": "12.262.713/0001-02",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "837813/2016",
+            "validity": "14/12/2016 a 26/02/2021",
+            "limitDate": "2021-04-27T03:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 245850,
+            "counterpartValue": 4150,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "800586/2013",
+        "company": {
+          "id": "04669424-bd1d-4714-8f42-8fc38af2cc1b",
+          "cnpj": "12262713000102",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+            "name": "Barra de Santo Antônio",
+            "uf": "AL",
+            "ibge": "2700508"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T02:00:00.000Z",
+        "end": "2019-01-30T02:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "099059/2013",
+            "organId": "99059/2013",
+            "processId": "0990592013",
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "No Município de Barra de Santo Antonio - AL, mais precisamente no bairro Paraíso,os moradores da região em épocas de chuva,sofrem muito com o alagamento e com o lamaçal da principal via de acesso ao loteamento. Com a aprovação deste projeto que prevê a pavimentação em pedras granilíticas na rua principal, cerca de 40 famílias serão beneficiadas diretamente.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em Pedra granilítica, com drenagem de aguas pluviais na rua principal do Bairro Paraíso.",
+            "information": "O município dispõe de engenheira para o acompanhamento e fiscalização da obra e de GMC.",
+            "proposalDate": "2013-12-28T02:00:00.000Z",
+            "biddingDate": "2013-12-31T02:00:00.000Z",
+            "homologationDate": "2014-01-14T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020130013",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 284903,
+              "details": {
+                "code": "5600020130013",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação e requalificação de infraestrutura de sistemas de transporte público coletivo urbano de passageiros ( Vide aba ANEXOS - Arquivo MOBILIDADE URBANA), Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "Contrato de Repasse com valor inferior a R$ 750.000,00, para Municípios,exceto quando necessário à funcionalidade do objeto e à cobertura de despesas não apoiadas com recursos da União. [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 284903,
+                "couterpartValues": {
+                  "total": 39053,
+                  "financial": 39053,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "respProponent": "***.600.988-** - EMANUELLA CORADO ACIOLI DE MOURA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001/2015",
+              "type": "Licitação - Tomada de Preços",
+              "date": null,
+              "processId": "0012015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0012015",
+                "biddingId": "001/2015",
+                "object": "Pavimentação em Pedra granilítica, com drenagem de águas pluviais na rua principal do Bairro Paraíso.",
+                "legalFoundation": "Lei",
+                "justification": "No Município de Barra de Santo Antonio - AL, mais precisamente no bairro Paraíso,os moradores da região em épocas de chuva,sofrem muito com o alagamento e com o lamaçal da principal via de acesso ao loteamento. Com a aprovação deste projeto que prevê a pavimentação em pedras granilíticas na rua principal, cerca de 40 famílias serão beneficiadas diretamente.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 287450.46,
+                "homologationDate": null,
+                "city": "2709 - BARRA DE SANTO ANTONIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2015",
+              "biddingId": "001/2015",
+              "date": "2016-06-05T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05541344000121",
+                "hirerDocument": "CNPJ: 12262713000102",
+                "type": "Obras",
+                "object": "Executar Obras de Pavimentação em Pedra granilítica, com drenagem de águas pluviais na rua principal do Bairro Paraíso.",
+                "totalValue": 287450.46,
+                "publishDate": "2016-06-05T03:00:00.000Z",
+                "beginDate": "2013-12-31T02:00:00.000Z",
+                "endDate": "2016-01-30T02:00:00.000Z",
+                "signDate": "2015-06-05T03:00:00.000Z",
+                "executionProcessId": "001/2015 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "documentNumber": "12.262.713/0001-02",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "800586/2013",
+            "validity": "31/12/2013 a 30/01/2019",
+            "limitDate": "2019-03-31T03:00:00.000Z",
+            "totalValue": 284903,
+            "transferValue": 245850,
+            "counterpartValue": 39053,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "751406/2010",
+        "company": {
+          "id": "04669424-bd1d-4714-8f42-8fc38af2cc1b",
+          "cnpj": "12262713000102",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+            "name": "Barra de Santo Antônio",
+            "uf": "AL",
+            "ibge": "2700508"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2011-01-06T02:00:00.000Z",
+        "end": "2015-04-04T03:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "084430/2010",
+            "organId": "01038/2010",
+            "processId": "59050.002967/2010-63",
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A Prefeitura de Barra de Santo Antonio, com o intuito de salvaguardar a população da Ilha da Crôa (cerca de 8 mil habitantes), decretou Estado de Emergência, conforme Decreto n° 009/2010 de 15 de julho de 2010 e homologado no Diário Oficial pelo Governo do Estado no dia 18 de agosto de 2010, pretende adotar como solução técnica para recuperar a área degradada pelo avanço do mar, a implantação de um Barra Mar Dissipador de Energia Tipo Bagwall com extensão de 1.000 m.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Recuperação da orla marítima da Ilha da Crôa com a implantação de Barra Mar Dissipador de Energia Tipo Bagwall com extensão de 1.000 m.",
+            "information": "A capacidade técnica e Gerencial para o acompanhamento da execução da obra será feita pela Secretaria Municipal de Infra Estrutura que além de dar todo o apoio logistico e administrativo para garantir o fiel cumprimento das metas, colocará um engenheiro designado pela Prefeitura para este fim, com o objetivo de acompanhar todos os procedimentos construtivos, garantindo o cumprimento do projeto básico.",
+            "proposalDate": "2010-08-25T03:00:00.000Z",
+            "biddingDate": "2010-12-29T02:00:00.000Z",
+            "homologationDate": "2011-01-06T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100002",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 5900,
+              "details": {
+                "code": "5300020100002",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infra-estrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRI~ÇÃO DO PROGRAMA)",
+                "couterpartRule": "Todos os municípios com até 50.000 habitantes, de todas as regiões do Brasil. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 5900,
+                "couterpartValues": {
+                  "total": 118000,
+                  "financial": 118000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 5782,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "respProponent": "***.310.504-** - MARIA CICERA MENDONCA CASADO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.042.835-** - IVONE MARIA VALENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "0012011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "0012011",
+                "biddingId": null,
+                "object": "Recuperação da orla marítima da Ilha da Crôa com a implantação de Barra Mar dissipador de energia tipo Bagwall com extenção de 1.000 m.",
+                "legalFoundation": "art. 24, inciso IV da lei 8.666",
+                "justification": "Nos casos de emergencia ou calamidade pública, quando caracterizada urgencia de atendimento de situação que possa ocasionar prejuizos ou comprometimento a segurança de pessoas, obras, serviços, equipamentos e outros bens,Públicos ou particulares.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": null,
+                "city": "2709 - BARRA DE SANTO ANTONIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2011",
+              "biddingId": "0012011",
+              "date": "2011-12-12T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05056818000140",
+                "hirerDocument": "CNPJ: 12262713000102",
+                "type": "Serviço de Engenharia",
+                "object": "Construção de um Barra Mar dissipador de energia tipo Bagwall com 1000 metro de extensão.",
+                "totalValue": 5864.498,
+                "publishDate": "2011-12-12T02:00:00.000Z",
+                "beginDate": "2011-12-12T02:00:00.000Z",
+                "endDate": "2012-05-10T03:00:00.000Z",
+                "signDate": "2011-10-06T03:00:00.000Z",
+                "executionProcessId": "0012011 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "0012011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "documentNumber": "12.262.713/0001-02",
+            "modality": "Convênio",
+            "status": "Aguardando Prestação de Contas",
+            "number": "751406/2010",
+            "validity": "06/01/2011 a 04/04/2015",
+            "limitDate": "2015-05-04T03:00:00.000Z",
+            "totalValue": 5900,
+            "transferValue": 5782,
+            "counterpartValue": 118000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "732941/2010",
+        "company": {
+          "id": "04669424-bd1d-4714-8f42-8fc38af2cc1b",
+          "cnpj": "12262713000102",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+            "name": "Barra de Santo Antônio",
+            "uf": "AL",
+            "ibge": "2700508"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-04-30T03:00:00.000Z",
+        "end": "2010-09-27T03:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas em Complementação",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "024865/2010",
+            "organId": "00271/2010",
+            "processId": "720310074722010-17",
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "legalFoundation": "Decreto 6170/2007, Portaria Interministerial 127/2008 e Portaria MTur 153/2009",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município da Barra de Santo Antônio realizará o Festival Cultura e Paz no próximo dia 30 de abril, quando promoverá atividades culturais durante o evento que já é esperado por toda população da região e por todo trade trade turístico que projeta um grande fluxo de turistas neste período. Pela tradição festiva da cidade, espera-se um público de cerca de 10 mil pessoas, o que movimentará todo o comércio local. Os resultados esperados com a realziação do Festival Cultura e Paz, dentre outros, são a atração de novos investimentos no setor, a geração de emprego e renda (espera-se gerar mais de 400 em um único dia), o aumento da ocupação hoteleira na região, a formação de redes de cooperação, a qualificadção da mão-de-obra local e o fortalecimento da Barra de Santo Antônio como um dos principais destinos turísticos de Alagoas e do Nordeste. A Barra de Santo Antônio é um município brasileiro do estado de Alagoas, localizado na Região Metropolitana de Maceió. Sua população é estimada em cerca de 15 mil habitantes, de acordo com o IBGE. Distante de Maceió apenas 37 km, possui belas praias como Tabuba, com seus vistosos arrecifes de franja e barreiras, transformando o mar em uma grande piscina; a famosa Ilha da Croa, com seu extenso coqueiral e praias de rara beleza e ainda pouco exploradas, mantendo seu apelo selvagem e exótico. A Barra de Santo Antônio tem no turismo sua vocação natural. Suas praias conservam característias selvagens e linhas de arrecifes formam piscinas naturais de uma limpidez incontestável. Cortada pelo rio Santo Antônio Grande, a Barra se divide em duas partes, uma mais urbana que integra a estrutura da cidade, e, navegando pelo rio, a mais nativa, onde se concentram os principais pontos turísticos, entre eles a Ilha da Crôa, cuja travessia é feita por balsas. Ainda como atrativos, as praias de Carro Quebrado, das Enseadas e Tabuba. Entre as festividades, destacam-se o carnaval, a Micacrôa (fora de época), os festejos juninos, a festa de abertura do verão, a festa do padroeiro, São Sebastião (20 de janeiro), da Emancipação (20 de agosto) a partir deste ano o festival Cultura e Paz da Barra de Santo Antônio. Portanto, receber o apoio do Ministério do Turismo é ajudar a consolidar essa indústria desenvolvimentista que não polui e que gera oportuniddaes para todos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "FESTIVAL CULTURA E PAZ",
+            "information": "DECLARAMOS POSSUIR CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O PRESENTE PROJETO",
+            "proposalDate": "2010-03-25T03:00:00.000Z",
+            "biddingDate": "2010-04-30T03:00:00.000Z",
+            "homologationDate": "2010-06-01T03:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100019",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 105000,
+              "details": {
+                "code": "5400020100019",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "H) FESTIVAIS CULTURAIS;",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 105000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "respProponent": "***.310.504-** - MARIA CICERA MENDONCA CASADO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.797.948-** - CARLOS ALBERTO DA SILVA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0022010",
+              "type": "Inexigibilidade",
+              "date": null,
+              "processId": "0022010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "0022010",
+                "biddingId": null,
+                "object": "Festival de cultura e paz",
+                "legalFoundation": "Decreto 61702007",
+                "justification": "O município da Barra de Santo Antônio realizará o Festival Cultura e Paz no próximo dia 30 de abril, quando promoverá atividades culturais durante o evento que já é esperado por toda população da região e por todo trade trade turístico que projeta um grande fluxo de turistas neste período. Pela tradição festiva da cidade, espera-se um público de cerca de 10 mil pessoas, o que movimentará todo o comércio local. Os resultados esperados com a realziação do Festival Cultura e Paz, dentre outros, são a atração de novos investimentos no setor, a geração de emprego e renda (espera-se gerar mais de 400 em um único dia), o aumento da ocupação hoteleira na região, a formação de redes de cooperação, a qualificadção da mão-de-obra local e o fortalecimento da Barra de Santo Antônio como um dos principais destinos turísticos de Alagoas e do Nordeste. A Barra de Santo Antônio é um município brasileiro do estado de Alagoas, localizado na Região Metropolitana de Maceió. Sua população é estimada em cerca de 15 mil habitantes, de acordo com o IBGE. Distante de Maceió apenas 37 km, possui belas praias como Tabuba, com seus vistosos arrecifes de franja e barreiras, transformando o mar em uma grande piscina; a famosa Ilha da Croa, com seu extenso coqueiral e praias de rara beleza e ainda pouco exploradas, mantendo seu apelo selvagem e exótico. A Barra de Santo Antônio tem no turismo sua vocação natural. Suas praias conservam característias selvagens e linhas de arrecifes formam piscinas naturais de uma limpidez incontestável. Cortada pelo rio Santo Antônio Grande, a Barra se divide em duas partes, uma mais urbana que integra a estrutura da cidade, e, navegando pelo rio, a mais nativa, onde se concentram os principais pontos turísticos, entre eles a Ilha da Crôa, cuja travessia é feita por balsas. Ainda como atrativos, as praias de Carro Quebrado, das Enseadas e Tabuba. Entre as festividades, destacam-se o carnaval, a Micacrôa (fora de época), os festejos juninos, a festa de abertura do verão, a festa do padroeiro, São Sebastião (20 de janeiro), da Emancipação (20 de agosto) a partir deste ano o festival Cultura e Paz da Barra de Santo Antônio. Portanto, receber o apoio do Ministério do Turismo é ajudar a consolidar essa indústria desenvolvimentista que não polui e que gera oportuniddaes para todos.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 105000,
+                "homologationDate": null,
+                "city": "2709 - BARRA DE SANTO ANTONIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2010",
+              "biddingId": "0022010",
+              "date": "2010-07-06T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09525117000163",
+                "hirerDocument": "CNPJ: 12262713000102",
+                "type": "Serviço",
+                "object": "Festival de Cultura e Paz",
+                "totalValue": 105000,
+                "publishDate": "2010-07-06T03:00:00.000Z",
+                "beginDate": "2010-04-30T03:00:00.000Z",
+                "endDate": "2010-06-30T03:00:00.000Z",
+                "signDate": "2010-04-28T03:00:00.000Z",
+                "executionProcessId": "0022010 ",
+                "biddingModality": "Inexigibilidade ",
+                "processId": "0022010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "documentNumber": "12.262.713/0001-02",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Complementação",
+            "number": "732941/2010",
+            "validity": "30/04/2010 a 27/09/2010",
+            "limitDate": "2014-04-10T03:00:00.000Z",
+            "totalValue": 105000,
+            "transferValue": 100000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "722960/2009",
+        "company": {
+          "id": "04669424-bd1d-4714-8f42-8fc38af2cc1b",
+          "cnpj": "12262713000102",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+            "name": "Barra de Santo Antônio",
+            "uf": "AL",
+            "ibge": "2700508"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-30T02:00:00.000Z",
+        "end": "2013-12-31T02:00:00.000Z",
+        "program": "Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo - EDITAL Nº 07/2010",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "072498/2009",
+            "organId": "00251/2009",
+            "processId": "71000.088638/2009-59",
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "legalFoundation": "Decreto nº 6.170/07 e Portaria Nº 127/08",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Barra de Santo Antonio/AL fica localizado na Região Metropolitana de Maceió/AL, distante apenas 38 km da capital, com uma população superior a 13.731 habitantes (IBGE 2007), sua extensão territorial é de 138 km2 . Sua economia está focada na monocultura da cana de açúcar e na exploração de minifúndios em regime de economia familiar, através da piscicultura, criação de pequenos animais e da agricultura de subsistência. Com a oportunidade da concepção deste projeto, certamente as famílias que se beneficiarão encontrarão uma saída para minimizar os problemas econômicos, resultando na elevação do índice do desenvolvimento social. Atualmente sua feira-livre não é de grande representatividade para a economia local. O município de Barra de Santo Antonio tem desenvolvido diversos projetos sociais, sendo a maioria através de parcerias com o Governo Federal. A agricultura familiar no município está começando a se definir e ganhar maiores proporções pelo fato de haver uma distribuição fundiária que atende boa parte da população que vive no campo, mesmo com a cultura canavieira predominando parte dessa área. A Feira da Agricultura Familiar vai impulsionar a economia local, tanto para as famílias envolvidas, como para toda sociedade que terá a oportunidade de usufruir de produtos saudáveis, dentro dos padrões de boa qualidade, além da opção da variedade. Esta iniciativa também facilitará o escoamento de parte da produção dos agricultores familiares, podendo assim, serem ofertados com um preço um pouco mais baixo em relação ao mercado convencional. O grupo de produtores que irá compor este projeto receberá capacitações exclusivas e assistência técnica gratuita que ajudarão no desenvolvimento das atividades com o principal objetivo de inovar as práticas de produção para que os resultados atinjam as metas planejadas dentro deste grupo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo - Projetos Parlamentares",
+            "information": "O processo de avaliação será monitorado sistematicamente através de acompanhamento e elaboração de relatórios periódicos construídos por uma equipe técnica das Secretarias de Agricultura e Assistência Social do município. Todo pessoal será capacitado, inclusive com a realização de visitas técnicas para vivenciarem experiências exitosas de outros municípios que se encontram executando este Projeto. Todo gerenciamento será acompanhado pelos Conselhos Municipais locais e pela sociedade interessada.",
+            "proposalDate": "2009-09-17T03:00:00.000Z",
+            "biddingDate": "2009-12-29T02:00:00.000Z",
+            "homologationDate": "2009-12-30T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020090015",
+              "name": "Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo - EDITAL Nº 07/2010",
+              "value": 131800,
+              "details": {
+                "code": "5500020090015",
+                "name": "Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo - EDITAL Nº 07/2010",
+                "cps": null,
+                "items": "Comercialização Direta – Feiras Populares - Edital nº 11/2009.",
+                "couterpartRule": "Para Municípios: a) 4 % - Municípios acima de 50 mil hab. no âmbito da PNDR, nas áreas da SUDENE e da SUDAM e no Centro-Oeste; b) 8 % - Demais municípios. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 131800,
+                "couterpartValues": {
+                  "total": 5200,
+                  "financial": 5200,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 126600,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "respProponent": "***.310.504-** - MARIA CICERA MENDONCA CASADO",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.018.798-** - MAYA TAKAGI"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "004/2010",
+              "type": "Licitação - Pregão",
+              "date": "2010-06-16T03:00:00.000Z",
+              "processId": "0042010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0042010",
+                "biddingId": "004/2010",
+                "object": "Aquisição de equipamentos e materiais permanentes e de consumo para feira popular.",
+                "legalFoundation": "decreto 6.170/07",
+                "justification": "O município de Barra de Santo Antonio/AL fica localizado na Região Metropolitana de Maceió/AL, distante apenas 38 km da capital, com uma população superior a 13.731 habitantes (IBGE 2007), sua extensão territorial é de 138 km2 . Sua economia está focada na monocultura da cana de açúcar e na exploração de minifúndios em regime de economia familiar, através da piscicultura, criação de pequenos animais e da agricultura de subsistência. Com a oportunidade da concepção deste projeto, certamente as famílias que se beneficiarão encontrarão uma saída para minimizar os problemas econômicos, resultando na elevação do índice do desenvolvimento social. Atualmente sua feira-livre não é de grande representatividade para a economia local. O município de Barra de Santo Antonio tem desenvolvido diversos projetos sociais, sendo a maioria através de parcerias com o Governo Federal. A agricultura familiar no município está começando a se definir e ganhar maiores proporções pelo fato de haver uma distribuição fundiária que atende boa parte da população que vive no campo, mesmo com a cultura canavieira predominando parte dessa área. A Feira da Agricultura Familiar vai impulsionar a economia local, tanto para as famílias envolvidas, como para toda sociedade que terá a oportunidade de usufruir de produtos saudáveis, dentro dos padrões de boa qualidade, além da opção da variedade. Esta iniciativa também facilitará o escoamento de parte da produção dos agricultores familiares, podendo assim, serem ofertados com um preço um pouco mais baixo em relação ao mercado convencional. O grupo de produtores que irá compor este projeto receberá capacitações exclusivas e assistência técnica gratuita que ajudarão no desenvolvimento das atividades com o principal objetivo de inovar as práticas de produção para que os resultados atinjam as metas planejadas dentro deste grupo.",
+                "publishDate": "2010-06-16T03:00:00.000Z",
+                "beginDate": "2010-06-28T03:00:00.000Z",
+                "endDate": "2010-06-28T03:00:00.000Z",
+                "biddingValue": 103200,
+                "homologationDate": "2010-07-12T03:00:00.000Z",
+                "city": "2709 - BARRA DE SANTO ANTONIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2010",
+              "biddingId": "004/2010",
+              "date": "2010-07-30T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 06069671000195",
+                "hirerDocument": "CNPJ: 12262713000102",
+                "type": "Material",
+                "object": "Fornecimento de Equipamentos e Material permanente para a implantação da feira popular no município.",
+                "totalValue": 57985,
+                "publishDate": "2010-07-30T03:00:00.000Z",
+                "beginDate": "2010-07-12T03:00:00.000Z",
+                "endDate": "2010-10-11T03:00:00.000Z",
+                "signDate": "2010-07-12T03:00:00.000Z",
+                "executionProcessId": "004/2010 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0042010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "documentNumber": "12.262.713/0001-02",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Análise",
+            "number": "722960/2009",
+            "validity": "30/12/2009 a 31/12/2013",
+            "limitDate": "2014-03-01T03:00:00.000Z",
+            "totalValue": null,
+            "transferValue": 131800,
+            "counterpartValue": 126600,
+            "yieldValue": 5200
+          }
+        }
+      },
+      {
+        "agreementId": "720727/2009",
+        "company": {
+          "id": "04669424-bd1d-4714-8f42-8fc38af2cc1b",
+          "cnpj": "12262713000102",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+            "name": "Barra de Santo Antônio",
+            "uf": "AL",
+            "ibge": "2700508"
+          }
+        },
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-01-15T02:00:00.000Z",
+        "program": "1214.8581.0048 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - No Estado de Alagoas - Emenda Parlamentar - 22890006",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "073480/2009",
+            "organId": "07348/2009",
+            "processId": "073480/2009",
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Barra de Santo Antonio localizado no Litoral Norte do Estado de Alagoas, fazendo parte dos “Territórios da Cidadania” no programa do Governo Federal. Sua população total é de 11.351 habitantes, de acordo com o Censo Demográfico do IBGE (2000). Seu Índice de Desenvolvimento Humano (IDH) é de 0,59 segundo o Atlas de Desenvolvimento Humano/PNUD (2000), sua economia é baseada na cana-de-açúcar e pesca. Barra de Santo Antonio dista da capital alagoana, Maceió, cerca de 40 km. A unidade de saúde será construída no Conjunto Ernesto Gomes Maranhão, localizada na zona rural do município, com uma população média de 2.200 habitantes. Por ser um conjunto novo, este projeto irá beneficiar aquela população e, os demais dos arredores, em síntese o projeto irá beneficiar cerca de 500 famílias direta e indiretamente, tendo uma renda média entre 1/2 e um salário mínimo mensal. O Governo Municipal, preocupada com as condições de seus munícipes, procura atender de uma forma melhor e, a saúde de cada pessoa que reside na zona urbana e rural.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE UNIDADE BÁSICA DE SAÚDE",
+            "information": "A PREFEITURA DISPONILIZARÁ UM TÉCNICO NA ÁREA DE ENGENHARIA PARA ACOMPANHAR AS OBRAS QUE SERÃO EXECUTADAS",
+            "proposalDate": "2009-09-22T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020090844",
+              "name": "1214.8581.0048 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - No Estado de Alagoas - Emenda Parlamentar - 22890006",
+              "value": 255103,
+              "details": {
+                "code": "3600020090844",
+                "name": "1214.8581.0048 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - No Estado de Alagoas - Emenda Parlamentar - 22890006",
+                "cps": "",
+                "items": "Construção de Unidade de Atenção Básica de Saúde.",
+                "couterpartRule": "Municípios com até 50 mil habitantes. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 4.0%]",
+                "totalValue": 255103,
+                "couterpartValues": {
+                  "total": 5103,
+                  "financial": 5103,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": "R$ 250.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "respProponent": "***.339.154-** - JOSE ROGERIO CAVALCANTE FARIAS",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0052011",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2011-10-14T03:00:00.000Z",
+              "processId": "0052011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0052011",
+                "biddingId": "0052011",
+                "object": "Construção de uma Unidade Básica de Saúde",
+                "legalFoundation": "decreto",
+                "justification": "O Município de Barra de Santo Antonio localizado no Litoral Norte do Estado de Alagoas, fazendo parte dos “Territórios da Cidadania” no programa do Governo Federal. Sua população total é de 11.351 habitantes, de acordo com o Censo Demográfico do IBGE (2000). Seu Índice de Desenvolvimento Humano (IDH) é de 0,59 segundo o Atlas de Desenvolvimento Humano/PNUD (2000), sua economia é baseada na cana-de-açúcar e pesca. Barra de Santo Antonio dista da capital alagoana, Maceió, cerca de 40 km. A unidade de saúde será construída no Conjunto Ernesto Gomes Maranhão, localizada na zona rural do município, com uma população média de 2.200 habitantes. Por ser um conjunto novo, este projeto irá beneficiar aquela população e, os demais dos arredores, em síntese o projeto irá beneficiar cerca de 500 famílias direta e indiretamente, tendo uma renda média entre 1/2 e um salário mínimo mensal. O Governo Municipal, preocupada com as condições de seus munícipes, procura atender de uma forma melhor e, a saúde de cada pessoa que reside na zona urbana e rural.",
+                "publishDate": "2011-10-14T03:00:00.000Z",
+                "beginDate": "2011-12-05T02:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 254977.42,
+                "homologationDate": "2012-01-23T02:00:00.000Z",
+                "city": "2709 - BARRA DE SANTO ANTONIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2012",
+              "biddingId": "0052011",
+              "date": "2012-02-01T02:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05541344000121",
+                "hirerDocument": "CNPJ: 12262713000102",
+                "type": "Material e Serviço",
+                "object": "Execução de serviços de engenharia civil para a construção de 1(uma)Unidade Básica de Saúde.",
+                "totalValue": 254977.42,
+                "publishDate": "2012-02-01T02:00:00.000Z",
+                "beginDate": "2012-02-01T02:00:00.000Z",
+                "endDate": "2014-01-15T02:00:00.000Z",
+                "signDate": "2012-01-30T02:00:00.000Z",
+                "executionProcessId": "0052011 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0052011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "documentNumber": "12.262.713/0001-02",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "720727/2009",
+            "validity": "31/12/2009 a 15/01/2016",
+            "limitDate": "2016-01-15T02:00:00.000Z",
+            "totalValue": 255103,
+            "transferValue": 250000,
+            "counterpartValue": 5103,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "714476/2009",
+        "company": {
+          "id": "04669424-bd1d-4714-8f42-8fc38af2cc1b",
+          "cnpj": "12262713000102",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cc31b1ed-6e27-4b7b-856a-2557c99e3cd4",
+            "name": "Barra de Santo Antônio",
+            "uf": "AL",
+            "ibge": "2700508"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T02:00:00.000Z",
+        "end": "2016-04-30T03:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "050435/2009",
+            "organId": "50435/2009",
+            "processId": "050435/2009",
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "pavimentação em paralelepipedos nas Ruas do Campo no Alto da Boa Vista, em área urbana do município, para beneficiar 40 famílias, onde a sua média salarial é de um salário mínimo. Com a pavimentação dessas ruas irá melhorar o desenvolvimento e o acesso dessas famílias ao comércio da local.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "pavimentação",
+            "information": "a prefeitura disponibilizará um engenheiro para acompanhar a execuçaõ do projeto chamada de Juliana Nobre Nóbrega com o CPF Nº 052.355.244-03 com endereço no Conjunto Graciliano Ramos Quadra B-5 Rua -41 Nº 248 Bairro: Tabuleiro CEP: 57073-340 Registro Nacional: 0207051984, Registro no CREA: 521TPAL, onde acompanhará a execução da obra.",
+            "proposalDate": "2009-07-15T03:00:00.000Z",
+            "biddingDate": "2009-12-31T02:00:00.000Z",
+            "homologationDate": "2010-01-20T02:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090168",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 263160,
+              "details": {
+                "code": "5300020090168",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 263160,
+                "couterpartValues": {
+                  "total": 66760,
+                  "financial": 66760,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 196400,
+                  "amendment": "R$ 196.400,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.713/0001-02 - MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "respProponent": "***.339.154-** - JOSE ROGERIO CAVALCANTE FARIAS",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012011",
+              "type": "Licitação - Tomada de Preços",
+              "date": null,
+              "processId": "0012011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0012011",
+                "biddingId": "0012011",
+                "object": "Pavimentação em paralelepípedo",
+                "legalFoundation": "Lei",
+                "justification": "pavimentação em paralelepipedos nas Ruas do Campo no Alto da Boa Vista, em área urbana do município, para beneficiar 40 famílias, onde a sua média salarial é de um salário mínimo. Com a pavimentação dessas ruas irá melhorar o desenvolvimento e o acesso dessas famílias ao comércio da local.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 263160,
+                "homologationDate": null,
+                "city": "2709 - BARRA DE SANTO ANTONIO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2011",
+              "biddingId": "0012011",
+              "date": "2011-04-29T03:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 07228627000143",
+                "hirerDocument": "CNPJ: 12262713000102",
+                "type": "Serviço",
+                "object": "Pavimentação em paralelepípedo.",
+                "totalValue": 257705.52,
+                "publishDate": "2011-04-29T03:00:00.000Z",
+                "beginDate": "2011-04-26T03:00:00.000Z",
+                "endDate": "2011-11-26T02:00:00.000Z",
+                "signDate": "2011-04-26T03:00:00.000Z",
+                "executionProcessId": "0012011 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE BARRA DE SANTO ANTONIO",
+            "documentNumber": "12.262.713/0001-02",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "714476/2009",
+            "validity": "31/12/2009 a 30/04/2016",
+            "limitDate": "2016-04-30T03:00:00.000Z",
+            "totalValue": 263160,
+            "transferValue": 196400,
+            "counterpartValue": 66760,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}
