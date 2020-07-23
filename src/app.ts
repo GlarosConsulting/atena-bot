@@ -227,9 +227,6 @@ async function runBrowser({ companies }: BrowserOptions): Promise<void> {
     );
   }
 
-  // const response = await api.post('/agreements', agreements);
-  // console.log('response.data -> ', response.data);
-
   await quit(webdriver);
   // } catch (err) {
   //   console.log(`Occurred an unexpected error (${err}).`);

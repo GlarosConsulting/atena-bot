@@ -1,6 +1,7 @@
 import { WebElement, By, until, WebDriver } from 'selenium-webdriver';
 import { parse } from 'date-fns';
 
+import api from '../../services/api';
 import getValueOrDefault from '../../utils/getValueOrDefault';
 import { quit, build } from '../../utils/webdriver';
 import Page from '../page';
@@ -288,6 +289,8 @@ class Agreements extends Page {
 
         agreements.push(agreement);
         sequenceErrors = 0;
+
+        await api.post('/agreements', [agreement]);
       } catch (err) {
         console.log(
           `[Page ${
