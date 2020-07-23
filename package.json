@@ -4,7 +4,6 @@
   "main": "index.js",
   "author": "@andredezzy",
   "license": "MIT",
-  "type": "module",
   "scripts": {
     "dev": "nodemon src/app.ts",
     "start": "ts-node src/app.ts"
