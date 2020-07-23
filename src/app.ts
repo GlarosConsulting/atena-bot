@@ -34,31 +34,51 @@ export interface Company {
   sphere: string;
 }
 
+interface CompaniesResponse {
+  companies: Company[];
+  totalCount: number;
+  totalPages: number;
+}
+
 interface Pagination {
   page: number;
   rowsPerPage: number;
 }
 
-async function run(): Promise<void> {
+interface BrowserOptions {
+  companies: Company[];
+}
+
+async function getCompanies({
+  page,
+  rowsPerPage,
+}: Pagination): Promise<CompaniesResponse> {
+  try {
+    const response = await api.get<Company[]>('companies', {
+      params: { page, rowsPerPage },
+    });
+
+    return {
+      companies: response.data,
+      totalPages: response.headers['x-total-pages'],
+      totalCount: response.headers['x-total-count'],
+    };
+  } catch {
+    return {
+      companies: [],
+      totalPages: 0,
+      totalCount: 0,
+    };
+  }
+}
+
+async function runBrowser({ companies }: BrowserOptions): Promise<void> {
   let webdriver = await build();
 
   const logs: { [key: string]: Log } = {};
 
-  const getCompanies = async ({ page, rowsPerPage }: Pagination) => {
-    try {
-      const response = await api.get<Company[]>('companies', {
-        params: { page, rowsPerPage },
-      });
-
-      return response.data;
-    } catch {
-      return [];
-    }
-  };
-
   console.time('Total time:');
 
-  const companies = await getCompanies({ page: 1, rowsPerPage: 100 });
   const agreements: Agreement[] = [];
 
   let lastPage = -1;
@@ -238,6 +258,24 @@ async function run(): Promise<void> {
 
   //   run();
   // }
+}
+
+const ROWS_PER_PAGE = Number(process.env.ROWS_PER_PAGE) || 100;
+
+async function run() {
+  const { totalPages } = await getCompanies({
+    page: 1,
+    rowsPerPage: ROWS_PER_PAGE,
+  });
+
+  for (let page = 1; page <= totalPages; page++) {
+    const { companies } = await getCompanies({
+      page,
+      rowsPerPage: ROWS_PER_PAGE,
+    });
+
+    runBrowser({ companies });
+  }
 }
 
 run();
