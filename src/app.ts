@@ -72,12 +72,14 @@ async function getCompanies({
   }
 }
 
+let count = 0;
+
 async function runBrowser({ companies }: BrowserOptions): Promise<void> {
   let webdriver = await build();
 
   const logs: { [key: string]: Log } = {};
 
-  console.time('Total time:');
+  console.time(`Total time ${++count}`);
 
   const agreements: Agreement[] = [];
 
@@ -188,7 +190,7 @@ async function runBrowser({ companies }: BrowserOptions): Promise<void> {
     );
   }
 
-  console.timeEnd('Total time:');
+  console.time(`Total time ${count}`);
 
   for (const logId of Object.keys(logs)) {
     const log = logs[logId];
