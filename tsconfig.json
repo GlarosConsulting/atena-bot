@@ -8,11 +8,8 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "outDir": "dist",
-    "baseUrl": ".",
     "resolveJsonModule": true,
-    "paths": {
-      "*": ["node_modules/*", "src/types/*"]
-    }
-  },
-  "include": ["src/**/*"]
+    "allowJs": true,
+    "baseUrl": "src"
+  }
 }

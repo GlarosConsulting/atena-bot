@@ -1,6 +1,5 @@
 import 'dotenv/config';
 
-import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
 
@@ -53,9 +52,27 @@ async function getCompanies({
   page,
   rowsPerPage,
 }: Pagination): Promise<CompaniesResponse> {
+  // return {
+  //   companies: [
+  //     {
+  //       cnpj: '12345678901234',
+  //       city: { name: '', ibge: '', uf: '' },
+  //       ibge: '',
+  //       name: '',
+  //       sphere: '',
+  //     },
+  //   ],
+  //   totalPages: 1,
+  //   totalCount: 1,
+  // };
+
   try {
     const response = await api.get<Company[]>('companies', {
-      params: { page, rowsPerPage },
+      params: {
+        cities: ['Maceió', 'Arapiraca'],
+        page,
+        rowsPerPage,
+      },
     });
 
     return {

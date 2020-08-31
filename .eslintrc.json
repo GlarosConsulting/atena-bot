@@ -4,7 +4,7 @@
     "node": true
   },
   "extends": [
-    "airbnb-base",
+    "airbnb",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:@typescript-eslint/recommended",
     "prettier/@typescript-eslint",
@@ -23,24 +23,31 @@
     "@typescript-eslint",
     "prettier"
   ],
-  "settings": {
-    "import/resolver": {
-      "node": {
-        "extensions": [
-          ".ts"
-        ]
-      }
-    }
-  },
   "rules": {
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "ts": "never"
+      }
+    ],
     "prettier/prettier": "error",
     "no-restricted-syntax": 0,
-    "import/extensions": 0,
     "import/prefer-default-export": 0,
     "no-await-in-loop": 0,
     "no-plusplus": 0,
     "implicit-arrow-linebreak": 0,
     "no-continue": 0,
     "no-loop-func": 0
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [
+          ".js",
+          ".ts"
+        ]
+      }
+    }
   }
 }

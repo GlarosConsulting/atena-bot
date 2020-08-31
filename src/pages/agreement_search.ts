@@ -62,7 +62,7 @@ class AgreementSearch extends Page {
       await sleep(1000);
       await input.sendKeys(Key.HOME);
       await sleep(1000);
-      await input.sendKeys(cnpj);
+      await input.sendKeys(String(cnpj));
       await sleep(1000);
 
       (
