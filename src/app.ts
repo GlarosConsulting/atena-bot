@@ -48,24 +48,12 @@ interface BrowserOptions {
   companies: Company[];
 }
 
+const START_AT = process.env.START_AT || 0;
+
 async function getCompanies({
   page,
   rowsPerPage,
 }: Pagination): Promise<CompaniesResponse> {
-  // return {
-  //   companies: [
-  //     {
-  //       cnpj: '12345678901234',
-  //       city: { name: '', ibge: '', uf: '' },
-  //       ibge: '',
-  //       name: '',
-  //       sphere: '',
-  //     },
-  //   ],
-  //   totalPages: 1,
-  //   totalCount: 1,
-  // };
-
   try {
     const response = await api.get<Company[]>('companies', {
       params: {
@@ -120,18 +108,26 @@ async function runBrowser({ companies }: BrowserOptions): Promise<void> {
     await agreementSearchPage.searchByCnpj({ cnpj: company.cnpj });
   };
 
-  let companyCount = 0;
+  let companyCount = START_AT;
 
   // try {
   for (const company of companies) {
-    if (company.cnpj.length !== 14) continue;
+    if (companies.indexOf(company) < START_AT) {
+      continue;
+    }
+
+    if (company.cnpj.length !== 14) {
+      continue;
+    }
 
     await agreementSearchPage.searchByCnpj({ cnpj: company.cnpj });
 
     const pages = await agreementsPage.getPages();
     let pagesCount = 0;
 
-    if (pages !== null) pagesCount = pages.length;
+    if (pages !== null) {
+      pagesCount = pages.length;
+    }
 
     const location = {
       city: company.city.name,
