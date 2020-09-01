@@ -48,7 +48,7 @@ interface BrowserOptions {
   companies: Company[];
 }
 
-const START_AT = process.env.START_AT || 0;
+const START_AT = Number(process.env.START_AT) || 0;
 
 async function getCompanies({
   page,
