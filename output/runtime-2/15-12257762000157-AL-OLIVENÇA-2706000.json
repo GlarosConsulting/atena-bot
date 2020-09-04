@@ -1,0 +1,2572 @@
+{
+  "beginDate": "2020-09-01T13:53:00.598Z",
+  "endDate": "2020-09-01T14:06:28.381Z",
+  "data": {
+    "location": {
+      "city": "Olivença",
+      "uf": "AL",
+      "ibge": "2706000"
+    },
+    "agreements": [
+      {
+        "agreementId": "864662/2018",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2018-06-13T00:00:00.000Z",
+        "end": "2021-07-30T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS 2018",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "005052/2018",
+            "organId": "05052/2018",
+            "processId": "50522018",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Olivença está localizado no médio sertão – AL, distância até a capital 160 km, principais rodovias de acesso ao município AL-125, AL-130 e AL-220 , com área 172,957 km². Com uma população de 11.047 hab (IBGE 2010). Sendo 22,8% dos habitantes residentes em áreas urbanas e 77,2% residentes em áreas rurais. Com as principais festividades: Festa dos Carreiros (último evento contou com 700 carros de boi) realizada dia 10 de Janeiro; Emancipação Política, 02 de fevereiro; Cavalgada do Trabalhador, 3º domingo de maio – dia 16 – (registramos a participação de cerca de 1.200 cavaleiros e amazonas), Festa do Caju em Dezembro e a Festa da Padroeira do Município: Nossa Senhora do Carmo, mobilizando praticamente toda população local e os turistas que aquecem o comércio local com sua visita ao município para prestigiar as festividades. Festa da Padroeira do Município: Nossa Senhora do Carmo. O município tem a grande necessidade e um espaço adequado para melhor abrilhantar os eventos, busca apoio ao ministério do turismo, o município celebrou a 1ª primeira etapa do objeto construção do centro de eventos através do CR 1040020-66 e Convênio nº 847647/2017 esta sendo finalizado o projeto de engenharia para os tramite do processo licitatário,tendo a grande necessidade de ampliar este espaço para melhor recepcionar e atender os turista que visita o município, esta municipalidade apresentou esta proposta para a Construção do Centro de Eventos no município de Olivença – AL 2ª ETAPA, LATITUDE - 9°30'13.43 S LONGITUDE: 37°12'7.09 O , destinado a acolher as atividades e eventos desenvolvidos na cidade,O município de olivense tem a grande necessidade da construção do Centro de Eventos com um espaço coberto, palco, banheiros, vestiário, entre outros. O Público-alvo são os médios e grandes eventos que atraem não só o turismo local mais da região do agreste, Baixo são francisco e o sertão negócios , mas também os visitantes e turistas, onde haverá apresentações culturais em um local totalmente adequada e seguro. Onde anteriormente o local esta sendo as vias publicas, causando vários constrangimento devidos o piso irregular para as aprestações uma vês que a rua é pavimentada com paralelepípedo, tendo que interditar a transitou em via principal devido não haver um espaço adequado para realizar as festividades e apresentações. Com a construção do Centro de eventos ira incrementar o turismo não só com as apresentações como um local que os turistas si citam a vontade e com segurança. Fortalecendo movimentos culturais e a força turística da cidade. O centro eventos será um espaço tecnológico e multidisciplinar que irá incentivar ações e promover um maior engajamento educacional, cultural e de entretenimento junto a escolas da rede estadual e municipal, parceiros, empresas e ao público em geral, também utilizado como espaço para realização de eventos de exposição e fortalecimento ao turismo. O principal e mais conhecido ponto turístico de Olivença é a igreja católica de nossa Senhora do Carmo que ao mesmo tempo é tida como a paróquia das demais igrejas católicas do referido município. O presente projeto visa à Construção do Centro de Eventos no município de Olivença – AL 2ª ETAPA, LATITUDE - 9°30 13 75 S S LONGITUDE: 37°12 7.62 OO. Como objetivo principal, o empreendimento vai contribuir para o turismo local, com um espaço mais um atrativo para as eventos, além de preservar a identidade cultural da cidade através das atividades que serão desenvolvidas. Assim, o turismo de Olivença ganhará mais força, atrairá mais turistas à essa linda cidade e poderá contar com benefícios indiretos trazidos com o turismo como capacidade de organizar o espaço geográfico e implementando demandas de infraestrutura.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - Construção do Centro de Eventos no município de Olivença – AL 2ª ETAPA",
+            "information": "Declaramos, para devidos fins e a quem possa interessar, e sob as penalidades da Lei, que este Município dispõe de capacidade Técnica com quadro de profissionais, Setor de Contabilidade, GMC – Gestor Municipal de Convênio e contratos, Engenheiro Civil, para a Construção do Centro de Eventos no município de Olivença – AL 2ª ETAPA , para maior clareza e veracidade dos fatos da proposta nº 005052/2018 no sicvonv, esclarecemos outro sim, que a execução dos serviços serão acompanhado e fiscalizados pelo Engenheiro Civil, José Marcelo Araújo Cavalcante, CREA N°180383287-8.",
+            "proposalDate": "2018-01-29T00:00:00.000Z",
+            "biddingDate": "2018-06-13T00:00:00.000Z",
+            "homologationDate": "2018-06-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020180003",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS 2018",
+              "value": 785000,
+              "details": {
+                "code": "5400020180003",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS 2018",
+                "cps": "007/2018",
+                "items": "VI – construção, revitalização e reforma de edificações de uso público ou coletivo destinadas a atividades indutoras de turismo, como centros de cultura, museus, teatros, casas de memória, centros de convenções, feiras, centros de eventos, centros de apoio ao turista e centros de comercialização de produtos associados ao turismo;, Unidades Habitacionais, Equipamentos Comunitários, Pavimentação, Drenagem, Abastecimento de Água, Esgotamento Sanitário, Energia Elétrica e Iluminação, Coleta e Tratamento de Resíduos Sólidos, Contenção e Estabilização de Encostas, Regularização Fundiária, Aquisição de Terreno, Aquisição de Equipamentos e Insumos, Elaboração de Estudos e Projetos, Instrumentos e Ações em Planejamento e Gestão Pública, Ações Complementares de Obras, Gerenciamento, Trabalho Social, Transporte Público",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 785000,
+                "couterpartValues": {
+                  "total": 4274.98,
+                  "financial": 4274.98,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 780725.02,
+                  "amendment": "R$ 780.725,02"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.440.104-** - JOSE ARNALDO SILVA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "864662/2018",
+            "validity": "13/06/2018 a 30/07/2021",
+            "limitDate": "2021-09-28T00:00:00.000Z",
+            "totalValue": 785000,
+            "transferValue": 780725.02,
+            "counterpartValue": 4274.98,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "854654/2017",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T00:00:00.000Z",
+        "end": "2021-07-11T00:00:00.000Z",
+        "program": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "095192/2017",
+            "organId": "00968/2017",
+            "processId": "25100.016827/2017-94",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 424/2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "Em 1898, provenientes de Lagoa da Canoa, instalaram-se na região duas famílias: a de Manoel Vieira de Oliveira e a de Belarmino Vieira de Oliveira. Iniciou-se, assim, o desenvolvimento da região com a implantação de pequenos sítios e também com a agricultura e pecuária. O lugar ficou conhecido como Capim e teve este nome até a emancipação política. O nome Olivença caracteriza a junção dos sobrenomes das famílias fundadoras do município, atualmente possui 11.057 habitantes, dos quais 28,46 em área urbana e os outros 71,54 em área rural; Cumprindo a tradição entre os ricos proprietários de terras do interior de Alagoas, as próprias famílias construíram uma capela em homenagem à Nossa Senhora do Carmo, padroeira do povoado. A matriz que existe até hoje só foi construída em 1938, mesma época da instalação da feira do povoado. A Vila do Capim foi crescendo e, em 1930, os moradores tentaram a autonomia administrativa, tendo como principais líderes João e Odilon Vieira. Em 1959, através da lei 2.092, Capim foi elevada à condição de município autônomo com o nome de Olivença, que caracteriza a junção dos sobrenomes das famílias fundadoras do município. Com uma área territorial de 173km2 e situado a aproximadamente 248 km de Maceió e, suas Coordenadas geográficas – 09g31m07s de latitude sul e 37g11m26s de longitude oeste de Greenwich (W. Gr.), sua altitude é de 231 metros. O clima é do tipo tropical chuvoso, com verão seco. Seu IDH é de 0,534m. Sabendo-se que a desertificação da zona rural por conseqüência da procura de emprego e melhoria na qualidade de vida é que a zona urbana cresce de maneira desordenada e, conseqüentemente, a disponibilidade de habitação não é planejada e sim oportunada acarretando assim moradias precárias e sem ao menos banheiros, fossas e pisos de qualidade e, onde seus quintais compostos de criação de aves entre outros, todo este conjunto vem causando riscos à saúde desta população carente em todos os sentidos isto se dá ao fato de que muitos vivem na zona urbana de forma peculiar e sem assistencialismo necessário à atender suas expectativas de vida é neste ambiente que as crianças crescem tornam-se adultos sem ao menos saber qual o verdadeiro sentido de qualidade de vida. O município de Olivença sente a necessidade resgatar os valores humanitários a nossa população através de oferecimento de saúde de qualidade, tendo em vista que a maioria da população não dispunha de condições sanitárias necessárias tendo em vista que a falta de informação e condições financeiras são suportes essenciais ao elevado número de residências sem disponibilidade de banheiro e fossas isto faz com que acelere o desenvolvimento de doenças contagiosas, portanto a necessidade de apresentarmos este Projeto Melhorias Sanitárias Domiciliares para Prevenção e Controle de Agravos - MSD afim de que seja apreciado por esta Fundação Nacional de Saúde - FUNASA, visando ofertarmos uma boa qualidade de vida a nossa população que tanto sofre devido a estes fatores.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Melhorias Sanitárias Domiciliares no Município de Olivença -AL",
+            "information": "Pelo presente instrumento, o Município de Olivença, pessoa jurídica de direito público, inscrita no CNPJ sob nº. 12.257.762/0001-57, com sede na Rua Padre Cícero, s/n - Centro - Olivença – AL Cep:57550-000, neste ato representado por seu (sua) Prefeito (a) Municipal, Sr(a). Jose Arnaldo Silva, brasileiro, casado, Prefeito Municipal, inscrito(a) no CPF sob o nº 412.440.104-30, portador(a) da Carteira de Identidade nº 580693, Órgão expedidor: SSP/AL, em conformidade com o art.1º, §1º, XXIX, DECLARO, para fins de formalização de convênio com a Fundação Nacional de Saúde -Funasa, que possui experiência nas atividades referentes à matéria relacionada ao convênio, bem como que possui capacidade técnica e gerencial para celebrar, executar e prestar contas, observadas as condições previstas no convênio e no Plano de Trabalho. Por ser verdadeira a informação prestada, estou ciente que esta declaração estará sujeita as penalidades da lei, conforme dispõe o art. 299 do Código Penal, que prevê a pena por falsidade ideológica: “Art. 299 - Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante: Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o documento é particular.”",
+            "proposalDate": "2017-11-22T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170027",
+              "name": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+              "value": 250000,
+              "details": {
+                "code": "3621120170027",
+                "name": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+                "cps": null,
+                "items": "Implantação de Melhorias Sanitárias Domiciliares para Prevenção e Controle de Doenças e Agravos",
+                "couterpartRule": "Não será exigida a contrapartida, conforme Art. 79, §4, da Lei de Diretrizes Orçamentárias – LDO 2017 (Lei nº 13.408, de 26 de dezembro de 2016). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.440.104-** - JOSE ARNALDO SILVA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "854654/2017",
+            "validity": "29/12/2017 a 11/07/2021",
+            "limitDate": "2021-09-09T00:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 250000,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "850066/2017",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-01-15T00:00:00.000Z",
+        "end": "2020-12-30T00:00:00.000Z",
+        "program": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "018070/2017",
+            "organId": "00397/2017",
+            "processId": "59553.000036/2017-36",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6.170/2017 Port 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE OLIVENÇA ESTA LOCALIZADO NO MÉDIO SERTÃO-AL, COM LATITUDE 09º31 07 SUL E A UMA LONGITUDE 37 11 26 OESTE, ESTANDO A UMA ALTITUDE DE 231 METROS, DISTÂNCIA ATÉ A CAPITAL 160 KM, PRINCIPAIS RODOVIAS DE ACESSO AO MUNICÍPIO AL-125, AL-130 E AL-220, COM ÁREA 172,957 KM² [2],POPULAÇÃO 11 057 HAB. IBGE/2010, POPULAÇÃO URBANA 3.147 HAB. ,POPULAÇÃO RURAL 7.910 HAB. SEGUNDO SENSO 2010,DENSIDADE 63,93 HAB./KM²,CLIMA ÁRIDO,FUSO HORÁRIO UTC−3, IDH-M 0,534 BAIXO PNUD/2000[4],PIB R$ 31 297,461 MIL IBGE/2008[5],PIB PER CAPITA R$ 2 890,42 IBGE/2008[5]. SENDO 28% DOS HABITANTES RESIDENTES EM ÁREAS URBANAS E 72% RESIDENTES EM ÁREAS RURAIS. DE ACORDO COM O CENSO DEMOGRÁFICO DO IBGE (2010), SUA ÁREA É DE 173 KM2 REPRESENTANDO 0.6229 % DO ESTADO, 0.0111 % DA REGIÃO E 0.002 % DE TODO O TERRITÓRIO BRASILEIRO. COM A GRANDE CONCENTRAÇÃO DE FAMÍLIAS LOCALIZADA NA ZONA RURAL DO MUNICÍPIO COM SUA RENDA ORIUNDA DA PRODUÇÃO AGRÍCOLA PERMANENTE TEMPORÁRIA E PECUÁRIA,COM AS PRINCIPAIS PRODUÇÕES DO FEIJÃO, MILHO, MANDIOCA, PRODUÇÃO AGROPECUÁRIA, CRIAÇÃO DE GADO DE CORTE E LEITE. NA FRUTICULTURA O CULTIVO DO CAJU E DA CASTANHA DE CAJU. ESTA MUNICIPALIDADE TEM OBJETIVO GERAL DE APOIAR COM PROMOÇÃO DE INVESTIMENTOS EM INFRAESTRUTURA ECONÔMICA. VISANDO A RECUPERAÇÃO DE ESTRADAS VICINAL principal do povoado Fazenda Nova , QUE PELA MÁ QUALIDADE DO PISO NATURAL QUE DEPENDENDO DO PERÍODO DO ANO SE TORNA INTRANSITÁVEL COMO ACÚMULO DE ÁGUA NO PERÍODO CHUVOSO DIFICULTANDO A ESCOAMENTO DA PRODUÇÃO, GERANDO PREJUÍZO ECONÔMICO NO MUNICÍPIO E REGIÃO. TORNASSE COM VIA PRINCIPAL PARA O ESCOAMENTO DA PRODUÇÃO, ONDE A MESMA LIGA O POVOADO FAZENDA NOVA A ÁREA URBANA E AL-125. comunico que no percurso da estrada vicinal do povoado fazenda nova, outras estrada vicinais si interligam a mesmo tornado como via principal interligando os POVOADO VILA NOVA, SITIO SERRINHA,SITIO BARRO PRETO, SITIO MARTINS, SÍTIOS GARROTE, SITIO BARREIRO E PATOS, A ÁREA URBANA E AL-125. COM A RECUPERAÇÃO DA ESTRADA VICINAL NA ZONA RURAL, IRA GARANTIR UM ESCOAMENTO DA PRODUÇÃO COM MAIS SEGURANÇA DA ZONA RURAL A ZONA URBANA E REGIÃO GERANDO UMA ECONOMIA EFICAZ NO MUNICÍPIO E UM ARRANJO PRODUTIVO. PROGRAMA 5300020170009, SDR/MI ¬ AÇÃO 8902 – PROMOÇÃO DE INVESTIMENTOS EM INFRA-ESTRUTURAR ECONÔMICA- EMENDA INDIVIDUAL. 35420004 - GIVALDO CARIMBÃO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Recuperação de Estrada vicinal no município de Olivença-AL.",
+            "information": "Para os devidos fins administrativos e efeitos legais, declaro junto ao Ministério da Integração Nacional, por intermédio da Secretaria de Desenvolvimento Regional – SDR/MI, que a Prefeitura Municipal de Olivença, inscrita no CNPJ sob o nº 12.257.762/0001-57, dispõe de pessoal com capacidade administrativa e técnica para execução do objeto constante do Plano de Trabalho Recuperação de Estradas Vicinais no município de Olivença - AL. proposto para formalização de Convênio. Esclareço, ainda, que este Proponente assume a responsabilidade pela execução do objeto proposto em todas as fases exigidas legalmente, licitação, acompanhamento da execução e prestação de contas.",
+            "proposalDate": "2017-03-20T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020170009",
+              "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+              "value": 707000,
+              "details": {
+                "code": "5300020170009",
+                "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+                "cps": null,
+                "items": "7K66 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado",
+                "couterpartRule": "Municípios com até 50 mil habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 707000,
+                "couterpartValues": {
+                  "total": 7000,
+                  "financial": 7000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 700000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.440.104-** - JOSE ARNALDO SILVA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.943.702-** - HELDER ZAHLUTH BARBALHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "850066/2017",
+            "validity": "15/01/2018 a 30/12/2020",
+            "limitDate": "2021-02-28T00:00:00.000Z",
+            "totalValue": 707000,
+            "transferValue": 700000,
+            "counterpartValue": 7000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "847647/2017",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-09-04T00:00:00.000Z",
+        "end": "2021-10-30T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "016025/2017",
+            "organId": "16025/2017",
+            "processId": "0160252017",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE OLIVENÇA LOCALIZADO NO MÉDIO SERTÃO ALAGOANO E COM ACESSO À RODOVIA AL 125, COM UMA POPULAÇÃO DE 11.057 HABITANTES CONFORME CENSO DO IBGE 2010, ÁREA DA UNIDADE TERRITORIAL 2015 (KM²) 175,709, DENSIDADE DEMOGRÁFICA 2010 (HAB/KM²)63,87, ÍNDICE DE DESENVOLVIMENTO HUMANO MUNICIPAL - 2010 (IDHM 2010)0,493, VEM TENTANDO DESENVOLVER SEU POTENCIAL TURÍSTICO INCREMENTADO BASICAMENTE EM EVENTOS POPULARES TAIS COMO: FESTA DOS CARREIROS (ÚLTIMO EVENTO CONTOU COM 632 CARROS DE BOI) REALIZADA DIA 10 DE JANEIRO; FESTA DE EMANCIPAÇÃO POLÍTICA, 02 DE FEVEREIRO; CAVALGADA DO TRABALHADOR, 3º DOMINGO DE MAIO – DIA 13 – (REGISTRAMOS A PARTICIPAÇÃO DE CERCA DE 1.350 CAVALEIROS E AMAZONAS), CARNAVAL, FESTA DE PADROEIRA, FESTA JUNINA, FESTA DO CAJU, MOBILIZANDO PRATICAMENTE TODA POPULAÇÃO ALÉM DOS VISITANTES DAS CIDADES CIRCUNVIZINHAS E DE OUTROS ESTADOS. FESTA DA PADROEIRA DO MUNICÍPIO: NOSSA SENHORA DO CARMO, ONDE PARTICIPAM FAMÍLIAS DE TODO PAÍS movimentado a turismo,Outros Pontos Turístico, É A Igreja De Nossa Senhora Do Carmo Onde Receber Bastante turista pela sua beleza, E A Praça Padre Cicero Local De Visita Dos Turista Em Nosso Município.; COM A CONSTRUÇÃO DE 01(UM) CENTRO DE EVENTOS NO MUNICÍPIO DE OLIVENÇA - AL - LATITUDE - 9°30'13.43 S LONGITUDE: 37°12'7.09 O, VISA PROVER O MUNICÍPIO DE INFRAESTRUTURA ADEQUADA PARA EXPANSÃO DA ATIVIDADE TURÍSTICA E MELHORIA DOS PRODUTOS E SERVIÇOS OFERTADOS CONFORME PRECONIZA PLANO NACIONAL DO TURISMO 2007/2010. A EXECUÇÃO DA OBRA VISA SOLUCIONAR PROBLEMAS NO ÂMBITO DO TURISMO TAIS COMO: INEXISTÊNCIA DE UM LOCAL ESPECÍFICO E APROPRIADO PARA REALIZAÇÃO DOS EVENTOS, A APRESENTAÇÃO TEATRAL E DEMAIS ATIVIDADES TURÍSTICA, O DESCONFORTO NO PERÍODO CHUVOSO, A INSEGURANÇA NA TRAFEGABILIDADE E ACESSIBILIDADE AOS LOCAIS DE EVENTOS PELOS PORTADORES DE NECESSIDADES ESPECIAIS, ASSIM COMO A INDISPONIBILIDADE DOS IDOSOS EM SE SENTAREM PARA UMA RECREAÇÃO E UM BEM ESTAR E SOCIOCULTURAL AUMENTANDO ASSIM A AUTO-ESTIMA DOS CIDADÃOS OLIVENTINOS QUE POR VÁRIAS E VÁRIAS DÉCADAS NÃO DISPONIBILIZAM DE INFRAESTRUTURA ADEQUADA A NOSSA REALIDADE. É IMPORTANTE RESSALTAR QUE O OBJETO PROPOSTO É DE INTERESSE TURÍSTICO PARA O MUNICÍPIO, TENDO EM VISTA QUE, OS RESULTADOS ESPERADOS COM A IMPLANTAÇÃO COMPREENDEM DOTAR O MUNICÍPIO DESTA IMPORTANTE INFRAESTRUTURA TURÍSTICA, MELHORANDO ASSIM O PADRÃO DE QUALIDADE DE VIDA DOS NOSSOS MUNÍCIPES, POR MEIO DA GERAÇÃO DE EMPREGO E RENDA E ALAVANCAR A ECONOMIA, ONDE PASSARA E SER APRESENTADA TEATRO GRUPO DE DANÇA DE MÚSICA REGIONAIS, FESTAS JUNINAS ENTRE OUTRAS, TARÃ CONFORTO PARA OS TURISTA DE REGIÕES VIZINHAS E LOCAL INCLUSIVE NO QUE SE DIZ RESPEITOSOS POSSÍVEIS EMPREENDIMENTOS TEREMOS COM UM MAIOR FLUXO TURÍSTICO EM NOSSO MUNICÍPIO. CERTIFICO AINDA QUE A REFERIDA OBRA SERÁ CONSTRUÍDA NA ZONA URBANA DO MUNICÍPIO CONFORME CROCRI DE LOCALIZAÇÃO DAS ÁREAS NA ABA DE ANEXO. COMUNICO AINDA QUE A PROPOSTA FOI GERADA ATRAVÉS DA EMENDA PARLAMENTAR Nº22890008,DO SRº RENAN CALHEIROS SENADOR DA REPUBLICA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE 01(UM) CENTRO DE EVENTOS NO MUNICÍPIO DE OLIVENÇA - AL",
+            "information": "Declaramos, para devidos fins e a quem possa interessar, e sob as penalidades da Lei, que este Município dispõe de capacidade Técnica com quadro de profissionais, GMC – Gestor Municipal de Convênio e contratos, CPL – Comissão Permanente de Licitações, Engenheiro, para CONSTRUÇÃO DE 01(UM) CENTRO DE EVENTOS NO MUNICÍPIO DE OLIVENÇA - AL., conforme preceitua as exigências do Número da Proposta 016025/2017; para maior clareza e veracidade dos fatos, esclarecemos outro sim, que a execução dos serviços serão acompanhado e fiscalizados pelo Engenheiro Civil, Artur Lopes da Silva Filho ,CREA N°0200722590.",
+            "proposalDate": "2017-03-16T00:00:00.000Z",
+            "biddingDate": "2017-09-04T00:00:00.000Z",
+            "homologationDate": "2017-09-06T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170005",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+              "value": 250750,
+              "details": {
+                "code": "5400020170005",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+                "cps": "",
+                "items": "I – construção, revitalização e reforma de infraestrutura urbana para adequação de espaços de interesse turístico (saneamento básico, sistemas de drenagem urbana, paisagismo, sinalização turística e praças; parques urbanos, pavimentação, execução de calçadas, passeios, iluminação pública e ciclovias/ciclofaixas, se os projetos estiverem associados a parques, praças, orlas e outros atrativos turísticos, sendo necessária a apresentação de mapa (croqui) que evidencie a associação àqueles atrativos",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250750,
+                "couterpartValues": {
+                  "total": 7000,
+                  "financial": 7000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.440.104-** - JOSE ARNALDO SILVA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.774.458-** - NEUSVALDO FERREIRA LIMA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "04/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-05-15T00:00:00.000Z",
+              "processId": "0001006070519",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0001006070519",
+                "biddingId": "04/2019",
+                "object": "CONSTRUÇÃO DE 01(UM) CENTRO DE EVENTOS NO MUNICÍPIO DE OLIVENÇA - AL",
+                "legalFoundation": "LEI 8666/1993",
+                "justification": "Certifico que o certame ocorreu dentro das legada da Lei 8666/93 e suas alterações.",
+                "publishDate": "2019-05-15T00:00:00.000Z",
+                "beginDate": "2019-05-31T00:00:00.000Z",
+                "endDate": "2019-06-14T00:00:00.000Z",
+                "biddingValue": 247425.23,
+                "homologationDate": "2019-06-18T00:00:00.000Z",
+                "city": "2819 - OLIVENCA",
+                "analysisDate": "2019-10-23T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000404/2019",
+              "biddingId": "04/2019",
+              "date": "2019-06-21T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 31329769000181",
+                "hirerDocument": "CNPJ: 12257762000157",
+                "type": "Obras",
+                "object": "CONSTRUÇÃO DE 01(UM) CENTRO DE EVENTOS NO MUNICÍPIO DE OLIVENÇA - AL",
+                "totalValue": 247425.23,
+                "publishDate": "2019-06-21T00:00:00.000Z",
+                "beginDate": "2019-06-19T00:00:00.000Z",
+                "endDate": "2020-06-19T00:00:00.000Z",
+                "signDate": "2019-06-19T00:00:00.000Z",
+                "executionProcessId": "04/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0001006070519 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "847647/2017",
+            "validity": "04/09/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T00:00:00.000Z",
+            "totalValue": 250750,
+            "transferValue": 243750,
+            "counterpartValue": 7000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "839858/2016",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-30T00:00:00.000Z",
+        "end": "2021-07-12T00:00:00.000Z",
+        "program": "2068 - Saneamento B?sico / a??o 7652 - Implanta??o de Melhorias Sanit?rias Domiciliares para preven??o e Controle doen?as e agravos.",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "036281/2016",
+            "organId": "00275/2016",
+            "processId": "25100.017281/2016-16",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 507/2011.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "Em 1898, provenientes de Lagoa da Canoa, instalaram-se na região duas famílias: a de Manoel Vieira de Oliveira e a de Belarmino Vieira de Oliveira. Iniciou-se, assim, o desenvolvimento da região com a implantação de pequenos sítios e também com a agricultura e pecuária. O lugar ficou conhecido como Capim e teve este nome até a emancipação política. O nome Olivença caracteriza a junção dos sobrenomes das famílias fundadoras do município, atualmente possui 11.057 habitantes, dos quais 28,46 em área urbana e os outros 71,54 em área rural; Cumprindo a tradição entre os ricos proprietários de terras do interior de Alagoas, as próprias famílias construíram uma capela em homenagem à Nossa Senhora do Carmo, padroeira do povoado. A matriz que existe até hoje só foi construída em 1938, mesma época da instalação da feira do povoado. A Vila do Capim foi crescendo e, em 1930, os moradores tentaram a autonomia administrativa, tendo como principais líderes João e Odilon Vieira. Em 1959, através da lei 2.092, Capim foi elevada à condição de município autônomo com o nome de Olivença, que caracteriza a junção dos sobrenomes das famílias fundadoras do município. Com uma área territorial de 173km2 e situado a aproximadamente 248 km de Maceió e, suas Coordenadas geográficas – 09g31m07s de latitude sul e 37g11m26s de longitude oeste de Greenwich (W. Gr.), sua altitude é de 231 metros. O clima é do tipo tropical chuvoso, com verão seco. Seu IDH é de 0,534m. Sabendo-se que a desertificação da zona rural por conseqüência da procura de emprego e melhoria na qualidade de vida é que a zona urbana cresce de maneira desordenada e, conseqüentemente, a disponibilidade de habitação não é planejada e sim oportunada acarretando assim moradias precárias e sem ao menos banheiros, fossas e pisos de qualidade e, onde seus quintais compostos de criação de aves entre outros, todo este conjunto vem causando riscos à saúde desta população carente em todos os sentidos isto se dá ao fato de que muitos vivem na zona urbana de forma peculiar e sem assistencialismo necessário à atender suas expectativas de vida é neste ambiente que as crianças crescem tornam-se adultos sem ao menos saber qual o verdadeiro sentido de qualidade de vida. O município de Olivença sente a necessidade resgatar os valores humanitários a nossa população através de oferecimento de saúde de qualidade, tendo em vista que a maioria da população não dispunha de condições sanitárias necessárias tendo em vista que a falta de informação e condições financeiras são suportes essenciais ao elevado número de residências sem disponibilidade de banheiro e fossas isto faz com que acelere o desenvolvimento de doenças contagiosas, portanto a necessidade de apresentarmos este Projeto Melhorias Sanitárias Domiciliares para Prevenção e Controle de Agravos - MSD afim de que seja apreciado por esta Fundação Nacional de Saúde - FUNASA, visando ofertarmos uma boa qualidade de vida a nossa população que tanto sofre devido a estes fatores.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Melhorias Sanitárias Domiciliares no Município de Olivença -AL",
+            "information": "Declaramos, para devidos fins e a quem possa interessar, e sob as penalidades da Lei, que este Município dispõe de capacidade Técnica com quadro de profissionais, GMC – Gestor Municipal de Convênio contratos, Engenheiro Civil e Contabilidade para a Implantação de Melhorias Sanitárias Domiciliares no Município de Olivença -AL, conforme preceitua as exigências da Proposta nº 036281/2016, para maior clareza e veracidade dos fatos, esclarecemos outro sim, que a execução dos serviços serão acompanhado e fiscalizados pelo Engenheiro Civil, ARTHUR LOPES DA SILVA FILHO,CREA N° 0200722590.",
+            "proposalDate": "2016-11-30T00:00:00.000Z",
+            "biddingDate": "2016-12-30T00:00:00.000Z",
+            "homologationDate": "2017-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120160015",
+              "name": "2068 - Saneamento B?sico / a??o 7652 - Implanta??o de Melhorias Sanit?rias Domiciliares para preven??o e Controle doen?as e agravos.",
+              "value": 500919.6,
+              "details": {
+                "code": "3621120160015",
+                "name": "2068 - Saneamento B?sico / a??o 7652 - Implanta??o de Melhorias Sanit?rias Domiciliares para preven??o e Controle doen?as e agravos.",
+                "cps": null,
+                "items": "2068 - Saneamento Básico / ação 7652 - Implantação de Melhorias Sanitárias Domiciliares para prevenção e Controle doenças e agravos.",
+                "couterpartRule": "2068 - Saneamento Básico / ação 7652 - Implantação de Melhorias Sanitárias Domiciliares para prevenção e Controle doenças e agravos. [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500919.6,
+                "couterpartValues": {
+                  "total": 4033.55,
+                  "financial": 4033.55,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 496886.05,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.440.104-** - JOSE ARNALDO SILVA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-01-17T00:00:00.000Z",
+              "processId": "009002011118",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "009002011118",
+                "biddingId": "03/2018",
+                "object": "Construção de 60 Módulos Sanitárias Domiciliares no Município de Olivença -AL",
+                "legalFoundation": "LEI 8666/1993",
+                "justification": "A presente licitação ocorreu conforme a lei 8666/1993 e suas alterações.",
+                "publishDate": "2019-01-17T00:00:00.000Z",
+                "beginDate": "2019-02-21T00:00:00.000Z",
+                "endDate": "2019-03-26T00:00:00.000Z",
+                "biddingValue": 500919.6,
+                "homologationDate": "2019-04-05T00:00:00.000Z",
+                "city": "2819 - OLIVENCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000303/2018",
+              "biddingId": "03/2018",
+              "date": "2019-04-10T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12070635000144",
+                "hirerDocument": "CNPJ: 12257762000157",
+                "type": "Material e Serviço",
+                "object": "Construção de 60 Módulos Sanitárias Domiciliares no Município de Olivença -AL",
+                "totalValue": 500919.6,
+                "publishDate": "2019-04-10T00:00:00.000Z",
+                "beginDate": "2019-04-05T00:00:00.000Z",
+                "endDate": "2019-12-31T00:00:00.000Z",
+                "signDate": "2019-04-05T00:00:00.000Z",
+                "executionProcessId": "03/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "009002011118 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "839858/2016",
+            "validity": "30/12/2016 a 12/07/2021",
+            "limitDate": "2021-09-10T00:00:00.000Z",
+            "totalValue": 500919.6,
+            "transferValue": 496886.05,
+            "counterpartValue": 4033.55,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "835401/2016",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-08-03T00:00:00.000Z",
+        "end": "2020-08-30T00:00:00.000Z",
+        "program": "Alagoas -Emendas Parlamentares - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "006707/2016",
+            "organId": "06707/2016",
+            "processId": "0067072016",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE OLIVENÇA ESTA LOCALIZADO NO MÉDIO SERTÃO –AL, COM LATITUDE 09º31 07 SUL E A UMA LONGITUDE 37 11 26 OESTE, ESTANDO A UMA ALTITUDE DE 231 METROS , DISTÂNCIA ATÉ A CAPITAL 160 KM,PRINCIPAIS RODOVIAS DE ACESSO AO MUNICÍPIO AL-125, AL-130 E AL-220 , COM ÁREA 172,957 KM² [2],POPULAÇÃO 11 057 HAB. IBGE/2010, POPULAÇÃO URBANA 3.147 HAB. ,POPULAÇÃO RURAL 7.910 HAB. SEGUNDO SENSO 2010,DENSIDADE 63,93 HAB./KM²,CLIMA ÁRIDO,FUSO HORÁRIO UTC−3, IDH-M 0,534 BAIXO PNUD/2000[4],PIB R$ 31 297,461 MIL IBGE/2008[5],PIB PER CAPITA R$ 2 890,42 IBGE/2008[5]. SENDO 22,8% DOS HABITANTES RESIDENTES EM ÁREAS URBANAS E 77,2% RESIDENTES EM ÁREAS RURAIS. DE ACORDO COM O CENSO DEMOGRÁFICO DO IBGE (2010), SUA ÁREA É DE 173 KM2 REPRESENTANDO 0.6229 % DO ESTADO, 0.0111 % DA REGIÃO E 0.002 % DE TODO O TERRITÓRIO BRASILEIRO. COM OBJETIVO GERAL APOIAR O PROGRAMA DE DESENVOLVIMENTO DA AGRICULTURA FAMILIAR E PECUÁRIA NO MUNICÍPIO DE OLIVENÇA, POR MEIO DE AQUISIÇÃO DE PATRULHA MECANIZADA, COMPOSTA POR 04 (QUATRO) ENSILADEIRA COM NÚMERO MÍNIMO DE FACAS:04, DUAS OPÇÕES DE CORTE: 4 E 8 MM. CORREIAS E POLIAS. COM MOTOR A DIESEL COM POTENCIA MÍNIMA DE 16CV,COM REFRIGERAÇÃO A AR, COM PARTIDA ELÉTRICA. MONTADO EM REBOQUE COM PNEUS PARA DESLOCAMENTO. E 04 (QUATRO) BATEDEIRAS DE CEREAIS COM PRODUÇÃO SACAS / HORA - SACA DE 60 KG DE 16 À 21, COM POLIAS E CORREIAS, MOTOR A DIESEL COM POTENCIA MÍNIMA DE 16CV,COM REFRIGERAÇÃO A AR, COM PARTIDA ELÉTRICA. MONTADO EM REBOQUE COM PNEUS, PARA O FOMENTO À AGRICULTURA FAMILIAR NO MUNICÍPIO, A ENSILADEIRA SERÁ DESTINADAS PARA PICAR CANA, CAPIM, SORGO, MILHO E TODAS AS DEMAIS ESPÉCIES FORRAGEIRAS COM PRECISÃO E UNIFORMIDADE DE CORTE. PARA ENCHER SILOS E ARMAZENA E PARA O TRATO DIÁRIO DE ANIMAIS. A BATEDEIRA DE CEREAIS SERÁ DESTINADAS A COLHEITA DE GRÃOS COM ALTA EFICIÊNCIA DA PRODUÇÃO DO AGRICULTOR ONDE SERÁ REALIZADO TODO MANUSEIO EM SUA PROPRIEDADE EVITANDO CUSTO E ATRAVESSADORES QUE VENHA PREJUDICAR NA RENDA DO AGRICULTOR FAMILIAR. GARANTIDO A SIM UMA COMERCIALIZAÇÃO SEGURA AO PRODUTOR LOCAL. EM CONTRAPARTIDA A PREFEITURA MUNICIPAL DE OLIVENÇA SE COMPROMETERÁ A PRESTAR ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL. NA ÁREA PECUÁRIA O MUNICÍPIO CRIAÇÃO DE BOVINO - EFETIVO DOS REBANHOS 10.764 CABEÇAS, CAPRINO - EFETIVO DOS REBANHOS118 CABEÇAS, VACAS ORDENHADAS - QUANTIDADE 2.368CABEÇAS. NA PRODUÇÃO AGRÍCOLAS – CEREAIS O MUNICÍPIO CONSISTE NA PRODUÇÃO FEIJÃO (EM GRÃO) – COM PLANTIO 1.400 HECTARE, E MILHO (EM GRÃO) -800HECTARE. OBJETO PROPOSTO IRA BENEFICIAR CERCA DE 1.500 AGRICULTOR FAMILIAR DO MUNICÍPIO RESIDENTE NA ZONA RURAL. A AQUISIÇÃO DE PATRULHA MECANIZADA NO MUNICÍPIO DE OLIVENÇA- AL SERÁ ADQUIRIDA/O COM RECURSOS DA EMENDA PARLAMENTAR Nº 37280001 DO DEPUTADO FEDERAL MARX BELTRÃO NO VALOR DE 138.801,98,(TRÊS CENTO E TRINTA OITO MIL OITOCENTOS E UM REAIS E NOVENTA E OITO CENTAVOS) (RECURSO REPASSE), CUJO TÍTULO – FOMENTO AO SETOR AGROPECUÁRIO, POSSUI VINCULO COM O PROGRAMA Nº 2200020160005 DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE PATRULHA MECANIZADA NO MUNICÍPIO DE OLIVENÇA- AL",
+            "information": "Declaro, para os devidos fins administrativos e efeitos legais, que a Secretaria Municipal de Agricultura, por seu(sua) Secretário(a) DJALMA ROBERTO DA SILVA, CPF nº 330.350.324-91, assume a responsabilidade pelo gerenciamento do objeto constante do Plano de Trabalho da proposta de contrato de repasse nº 006707/2016,AQUISIÇÃO DE PATRULHA MECANIZADA composto por: 04 (quatro) batedeiras de cereais com produção sacas / hora - saca de 60 kg de 16 à 21, com motor a diesel com potência mínima de 16cv,com refrigeração a ar, partida elétrica, com correias e polias,. Montado em reboque com rodas e pneus novos. Para deslocamento em tração animal e tração mecânica e 04(quatro) Ensiladeira com número mínimo de 04 (quatro) facas: duas opções de corte: 4 e 8 mm. Correias e polias. Com motor a diesel com potência mínima de 16cv, com refrigeração a ar, partida elétrica. Montado em reboque com rodas e pneus novos para deslocamento. para deslocamento em tração animal e tração mecânica.Que a Prefeitura dispõe de servidores com capacidade administrativa, técnica e gerencial, 01 agrônomos, 01 veterinários, 01 tratoristas, 04 operadores de máquinas e equipamento agrícolas), habilitados para operar com o objeto pactuado.Que possui espaço físico para guarda dos bens adquiridos na sede da Secretaria de Agricultura, situado à rua Siloe Tavares – s/n – Centro – Zona Urbana, e seguirá as recomendações do fabricante no concernente às manutenções preventivas. Que assume inteira responsabilidade por todos os gastos com salário de pessoal envolvido diretamente com o uso da Patrulha Mecanizada, com combustível e os provenientes das manutenções preventivos e corretivos.",
+            "proposalDate": "2016-03-07T00:00:00.000Z",
+            "biddingDate": "2016-08-03T00:00:00.000Z",
+            "homologationDate": "2016-08-12T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020160005",
+              "name": "Alagoas -Emendas Parlamentares - Investimento",
+              "value": 165200,
+              "details": {
+                "code": "2200020160005",
+                "name": "Alagoas -Emendas Parlamentares - Investimento",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário. Favor, verificar lista dos objetos contemplados na aba anexos.",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 165200,
+                "couterpartValues": {
+                  "total": 26398.02,
+                  "financial": 26398.02,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 138801.98,
+                  "amendment": "R$ 138.801,98 - Marx Beltrão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.440.104-** - JOSE ARNALDO SILVA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0092016",
+              "type": "Licitação - Pregão",
+              "date": "2016-12-30T00:00:00.000Z",
+              "processId": "0001002130916",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0001002130916",
+                "biddingId": "0092016",
+                "object": "Aquisição de Patrulha Mecanizada",
+                "legalFoundation": "Lei 10.520/2002 Lei 8666/1993",
+                "justification": "O pregão  foi realizado conformidade com a Lei  10.520/2002 e Lei 8666/1993.",
+                "publishDate": "2016-12-30T00:00:00.000Z",
+                "beginDate": "2017-01-11T00:00:00.000Z",
+                "endDate": "2017-01-11T00:00:00.000Z",
+                "biddingValue": 165200,
+                "homologationDate": "2017-01-24T00:00:00.000Z",
+                "city": "2819 - OLIVENCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2017",
+              "biddingId": "0092016",
+              "date": "2017-01-30T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05453608000195",
+                "hirerDocument": "CNPJ: 12257762000157",
+                "type": "Material",
+                "object": "Aquisição de Patrulha Mecanizada",
+                "totalValue": 165200,
+                "publishDate": "2017-01-30T00:00:00.000Z",
+                "beginDate": "2017-01-25T00:00:00.000Z",
+                "endDate": "2017-12-31T00:00:00.000Z",
+                "signDate": "2017-01-25T00:00:00.000Z",
+                "executionProcessId": "0092016 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0001002130916 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "835401/2016",
+            "validity": "03/08/2016 a 30/08/2020",
+            "limitDate": "2018-07-17T00:00:00.000Z",
+            "totalValue": 29,
+            "transferValue": 165200,
+            "counterpartValue": 138801.98,
+            "yieldValue": 26398.02
+          }
+        }
+      },
+      {
+        "agreementId": "818559/2015",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2015-12-18T00:00:00.000Z",
+        "end": "2019-11-30T00:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "025048/2015",
+            "organId": "25048/2015",
+            "processId": "0250482015",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Olivença Localizado no Médio Sertão Alagoano e com acesso à Rodovia AL 125, com uma população de 12.865 habitantes, o seu IDH – índice de desenvolvimento humano é de 0,53, vem tentando urgentemente um projeto destinado a comunidades situadas em espaços no município em que não possuem nenhum acesso a equipamentos públicos de esporte e lazer que alia saúde, bem-estar e qualidade de vida a atividades sócio-educativas diversificadas. Atividades de acesso ao esporte e ao lazer, incentivam a inclusão digital e a produção cultural e científica, constituindo-se em um amplo espaço de convivência comunitária. A presente proposta visa a Construção de uma quadra poliesportiva na sede municipal, com o objetivo de dotar o município de infraestrutura esportiva para toda a população. Garantindo à população o acesso gratuito às práticas esportivas; Utilizar, sistematicamente, o esporte e o lazer como fatores de melhoria da qualidade de vida de inclusão social; Introduzir, de forma sistemática e regular, o esporte e o lazer na promoção do desenvolvimento humano em todos os segmentos sociais, evitando assim o caminho de uso de drogas e demais atos ilícitos. O benefícios ofertados serão enormes conforme preconiza a Constituição federal, direito à saude , ao lazer, aumentando assim a auto-estima dos cidadãos Oliventinos que por várias e várias décadas não disponibilizam de lazer com qualidade. É importante ressaltar que o objeto proposto é de Esporte lase e saúde para o município, tendo em vista que, os resultados esperados com a implantação compreendem dotar o município deste importante evento, melhorando assim o padrão de qualidade de vida dos nossos munícipes. Comunico ainda que essa proposta foi gerada através da EMENDA DE Nº 25790007 INDICAÇÃO DO Sr SENADOR FERNANDO AFFONSO COLLOR DE MELLO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE 01(UMA)QUADRA POLIESPORTIVA NO MUNICÍPIO DE OLIVENÇA -AL.",
+            "information": "A ADMINISTRAÇÃO MUNICIPAL DISPÕE DE ÓRGÃO ESPECIFICO QUE TRATA DAS QUESTÕES DE INFRAESTRUTURA URBANA BEM COMO CONTEMPLA EM SEU QUADRO DE EQUIPE TÉCNICA COMPETENTE PARA EFETUAR A GESTÃO E A FISCALIZAÇÃO DOS SERVIÇOS DE DEMANDADOS NA CIDADE DESTA FORMA O MUNICÍPIO DECLARA QUE POSSUI CAPACIDADE TÉCNICA E GERENCIAL PARA O ACOMPAN",
+            "proposalDate": "2015-07-07T00:00:00.000Z",
+            "biddingDate": "2015-12-18T00:00:00.000Z",
+            "homologationDate": "2015-12-24T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020150003",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+              "value": 292792.8,
+              "details": {
+                "code": "5100020150003",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na Lei de Diretrizes Orçamentárias vigente. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 292792.8,
+                "couterpartValues": {
+                  "total": 292.8,
+                  "financial": 292.8,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.440.104-** - JOSE ARNALDO SILVA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "032017",
+              "type": "Licitação -",
+              "date": "2017-06-14T00:00:00.000Z",
+              "processId": "001602080617",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "",
+                "biddingType": "Menor Preço",
+                "processId": "001602080617",
+                "biddingId": "032017",
+                "object": "IMPLANTAÇÃO DE 01(UMA)QUADRA POLIESPORTIVA COBERTA, LOCALIZADA NO POVOADO POÇO DA CACIMBA, NO MUNICÍPIO DE OLIVENÇA -AL.",
+                "legalFoundation": "LEI 8666/1993",
+                "justification": "A PRESENTE LICITAÇÃO OCORREU DENTRO DA LEI 8.6666/1993 E SUAS ALTERAÇÕES",
+                "publishDate": "2017-06-14T00:00:00.000Z",
+                "beginDate": "2017-06-29T00:00:00.000Z",
+                "endDate": "2017-06-29T00:00:00.000Z",
+                "biddingValue": 260834.12,
+                "homologationDate": "2017-06-30T00:00:00.000Z",
+                "city": "2819 - OLIVENCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000320/2017",
+              "biddingId": "032017",
+              "date": "2017-07-04T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 27259739000179",
+                "hirerDocument": "CNPJ: 12257762000157",
+                "type": "Obras",
+                "object": "IMPLANTAÇÃO DE 01(UMA) QUADRA POLIESPORTIVA COBERTA, LOCALIZADA NO POVOADO POÇO DA CACIMBA, NO MUNICÍPIO DE OLIVENÇA -AL",
+                "totalValue": 260834.12,
+                "publishDate": "2017-07-04T00:00:00.000Z",
+                "beginDate": "2017-06-30T00:00:00.000Z",
+                "endDate": "2018-06-30T00:00:00.000Z",
+                "signDate": "2017-06-30T00:00:00.000Z",
+                "executionProcessId": "032017 ",
+                "biddingModality": "Licitação - ",
+                "processId": "001602080617 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "818559/2015",
+            "validity": "18/12/2015 a 30/11/2019",
+            "limitDate": "2019-08-14T00:00:00.000Z",
+            "totalValue": 14,
+            "transferValue": 292792.8,
+            "counterpartValue": 292500,
+            "yieldValue": 292.8
+          }
+        }
+      },
+      {
+        "agreementId": "791908/2013",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "063113/2013",
+            "organId": "63113/2013",
+            "processId": "0631132013",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Olivença Localizado no Médio Sertão Alagoano e com acesso à Rodovia AL 125, com uma população de 11.057 habitantes, Vem tentando desenvolver seu potencial turístico incrementado basicamente em eventos populares tais como: Festa dos Carreiros (último evento contou com 632 carros de boi) realizada dia 10 de Janeiro; Emancipação Política, 02 de fevereiro; Cavalgada do Trabalhador, 3º domingo de maio – dia 13 – (registramos a participação de cerca de 1.350 cavaleiros e amazonas), mobilizando praticamente toda população além dos visitantes das cidades circunvizinhas e de outros estados. Festa da Padroeira do Município: Nossa Senhora do Carmo, onde participam famílias de todo país; com implantação das praças no centro da cidades, visa prover o município de infra-estrutura adequada para expansão da atividade turística e melhoria dos produtos e serviços ofertados conforme preconiza Plano Nacional do Turismo 2007/2010. A execução da obra visa solucionar problemas no âmbito do turismo tais como: Inexistência de um local específico e apropriado para realização dos eventos, a apresentação teatral, o desconforto no período chuvoso, a insegurança na trafegabilidade e acessibilidade aos locais de eventos pelos portadores de necessidades especiais, assim como a indisponibilidade dos idosos em se sentarem para uma recreação e um bem estar e sociocultural aumentando assim a auto-estima dos cidadãos oliventinos que por várias e várias décadas não disponibilizam de infra-estrutura adequada a nossa realidade. É importante ressaltar que o objeto proposto é de interesse turístico para o município, tendo em vista que, os resultados esperados com a implantação compreendem dotar o município desta importante infra-estrutura turística, melhorando assim o padrão de qualidade de vida dos nossos munícipes, por meio da geração de emprego e renda e alavancar a economia,onde passara e ser apresentada teatro grupo de dança de musica regionais,festas juninas entre outras,tara conforto para os turista de regiões vizinhas e local inclusive no que se diz respeitosos possíveis empreendimentos teremos com um maior fluxo turístico em nosso município.certifico ainda que as referidas praças serão construidas na zona urbana no centro da cidade conforme crocri de localização das áreas na aba de projeto básico.,comunico ainda que a proposta foi gerada através da Emenda Parlamentar nº29070004,do Srº Benedito de Lira Senador da Republica",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de 02(Duas)praças no municipio de Olivença -AL.",
+            "information": "Declaramos, para devidos fins e a quem possa interessar, e sob as penalidades da Lei, que este Município dispõe de capacidade Técnica com quadro de profissionais, GMC – Gestor Municipal de Convênio e contratos Engenheiro Civil, para a CONSTRUÇÃO DE 02(DUAS) PRAÇAS NA ZONA URBANA NO MUNICÍPIO DE OLIVENÇA-AL, conforme preceitua as exigências do Número da Proposta 063113/2013",
+            "proposalDate": "2013-09-27T00:00:00.000Z",
+            "biddingDate": "2013-12-31T00:00:00.000Z",
+            "homologationDate": "2014-01-14T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020130002",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 500000,
+              "details": {
+                "code": "5400020130002",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Consórcios públicos constituídos por Estados, Distrito Federal e Municípios, 2% (dois por cento) e 4% (quatro por cento). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 12500,
+                  "financial": 12500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.440.104-** - JOSE ARNALDO SILVA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2020",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2020-01-22T00:00:00.000Z",
+              "processId": "001021090120",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "001021090120",
+                "biddingId": "01/2020",
+                "object": "REVITALIZAÇÃO DE DUAS PRAÇAS, LOCALIZADA NA AVENIDA 02 DE FEVEREIRO ZONA URBANA NO MUNICPIO DE OLIVENÇA – AL",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "A tomada de preço ocorreu dentro das legalidades da Lei 8.666/93 e suas alteração.",
+                "publishDate": "2020-01-22T00:00:00.000Z",
+                "beginDate": "2020-02-06T00:00:00.000Z",
+                "endDate": "2020-02-18T00:00:00.000Z",
+                "biddingValue": 295812.39,
+                "homologationDate": "2020-03-31T00:00:00.000Z",
+                "city": "2819 - OLIVENCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000101/2020",
+              "biddingId": "01/2020",
+              "date": "2020-04-08T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 31329769000181",
+                "hirerDocument": "CNPJ: 12257762000157",
+                "type": "Obras",
+                "object": "REVITALIZAÇÃO DE DUAS PRAÇAS, LOCALIZADA NA AVENIDA 02 DE FEVEREIRO ZONA URBANA NO MUNICPIO DE OLIVENÇA – AL",
+                "totalValue": 295812.39,
+                "publishDate": "2020-04-08T00:00:00.000Z",
+                "beginDate": "2020-04-02T00:00:00.000Z",
+                "endDate": "2020-06-30T00:00:00.000Z",
+                "signDate": "2020-04-02T00:00:00.000Z",
+                "executionProcessId": "01/2020 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "001021090120 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "791908/2013",
+            "validity": "31/12/2013 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 487500,
+            "counterpartValue": 12500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "790827/2013",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "2015 - Aperfeiçoamento do Sistema Único de Saúde - SUS (3921 - Melhorias Habitacionais-Chagas)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "064914/2013",
+            "organId": "00375/2013",
+            "processId": "25100.027086/2013-43",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 507/2011",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "A história do atual município de Olivença inicia-se por volta de 1850. Em seus primeiros registros constam, nessa época, apenas um pequeno lugarejo pertencente ao território do município de Santana do Ipanema, com alguns poucos habitantes. Quase 50 anos depois, em 1898, provenientes de Lagoa da Canoa, instalaram-se na região algumas famílias que iniciaram o desenvolvimento da região com a implantação de pequenos sítios e dedicando-se à agricultura e pecuária. O lugar ficou conhecido como Capim e teve este nome até a emancipação política. Cumprindo a tradição entre os ricos proprietários de terras do interior de Alagoas, as próprias famílias construíram uma capela em homenagem a Nossa Senhora do Carmo, padroeira do povoado. A matriz que existe até hoje só foi construída em 1938, mesma época da instalação da feira do povoado. A Vila do Capim foi crescendo e, em 1930, já tinha características de uma pequena cidade, mesmo ainda sendo povoado de Santana do Ipanema. Neste mesmo ano, os moradores tentaram a autonomia administrativa. Em 1959, através da lei 2.092, Capim foi elevada à condição de município autônomo com o nome de Olivença, que caracteriza a junção dos sobrenomes das famílias fundadoras do município. Mesmo enfrentando adversidades por conta da aridez da região, Olivença tem um povo festivo e alegre, que comemora efusivamente as duas grandes festas do município: a Emancipação Política (02 de fevereiro) e da padroeira Nossa Senhora do Carmo (16 de julho). Elevado à categoria de município com a denominação de Olivença, pela lei estadual nº 2092, de 24-04-1958, desmembrado de Santana do Ipanema. Sede no atual distrito de Olivença ex-Capim. Instalado em 02-02-1959. A rede pública de saúde não dispõe de hospitais, existem 04 Unidades de Saúde da Família – USF, onde 01 encontra-se instalado no Centro Municipal de Saúde Cônego Luiz Cirilo Silva na sede do município. A População Total do Município é de 11.057 de habitantes, sendo 22,8% dos habitantes residentes em áreas urbanas e 77,2% residentes em áreas rurais. De acordo com o Censo Demográfico do IBGE (2010), sua Área é de 173 km2 representando 0.6229 % do Estado, 0.0111 % da Região e 0.002 % de todo o território brasileiro, possuindo um índice de Desenvolvimento Humano (IDH) é de 0.534 segundo o Atlas de Desenvolvimento Humano/PNUD (2000). Diante deste cenário é de fundamental importância a parceria com o Ministério da Saúde, no qual a mesma permitirá um canal de abertura para o acesso de famílias de baixa renda a instrumentos de Melhorias Habitacionais em atendimento aos pacientes fazendo com que seja reduzido o alto índice de risco à saúde pública municipal, além de aprofundar as relações de solidariedade no semi-árido contribuindo para novas conquista de direitos e acesso aos espaços de discussões políticos para o público beneficiário deste projeto. A partir da parceria com esta Fundação – FUNASA e esta entidade representante do poder público pretendemos executar de forma compartilhada e participativa as ações de execução com os benefícios adquiridos com o intuito de promover o acesso de famílias residentes em comunidades urbanas e rurais do município de Olivença e desenharmos novas possibilidades de articulações preventivas entre diversos fatores que até então o alto índice de besouros encontrados em casas de Taipa os quais são causadores desta Doença de Chagas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Melhorias Habitacionais para o Controle da Doença de Chagas.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Olivença/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2013-10-04T00:00:00.000Z",
+            "biddingDate": "2013-12-31T00:00:00.000Z",
+            "homologationDate": "2014-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120130006",
+              "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde - SUS (3921 - Melhorias Habitacionais-Chagas)",
+              "value": 513166.64,
+              "details": {
+                "code": "3621120130006",
+                "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde - SUS (3921 - Melhorias Habitacionais-Chagas)",
+                "cps": null,
+                "items": "Melhorar as condições físicas e sanitárias das habitações e do peridomicílio, tornando-as refratárias à colonização de triatomíneos contribuindo para controle da doença de Chagas, por meio de restauração (reforma) ou reconstrução.",
+                "couterpartRule": "Municípios com até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 513166.64,
+                "couterpartValues": {
+                  "total": 13166.64,
+                  "financial": 13166.64,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 500000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.440.104-** - JOSE ARNALDO SILVA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002016",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2016-03-07T00:00:00.000Z",
+              "processId": "0004002260116",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0004002260116",
+                "biddingId": "002016",
+                "object": "RECONSTRUÇÃO DE UNIDADES HABITACIONAIS NO MUNICÍPIO DE OLIVENÇA - AL",
+                "legalFoundation": "lei 8.6666/1993",
+                "justification": "Declaro sob as penas da Lei que a Licitação nº 001/2016, com edital publicado em 07/03/2016, cuja empresa vencedora foi WB CONSTRUÇÕES E COMERCIO CNPJ: 11.081.062/0001-91 para execução de RECONSTRUÇÃO DE UNIDADES HABITACIONAIS NO MUNICÍPIO DE OLIVENÇA - AL, no âmbito do convenio nº 790827/2013, atendeu a todos os dispositivos constantes na legislação em vigor, em especial à Lei 8.666/93 e suas alterações, inclusive quanto à forma de publicação, e ao Decreto nº 7.983, de 08/04/2013.",
+                "publishDate": "2016-03-07T00:00:00.000Z",
+                "beginDate": "2016-05-11T00:00:00.000Z",
+                "endDate": "2016-05-11T00:00:00.000Z",
+                "biddingValue": 513166.64,
+                "homologationDate": "2016-05-27T00:00:00.000Z",
+                "city": "2819 - OLIVENCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "001001/2016",
+              "biddingId": "002016",
+              "date": "2016-05-31T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11081062000191",
+                "hirerDocument": "CNPJ: 12257762000157",
+                "type": "Obras",
+                "object": "RECONSTRUÇÃO DE UNIDADES HABITACIONAIS NO MUNICÍPIO DE OLIVENÇA – AL",
+                "totalValue": 513166.64,
+                "publishDate": "2016-05-31T00:00:00.000Z",
+                "beginDate": "2016-06-01T00:00:00.000Z",
+                "endDate": "2016-12-01T00:00:00.000Z",
+                "signDate": "2016-05-31T00:00:00.000Z",
+                "executionProcessId": "002016 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0004002260116 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "790827/2013",
+            "validity": "31/12/2013 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 513166.64,
+            "transferValue": 500000,
+            "counterpartValue": 13166.64,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "788115/2013",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2013-12-31T00:00:00.000Z",
+        "end": "2016-01-30T00:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "058445/2013",
+            "organId": "58445/2013",
+            "processId": "058445/2013",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Olivença Localizado no Médio Sertão Alagoano e com acesso à Rodovia AL 125, com uma população de 12.865 habitantes, o seu IDH – índice de desenvolvimento humano é de 0,53, vem tentando urgentemente um projeto destinado a comunidades situadas em espaços no município em que não possuem nenhum acesso a equipamentos públicos de esporte e lazer que alia saúde, bem-estar e qualidade de vida a atividades sócio-educativas diversificadas. Atividades de acesso ao esporte e ao lazer, incentivam a inclusão digital e a produção cultural e científica, constituindo-se em um amplo espaço de convivência comunitária. A presente proposta visa a Construção de uma quadra poliesportiva na sede municipal, com o objetivo de dotar o município de infraestrutura esportiva para toda a população. Garantindo à população o acesso gratuito às práticas esportivas; Utilizar, sistematicamente, o esporte e o lazer como fatores de melhoria da qualidade de vida de inclusão social; Introduzir, de forma sistemática e regular, o esporte e o lazer na promoção do desenvolvimento humano em todos os segmentos sociais, evitando assim o caminho de uso de drogas e demais atos ilícitos. O benefícios ofertados serão enormes conforme preconiza a Constituição federal, direito à saude , ao lazer, aumentando assim a auto-estima dos cidadãos Oliventinos que por várias e várias décadas não disponibilizam de lazer com qualidade. É importante ressaltar que o objeto proposto é de Esporte lase e saúde para o município, tendo em vista que, os resultados esperados com a implantação compreendem dotar o município deste importante evento, melhorando assim o padrão de qualidade de vida dos nossos munícipes. Comunico ainda que essa proposta foi gerada através da EMENDA DE Nº 29070002 INDICAÇÃO DO Sr SENADOR BENEDITO DE LIRA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE 01(UMA)QUADRA POLIESPORTIVA NO MUNICÍPIO DE OLIVENÇA -AL.",
+            "information": "A ADMINISTRAÇÃO MUNICIPAL DISPÕE DE ÓRGÃO ESPECIFICO QUE TRATA DAS QUESTÕES DE INFRAESTRUTURA URBANA BEM COMO CONTEMPLA EM SEU QUADRO DE EQUIPE TÉCNICA COMPETENTE PARA EFETUAR A GESTÃO E A FISCALIZAÇÃO DOS SERVIÇOS DE DEMANDADOS NA CIDADE DESTA FORMA O MUNICÍPIO DECLARA QUE POSSUI CAPACIDADE TÉCNICA E GERENCIAL PARA O ACOMPANHAMENTO DO CONVÊNIO PROPOSTO.",
+            "proposalDate": "2013-09-11T00:00:00.000Z",
+            "biddingDate": "2013-12-31T00:00:00.000Z",
+            "homologationDate": "2014-01-14T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020130002",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+              "value": 250000,
+              "details": {
+                "code": "5100020130002",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na Lei de Diretrizes Orçamentárias vigente. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 6250,
+                  "financial": 6250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.611.354-** - JORGINALDO VIEIRA DE MENESES",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.121.504-** - JOSE ALDO REBELO FIGUEIREDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "788115/2013",
+            "validity": "31/12/2013 a 30/01/2016",
+            "limitDate": "2016-03-30T00:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 243750,
+            "counterpartValue": 6250,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "754245/2010",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-31T00:00:00.000Z",
+        "end": "2012-12-30T00:00:00.000Z",
+        "program": "0122- Serviços Urbanos de Água e Esgoto (Melhorias sanitárias domiciliares).",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "041055/2010",
+            "organId": "00849/2010",
+            "processId": "25100.043533/2010-69",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Portaria interministerial 127/2008",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "Olivença esta localizada no sertão alagoano, e distante 220 km da capital, com uma população de 12.000 habitantes. A cidade não dispõe de rede de saneamento, portanto alguns domicílios dispõem apenas de fossa sumidouro. Na busca pela inclusão social, e preocupada com o problema de saúde pública, esta gestão pública busca junto ao governo federal uma parceria para realização de projeto de melhoria sanitária domiciliares, ou seja, módulos sanitários. O projeto atenderá 200 famílias, estas que forem beneficiadas com o objeto dessa proposta passarão a ter melhor condição de vida, conforto e higiene. Acreditamos ainda que tal projeto eliminará ainda alguns problemas de saúde pública, o resultado esperado é a satisfação da comunidade beneficiada como também a redução de problemas de saúde, hoje tão recorrente no município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Melhorias Sanitárias Domiciliares",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Olivença/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-04-14T00:00:00.000Z",
+            "biddingDate": "2010-12-31T00:00:00.000Z",
+            "homologationDate": "2011-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120100022",
+              "name": "0122- Serviços Urbanos de Água e Esgoto (Melhorias sanitárias domiciliares).",
+              "value": 412371.13,
+              "details": {
+                "code": "3621120100022",
+                "name": "0122- Serviços Urbanos de Água e Esgoto (Melhorias sanitárias domiciliares).",
+                "cps": null,
+                "items": "Melhorias sanitárias domiciliares são intervenções promovidas, prioritariamente, nos domicílios e eventualmente intervenções coletivas de pequeno porte. Incluem a construção de módulos sanitários, banheiro, privada, tanque séptico, sumidouro, instalações de reservatório domiciliar de água, tanque de lavar roupa, lavatório, pia de cozinha, ligação à rede pública de água, ligação à rede pública de esgoto dentre outras e eventualmente, fomentar a implantação de oficina municipal de saneamento.",
+                "couterpartRule": "Lei n.º 12.017, de 12/08/2009 - Municípios de até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 412371.13,
+                "couterpartValues": {
+                  "total": 12371.13,
+                  "financial": 12371.13,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 400000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.611.354-** - JORGINALDO VIEIRA DE MENESES",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.776.401-** - FAUSTINO BARBOSA LINS FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "754245/2010",
+            "validity": "31/12/2010 a 30/12/2012",
+            "limitDate": "2013-02-28T00:00:00.000Z",
+            "totalValue": 412371.13,
+            "transferValue": 400000,
+            "counterpartValue": 12371.13,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "745515/2010",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-15T00:00:00.000Z",
+        "end": "2012-12-15T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "034326/2010",
+            "organId": "34326/2010",
+            "processId": "034326/2010",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Olivença Localizado no Médio Sertão Alagoano e com acesso à Rodovia AL 125, com uma população de 12.865 habitantes, Vem tentando desenvolver seu potencial turístico incrementado basicamente em eventos populares tais como: Festa dos Carreiros (último evento contou com 478 carros de boi) realizada dia 10 de Janeiro; Emancipação Política, 02 de fevereiro; Cavalgada do Trabalhador, 3º domingo de maio – dia 16 – (registramos a participação de cerca de 1.200 cavaleiros e amazonas), mobilizando praticamente toda população além dos visitantes das cidades circunvizinhas e de outros estados. Festa da Padroeira do Município: Nossa Senhora do Carmo, onde participam famílias de todo país; A implantação do objeto pleiteado, um calçadão com praça multi-eventos, visa prover o município de infra-estrutura adequada para expansão da atividade turística e melhoria dos produtos e serviços ofertados conforme preconiza Plano Nacional do Turismo 2007/2010. A execução da obra visa solucionar problemas no âmbito do turismo tais como: Inexistência de um local específico e apropriado para realização dos eventos, o desconforto no período chuvoso, a insegurança na trafegabilidade e acessibilidade aos locais de eventos pelos portadores de necessidades especiais, assim como a indisponibilidade dos idosos em se sentarem para uma recreação e um bem estar e sociocultural aumentando assim a auto-estima dos cidadãos oliventinos que por várias e várias décadas não disponibilizam de infra-estrutura adequada a nossa realidade. É importante ressaltar que o objeto proposto é de interesse turístico para o município, tendo em vista que, os resultados esperados com a implantação compreendem dotar o município desta importante infra-estrutura turística, melhorando assim o padrão de qualidade de vida dos nossos munícipes, por meio da geração de emprego e renda e alavancar a economia, inclusive no que se diz respeitoaos possíveis empreendimentos teremos com um maior fluxo turístico em nosso município. Destaca-se também que o pleito é referente a uma Emenda Individual ao Orçamento Geral da União na Lei Orçamentária Anual – OGU/LOA 2009, de autoria do Deputado Federal Joaquim Beltrão - emenda número 2403.0018.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de um Calçadão com Praça Multi-eventos, no Centro do Município.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Olivença/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-04-05T00:00:00.000Z",
+            "biddingDate": "2010-12-15T00:00:00.000Z",
+            "homologationDate": "2010-12-27T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100021",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+              "value": 250000,
+              "details": {
+                "code": "5400020100021",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+                "cps": "",
+                "items": "Praça publica",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 6250,
+                  "financial": 6250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.611.354-** - JORGINALDO VIEIRA DE MENESES",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "745515/2010",
+            "validity": "15/12/2010 a 15/12/2012",
+            "limitDate": "2013-01-14T00:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 243750,
+            "counterpartValue": 6250,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "739530/2010",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-30T00:00:00.000Z",
+        "end": "2011-11-30T00:00:00.000Z",
+        "program": "Construção de Cisternas para Armazenamento de Água – Emendas Parlamentares.",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "053561/2010",
+            "organId": "00120/2010",
+            "processId": "71000.053581/2010-19",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6.170/2007 e Portaria Interministerial 127/2008",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Estado de Alagoas com 27.933 km² corresponde a menos de 0,5% da área do Brasil e a cerca de 1,8% do Nordeste. Os dados da pesquisa populacional do IBGE em 2002 identificaram uma população de 2.882.621 habitantes, sendo 66,5% na área urbana e 33,5% em áreas rurais. Alagoas conta atualmente com 102 municípios, dos quais apenas 10 concentram cerca de 50% da população de Alagoas. O Território da Cidadania Médio Sertão Alagoano está localizado na região semi-árido de alagoas corresponde a cerca de (12%) da área do Estado e (5,55%) de sua população, sendo todos os municípios pertencentes à bacia hidrográfica do Rio São Francisco. A forma histórica de ocupação do espaço transformou o Território Médio Sertão num cenário de enormes contradições e injustiças sociais que assumem proporções de calamidade com as freqüentes estiagens prolongadas. As principais problemáticas enfrentadas pela população empobrecida do Território são: A inexistência de iniciativas que propiciem o acesso a água em quantidade e com qualidade, geração de trabalho formal e informal para geração de renda; Dificuldade de acesso à água para produção familiar e alimentos em quantidade e qualidade para o consumo humano, principalmente nos períodos de estiagem prolongada na região. Os agricultores/as do território enfrentam grandes dificuldades para a melhoria e diversificação da produção, o que tem provocado na região o empobrecimento das famílias e o êxodo de jovens para os centros urbanos. As práticas inapropriadas de manejo do solo raso e arenoso tem tornado a região uma das mais susceptíveis ao processo de desertificação, reduzindo ainda mais as chances de êxito na produção agropecuária de subsistência. A falta de equipamentos para armazenamento de água da chuva, a perda de sementes nativas e o difícil acesso às sementes apropriadas à região, a ausência de iniciativas de capacitação e assistência técnica agravam ainda mais essa situação. Diante deste cenário é de fundamental importância a parceria com o Ministério de Desenvolvimento Social e combate a Fome, através de emenda parlamentar no qual a mesma permitirá um canal de abertura para o acesso de famílias de baixa renda a instrumentos de captação de água de chuva por meio da construção de cisternas de placas e capacitação em gestão dos recursos hídricos para convivência com o semi-árido, além de aprofundar as relações de solidariedade no semi-árido contribuindo para novas conquista de direitos e acesso aos espaços de discussões políticos para o público beneficiário do projeto. A partir da parceria com o MDS e as entidades da sociedade civil organizada pretendemos executar de forma compartilhada e participativa as ações de capacitação e construção das obras hídricas com o intuito de promover o acesso de famílias de agricultores residentes em comunidades rurais do município de Olivença e desenharmos novas possibilidades de articulações sociais entre diversos atores que até então agiam isoladamente. Durante a execução do projeto pretendemos acompanhar todas as ações e contribuir para a apropriação do público beneficiário, com isso nos permitirá o inicio do processo de mobilização das famílias, reforçar e ampliar os processos organizativos e representativos das organizações no contexto das comunidades para a consolidação das ações. Este trabalho contínuo de mobilização e sensibilização que pretendemos executar estará visível nas ações que garantem o direito de acesso a políticas públicas compatíveis com uma realidade vivida há séculos por uma população. A presente proposta tem por objetivo contribuir para a qualidade de vida das famílias rurais do município de Olivença, situado na região semi-árida do Estado de Alagoas, a partir do acesso de duzentas e dez (210) famílias (1100 pessoas) a água de qualidade e em quantidade para o consumo humano. O mesmo será desenvolvido em comunidades rurais do município, cada uma com capacidade para armazenamento de (16.000) litros de água das chuvas. Simultaneamente a instalação das cisternas, as famílias receberão informações através de oficinas de formação sobre o manejo da água das cisternas, gerenciamento dos recursos disponíveis na região e outras práticas de convivência com o semi-árido. Estas ações são estrategicas para a transformação da realidade do semi-árido alagoano. O Município de Olivença tem uma população total de (10.522) habitantes, sendo (8.081 habitantes) residente em área rural e (2.441 habitantes) residem em áreas urbanas. Está inserido numa das áreas mais secas do Estado de Alagoas. Apenas 24% da população são abastecidas pela rede publica de fornecimento de água, que não abastece com regularidade. Segundo dados do Atlas de Exclusão Social no Brasil, o município apresenta o índice de GINI que mede a pobreza na ordem de (0,35), situando-se entre os dez (10) municípios do Estado com os mais baixos índices de desenvolvimento humano e mais pobre.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "stabelecimento de vínculo de cooperação entre as partes, em benefício da população de baixa renda e com dificuldade no acesso a recursos hídricos, no Município de Olivença, localizado na região semi-árida do Estado de Alagoas, desde que os beneficiários se enquadrem nos critérios de elegibilidade do Programa Bolsa Família do Governo Federal. (CadÚnico) O Projeto objetiva o acesso, o gerencia-mento e a valorização da água como um direito essencial da vida e da cidadania, ampliando a compreensão e a prática da convivência sustentável e solidária com o ecossistema do semi-árido.",
+            "information": "",
+            "proposalDate": "2010-05-07T00:00:00.000Z",
+            "biddingDate": "2010-12-29T00:00:00.000Z",
+            "homologationDate": "2010-12-30T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020100035",
+              "name": "Construção de Cisternas para Armazenamento de Água – Emendas Parlamentares.",
+              "value": 281472.8,
+              "details": {
+                "code": "5500020100035",
+                "name": "Construção de Cisternas para Armazenamento de Água – Emendas Parlamentares.",
+                "cps": null,
+                "items": "Emenda nº 22890002 - 08.511.1049.11V1.0027 – Construção de Cisternas para Armazenamento de Água – No Estado de Alagoas – Renan Calheiros/PMDB.",
+                "couterpartRule": "",
+                "totalValue": 281472.8,
+                "couterpartValues": {
+                  "total": 11480,
+                  "financial": 11480,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 269992.8,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.611.354-** - JORGINALDO VIEIRA DE MENESES",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.267.209-** - MARCIA HELENA CARVALHO LOPES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Análise",
+            "number": "739530/2010",
+            "validity": "30/12/2010 a 30/11/2011",
+            "limitDate": "2012-01-29T00:00:00.000Z",
+            "totalValue": null,
+            "transferValue": 281472.8,
+            "counterpartValue": 269992.8,
+            "yieldValue": 11480
+          }
+        }
+      },
+      {
+        "agreementId": "739034/2010",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-23T00:00:00.000Z",
+        "end": "2016-08-30T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "044028/2010",
+            "organId": "44028/2010",
+            "processId": "044028/2010",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Melhorar infra estrutura urbana do município com a implantação de calçamento em paralelepípedo em diversas ruas da zona urbana.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Obras de infra estrutura urbana (Implantação de calçamento em paralelepípedo)",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Olivença/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-04-19T00:00:00.000Z",
+            "biddingDate": "2010-12-23T00:00:00.000Z",
+            "homologationDate": "2011-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100103",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 301600,
+              "details": {
+                "code": "5300020100103",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "INFRAESTRUTURA URBANA",
+                "couterpartRule": "",
+                "totalValue": 301600,
+                "couterpartValues": {
+                  "total": 6300,
+                  "financial": 6300,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.440.104-** - JOSE ARNALDO SILVA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012012",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2012-06-08T00:00:00.000Z",
+              "processId": "012012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "012012",
+                "biddingId": "012012",
+                "object": "Obras de infra estrutura urbana (Implantação de calçamento em paralelepípedo)",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "O Tomada de Preço Ocorreu Dentro da Lei 8.666/1993 e suas alterações.",
+                "publishDate": "2012-06-08T00:00:00.000Z",
+                "beginDate": "2012-06-25T00:00:00.000Z",
+                "endDate": "2012-06-25T00:00:00.000Z",
+                "biddingValue": 296033.1,
+                "homologationDate": "2012-06-26T00:00:00.000Z",
+                "city": "2819 - OLIVENCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000118/2012",
+              "biddingId": "012012",
+              "date": "2012-07-04T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04375699000125",
+                "hirerDocument": "CNPJ: 12257762000157",
+                "type": "Material e Serviço",
+                "object": "Obras de infra estrutura urbana pavimentação em parelelepipado",
+                "totalValue": 296033.1,
+                "publishDate": "2012-07-04T00:00:00.000Z",
+                "beginDate": "2012-06-29T00:00:00.000Z",
+                "endDate": "2013-06-29T00:00:00.000Z",
+                "signDate": "2012-06-29T00:00:00.000Z",
+                "executionProcessId": "012012 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "012012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "739034/2010",
+            "validity": "23/12/2010 a 30/08/2016",
+            "limitDate": "2017-02-05T00:00:00.000Z",
+            "totalValue": 301600,
+            "transferValue": 295300,
+            "counterpartValue": 6300,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "737023/2010",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-23T00:00:00.000Z",
+        "end": "2012-12-23T00:00:00.000Z",
+        "program": "ALAGOAS - OGU 2010",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041000/2010",
+            "organId": "41000/1000",
+            "processId": "41000",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Olivença, localiza-se a uma latitude 09º31'07 sul e a uma longitude 37º11'26 oeste, estando a uma altitude de 231 metros. Sua população estimada em 2007 era de 10.522 habitantes o qual possui uma área de 173,6 km2, tendo um IDH de 0,534 médio, onde esta possui um clima árido. A forma histórica de ocupação da Zona Rural deste município transformou-o num cenário de enormes contradições e injustiças sociais que assumem proporções de calamidade com as freqüentes estiagens prolongadas. As principais problemáticas enfrentadas pela população empobrecida são: A inexistência de iniciativas que propiciem o acesso da população ao trabalho formal e informal para geração de renda; dificuldade de acesso à Máquinas e Implementos Agrícolas na produção de alimentos para consumo Humano e animal em quantidade e qualidade ideais, principalmente nos períodos de estiagem prolongada na região. Os agricultores familiares do município enfrentam grandes dificuldades para a melhoria e diversificação da produção, o que tem provocado o empobrecimento das famílias e o êxodo de jovens para os centros urbanos. As práticas inapropriadas de manejo do solo tem tornado a região uma das mais susceptíveis ao processo de desertificação, reduzindo ainda mais as chances de êxito na produção agropecuária de subsistência. Os agricultores familiares perdem o valor agregado, com a perda de sementes nativas e o difícil acesso às sementes apropriadas à região, a ausência de iniciativas de capacitação e assistência técnica agravam ainda mais essa situação. A aquisição desta Patrulha Mecanizada atenderá aproximadamente 300 famílias da zona rural do município, visando a geração de renda e oportunidade de trabalho, com base na visão de futuro nos princípios da sustentabilidade, onde o manejo e conservação da agrobiodiversidade da caatinga são de fundamental importância para a geração de trabalhos, empregos e renda, e a prevenção da desertificação na recuperação de áreas degradadas. A patrulha mecanizada será implantada na zona rural do Município de Olivença atendendo a todos os Agricultores Familiares, sendo coordenada pela Secretaria de Agricultura da Prefeitura Municipal, onde buscamos alcançar resultados como: Criação de novos postos de trabalho para inclusão dos jovens agricultores no setor produtivo. Utilização das plantas da Caatinga como o angico e outros espécimes através de um manejo sustentável, recuperando áreas degradadas Beneficiamento da matéria prima da agricultura familiar agregando valor em pequenas propriedades agrícolas através do comércio justo e solidário teremos uma maior aproximação produtor verso consumidor obtendo uma renda familiar justa, pela agregação da cultura da convivência com a realidade local, aumento na produção agropecuária, melhoria da fiscalização e acompanhamento de projetos voltados para o agronegócio. É neste sentido que apresentamos a presente proposta de parceria com o Ministério da Agricultura, Pecuária e Abastecimento, com o propósito de contribuir para transformar esta iniciativa em centro de referencia de produção agropecuária do Município. As famílias que serão beneficiadas tem renda média em torno de 1 salário mínimo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Patrulha Mecanizada",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Olivença-Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-04-14T00:00:00.000Z",
+            "biddingDate": "2010-12-23T00:00:00.000Z",
+            "homologationDate": "2011-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020100069",
+              "name": "ALAGOAS - OGU 2010",
+              "value": 183000,
+              "details": {
+                "code": "2200020100069",
+                "name": "ALAGOAS - OGU 2010",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra- Estrutura Agropecuária",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 183000,
+                "couterpartValues": {
+                  "total": 7500,
+                  "financial": 7500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 175500,
+                  "amendment": "R$ 175.500,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.611.354-** - JORGINALDO VIEIRA DE MENESES",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "004/2011",
+              "type": "Licitação - Pregão",
+              "date": "2011-04-12T00:00:00.000Z",
+              "processId": "0062011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0062011",
+                "biddingId": "004/2011",
+                "object": "FORNECIMENTO DE PATRULHA MECANIZADA COMPOSTA DE 01(UM)TRATOR DE PNEUS COM EQUIPAMENTOS E 02(DUAS)MOTOCICLETAS  DESTINADAS A PREFEITURA MUNICIPAL DE OLIVENÇA -AL",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "O PREFEITO MUNICIPAL DE OLIVENÇA/AL, USANDO DE SUAS ATRIBUIÇÕES LEGAIS E DE CONFORMIDADE COM O QUE DISPÕE A LEI DE Nº 8.666 DE 21 DE JUNHO DE 1993 E SUAS ALTERAÇÕES POSTERIORES PASSAM A HOMOLOGAR E ADJUDICAR DA DECISÃO DA COMISSÃO DE LICITAÇÃO REFERENTE AO PROCESSO LICITATÓRIO.",
+                "publishDate": "2011-04-12T00:00:00.000Z",
+                "beginDate": "2011-04-28T00:00:00.000Z",
+                "endDate": "2011-05-20T00:00:00.000Z",
+                "biddingValue": 176800,
+                "homologationDate": "2011-12-15T00:00:00.000Z",
+                "city": "2819 - OLIVENCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2011",
+              "biddingId": "004/2011",
+              "date": "2011-12-15T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05405445000175",
+                "hirerDocument": "CNPJ: 12257762000157",
+                "type": "Material",
+                "object": "FORNECIMENTO DE 02(DUAS)MOTOCICLETAS",
+                "totalValue": 18400,
+                "publishDate": "2011-12-15T00:00:00.000Z",
+                "beginDate": "2011-09-30T00:00:00.000Z",
+                "endDate": "2011-12-31T00:00:00.000Z",
+                "signDate": "2011-09-30T00:00:00.000Z",
+                "executionProcessId": "004/2011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0062011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "737023/2010",
+            "validity": "23/12/2010 a 23/12/2012",
+            "limitDate": "2014-04-14T00:00:00.000Z",
+            "totalValue": 183000,
+            "transferValue": 175500,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "733340/2010",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO AGRARIO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-23T00:00:00.000Z",
+        "end": "2012-09-23T00:00:00.000Z",
+        "program": "TERRITÓRIOS RURAIS - Infra-estrutura e Serviços - Contrato de Repasse",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "004104/2010",
+            "organId": "04104/2010",
+            "processId": "004104/2010",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "49000 - MINISTERIO DO DESENVOLVIMENTO AGRARIO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A forma histórica de ocupação do espaço transformou o território do Médio Sertão num cenário de enormes contradições e injustiças sociais que assumem proporções de calamidade com as freqüentes estiagens prolongadas. As principais problemáticas enfrentadas pela população empobrecida do Território são: A inexistência de iniciativas que propiciem o acesso da população a trabalho formal e informal para geração de renda; dificuldade de acesso à água para consumo Humano e animal e alimentos em quantidade e qualidade para o consumo, principalmente nos períodos de estiagem prolongada na região. Os agricultores (as) familiares do território enfrentam grandes dificuldades para a melhoria e diversificação da produção, o que tem provocado na região o empobrecimento das famílias e o êxodo de jovens para os centros urbanos. As práticas inapropriadas de manejo do solo raso e arenoso tem tornado a região uma das mais susceptíveis ao processo de desertificação, reduzindo ainda mais as chances de êxito na produção agropecuária de subsistência. O processamento e beneficiamento de frutas dos agricultores familiares perdem o valor agregado, a perda de sementes nativas e o difícil acesso às sementes apropriadas à região, a ausência de iniciativas de capacitação e assistência técnica agravam ainda mais essa situação. O projeto atenderá aproximadamente 50 famílias diretas e indiretamente 250 pessoas da zona rural do município, visando a geranção de renda e oportunidade de trabalho, com base na visão de futuro territorial sintetizada no PTDRS nos princípios da sustentabilidade onde, o manejo e conservação da agrobiodiversidade da caatinga são de fundamental importância para a geração de trabalhos, empregos e renda, e a prevenção da desertificação na recuperação de áreas degradadas. O projeto será implantado na zona rural do município de Olivença no sítio João Paulo em área de propriedade da prefeitura municipal, visando a implantação de fabrica para processamento e beneficiamento de frutas no território alcançará resultados como: Criação de novos postos de trabalho para inclusão dos jovens agricultores no setor produtivo Utilização das plantas da Caatinga como o angico e outros espécimes através de um manejo sustentável, recuperando áreas degradadas Beneficiamento da matéria prima da agricultura familiar agregando valor em pequenas agroindústrias em rede com visão territorial através do comércio justo e solidário teremos uma maior aproximação produtor/beneficiamento/consumidor obtendo uma renda familiar justa, pela agregação da cultura da convivência com a realidade local. É neste sentido que apresentamos a presente proposta de parceria com o Ministério do Desenvolvimento Agrário (MDA) Secretaria do Desenvolvimento Territorial (SDT), com o propósito de contribuir para transformar esta iniciativa em centro de referencia de produção apropriada no Território. As famílias que serão beneficiadas tem renda média em torno de 2 salários mínimos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Fabrica para o processamento e beneficiamento de frutas do território do Médio Sertão de Alagoas.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15 da Portaria Interministerial nº127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Olivença/AL, possui quadro de profissionais, na área especifica do projeto, formado por profissionais técnicos que atende aos requisitos necessários de capacidade técnica e gerencial para a execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: Assessoria, Monitoria e Fiscalização das licitações, bem como o acompanhamento e desenvolvimento do trabalho social, etc.",
+            "proposalDate": "2010-02-18T00:00:00.000Z",
+            "biddingDate": "2010-12-23T00:00:00.000Z",
+            "homologationDate": "2011-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "4900020100003",
+              "name": "TERRITÓRIOS RURAIS - Infra-estrutura e Serviços - Contrato de Repasse",
+              "value": 221282,
+              "details": {
+                "code": "4900020100003",
+                "name": "TERRITÓRIOS RURAIS - Infra-estrutura e Serviços - Contrato de Repasse",
+                "cps": "",
+                "items": "Apoiar a implementação e expansão dos investimentos que beneficiem coletivamente os agricultores familiares.",
+                "couterpartRule": "Os limites de contrapartida são os definidos na LDO(Lei nº 12.017, de 12/08/09). A contrapartida de Estados e Municípios será apenas financeira. Para ONGs será aceita contrapartida em Bens e serviços. [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 221282,
+                "couterpartValues": {
+                  "total": 5800,
+                  "financial": 5800,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 215482,
+                  "amendment": "R$ 215.482,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.611.354-** - JORGINALDO VIEIRA DE MENESES",
+            "grantor": "49000 - MINISTERIO DO DESENVOLVIMENTO AGRARIO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "49000 - MINISTERIO DO DESENVOLVIMENTO AGRARIO",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "733340/2010",
+            "validity": "23/12/2010 a 23/09/2012",
+            "limitDate": "2012-10-23T00:00:00.000Z",
+            "totalValue": 221282,
+            "transferValue": 215482,
+            "counterpartValue": 5800,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "730420/2009",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO AGRARIO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2012-06-28T00:00:00.000Z",
+        "program": "Territórios Rurais - Infra-estrutura e Serviços - Contrato de Repasse",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "099251/2009",
+            "organId": "09925/2009",
+            "processId": "099251/2009",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "49000 - MINISTERIO DO DESENVOLVIMENTO AGRARIO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A forma histórica de ocupação do espaço transformou o território do Médio Sertão num cenário de enormes contradições e injustiças sociais que assumem proporções de calamidade com as freqüentes estiagens prolongadas. As principais problemáticas enfrentadas pela população empobrecida do Território são: A inexistência de iniciativas que propiciem o acesso da população a trabalho formal e informal para geração de renda; dificuldade de acesso à água para consumo Humano e animal e alimentos em quantidade e qualidade para o consumo, principalmente nos períodos de estiagem prolongada na região. Os agricultores (as) familiares do território enfrentam grandes dificuldades para a melhoria e diversificação da produção, o que tem provocado na região o empobrecimento das famílias e o êxodo de jovens para os centros urbanos. As práticas inapropriadas de manejo do solo raso e arenoso tem tornado a região uma das mais susceptíveis ao processo de desertificação, reduzindo ainda mais as chances de êxito na produção agropecuária de subsistência. A Fábrica de produção tecidos e serviços de serigrafia, agregará um valor importante à região, pois será uma opção para região o uso desses serviços, que até o momento a população regional precisa se deslocar um raio de 100km até a cidade de Arapiraca/AL, para contratação destes serviços. O mesmo atenderá diretamente 50 famílias de agricultores do município e indiretamente 250 famílias que residem na zona rural de Olivença e que sobrevivem de renda de até um salário mínimo ou repasses dos programas governamentais do governo federal, a unidade será implantada em uma área pública pertencente a prefeitura municipal próximo a sede do município no sítio João Paulo. O projeto tem como base a visão de futuro territorial sintetizada no PTDRS nos princípios da sustentabilidade onde, o manejo e conservação da agrobiodiversidade da caatinga são de fundamental importância para a geração de trabalhos, empregos e renda. Com a implantação desta fábrica no território alcançará resultados como: Criação de novos postos de trabalho para inclusão dos jovens agricultores no setor produtivo Beneficiamento da matéria prima da agricultura familiar agregando valor em pequenas agroindústrias em rede com visão territorial Através do comércio justo e solidário teremos uma maior aproximação produtor/beneficiamento/consumidor obtendo uma renda familiar justa, pela agregação da cultura da convivência com a realidade local É neste sentido que apresentamos a presente proposta de parceria com o Ministério do Desenvolvimento Agrário (MDA) Secretaria do Desenvolvimento Territorial (SDT), com o propósito de contribuir para transformar esta iniciativa em centro de referencia de produção apropriada no Território.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Fábrica para confecção de tecidos em fio e serviços de serigrafia visando à potencialização do artesanato local e a geração de trabalho e renda dos agricultores (as) familiares do município de Olivença Território da Cidadania Médio Sertão de Alagoas.",
+            "information": "A Prefeitura Municipal dispõe de uma infra-estrutura apropriada para atender às necessidades do projeto, como, comissão de licitação e secretaria de finanças devidamente estruturada, além disto, possui também um quadro técnico de profissionais adequados.",
+            "proposalDate": "2009-11-16T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-21T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "4900020090001",
+              "name": "Territórios Rurais - Infra-estrutura e Serviços - Contrato de Repasse",
+              "value": 176720,
+              "details": {
+                "code": "4900020090001",
+                "name": "Territórios Rurais - Infra-estrutura e Serviços - Contrato de Repasse",
+                "cps": "",
+                "items": "Apoiar a implementação e expansão dos investimentos que beneficiem coletivamente os agricultores familiares.",
+                "couterpartRule": "Os limites de contrapartida são os definidos na LDO (Lei 11.768, de 14/08/2008). A contrapartida de Estados e Municípios será apenas financeira. Para ONGs será aceita contrapartida em Bens e Serviços [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 176720,
+                "couterpartValues": {
+                  "total": 5800,
+                  "financial": 5800,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 170920,
+                  "amendment": "R$ 170.920,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.611.354-** - JORGINALDO VIEIRA DE MENESES",
+            "grantor": "49000 - MINISTERIO DO DESENVOLVIMENTO AGRARIO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "49000 - MINISTERIO DO DESENVOLVIMENTO AGRARIO",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "730420/2009",
+            "validity": "31/12/2009 a 28/06/2012",
+            "limitDate": "2012-06-28T00:00:00.000Z",
+            "totalValue": 176720,
+            "transferValue": 170920,
+            "counterpartValue": 5800,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "724742/2009",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2012-06-28T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "109807/2009",
+            "organId": "10980/2009",
+            "processId": "109807/2009",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Melhorar as condições de infra-estrutura do município com a implantação de pavimentação em paralelepípedo de diversas ruas da zona urbana do município que irão beneficiar cerca de 80 famílias com renda mensal em torno de 2 salários mínimos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Obras de infra-estrutura - Pavimentação em paralelepípedo",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Olivença/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-11-30T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020094751",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 200500,
+              "details": {
+                "code": "5600020094751",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Infra-estrutura",
+                "couterpartRule": "",
+                "totalValue": 200500,
+                "couterpartValues": {
+                  "total": 4100,
+                  "financial": 4100,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 196400,
+                  "amendment": "R$ 196.400,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.611.354-** - JORGINALDO VIEIRA DE MENESES",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2011",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2011-06-09T00:00:00.000Z",
+              "processId": "202011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "202011",
+                "biddingId": "02/2011",
+                "object": "CONTRATAÇÃO DE UMA EMPRESA PARA EXECUÇÃO DAS OBRAS  E SERVIÇOS DE PAVIMENTAÇÃO NO MUNICÍPIO DE OLIVENÇA",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "DECLARO QUE O MUNICÍPIO ATENDEU TODAS AS EXIGÊNCIA DA LEI 8.666/93 E SUAS ALTERAÇÕES",
+                "publishDate": "2011-06-09T00:00:00.000Z",
+                "beginDate": "2011-06-24T00:00:00.000Z",
+                "endDate": "2011-06-24T00:00:00.000Z",
+                "biddingValue": 196180.81,
+                "homologationDate": "2011-06-28T00:00:00.000Z",
+                "city": "2819 - OLIVENCA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "03/2010",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2010-02-11T00:00:00.000Z",
+              "processId": "092010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2011",
+              "biddingId": "02/2011",
+              "date": "2011-08-22T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10578355000116",
+                "hirerDocument": "CNPJ: 12257762000157",
+                "type": "Material e Serviço",
+                "object": "- CONTRATAÇÃO DE UMA EMPRESA PARA EXECUÇÃO DAS OBRAS E SERVIÇOS DE PAVIMENTAÇÃO NO MUNICÍPIO DE OLIVENÇA",
+                "totalValue": 196180.81,
+                "publishDate": "2011-08-22T00:00:00.000Z",
+                "beginDate": "2011-08-30T00:00:00.000Z",
+                "endDate": "2011-11-30T00:00:00.000Z",
+                "signDate": "2011-06-30T00:00:00.000Z",
+                "executionProcessId": "02/2011 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "202011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "724742/2009",
+            "validity": "31/12/2009 a 28/06/2012",
+            "limitDate": "2015-03-30T00:00:00.000Z",
+            "totalValue": 200500,
+            "transferValue": 196400,
+            "counterpartValue": 4100,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "723923/2009",
+        "company": {
+          "id": "048bce58-dc0c-4be0-829c-36dc6d983b18",
+          "cnpj": "12257762000157",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "3cfba424-75cc-457c-a498-ac63360cb4a1",
+            "name": "Olivença",
+            "uf": "AL",
+            "ibge": "2706000"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-01-12T00:00:00.000Z",
+        "end": "2014-01-09T00:00:00.000Z",
+        "program": "SPR - PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "113551/2009",
+            "organId": "00946/2009",
+            "processId": "59200.000387/2009-37",
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "legalFoundation": "Dec 6170/2008 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A forma histórica de ocupação do espaço transformou o território do Médio Sertão num cenário de enormes contradições e injustiças sociais que assumem proporções de calamidade com as freqüentes estiagens prolongadas. As principais problemáticas enfrentadas pela população empobrecida do Território são: A inexistência de iniciativas que propiciem o acesso da população a trabalho formal e informal para geração de renda; dificuldade de acesso à água para consumo Humano e animal e alimentos em quantidade e qualidade para o consumo, principalmente nos períodos de estiagem prolongada na região. Os agricultores (as) familiares do território enfrentam grandes dificuldades para a melhoria e diversificação da produção, o que tem provocado na região o empobrecimento das famílias e o êxodo de jovens para os centros urbanos. As práticas inapropriadas de manejo do solo raso e arenoso tem tornado a região uma das mais susceptíveis ao processo de desertificação, reduzindo ainda mais as chances de êxito na produção agropecuária de subsistência. Com isso propomos em parceria com o Ministério da Integração Nacional/MI para implantação de um programa de formação e capacitação de agricultores familiares em temáticas apropriadas ao desenvolvimento do semiárido Alagoano. O projeto tem como base a visão de futuro territorial sintetizada no PTDRS nos princípios da sustentabilidade onde, o manejo e conservação da agrobiodiversidade da caatinga são de fundamental importância para a geração de trabalhos, empregos e renda. A falta de segurança alimentar, sementes para o plantio e a ameaça dos transgênicos, e positivamente a experiência dos agricultores familiares e das ONG’s no território, foi onde a Prefeitura Municipal e o Colegiado de Desenvolvimento Territorial do Médio Sertão encontrou subsídios para elaborar esta proposta de projeto para formação e capacitação em temáticas como cadeia produtiva da ovinocaprinocultura e Bancos comunitários de sementes. Diante do exposto, os bancos de sementes configuram-se, como uma alternativa estruturante, devido às condições que os agricultores familiares se encontram completamente dependentes das sementes distribuídas pelo governo estadual, e a necessidade imediata do resgate das sementes crioulas, tão importantes para manutenção da biodiversidade numa região onde o meio ambiente se encontra numa situação bem avançada de degradação. As ações a serem implementadas, promoverão a segurança alimentar e certeza que agricultores familiares terão sementes para o plantio no prazo correto e conseqüentemente um maior incremento na renda familiar integrados em todas alternativas de desenvolvimento territorial. O projeto está estruturado sob a perspectiva de promover a educação para a cidadania e valorizar a diversidade cultural das famílias; garantir o manejo e conservação da variedade genética de sementes e plantas da caatinga; favorecer a adequação alimentar e nutritiva, adaptando-a aos hábitos das famílias, e desenvolver formas associativas e solidárias de produção e de convivência que possam gerar um tecido de relações sociais pautado na equidade, na cooperação, na solidariedade e auto-estima dos grupos. Irá fazer debate sobre o resgate das variedades crioulas nos municípios do território Médio Sertão bem como consolidar a proposta de um programa estadual de Bancos Comunitários de Sementes, cujo projeto de lei já foi assinado pelo governo do Estado, Ao mesmo tempo em que o colegiado também já referendou a cadeia produtiva de Grãos e Sementes de Milho e Feijão para o aprofundamento de seus estudos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de um Programa de Formação e Capacitação para famílias de agricultores familiares nas comunidades rurais do município de Olivença Médio Sertão Alagoano.",
+            "information": "A Prefeitura Municipal dispõe de uma infra-estrutura apropriada para atender às necessidades do projeto, como, comissão de licitação e secretaria de finanças devidamente estruturada, além disto, possui também um quadro técnico de profissionais adequados.",
+            "proposalDate": "2009-12-04T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-12T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090028",
+              "name": "SPR - PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO",
+              "value": 100160,
+              "details": {
+                "code": "5300020090028",
+                "name": "SPR - PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO",
+                "cps": null,
+                "items": "Apoio à Implantação de Infra-Estrutura Social e Produtiva em Espaços Sub-Regionais",
+                "couterpartRule": "Municípios com até 50.000 habitantes localizados nas Mesorregiões Prioritárias da PNDR [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 100160,
+                "couterpartValues": {
+                  "total": 3130,
+                  "financial": 3130,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 97030,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.257.762/0001-57 - MUNICIPIO DE OLIVENCA",
+            "respProponent": "***.611.354-** - JORGINALDO VIEIRA DE MENESES",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.669.809-** - MARCIA REGINA SARTORI DAMO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE OLIVENCA",
+            "documentNumber": "12.257.762/0001-57",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "723923/2009",
+            "validity": "12/01/2010 a 09/01/2014",
+            "limitDate": "2014-01-09T00:00:00.000Z",
+            "totalValue": 100160,
+            "transferValue": 97030,
+            "counterpartValue": 3130,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

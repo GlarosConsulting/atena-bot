@@ -1,0 +1,1775 @@
+{
+  "beginDate": "2020-09-01T21:45:55.149Z",
+  "endDate": "2020-09-01T21:54:06.437Z",
+  "data": {
+    "location": {
+      "city": "Coité do Nóia",
+      "uf": "AL",
+      "ibge": "2702009"
+    },
+    "agreements": [
+      {
+        "agreementId": "897192/2019",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2019-12-31T00:00:00.000Z",
+        "end": "2022-12-30T00:00:00.000Z",
+        "program": "Implanta??o e Moderniza??o de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - Projetos",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "054472/2019",
+            "organId": "054472/2019",
+            "processId": "0544722019",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "424/2016",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": "O Município de Coité do Nóia/AL, com área territorial de 88,759 km2, está localizado na Mesorregião do Agreste Alagoano, na Microrregião de Arapiraca, limitando-se com os Municípios de Arapiraca, Igaci, Limoeiro de Anadia e Taquarana. Segundo o DER/AL, a distância até a capital Maceió é de aproximadamente 132 km, via rodovia federal BR316 e rodovias estaduais AL115 e AL482. De acordo com o CENSO IBGE 2010, possui uma população residente de 10.926 habitantes.",
+            "justification": null,
+            "targetAudience": "Crianças, jovens, adolescentes e atletas.",
+            "problem": "Deficiência na infraestrutura esportiva no Município de Coité do Nóia/AL.",
+            "result": "Ampliação e modernização da infraestrutura para o esporte educativo no Município de Coité do Nóia/AL.",
+            "proposalAndObjectivesRelation": "A proposta busca atender aos objetivos e diretrizes do programa, que visa enaltecer a gestão de política pública voltada à infraestrutura esportiva, educacional, de lazer e inclusão social, no intuito de incentivar a atividade física, com a ampliação da oferta de instalações, através de construção, modernização ou reforma de espaços esportivos.",
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "CONSTRUÇÃO DE CAMPO SOCIETY NO MUNICÍPIO DE COITÉ DO NÓIA/AL (localização - LATITUDE: 9 graus 38 minutos 23.74 segundos SUL; LONGITUDE: 36 graus 34 minutos 35.50 segundos OESTE)",
+            "information": "Em atendimento ao disposto no inciso V do Art. 16 da Portaria Interministerial nº 424, de 30 de dezembro de 2016, DECLARAMOS, para fins de comprovação junto ao MINISTÉRIO DA CIDADANIA, Programa 5500020190054, que o MUNICÍPIO DE COITÉ DO NÓIA, no Estado de Alagoas, possui de capacidade técnica e gerencial para execução do objeto da proposta.",
+            "proposalDate": "2019-12-18T00:00:00.000Z",
+            "biddingDate": "2019-12-31T00:00:00.000Z",
+            "homologationDate": "2020-01-07T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020190054",
+              "name": "Implanta??o e Moderniza??o de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - Projetos",
+              "value": 291500,
+              "details": {
+                "code": "5500020190054",
+                "name": "Implanta??o e Moderniza??o de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - Projetos",
+                "cps": "001/2018",
+                "items": "Equipamentos Comunitários",
+                "couterpartRule": "",
+                "totalValue": 291500,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 286500,
+                  "amendment": "R$ 286.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.242.814-** - JOSE DE SENA NETTO",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.714.780-** - OSMAR GASPARINI TERRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "897192/2019",
+            "validity": "31/12/2019 a 30/12/2022",
+            "limitDate": "2023-02-28T00:00:00.000Z",
+            "totalValue": 291500,
+            "transferValue": 286500,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "863837/2017",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T00:00:00.000Z",
+        "end": "2021-10-30T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "104356/2017",
+            "organId": "104356/2017",
+            "processId": "1043562017",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Coité do Nóia, no Estado de Alagoas, com área territorial de 88,759 km2 (IBGE), está localizado na Mesorregião do Agreste Alagoano, na Microrregião de Arapiraca, limitando-se com os Municípios de Arapiraca, Igaci, Limoeiro de Anadia e Taquarana. Segundo o Departamento de Estradas de Rodagem de Alagoas (DER/AL), a distância do município até a capital Maceió é de aproximadamente 132 km, via rodovia federal BR316 e rodovias estaduais AL115 e AL482, considerando o trajeto mais rápido em condições normais de trânsito. De acordo com o CENSO IBGE 2010, o Município de Coité do Nóia possui uma população residente de 10.926 habitantes e densidade demográfica de 123,44 hab/km2. Conforme divulgado pelo IBGE, apresenta IDHM de 0,533. Ainda segundo o CENSO IBGE 2010, a população residente rural é de 7.189 habitantes e a população residente urbana é de 3.737 habitantes. Atualmente, na área urbana do município, apesar dos investimentos em infraestrutura realizados pela Prefeitura em parceria com o Governo Federal, ainda existem diversas ruas sem pavimentação e drenagem, situação que impacta negativamente na qualidade de vida da população local. DESCRIÇÃO DO OBJETO: Implantação de Pavimentação em Vias Públicas Urbanas no Município de Coité do Nóia/AL. PÚBLICO ALVO: População residente nas ruas beneficiadas. RESULTADOS ESPERADOS COM A REALIZAÇÃO DA OBRA: Melhoria da qualidade de vida da população diretamente beneficiada, através da ação de implantação de pavimentação e drenagem de ruas. CONFORMIDADE COM O PROGRAMA GOVERNAMENTAL: O objeto da proposta está em conformidade com o Programa Planejamento Urbano (Código: 5600020170002) do Ministério das Cidades, Ação Orçamentária ID73 – Apoio à Política Nacional de Desenvolvimento Urbano.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE PAVIMENTAÇÃO EM VIAS PÚBLICAS URBANAS NO MUNICÍPIO DE COITÉ DO NÓIA/AL.",
+            "information": "Em atendimento ao disposto no inciso V do Art. 16 da Portaria Interministerial nº 424, de 30 de dezembro de 2016, DECLARAMOS, para fins de comprovação junto ao MINISTÉRIO DAS CIDADES, Programa Planejamento Urbano, que o MUNICÍPIO DE COITÉ DO NÓIA, no Estado de Alagoas, possui CAPACIDADE TÉCNICA E GERENCIAL para a execução do objeto da proposta.",
+            "proposalDate": "2017-12-28T00:00:00.000Z",
+            "biddingDate": "2017-12-30T00:00:00.000Z",
+            "homologationDate": "2018-01-08T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020170039",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 988588.6,
+              "details": {
+                "code": "5300020170039",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 988588.6,
+                "couterpartValues": {
+                  "total": 988.6,
+                  "financial": 988.6,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.242.814-** - JOSE DE SENA NETTO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-05-20T00:00:00.000Z",
+              "processId": "20190514001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20190514001",
+                "biddingId": "03/2019",
+                "object": "Contratação de Empresa Especializada em Construção Civil para Execução de Obra de Implantação de Pavimentação em Vias Públicas Urbanas no Município de Coité do Nóia/AL",
+                "legalFoundation": "Lei nº 8.666/1993",
+                "justification": "O Município de Coité do Nóia, no Estado de Alagoas, com área territorial de 88,759 km2 (IBGE), está localizado na Mesorregião do Agreste Alagoano, na Microrregião de Arapiraca, limitando-se com os Municípios de Arapiraca, Igaci, Limoeiro de Anadia e Taquarana. Segundo o Departamento de Estradas de Rodagem de Alagoas (DER/AL), a distância do município até a capital Maceió é de aproximadamente 132 km, via rodovia federal BR316 e rodovias estaduais AL115 e AL482, considerando o trajeto mais rápido em condições normais de trânsito. De acordo com o CENSO IBGE 2010, o Município de Coité do Nóia possui uma população residente de 10.926 habitantes e densidade demográfica de 123,44 hab/km2. Conforme divulgado pelo IBGE, apresenta IDHM de 0,533. Ainda segundo o CENSO IBGE 2010, a população residente rural é de 7.189 habitantes e a população residente urbana é de 3.737 habitantes. Atualmente, na área urbana do município, apesar dos investimentos em infraestrutura realizados pela Prefeitura em parceria com o Governo Federal, ainda existem diversas ruas sem pavimentação e drenagem, situação que impacta negativamente na qualidade de vida da população local. DESCRIÇÃO DO OBJETO: Implantação de Pavimentação em Vias Públicas Urbanas no Município de Coité do Nóia/AL. PÚBLICO ALVO: População\nresidente nas ruas beneficiadas. RESULTADOS ESPERADOS COM A REALIZAÇÃO DA OBRA: Melhoria da qualidade de vida da população diretamente beneficiada, através da ação de implantação de pavimentação e drenagem de ruas. CONFORMIDADE COM O PROGRAMA GOVERNAMENTAL: O objeto da proposta está em conformidade com o Programa Planejamento Urbano (Código: 5600020170002) do Ministério das Cidades,\nAção Orçamentária ID73 – Apoio à Política Nacional de Desenvolvimento Urbano.",
+                "publishDate": "2019-05-20T00:00:00.000Z",
+                "beginDate": "2019-06-04T00:00:00.000Z",
+                "endDate": "2019-06-21T00:00:00.000Z",
+                "biddingValue": 956913.02,
+                "homologationDate": "2019-06-21T00:00:00.000Z",
+                "city": "2739 - COITE DO NOIA",
+                "analysisDate": "2019-08-20T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000057/2019",
+              "biddingId": "03/2019",
+              "date": "2019-06-24T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 16628118000107",
+                "hirerDocument": "CNPJ: 12198719000168",
+                "type": "Obras",
+                "object": "Implantação de Pavimentação em Vias Públicas Urbanas no Município de Coité do Nóia/AL",
+                "totalValue": 826214.7,
+                "publishDate": "2019-06-24T00:00:00.000Z",
+                "beginDate": "2019-06-21T00:00:00.000Z",
+                "endDate": "2020-12-21T00:00:00.000Z",
+                "signDate": "2019-06-21T00:00:00.000Z",
+                "executionProcessId": "03/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20190514001 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "863837/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T00:00:00.000Z",
+            "totalValue": 988588.6,
+            "transferValue": 987600,
+            "counterpartValue": 988.6,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "854864/2017",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T00:00:00.000Z",
+        "end": "2021-07-11T00:00:00.000Z",
+        "program": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "093930/2017",
+            "organId": "00609/2017",
+            "processId": "25100.016468/2017-75",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 424/2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de Coité do Nóia, no Estado de Alagoas, com área territorial de 88,759 km2 (IBGE), está localizado na Mesorregião do Agreste Alagoano, na Microrregião de Arapiraca, limitando-se com os Municípios de Arapiraca, Igaci, Limoeiro de Anadia e Taquarana. Segundo o Departamento de Estradas de Rodagem de Alagoas (DER/AL), a distância do município até a capital Maceió é de aproximadamente 132 km, via rodovia federal BR 316 e rodovias estaduais AL 115 e AL 482, considerando o trajeto mais rápido em condições normais de trânsito. De acordo com o CENSO IBGE 2010, o Município de Coité do Nóia possui uma população residente de 10.926 habitantes e densidade demográfica de 123,44 hab/km2. Conforme divulgado pelo IBGE, apresenta IDHM de 0,533. Ainda segundo o CENSO IBGE 2010, a população residente rural é de 7.189 habitantes e a população residente urbana é de 3.737 habitantes. Segundo o manual da FUNASA para elaboração de projeto de melhoria habitacional para o controle de doença de Chagas: 1. A doença de Chagas é uma endemia do continente americano, que tem como agente patogênico o Trypanosoma cruzi e transmissor o inseto hematófago Triatomíneo. Inicialmente foi caracterizada como uma enzootia, quando afetava exclusivamente animais silvestres, por triatomíneos silvestres. Com o processo de colonização do homem, a procura de espaços para viver, como resultado da organização socioeconômica e política, esses ecótopos naturais da doença foram sendo ocupados pelo homem e forçando os triatomíneos silvestres a adaptarem-se a ambiente doméstico (habitações humanas). 2. A diversidade de espécies transmissoras — os triatomíneos, associados a grande variedade de hospedeiros vertebrados, possibilitou que essa doença (tripanossomíase americana) apresentasse uma multiplicidade de hábitats e nichos ecológicos. Alguns exemplos podem ser citados, como abrigos de morcegos, copas de árvores de florestas, habitadas por macacos, ou árvores isoladas, como as palmeiras e macaubeiras, onde se capturam roedores; são encontrados em ninhos e tocas de animais, em troncos de árvores, entre a vegetação de bosques, cerrados ou dos campos, buracos no solo ou sob pedras (Rey, 1973). Nas habitações humanas têm sido encontrados preferencialmente nos quartos, junto às camas, escondidos em entulhos deixados em cantos de paredes, em galinheiros, chiqueiros, paiós, cercas e principalmente em todas as rachaduras de paredes. 3. A doença de Chagas é um exemplo do fenômeno da domiciliação de vetores de doenças. A tripanossomíase se dissemina onde certas espécies de triatomíneos se adaptam biologicamente à colonização nos domicílios humanos e onde tais domicílios apresentam condições favoráveis para essa colonização, como as casas de pau-a-pique, barreadas, cobertas de sapé, residências de madeira e de tábuas mal ajustadas, apresentando frinchas e frestas que servem de guarida aos insetos. 4. Como medidas de controle do vetor da doença de Chagas, merecem destaques a utilização de inseticidas de ação residual e a Melhoria da Habitação, cujos benefícios devem ser reforçados por meio de ações de caráter educativo, desenvolvidas concomitantemente junto às comunidades beneficiadas. A existência de habitações cujas condições físicas favorecem a colonização de triatomíneos associados à pressão de exemplares de procedência silvestre reinfestando o peri e intradomicílio, a dificuldade de êxito no controle desses vetores, com inseticidas, constituem fatores que recomendam a Melhoria da Habitação como medida essencial no Programa de Controle da Doença de Chagas. O Município de Coité do Nóia/AL consta na relação da FUNASA com os municípios prioritários para o Programa de Melhorias Habitacionais para o Controle da Doença de Chagas, com pontuação 55,10. PÚBLICO ALVO: População residente em habitações cujas condições físicas favorecem a colonização de agentes transmissores da Doença de Chagas. DESCRIÇÃO DO OBJETO: Implantação de Melhorias Habitacionais para o Controle da Doença de Chagas no Município de Coité do Nóia/AL. COMUNIDADE BENEFICIADA: Sítio Areias. RESULTADOS ESPERADOS: Redução dos fatores de risco que contribuem para o surgimento de novos casos da Doença de Chagas na população do Município de Coité do Nóia/AL. Melhoria da qualidade de vida para a população beneficiada.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Melhorias Habitacionais para o Controle da Doença de Chagas no Município de Coité do Nóia/AL.",
+            "information": "Em atendimento ao disposto no inciso V, do art. 16, da Portaria Interministerial MP/MF/CGU nº 424, de 30 de dezembro de 2016, DECLARAMOS que o MUNICÍPIO DE COITÉ DO NÓIA, no Estado de Alagoas, possui CAPACIDADE TÉCNICA e GERENCIAL para a execução do objeto do convênio.",
+            "proposalDate": "2017-11-20T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170028",
+              "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+              "value": 498750.8,
+              "details": {
+                "code": "3621120170028",
+                "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+                "cps": null,
+                "items": "Implantação de Melhorias Habitacionais para Controle da Doença de Chagas (MHCDC).",
+                "couterpartRule": "Não será exigida a contrapartida, conforme Art. 79, §4, da Lei de Diretrizes Orçamentárias – LDO 2017 (Lei nº 13.408, de 26 de dezembro de 2016). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 498750.8,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 498750.8,
+                  "amendment": null
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.242.814-** - JOSE DE SENA NETTO",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "05/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-10-04T00:00:00.000Z",
+              "processId": "20190917001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20190917001",
+                "biddingId": "05/2019",
+                "object": "Contratação de empresa especializada em construção civil para execução da obra de implantação de melhorias habitacionais para o controle da Doença de Chagas no Município de Coité do Nóia/AL",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "Reduzir os fatores de risco que contribuem para o surgimento de novos casos da Doença de Chagas na população do Município de Coité do Nóia/AL.",
+                "publishDate": "2019-10-04T00:00:00.000Z",
+                "beginDate": "2019-10-22T00:00:00.000Z",
+                "endDate": "2020-02-05T00:00:00.000Z",
+                "biddingValue": 491706.77,
+                "homologationDate": "2020-02-05T00:00:00.000Z",
+                "city": "2739 - COITE DO NOIA",
+                "analysisDate": "2020-06-05T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2020",
+              "biddingId": "05/2019",
+              "date": "2020-02-11T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 27259739000179",
+                "hirerDocument": "CNPJ: 12198719000168",
+                "type": "Obras",
+                "object": "Execução de obra de implantação de melhorias habitacionais para o controle da doença de Chagas no Município de Coité do Nóia/AL",
+                "totalValue": 443227.17,
+                "publishDate": "2020-02-11T00:00:00.000Z",
+                "beginDate": "2020-06-30T00:00:00.000Z",
+                "endDate": "2020-09-29T00:00:00.000Z",
+                "signDate": "2020-02-10T00:00:00.000Z",
+                "executionProcessId": "05/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20190917001 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "854864/2017",
+            "validity": "29/12/2017 a 11/07/2021",
+            "limitDate": "2021-09-09T00:00:00.000Z",
+            "totalValue": 443227.17,
+            "transferValue": 443227.17,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "806011/2014",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-07-04T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "027762/2014",
+            "organId": "27762/2014",
+            "processId": "0277622014",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Melhoria da infraestrutura urbana do Município de Coité do Nóia/AL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de pavimentação em vias públicas urbanas",
+            "information": "O Município possui capacidade técnica e gerencial para fazer a gestão e execução do Objeto do Convênio.",
+            "proposalDate": "2014-03-13T00:00:00.000Z",
+            "biddingDate": "2014-07-04T00:00:00.000Z",
+            "homologationDate": "2014-07-14T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020140001",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 988600,
+              "details": {
+                "code": "5600020140001",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Projetos Básicos e Executivos Integrado de Reabilitação Urbana(Vide aba ANEXOS - Arquivo ACESSIBILIDADE E PROGRAMAS URBANOS)., Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 988600,
+                "couterpartValues": {
+                  "total": 1000,
+                  "financial": 1000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00 - Arthur Lira"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.242.814-** - JOSE DE SENA NETTO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.603.673-** - ALBERTO ALFREDO LEAL NUNES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "022016",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2016-07-01T00:00:00.000Z",
+              "processId": "20160525001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20160525001",
+                "biddingId": "022016",
+                "object": "Contratação de empresa especializada para executar a obra de Implantação de Pavimentação em Vias Públicas Urbanas, conforme Projeto Básico.",
+                "legalFoundation": "Lei 8666/1993",
+                "justification": "A presente licitação justifica-se pela necessidade de melhoria na infraestrutura urbana do Município de Coité do Nóia/AL, através de ações de pavimentação e drenagem de ruas, em conformidade com o programa Planejamento Urbano do Ministério das Cidades.",
+                "publishDate": "2016-07-01T00:00:00.000Z",
+                "beginDate": "2016-09-19T00:00:00.000Z",
+                "endDate": "2016-11-21T00:00:00.000Z",
+                "biddingValue": 974044.74,
+                "homologationDate": "2016-11-23T00:00:00.000Z",
+                "city": "2739 - COITE DO NOIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000348/2016",
+              "biddingId": "022016",
+              "date": "2016-12-07T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 18286438000143",
+                "hirerDocument": "CNPJ: 12198719000168",
+                "type": "Material",
+                "object": "Implantação de Pavimentação em Vias Públicas Urbanas no Município de Coité do Nóia/AL, conforme Projeto Básico do Anexo I do Edital da Tomada de Preços nº 02/2016.",
+                "totalValue": 928019,
+                "publishDate": "2016-12-07T00:00:00.000Z",
+                "beginDate": "2016-11-24T00:00:00.000Z",
+                "endDate": "2017-12-31T00:00:00.000Z",
+                "signDate": "2016-11-24T00:00:00.000Z",
+                "executionProcessId": "022016 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20160525001 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "806011/2014",
+            "validity": "04/07/2014 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 988600,
+            "transferValue": 987600,
+            "counterpartValue": 1000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "803413/2014",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-06-10T00:00:00.000Z",
+        "end": "2019-03-30T00:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "027756/2014",
+            "organId": "27756/2014",
+            "processId": "0277562014",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Melhoria da infraestrutura urbana do Município de Coité do Nóia/AL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de pavimentação em vias públicas urbanas",
+            "information": "O Município possui capacidade técnica e gerencial para fazer a gestão e execução do Objeto do Convênio.",
+            "proposalDate": "2014-03-13T00:00:00.000Z",
+            "biddingDate": "2014-06-10T00:00:00.000Z",
+            "homologationDate": "2014-06-26T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020140001",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 296000,
+              "details": {
+                "code": "5600020140001",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Projetos Básicos e Executivos Integrado de Reabilitação Urbana(Vide aba ANEXOS - Arquivo ACESSIBILIDADE E PROGRAMAS URBANOS)., Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 296000,
+                "couterpartValues": {
+                  "total": 700,
+                  "financial": 700,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.242.814-** - JOSE DE SENA NETTO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.603.673-** - ALBERTO ALFREDO LEAL NUNES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2016",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2016-02-02T00:00:00.000Z",
+              "processId": "20160118001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20160118001",
+                "biddingId": "01/2016",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE OBRA DE IMPLANTAÇÃO DE PAVIMENTAÇÃO EM VIAS PÚBLICAS URBANAS.",
+                "legalFoundation": "ART. 22 - Lei nº 8.666/1993",
+                "justification": "IMPLANTAÇÃO DE AÇÕES PARA MELHORIA DA INFRAESTRUTURA URBANA DO MUNICÍPIO DE COITÉ DO NÓIA/AL.",
+                "publishDate": "2016-02-02T00:00:00.000Z",
+                "beginDate": "2016-02-17T00:00:00.000Z",
+                "endDate": "2016-03-23T00:00:00.000Z",
+                "biddingValue": 296000,
+                "homologationDate": "2016-04-11T00:00:00.000Z",
+                "city": "2739 - COITE DO NOIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000322/2016",
+              "biddingId": "01/2016",
+              "date": "2016-04-19T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09475434000112",
+                "hirerDocument": "CNPJ: 12198719000168",
+                "type": "Obras",
+                "object": "IMPLANTAÇÃO DE PAVIMENTAÇÃO EM VIAS PÚBLICAS URBANAS",
+                "totalValue": 265337.62,
+                "publishDate": "2016-04-19T00:00:00.000Z",
+                "beginDate": "2016-04-18T00:00:00.000Z",
+                "endDate": "2016-12-31T00:00:00.000Z",
+                "signDate": "2016-04-18T00:00:00.000Z",
+                "executionProcessId": "01/2016 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20160118001 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "803413/2014",
+            "validity": "10/06/2014 a 30/03/2019",
+            "limitDate": "2019-05-29T00:00:00.000Z",
+            "totalValue": 296000,
+            "transferValue": 295300,
+            "counterpartValue": 700,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "795254/2013",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T00:00:00.000Z",
+        "end": "2016-01-31T00:00:00.000Z",
+        "program": "ALAGOAS - OGU 2013",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "091464/2013",
+            "organId": "91464/2013",
+            "processId": "0914642013",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Incentivo e fomento a produção agropecuária de pequeno porte no Município de Coité do Nóia - AL, por meio da aquisição e do fornecimento de máquinas/equipamentos agrícolas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de máquinas/equipamentos agrícolas",
+            "information": "O Município de Coité do Nóia - AL possui capacidade técnica e gerencial para executar o objeto da proposta.",
+            "proposalDate": "2013-12-11T00:00:00.000Z",
+            "biddingDate": "2013-12-31T00:00:00.000Z",
+            "homologationDate": "2014-01-17T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020130004",
+              "name": "ALAGOAS - OGU 2013",
+              "value": 398000,
+              "details": {
+                "code": "2200020130004",
+                "name": "ALAGOAS - OGU 2013",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO E FOMENTO DO SETOR AGROPECUARIO - ACAO: 20ZV",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 398000,
+                "couterpartValues": {
+                  "total": 8000,
+                  "financial": 8000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.242.814-** - JOSE DE SENA NETTO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.119.979-** - ERIKSON CAMARGO CHANDOHA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0162015",
+              "type": "Licitação - Pregão",
+              "date": "2015-08-05T00:00:00.000Z",
+              "processId": "20150803001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "20150803001",
+                "biddingId": "0162015",
+                "object": "AQUISIÇÃO DE MÁQUINAS/EQUIPAMENTOS AGRÍCOLAS",
+                "legalFoundation": "Lei Federal nº 10.520/2002",
+                "justification": "Incentivo e fomento a produção agropecuária de pequeno porte no Município de Coité do Nóia/AL, por meio da aquisição de máquinas/equipamentos agrícolas.",
+                "publishDate": "2015-08-05T00:00:00.000Z",
+                "beginDate": "2015-08-17T00:00:00.000Z",
+                "endDate": "2015-08-17T00:00:00.000Z",
+                "biddingValue": 397800,
+                "homologationDate": "2015-08-18T00:00:00.000Z",
+                "city": "2739 - COITE DO NOIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000540/2015",
+              "biddingId": "0162015",
+              "date": "2015-08-20T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05453608000195",
+                "hirerDocument": "CNPJ: 12198719000168",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE MÁQUINAS/EQUIPAMENTOS AGRÍCOLAS",
+                "totalValue": 388650,
+                "publishDate": "2015-08-20T00:00:00.000Z",
+                "beginDate": "2015-08-19T00:00:00.000Z",
+                "endDate": "2015-12-31T00:00:00.000Z",
+                "signDate": "2015-08-19T00:00:00.000Z",
+                "executionProcessId": "0162015 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "20150803001 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "795254/2013",
+            "validity": "31/12/2013 a 31/01/2016",
+            "limitDate": "2016-12-05T00:00:00.000Z",
+            "totalValue": 398000,
+            "transferValue": 390000,
+            "counterpartValue": 8000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "789009/2013",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-17T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "060570/2013",
+            "organId": "60570/2013",
+            "processId": "060570/2013",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "1. ASPECTOS: O Município de Coité do Nóia, localizado na região agreste do Estado de Alagoas, segundo o IBGE possui: Área territorial – 88,510 km2; Limites: com os Municípios de Igaci, Taquarana, Limoeiro de Anadia e Arapiraca; População – 10.926 habitantes (CENSO 2010); Índice de Desenvolvimento Humano Municipal (IDHM 2010) – 0,533; PIB per capita – R$ 3.285,40; Densidade demográfica – 123,44 hab/km2; Bioma – caatinga e mata atlântica. 2. ATRATIVOS TURÍSTICOS: 2.1. Pontos Turísticos - Morro Santo do Cruzeiro (principal); Igreja São Benedito; Praça Antônio Pedro de Albuquerque; Praça Padre Cícero; Igreja Santo Antônio; Praça Santo Antônio; entre outros. 2.2 - Eventos - Festa do Padroeiro São Benedito; Festa de Santo Antônio; Festa do Padre Cícero; Festas Juninas/São João e São Pedro; Emancipação Política; Festas de Fim de Ano. 3. PROBLEMA A SER RESOLVIDO: Falta de infraestrutura no Morro Santo do Cruzeiro, que é o principal atrativo turístico do município. 4. PÚBLICO ALVO: Turistas que visitam o Morro Santo do Cruzeiro, como também toda a população do município. 5. DESCRIÇÃO DO OBJETO (OBRA): Pavimentação do acesso e urbanização do pátio principal do Morro Santo do Cruzeiro. 6. RESULTADOS ESPERADOS COM A IMPLANTAÇÃO DA OBRA: 6.1 - Aumento do fluxo de turistas para o Morro Santo do Cruzeiro e, consequentemente, para o município; 6.2 - Atração de mais investimentos para o município; 6.3 - Melhoria da infraestrutura e da qualidade de vida da população residente no entorno do Morro Santo do Cruzeiro. 7. CONFORMIDADE COM O PROGRAMA GOVERNAMENTAL: O objeto da proposta está de acordo com o Programa de Apoio a Projetos de Infraestrutura Turística do Ministério do Turismo, pois objetiva implantar infraestrutura e equipamento urbano diretamente relacionados com as atividades turísticas no município. 8. FLUXO TURÍSTICO NO MUNICÍPIO: Em função do porte do município, não dispomos de dados atualizados sobre o fluxo de turistas, mas esperamos que, com a implantação da obra, ocorra um aumento de mais de 50% no referido fluxo, como também a atração de mais investimentos para a melhoria do Turismo, principalmente Religioso e Cultural, no município e na região.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Infraestrutura Turística no Morro Santo do Cruzeiro.",
+            "information": "O Município de Coité do Nóia/AL possui capacidade técnica e gerencial para fazer a gestão e execução do objeto do convênio.",
+            "proposalDate": "2013-09-18T00:00:00.000Z",
+            "biddingDate": "2013-12-17T00:00:00.000Z",
+            "homologationDate": "2013-12-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020130002",
+              "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+              "value": 402921.67,
+              "details": {
+                "code": "5400020130002",
+                "name": "PROGRAMA DE APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDAS",
+                "cps": "",
+                "items": "I - infraestrutura e equipamentos urbanos diretamente relacionados às atividades turísticas",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes: 2% (dois por cento) e 4% (quatro por cento) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 402921.67,
+                "couterpartValues": {
+                  "total": 12921.67,
+                  "financial": 12921.67,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.242.814-** - JOSE DE SENA NETTO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2015",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-05-08T00:00:00.000Z",
+              "processId": "20150427001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20150427001",
+                "biddingId": "02/2015",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUTAR A IMPLANTAÇÃO DE INFRAESTRUTURA TURÍSTICA NO MORRO SANTO DO CRUZEIRO.",
+                "legalFoundation": "ART. 22 e 23 - Lei nº 8.666/1993",
+                "justification": "1. ASPECTOS: O Município de Coité do Nóia, localizado na região agreste do\nEstado de Alagoas, segundo o IBGE possui: Área territorial – 88,510 km2; Limites:\ncom os Municípios de Igaci, Taquarana, Limoeiro de Anadia e Arapiraca; População – 10.926 habitantes (CENSO 2010); Índice de Desenvolvimento Humano Municipal\n(IDHM 2010) – 0,533; PIB per capita – R$ 3.285,40; Densidade demográfica –\n123,44 hab/km2; Bioma – caatinga e mata atlântica. 2. ATRATIVOS TURÍSTICOS:\n2.1. Pontos Turísticos Morro\nSanto do Cruzeiro (principal); Igreja São Benedito;\nPraça Antônio Pedro de Albuquerque; Praça Padre Cícero; Igreja Santo Antônio;\nPraça Santo Antônio; entre outros. 2.2 Eventos\nFesta\ndo Padroeiro São\nBenedito; Festa de Santo Antônio; Festa do Padre Cícero; Festas Juninas/São\nJoão e São Pedro; Emancipação Política; Festas de Fim de Ano. 3. PROBLEMA A\nSER RESOLVIDO: Falta de infraestrutura no Morro Santo do Cruzeiro, que é o\nprincipal atrativo turístico do município. 4. PÚBLICO ALVO: Turistas que visitam o\nMorro Santo do Cruzeiro, como também toda a população do município. 5.\nDESCRIÇÃO DO OBJETO (OBRA): Pavimentação do acesso e urbanização do\npátio principal do Morro Santo do Cruzeiro. 6. RESULTADOS ESPERADOS COM\nA IMPLANTAÇÃO DA OBRA: 6.1 Aumento\ndo fluxo de turistas para o Morro\nSanto do Cruzeiro e, consequentemente, para o município; 6.2 Atração\nde mais\ninvestimentos para o município; 6.3 Melhoria\nda infraestrutura e da qualidade de\nvida da população residente no entorno do Morro Santo do Cruzeiro. 7.\nCONFORMIDADE COM O PROGRAMA GOVERNAMENTAL: O objeto da\nproposta está de acordo com o Programa de Apoio a Projetos de Infraestrutura\nTurística do Ministério do Turismo, pois objetiva implantar infraestrutura e\nequipamento urbano diretamente relacionados com as atividades turísticas no\nmunicípio. 8. FLUXO TURÍSTICO NO MUNICÍPIO: Em função do porte do\nmunicípio, não dispomos de dados atualizados sobre o fluxo de turistas, mas\nesperamos que, com a implantação da obra, ocorra um aumento de mais de 50%\nno referido fluxo, como também a atração de mais investimentos para a melhoria do\nTurismo, principalmente Religioso e Cultural, no município e na região.",
+                "publishDate": "2015-05-08T00:00:00.000Z",
+                "beginDate": "2015-05-25T00:00:00.000Z",
+                "endDate": "2015-05-25T00:00:00.000Z",
+                "biddingValue": 398000,
+                "homologationDate": "2015-05-26T00:00:00.000Z",
+                "city": "2739 - COITE DO NOIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000307/2015",
+              "biddingId": "02/2015",
+              "date": "2015-05-29T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04861235000129",
+                "hirerDocument": "CNPJ: 12198719000168",
+                "type": "Obras",
+                "object": "IMPLANTAÇÃO DE INFRAESTRUTURA TURÍSTICA NO MORRO SANTO DO CRUZEIRO",
+                "totalValue": 393705.92,
+                "publishDate": "2015-05-29T00:00:00.000Z",
+                "beginDate": "2015-05-28T00:00:00.000Z",
+                "endDate": "2015-12-31T00:00:00.000Z",
+                "signDate": "2015-05-28T00:00:00.000Z",
+                "executionProcessId": "02/2015 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20150427001 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "789009/2013",
+            "validity": "17/12/2013 a 31/12/2020",
+            "limitDate": "2022-08-24T00:00:00.000Z",
+            "totalValue": 402921.67,
+            "transferValue": 390000,
+            "counterpartValue": 12921.67,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "783569/2013",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-09-24T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "040627/2013",
+            "organId": "40627/2013",
+            "processId": "040627/2013",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "MELHORIA DA INFRAESTRUTURA URBANA DO MUNICÍPIO DE COITÉ DO NÓIA/AL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE PAVIMENTAÇÃO EM VIAS PÚBLICAS URBANAS",
+            "information": "O Município de Coité do Nóia/AL possui capacidade técnica e gerencial para fazer a gestão e execução do objeto proposto - Implantação de Pavimentação em Vias Públicas Urbanas. O responsável pelo gerenciamento técnico da obra será o Eng.º Civil Márcio Rogério Silva - CREA 0201548860.",
+            "proposalDate": "2013-07-11T00:00:00.000Z",
+            "biddingDate": "2013-09-24T00:00:00.000Z",
+            "homologationDate": "2013-10-09T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020130013",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 1010,
+              "details": {
+                "code": "5600020130013",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "Contrato de Repasse com valor igual ou superior a R$ 750.000,00, para Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1010,
+                "couterpartValues": {
+                  "total": 22400,
+                  "financial": 22400,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00 - Arthur Lira"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.242.814-** - JOSE DE SENA NETTO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.603.673-** - ALBERTO ALFREDO LEAL NUNES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012015",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2015-04-28T00:00:00.000Z",
+              "processId": "20150417001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20150417001",
+                "biddingId": "012015",
+                "object": "Contratação de empresa especializada para executar a implantação de pavimentação em vias públicas urbanas no Município de Coité do Nóia/AL.",
+                "legalFoundation": "ART. 22 e 23 - Lei nº 8.666/1993",
+                "justification": "Melhoria da infraestrutura urbana do Município de Coité do Nóia/AL, através de ações de pavimentação e drenagem de ruas.",
+                "publishDate": "2015-04-28T00:00:00.000Z",
+                "beginDate": "2015-05-13T00:00:00.000Z",
+                "endDate": "2015-05-13T00:00:00.000Z",
+                "biddingValue": 909821.28,
+                "homologationDate": "2015-05-13T00:00:00.000Z",
+                "city": "2739 - COITE DO NOIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000302/2015",
+              "biddingId": "012015",
+              "date": "2015-05-18T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04918243000164",
+                "hirerDocument": "CNPJ: 12198719000168",
+                "type": "Obras",
+                "object": "IMPLANTAÇÃO DE PAVIMENTAÇÃO EM VIAS PÚBLICAS URBANAS",
+                "totalValue": 909713.6,
+                "publishDate": "2015-05-18T00:00:00.000Z",
+                "beginDate": "2015-05-15T00:00:00.000Z",
+                "endDate": "2015-12-31T00:00:00.000Z",
+                "signDate": "2015-05-15T00:00:00.000Z",
+                "executionProcessId": "012015 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20150417001 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "783569/2013",
+            "validity": "24/09/2013 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 1010,
+            "transferValue": 987600,
+            "counterpartValue": 22400,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "758914/2011",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2011-12-30T00:00:00.000Z",
+        "end": "2018-03-30T00:00:00.000Z",
+        "program": "Gestao da Politica de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "064023/2011",
+            "organId": "64023/2011",
+            "processId": "064023/2011",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Na zona urbana do município de Coité do Nóia existem ainda algumas vias sem pavimentação que servem de acesso aos moradores para suas próprias residências e outras localidades. Constata-se, principalmente durante o período chuvoso grande dificuldade de locomoção e acessibilidade dos moradores. Com o pavimento das ruas propostas neste projeto as condições de vida das pessoas ganharão uma melhor qualidade, haja vista a melhoria por parte da drenagem, urabanizando as áreas, promovendo limpeza e evitando acúmulo de águas empossadas e lixo em via pública.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Com esse projeto o Município de Coité do Nóia, tem como objetivo oferecer condições de vida a população existente tanto na zona urbana como na zona rural. É o lugar que possibilita na maioria das vezes, acesso das famílias aos direitos econômicos e, portanto à proteção social. Estrutura-se, assim como porta de entrada unificando aos usuários das políticas públicas para a rede de proteção básica e referência para encaminhamentos à proteção especial local. O município desempenha papel importante no semi-árido do Território do Agreste de Alagoas, onde localiza-se a constiltuir a principal estrutura física, cujo espaço físico é compatível com o trabalho social com famílias que vivem no seu território de abrangência.",
+            "information": "Secretaria de Obras com sua equipe técnica, composta de 01 Engenheiros Civil e uma Arquiteta, ficarão exclusivamente disponíveis para a realização deste projeto, conforme declaração em anexo.",
+            "proposalDate": "2011-11-04T00:00:00.000Z",
+            "biddingDate": "2011-12-30T00:00:00.000Z",
+            "homologationDate": "2012-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020110024",
+              "name": "Gestao da Politica de Desenvolvimento Urbano",
+              "value": 301326.53,
+              "details": {
+                "code": "5600020110024",
+                "name": "Gestao da Politica de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "",
+                "totalValue": 301326.53,
+                "couterpartValues": {
+                  "total": 6026.53,
+                  "financial": 6026.53,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00 - Com. Desenv. Urbano"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.242.814-** - JOSE DE SENA NETTO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "022017",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2017-04-28T00:00:00.000Z",
+              "processId": "20170411001",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20170411001",
+                "biddingId": "022017",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE PAVIMENTAÇÃO DE RUAS, CONFORME PROJETO BÁSICO.",
+                "legalFoundation": "Art. 22 da Lei n. 8666/93",
+                "justification": "A PRESENTE LICITAÇÃO JUSTIFICA-SE PELA NECESSIDADE DE MELHORIA DA INFRAESTRUTURA URBANA DO MUNICÍPIO DE COITÉ DO NÓIA/AL, EM CONFORMIDADE COM O PROGRAMA GESTÃO DA POLÍTICA DE DESENVOLVIMENTO DO MINISTÉRIO DAS CIDADES.",
+                "publishDate": "2017-04-28T00:00:00.000Z",
+                "beginDate": "2017-05-16T00:00:00.000Z",
+                "endDate": "2017-06-19T00:00:00.000Z",
+                "biddingValue": 128608.4,
+                "homologationDate": "2017-06-19T00:00:00.000Z",
+                "city": "2739 - COITE DO NOIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000367/2017",
+              "biddingId": "022017",
+              "date": "2017-06-21T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05091789000157",
+                "hirerDocument": "CNPJ: 12198719000168",
+                "type": "Obras",
+                "object": "PAVIMENTAÇÃO DE RUAS (PROJETADA 01 E PROJETADA 04), CONFORME PROJETO BÁSICO",
+                "totalValue": 117461.91,
+                "publishDate": "2017-06-21T00:00:00.000Z",
+                "beginDate": "2017-06-20T00:00:00.000Z",
+                "endDate": "2017-12-31T00:00:00.000Z",
+                "signDate": "2017-06-20T00:00:00.000Z",
+                "executionProcessId": "022017 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20170411001 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "758914/2011",
+            "validity": "30/12/2011 a 30/03/2018",
+            "limitDate": "2018-05-29T00:00:00.000Z",
+            "totalValue": 301326.53,
+            "transferValue": 295300,
+            "counterpartValue": 6026.53,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "753148/2010",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-31T00:00:00.000Z",
+        "end": "2011-12-31T00:00:00.000Z",
+        "program": "8007 - Resíduos Sólidos Urbanos (Sistema de Resíduos Sólidos)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "049273/2010",
+            "organId": "00759/2010",
+            "processId": "25100.042585/2010-18",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "Portaria Interministerial nº 127/2008",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de Coité do Nóia está localizado no Agreste Alagoano na região dos Territórios da Cidadania no programa do Governo Federal. Ocupando uma área de 88 km² , possui uma densidade demográfica aproximada de 127 hab/km². Sua população está estimada em 11.217 habitantes para 2008 (IBGE/2008). Seu índice de desenvolvimento humano municipal (IDH – M) é de 0,569, segundo o ATLAS de desenvolvimento humano/PNUD, (ano de 2000) ocupando a 59ª posição no estado. Sua economia é baseada na pecuária bovina. Coité do Nóia, que sofre com a infra-estrutura básica para a coleta de resíduos sólidos, necessita da aquisição de veículo compactador para amenizar este problema",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de veículo compactador para a coleta dos resíduos sólidos.",
+            "information": "",
+            "proposalDate": "2010-04-30T00:00:00.000Z",
+            "biddingDate": "2010-12-31T00:00:00.000Z",
+            "homologationDate": "2011-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120100023",
+              "name": "8007 - Resíduos Sólidos Urbanos (Sistema de Resíduos Sólidos)",
+              "value": 300000,
+              "details": {
+                "code": "3621120100023",
+                "name": "8007 - Resíduos Sólidos Urbanos (Sistema de Resíduos Sólidos)",
+                "cps": null,
+                "items": "Apoiar, técnica e financeiramente, os estados e municípios na implantação, ampliação ou melhoria dos sistemas de coleta, tratamento, destinação final de resíduos sólidos para prevenção e controle de agravos nas áreas mais carentes do país e com população inferior a 50.000 mil habitantes, preferencialmente, nos municípios acometidos de incidência de dengue.",
+                "couterpartRule": "Lei n.º 12.017, de 12/08/2009 - Municípios de até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 6500,
+                  "financial": 6500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 293500,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.896.554-** - BUENO HIGINO DA SILVA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.776.401-** - FAUSTINO BARBOSA LINS FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "753148/2010",
+            "validity": "31/12/2010 a 31/12/2011",
+            "limitDate": "2012-02-29T00:00:00.000Z",
+            "totalValue": 300000,
+            "transferValue": 293500,
+            "counterpartValue": 6500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "739729/2010",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-09-29T00:00:00.000Z",
+        "end": "2017-06-30T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "049394/2010",
+            "organId": "49394/2010",
+            "processId": "049394/2010",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICIPIO DE COITÉ DO NÓIA ESTÁ LOCALIZADO NA MICRORREGIÃO DO MUNICIPIO DE ARAPIRACA E NA MESORREGIÃO DO AGRESTE ALAGOANO LIMITA-SE AOS MUNICIPIOS DE IGACI, ARAPIRACA, LIMOEIRO DE ANADIA E CRAIBAS. SUA ORIGEM SE DEU ATRAVÉS DA FAMILIA NÓIA QUE ALI RESIDIA E TAMBEM PELO FATO DE EXISTIR EM ANBUDANCIA PEQUENAS ARVORES QUE DÃO UM FRUTO NO QUAL CHAMA-SE COITÉ, QUE ABERTO AO MEIO ERA USADO COMO CUIA PARA BEBER AGUA, MEDIR FARINHA OU OUTROS PRODUTOS. SUA POPULAÇÃO É DE 12.669 HABITANTES ENQUANTO QUE O SEU INDICE DE DESENVOLVIMENTO HUMANO/PNUD (IDH) É DE 0,56 SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2000), A SUA AREA TERRITORIAL DE 88 KM², SUA BASE ECONOMICA É AGROPECUARIA. COM ESSA BASE E COM ALGUNS LEVANTAMENTOS FEITOS CONSTATOU-SE QUE NO MUNICIPIO ALGUMAS RUAS NECESSITAVAM DE UM APORTE EM SUA INFRA-ESTRUTURA URBANA, VISTO QUE INEXISTE QUALQUER TIPO DE PAVIMENTAÇÃO, FICANDO POR VEZES O ACESSO DE VEICULOS E PEDESTRES INTRANSITAVEL, FOI A PARTIR DESSA CONJUNTURA QUE O MUNICIPIO PRETENDE DESENVOLVER UM PROJETO DE PAVIMENTAÇÃO ASFALTICA EM DIVERSAS RUAS DO MUNCIPIO DE COITÉ DO NÓIA, VISANDO MELHORAR A QUALIDADE DE VIDA DOS HABITANTES, OFERENDO-LHES ASSIM CONDIÇOES DIGNAS DE ACESSIBILIDADE TANTO PARA COMO OS VEICULOS QUE POR ALI CIRCUNDAM COMO PARA OS PEDESTRES QUE FAZEM ASSIM A SUA TRAVESSIA. A RESPECTIVA PROPOSTA POSSUI A SUA FUNCIONAL PROGRAMATICA DE Nº15.451.0310.1D73.2426 E EMENDA PARLAMENTAR Nº31440007.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO COM PARALELEPIPEDO EM DIVERSAS RUAS DO MUNICIPIO DE COITÉ DO NÓIA/AL",
+            "information": "A PREFEITURA MUNICIPAL DE COITE DO NOIA VEM ATRAVES DESTE DECLARAR QUE POSSUI CAPACIDADE TECNICA GERENCIAL PARA A ELABORAÇÃO E ACOMPANHAMENTO DO PROJETO EM QUESTAO E QUE O RESPONSAVEL TERCNICO É O ENGENEHEIRO CARLOS FLORENTINO DE SOUZA, ENGENHEIRO CIVIL, REGISTRO CREA - AL 3.643D E REGISTRO NACIONAL 0205147380.",
+            "proposalDate": "2010-04-30T00:00:00.000Z",
+            "biddingDate": "2010-09-29T00:00:00.000Z",
+            "homologationDate": "2010-10-04T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020100485",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 302800,
+              "details": {
+                "code": "5600020100485",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infraestrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 302800,
+                "couterpartValues": {
+                  "total": 7500,
+                  "financial": 7500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.242.814-** - JOSE DE SENA NETTO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0032011",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2011-09-28T00:00:00.000Z",
+              "processId": "09200012011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "09200012011",
+                "biddingId": "0032011",
+                "object": "Pavimentação em paralelepípedos e drenagem da Rua Boa Vista",
+                "legalFoundation": "art.23, inciso I, alínea b",
+                "justification": "Ações de melhoria da infraestrutura urbana do município",
+                "publishDate": "2011-09-28T00:00:00.000Z",
+                "beginDate": "2011-10-14T00:00:00.000Z",
+                "endDate": "2011-11-23T00:00:00.000Z",
+                "biddingValue": 298261.93,
+                "homologationDate": "2011-11-28T00:00:00.000Z",
+                "city": "2739 - COITE DO NOIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2011",
+              "biddingId": "0032011",
+              "date": "2011-12-01T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12620868000173",
+                "hirerDocument": "CNPJ: 12198719000168",
+                "type": "Serviço",
+                "object": "Pavimentação em paralelepípedo e drenagem da Rua Boa Vista",
+                "totalValue": 298261.93,
+                "publishDate": "2011-12-01T00:00:00.000Z",
+                "beginDate": "2011-11-30T00:00:00.000Z",
+                "endDate": "2012-11-30T00:00:00.000Z",
+                "signDate": "2011-11-03T00:00:00.000Z",
+                "executionProcessId": "0032011 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "09200012011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "739729/2010",
+            "validity": "29/09/2010 a 30/06/2017",
+            "limitDate": "2018-02-24T00:00:00.000Z",
+            "totalValue": 302800,
+            "transferValue": 295300,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "626542/2008",
+        "company": {
+          "id": "27424a36-2338-40b3-906d-67d2fe70fd7f",
+          "cnpj": "12198719000168",
+          "name": "FUNDO DE EDUCAÇAO BÁSICA",
+          "cityId": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "f2250c9a-095f-4b36-a6d8-3c5e151fc86a",
+            "name": "Coité do Nóia",
+            "uf": "AL",
+            "ibge": "2702009"
+          }
+        },
+        "name": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-25T00:00:00.000Z",
+        "end": "2009-01-20T00:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Adimplente no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "076181/2008",
+            "organId": "655822/2008",
+            "processId": "23400.000673/2008-18",
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "legalFoundation": "",
+            "organ": "26000 - MINISTERIO DA EDUCACAO",
+            "linkedOrgan": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "description": null,
+            "justification": "11, DE 25 DE ABRIL DE 2008",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ESTE CONVENIO TEM POR OBJETO A ASSISTENCIA FINANCEIRA, VISANDO A AQUIS ICAO DE VEICULO AUTOMOTOR, ZERO QUILOMETRO, DE TRANSPORTE COLETIVO, DE STINADO EXCLUSIVAMENTE AO TRANSPORTE DIARIO DE ALUNOS DA EDUCACAO BASI CA, CONFORME PROJETO APRESENTADO, DECORRENTE DE EMENDA PARLAMENTAR.",
+            "information": "",
+            "proposalDate": "2008-06-25T00:00:00.000Z",
+            "biddingDate": "2008-06-25T00:00:00.000Z",
+            "homologationDate": "2008-06-26T00:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.198.719/0001-68 - PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "respProponent": "***.596.304-** - ANTONIO NUNES DE LIMA",
+            "grantor": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "respGrantor": "***.416.934-** - DANIEL SILVA BALABAN"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "convenient": "PREFEITURA MUNICIPAL DE COITE DO NOIA",
+            "documentNumber": "12.198.719/0001-68",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "626542/2008",
+            "validity": "25/06/2008 a 20/01/2009",
+            "limitDate": "2009-01-20T00:00:00.000Z",
+            "totalValue": 172700,
+            "transferValue": 170973,
+            "counterpartValue": 1727,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

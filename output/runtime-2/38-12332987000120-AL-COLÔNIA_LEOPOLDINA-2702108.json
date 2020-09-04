@@ -1,0 +1,1011 @@
+{
+  "beginDate": "2020-09-01T16:33:44.305Z",
+  "endDate": "2020-09-01T16:39:51.888Z",
+  "data": {
+    "location": {
+      "city": "Colônia Leopoldina",
+      "uf": "AL",
+      "ibge": "2702108"
+    },
+    "agreements": [
+      {
+        "agreementId": "803912/2014",
+        "company": {
+          "id": "0df8e7c0-c70d-4ab9-aabd-3b840c9da2bc",
+          "cnpj": "12332987000120",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+            "name": "Colônia Leopoldina",
+            "uf": "AL",
+            "ibge": "2702108"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-09-22T00:00:00.000Z",
+        "end": "2018-10-30T00:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "031806/2014",
+            "organId": "31806/2014",
+            "processId": "0318062014",
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Colônia Leopoldina localiza-se na Microrregião da Mata Alagoana, com área de 207,89 km. Distante 106 km da capital - Maceió, possui 20.107 habitantes - segundo estimativa IBGE 2012, sendo 15.996 habitantes na zona urbana e 4.911 na zona rural. Em 2010, segundo dados da SEPLANDE - Secretaria de Planejamento e Desenvolvimento do Estado, possuía, maior número de pessoas com vínculo empregatício na Indústria - 4.423, seguido de Serviços - 889, Comércio – 77, 27 na Agropecuária e 2 na construção civil. Possuía também em 2010, 2.740 pessoas assistidas pelo Bolsa Família e 13.128 pessoas inscritas no Cadastro Único. De acordo com o mesmo relatório da Seplande, em 2010 o percentual da agropecuária no produto interno bruto foi de 17,50%. O Município se destaca pelo plantio de cana-de-açúcar e a criação de bovinos e aves, porém é, como todo pequeno Município, dependente das receitas oriundas do FPM, cuja receita teve queda drástica em 2012 com prejuízo na faixa de R$. 316.182,79, conforme dados da Confederação Nacional dos Municípios - CNM. Segundo PNUD-2010, seu IDH é de 0,578 e de acordo com os registros de dezembro de 2012 do Cadastro Único e com a folha de pagamentos de janeiro de 2013 do Programa Bolsa Família, o município conta com: 3.805 famílias registradas no Cadastro Único, 3.011 famílias beneficiárias do Programa Bolsa Família (58,05 % da população), 272 famílias (889 pessoas) que, mesmo recebendo os benefícios do Bolsa Família, continuavam em situação de pobreza extrema, ou seja, com renda familiar mensal abaixo de R$ 70 por pessoa. Tratam-se de famílias que não têm filhos de 0 a 15 anos e portanto não recebem o benefício do Brasil Carinhoso, descrito no relatório do Plano Brasil Sem Miséria. Assim, é de imensa importância a concretização desse convênio com o Ministério das Cidades, tendo em vista a incapacidade financeira que o Município possui em executar obras estruturantes sem parceria. Emenda Parlamentar nº 29620001 - Apoio à Política Nacional de Desenvolvimento Urbano - Dep. Alexandre Toledo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO EM PARALELEPÍPEDO E DRENAGEM.",
+            "information": "DECLARAÇÃO DE CAPACIDADE TÉCNICA E GERENCIAL PAULA ROSELMA DA ROCHA NASCIMENTO, Brasileira, Casada, portadora da CI nº 960.909 SSP/AL e CPF nº 718.946.594-49, residente e domiciliada na Rua Mário Lima Braga, 163, Centro, Colônia Leopoldina/AL DECLARA, sob pena de responsabilidade civil, penal e administrativa, que é responsável por qualquer informação ou documentação apresentada, que não corresponda à verdade formal e material pelo Município de Colônia Leopoldina/AL: 1. Que, nos termos da PI nº 507/2011, art. 19, V, dispõe de toda a estrutura e recursos necessários para execução dos convênios, como estrutura Administrativa, Técnica, Operacional, Pessoal qualificado: engenheiro civil, técnico em edificações, assistente social e Gerente Municipal de Convênios e Contratos, ou seja, estrutura organizacional composta de equipe técnica para acompanhamento e fiscalização da execução do objeto do convênio. 2. Dessa forma, encontra-se apto à perfeita execução das Metas especificadas na Proposta nº 031806/2014. Colônia Leopoldina, 19 de março de 2014. PAULA ROSELMA DA ROCHA NASCIMENTO Prefeita",
+            "proposalDate": "2014-03-20T00:00:00.000Z",
+            "biddingDate": "2014-09-22T00:00:00.000Z",
+            "homologationDate": "2014-09-24T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020140001",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 300000,
+              "details": {
+                "code": "5600020140001",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 4700,
+                  "financial": 4700,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00 - ALEXANDRE TOLEDO"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "respProponent": "***.946.594-** - PAULA ROSELMA DA ROCHA NASCIMENTO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.211.464-** - AGUINALDO VELLOSO BORGES RIBEIRO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012015",
+              "type": "Licitação - Tomada de Preços",
+              "date": null,
+              "processId": "1805062015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "1805062015",
+                "biddingId": "012015",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PAVIMENTAÇÃO EM DIVERSAS RUAS DO MUNICÍPIO DE COLÔNIA LEOPOLDINA/AL.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "MODALIDADE TOMADA DE PREÇOS.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 852428.93,
+                "homologationDate": "2015-06-02T00:00:00.000Z",
+                "city": "2741 - COLONIA LEOPOLDINA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2015",
+              "biddingId": "012015",
+              "date": "2015-07-31T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12070635000144",
+                "hirerDocument": "CNPJ: 12332987000120",
+                "type": "Serviço de Engenharia",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PAVIMENTAÇÃO EM DIVERSAS RUAS DO MUNICÍPIO DE COLÔNIA LEOPOLDINA/AL.",
+                "totalValue": 852428.93,
+                "publishDate": "2015-07-31T00:00:00.000Z",
+                "beginDate": "2015-06-05T00:00:00.000Z",
+                "endDate": "2016-06-05T00:00:00.000Z",
+                "signDate": "2015-06-05T00:00:00.000Z",
+                "executionProcessId": "012015 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "1805062015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE COLONIA LEOPOLDINA",
+            "documentNumber": "12.332.987/0001-20",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "803912/2014",
+            "validity": "22/09/2014 a 30/10/2018",
+            "limitDate": "2018-10-22T00:00:00.000Z",
+            "totalValue": 29,
+            "transferValue": 300000,
+            "counterpartValue": 295300,
+            "yieldValue": 4700
+          }
+        }
+      },
+      {
+        "agreementId": "751209/2010",
+        "company": {
+          "id": "0df8e7c0-c70d-4ab9-aabd-3b840c9da2bc",
+          "cnpj": "12332987000120",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+            "name": "Colônia Leopoldina",
+            "uf": "AL",
+            "ibge": "2702108"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-31T00:00:00.000Z",
+        "end": "2013-11-11T00:00:00.000Z",
+        "program": "0122 – Serviços Urbanos de Água e Esgoto (Cooperação Técnica em Saneamento)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "087333/2010",
+            "organId": "00352/2010",
+            "processId": "25100.041331/2010-82",
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "legalFoundation": "Portaria Interministerial nº 127/2008",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de Colônia Leopoldina, localiza-se na região da zona da mata, com uma população de 19.363 habitantes, tem um baixo índice de desenvolvimento humano que é de 0,58, de acordo com o Atlas de desenvolvimento Humano/PNUD (2000). Este dado mostra a realidade carente de pessoas em nossa cidade e na zona rural. O município conta hoje com o plano diretor, de acordo com lei publicada. E apresenta uma equipe técnica de engenheiro e arquiteto para desempenhar projetos de saneamentos e água. Por meio das visitas domiciliares realizadas pelos Agentes Comunitários de Saúde, detectou-se que o lixo do municpio tem o destino detalhado da seguinte forma: Coleta Pública por domicilio 76,1%, lixo queimado/enterrado 1,76%, lixo com destino a céu aberto 22,14%, o sistema público de atende a 67% dos domicílios locais. As construções ou estruturas das residências conta com 81,41% de tijolo, e casas de taipa revestida 9,7%, taipa não revestida 7,48% e casas em madeira 1,08%. No município a rede de esgoto atende a 61,93% dos domicílios, fossa 13,28%, e esgoto a céu aberto 24,79%. Para atender as diretrizes da Política Nacional de saneamento, Lei Nº11.445/2007, melhorar a eficiência da gestão e cobertura de serviços de saneamento e aprimorar políticas públicas urbanas com ênfase na gestão participativa, o Município propõe desenvolver e implantar Plano Local de Saneamento Básico. Seguindo o resultado do objeto proposto, será possível otimizar os investimentos para obtenção de melhor relação custo x benefício nas ações de saneamento básico. Será possível também trabalhar a preocupação ambiental para preservação e conservação dos recursos naturais e articular as ações propostas no plano com outros programas do governo federal.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ELABORAÇÃO DE PLANO MUNICIPAL DE SANEAMENTO BÁSICO",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Chã Preta/Al. Possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-09-17T00:00:00.000Z",
+            "biddingDate": "2010-12-31T00:00:00.000Z",
+            "homologationDate": "2011-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120100009",
+              "name": "0122 – Serviços Urbanos de Água e Esgoto (Cooperação Técnica em Saneamento)",
+              "value": 288000,
+              "details": {
+                "code": "3621120100009",
+                "name": "0122 – Serviços Urbanos de Água e Esgoto (Cooperação Técnica em Saneamento)",
+                "cps": null,
+                "items": "Promover e apoiar, tecnica e financeiramente, o desenvolvimento e a transferência de tecnologias para o fortalecimento institucional dos modelos de gestão dos serviços públicos de saneamento ambiental de estados e municípios.",
+                "couterpartRule": "Lei n.º 12.017, de 12/08/2009 -Municípios com até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 288000,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 282000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "respProponent": "***.280.294-** - CASSIO ALEXANDRE REIS DE AMORIM URTIGA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.191.096-** - GILSON DE CARVALHO QUEIROZ FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE COLONIA LEOPOLDINA",
+            "documentNumber": "12.332.987/0001-20",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "751209/2010",
+            "validity": "31/12/2010 a 11/11/2013",
+            "limitDate": "2014-01-10T00:00:00.000Z",
+            "totalValue": 288000,
+            "transferValue": 282000,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "725835/2009",
+        "company": {
+          "id": "0df8e7c0-c70d-4ab9-aabd-3b840c9da2bc",
+          "cnpj": "12332987000120",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+            "name": "Colônia Leopoldina",
+            "uf": "AL",
+            "ibge": "2702108"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2012-12-31T00:00:00.000Z",
+        "program": "1287 - Saneamento Rural (Melhorias Habitacionais para controle da doença de Chagas)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "094833/2009",
+            "organId": "00362/2009",
+            "processId": "25100-066-922/2009-29",
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "legalFoundation": "Portaria Interministerial nº 127/2008 MPOG/MF/CGU",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O município de Colônia de Leopoldina localizado na zona da mata alagoana, tem um baixo índice de desenvolvimento humano que é de 0,58, de acordo com o Atlas de desenvolvimento Humano/PNUD (2000). Este dado mostra a realidade carente de pessoas em nossa cidade e na zona rural. Constata-se ainda que o déficit habitacional e de mais de 60% dentre os munícipes, contando com um grande numero de habitações precárias, ou seja, casa de taipa, ambiente onde se desenvolve o transmissor da doença de chagas, vulgo o “barbeiro”. O poder público municipal com base nesta estimativa, busca incluir essa parte da sociedade no mundo cidadão, com a efetivação de construção de 12 (donze) unidades habitacionais, destinadas a essas pessoas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "construção de 12(donze) unidades habitacionais para erradicação da doença de chagas.",
+            "information": "engenheiro civil, arquiteto.",
+            "proposalDate": "2009-11-04T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120090023",
+              "name": "1287 - Saneamento Rural (Melhorias Habitacionais para controle da doença de Chagas)",
+              "value": 200000.04,
+              "details": {
+                "code": "3621120090023",
+                "name": "1287 - Saneamento Rural (Melhorias Habitacionais para controle da doença de Chagas)",
+                "cps": null,
+                "items": "Melhorar as condições físico-sanitárias da casa por meio de restauração ou reconstrução; restauração compreende, dentre os principais serviços: reboco das paredes e pintura; calçada de proteção; cobertura com materiais; piso cimentado ou de madeira; recuperação de abrigo de animais e depósitos; substituição de cercas;implantação e ou recuperação de instalações sanitárias. Nos casos em que as casas não suportarem reformas, as mesmas serão demolidas e reconstruídas.",
+                "couterpartRule": "Municípios com até 50.000 habitantes: de 2% a 4% . [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 200000.04,
+                "couterpartValues": {
+                  "total": 6000.04,
+                  "financial": 6000.04,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 194000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "respProponent": "***.280.294-** - CASSIO ALEXANDRE REIS DE AMORIM URTIGA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.337.283-** - FRANCISCO DANILO BASTOS FORTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE COLONIA LEOPOLDINA",
+            "documentNumber": "12.332.987/0001-20",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "725835/2009",
+            "validity": "31/12/2009 a 31/12/2012",
+            "limitDate": "2012-12-31T00:00:00.000Z",
+            "totalValue": 200000.04,
+            "transferValue": 194000,
+            "counterpartValue": 6000.04,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "723557/2009",
+        "company": {
+          "id": "0df8e7c0-c70d-4ab9-aabd-3b840c9da2bc",
+          "cnpj": "12332987000120",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+            "name": "Colônia Leopoldina",
+            "uf": "AL",
+            "ibge": "2702108"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2011-12-26T00:00:00.000Z",
+        "program": "Urbanização, Regularização Fundiária e Integração de Assentamentos Precários",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "041041/2009",
+            "organId": "04104/2009",
+            "processId": "041041/2009",
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Procurar diminuir a alta carência por moradia no município. O projeto visa atender 28 familias, que vivem sem moradia e em exclusão social, tendo estas a renda média or familia de R$ 300,00. O projeto será desenvolvido no Loteamento José Maria Quirino, localizado no Centro, neste município, na zona urbana.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de 28 unidades habitacionais, no loteamento José Maria Quirino, centro.",
+            "information": "",
+            "proposalDate": "2009-06-20T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020091890",
+              "name": "Urbanização, Regularização Fundiária e Integração de Assentamentos Precários",
+              "value": 604095.38,
+              "details": {
+                "code": "5600020091890",
+                "name": "Urbanização, Regularização Fundiária e Integração de Assentamentos Precários",
+                "cps": "",
+                "items": "Apoio à Melhoria das Condições de Habitabilidade de Assentamentos Precários",
+                "couterpartRule": "",
+                "totalValue": 604095.38,
+                "couterpartValues": {
+                  "total": 12095.38,
+                  "financial": 12095.38,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 592000,
+                  "amendment": "R$ 592.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "respProponent": "***.280.294-** - CASSIO ALEXANDRE REIS DE AMORIM URTIGA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE COLONIA LEOPOLDINA",
+            "documentNumber": "12.332.987/0001-20",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "723557/2009",
+            "validity": "31/12/2009 a 26/12/2011",
+            "limitDate": "2011-12-26T00:00:00.000Z",
+            "totalValue": 604095.38,
+            "transferValue": 592000,
+            "counterpartValue": 12095.38,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "713360/2009",
+        "company": {
+          "id": "0df8e7c0-c70d-4ab9-aabd-3b840c9da2bc",
+          "cnpj": "12332987000120",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+            "name": "Colônia Leopoldina",
+            "uf": "AL",
+            "ibge": "2702108"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2011-12-26T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "070067/2009",
+            "organId": "70067/2009",
+            "processId": "070067/2009",
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O municpio de Colonia de Leoploldina fica situado na zona da mata alagoana, tem uma população de 17.493 habitantes, sua economia é a base de cana-de-acucar. Em meio as dificuldades vividas pela população, é necessário que se busque alternativas para o municipio. O turismo atende a esta alternativa, visto que, temos no municipio a Serra do Catita, onde existe parte de mata atlântica nativa, com sua cachoeira, além das belezas naturais temos os casarios antigos do ciclo do açúcar, e um acervo arquitetonico antigo para ser desfrutado por todos. A falta de infraestrutura nao permite que o municipio se desenvolva, portanto existe a necessidade de ser construir um terminal rodoviário para atender a demanda local e a turistíca. Hoje o municipio que faz divisa com o municipio de Palmares/PE, tem uma demanda de transporte intermunicipal e interestadual de aproximadamente 60 veículos alternativos, e uma linha de ônibus para a capital do nosso Estado. Diante dos novos rumos que o turismo toma na cidade a gestão pública local em busca da melhoria dos municipes com a geração de emprego e renda, busca junto ao gGoverno Federal uma parceria para que essa infraestrutura possa ser desenvolvida, e com essa ação sejam gereados empregos na área turistica e nas demais, aquecendo o mercador interno, com a circulação de verbas na cidade. Com inúmeros atrativos e produtos turistícos o município de Colonia Leopoldina apresenta-se como uma potencialidade turistíca, e espera alcançar o objetivo de ser destaque na região como polo do turismo, através da oferta de serviços de qualidade, aquecimento economico interno, abertura de novas oportunidades de emprego, tendo como consequência o aquecimento da economia e a diminuição do desemprego local, desenvolvimento sustentável dos espaços e dos recursos naturais, garantido com estes resultados uma qualidade de vida a todos os municipes ofertado pelos diversos benefícios do turismo. Renda média familiar é de um salário minimo, todas as familias do municipio tanto da zona urbana como da rural, e também visitantes turistas,",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "construçao de terminal rodoviário localidade - BR 416 - dentro do perimetro urbano que fica a margem da BR.",
+            "information": "",
+            "proposalDate": "2009-09-04T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-27T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090005",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 302737.5,
+              "details": {
+                "code": "5400020090005",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "TERMINAL RODOVIÁRIO",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 302737.5,
+                "couterpartValues": {
+                  "total": 10237.5,
+                  "financial": 10237.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "respProponent": "***.280.294-** - CASSIO ALEXANDRE REIS DE AMORIM URTIGA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE COLONIA LEOPOLDINA",
+            "documentNumber": "12.332.987/0001-20",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "713360/2009",
+            "validity": "31/12/2009 a 26/12/2011",
+            "limitDate": "2011-12-26T00:00:00.000Z",
+            "totalValue": 302737.5,
+            "transferValue": 292500,
+            "counterpartValue": 10237.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "703577/2009",
+        "company": {
+          "id": "0df8e7c0-c70d-4ab9-aabd-3b840c9da2bc",
+          "cnpj": "12332987000120",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+            "name": "Colônia Leopoldina",
+            "uf": "AL",
+            "ibge": "2702108"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-06-05T00:00:00.000Z",
+        "end": "2009-09-24T00:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "016700/2009",
+            "organId": "00362/2009",
+            "processId": "72000.002381/2009-19",
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "legalFoundation": "Decreto 6170/2007 e Portaria Interministerial 127/2008",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Situada no Vale do Rio Jacuípe, próximo a Serra do Teixeira, o município de Colona de Leopoldina, microrregião da mata alagoana, ao leste do estado, faz seus limites com os municípios de Ibateguara, Joaquim Gomes, Novo Lino e do estado de Pernambuco. Após a realização de vários estudos, foi constatado que o município de Colônia de Leopoldina tem um perfil de potencial turístico voltado para a ecologia, aventura, religião e artesanal, através de ações de iniciativa pública qualificando a comunidade, melhorando estruturas físicas como estradas e sinalização, além da realização de eventos festivos voltados para a ampliação do fluxo turístico no município. Diante da identificação desse potencial turístico e da necessidade de ampliá-lo, foi criado o COLONIA FORRÓ E FOLIA, um evento que tem como objetivo a divulgação do turismo local através de um plano de mídia especial que aproveita um período festivo regional do Nordeste que são os festivos juninos (São João, São Pedro e Santo Antonio), onde por meio de chamadas de rádio, carros de som, confecções de camisas, entre outros divulgando o evento junino que nesse período é o ponto chave de mídia regional para a captação de turistas, onde como conseqüência acontece um aumento de aproximadamente 40% na rede de ocupação hoteleira local e de em torno de 25% nos municípios vizinhos, além de beneficiar direta e indiretamente cerca de 150 famílias que foram capacitadas por iniciativas públicas como a formação de cooperativas artesanais, formação de guias turísticos, cursos de qualificação no atendimento para bares e restaurantes, etc., e que hoje deixaram de viver exclusivamente de programas de assistencialismo, aumentando sua renda através do aumento de visitantes ao município. O COLONIA FORRÓ E FOLIA será realizados nos dias 12, 23, 24, 28 e 29 de junho com apresentações de grupos de quadrilhas juninas e de show musicais, além de uma feira de artesanato que funcionará não só nos dias principais mais durante todo o mês de junho, o evento também contará com uma equipe técnica de produção aproveitará a realização do evento para fazer a promoção turística também não só nos dias principais mais durante todo o mês, pois a expectativa é que vários turistas permaneçam durante o intervalo das apresentações. Essa promoção será através da divulgação de todos os pontos turísticos do município, como: o balneário do Sítio Papa Mel, Trilhas Ecológicas, Cachoeiras dos Sítios do Catita e Pimpão, Prédios históricos como: a Igreja Matriz, a Casa onde Dom Pedro II ficou hospedado quando visitou a ainda colônia militar de Leopoldina e ao Mosteiro local. Essas ações farão com que o município tenha um fluxo turístico não só nesse período mais durante todo o ano, é por isso que se faz necessário a aquisição de recursos Federais para a realização de um evento de grande porte para que em decorrência dessa atividade o município possa ficar conhecido regional ou nacionalmente por meio da divulgação do turismo interno. Ao fim da realização do evento são esperados os seguintes resultados: -Aumento do fluxo de turistas no município; -Geração de emprego na área turística, como novos guias turisticos, mais contratações em bares, restaurantes e pousadas. -A firmação de parcerias com empresas privadas para a qualificação de pessoas. -Reconhecimento dos pontos turisticos do municipio. -Aumento no giro de capital no comercio local. OFICIO DE AUTORIZAÇÃO: 43/2009 FUNCIONAL PROGRAMÁTICA: 23.695.1166.4620.0027 PROTOCOLADO NO MINISTÉRIO EM 30/04/2009 DEPUTADO FRANCISCO TENÓRIO OBS.: COPIA DO OFICIO ESTA NA ABA DE ANEXOS DO SICONV OFICIO DE AUTORIZAÇÃO: 46/2009 FUNCIONAL PROGRAMÁTICA: 23.695.1166.4620.0027 PROTOCOLADO NO MINISTÉRIO EM 14/05/2009 DEPUTADO FRANCISCO TENÓRIO OBS.: COPIA DO OFICIO ESTA NA ABA DE ANEXOS DO SICONV",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Colonia Forró e Folia",
+            "information": "",
+            "proposalDate": "2009-04-27T00:00:00.000Z",
+            "biddingDate": "2009-06-05T00:00:00.000Z",
+            "homologationDate": "2009-06-22T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090049",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 125000,
+              "details": {
+                "code": "5400020090049",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "EVENTOS JUNINOS",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 125000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 120000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "respProponent": "***.280.294-** - CASSIO ALEXANDRE REIS DE AMORIM URTIGA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01",
+              "type": "Inexigibilidade",
+              "date": null,
+              "processId": "01",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "01",
+                "biddingId": null,
+                "object": "Colonia Forró e Folia",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "Contratação de apresentações de Shows musicais das bandas:\nBanda Izaias de Bonito\nBanda Forró das Antigas\nBanda Pegada de Vaqueiro\nBanda Pinóquio do Acordeon\nBanda A Forrozada\nBanda Ponto X\nBanda Excitante",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 54980,
+                "homologationDate": null,
+                "city": "2741 - COLONIA LEOPOLDINA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE COLONIA LEOPOLDINA",
+            "documentNumber": "12.332.987/0001-20",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Análise",
+            "number": "703577/2009",
+            "validity": "05/06/2009 a 24/09/2009",
+            "limitDate": "2009-09-24T00:00:00.000Z",
+            "totalValue": null,
+            "transferValue": 125000,
+            "counterpartValue": 120000,
+            "yieldValue": 5000
+          }
+        }
+      },
+      {
+        "agreementId": "628365/2008",
+        "company": {
+          "id": "0df8e7c0-c70d-4ab9-aabd-3b840c9da2bc",
+          "cnpj": "12332987000120",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+            "name": "Colônia Leopoldina",
+            "uf": "AL",
+            "ibge": "2702108"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-07-03T00:00:00.000Z",
+        "end": "2015-06-03T00:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Adimplente no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "077561/2008",
+            "organId": "CR.NR.0255120-32",
+            "processId": "CR.NR.0255120-32",
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "legalFoundation": "",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTACAO DE RUAS EM PARALELEPIPEDO",
+            "information": "",
+            "proposalDate": "2008-07-03T00:00:00.000Z",
+            "biddingDate": "2008-07-03T00:00:00.000Z",
+            "homologationDate": "2008-07-10T00:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "respProponent": "***.871.804-** - MANUILSON ANDRADE SANTOS",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE COLONIA LEOPOLDINA",
+            "documentNumber": "12.332.987/0001-20",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "628365/2008",
+            "validity": "03/07/2008 a 03/06/2015",
+            "limitDate": "2015-06-03T00:00:00.000Z",
+            "totalValue": 141298.97,
+            "transferValue": 137060,
+            "counterpartValue": 4238.97,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "628364/2008",
+        "company": {
+          "id": "0df8e7c0-c70d-4ab9-aabd-3b840c9da2bc",
+          "cnpj": "12332987000120",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+            "name": "Colônia Leopoldina",
+            "uf": "AL",
+            "ibge": "2702108"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-07-02T00:00:00.000Z",
+        "end": "2015-06-02T00:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Adimplente no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "077560/2008",
+            "organId": "CR.NR.0255119-04",
+            "processId": "CR.NR.0255119-04",
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "legalFoundation": "",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTACAO EM PARALELEPIPEDO",
+            "information": "",
+            "proposalDate": "2008-07-02T00:00:00.000Z",
+            "biddingDate": "2008-07-02T00:00:00.000Z",
+            "homologationDate": "2008-07-10T00:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "respProponent": "***.871.804-** - MANUILSON ANDRADE SANTOS",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE COLONIA LEOPOLDINA",
+            "documentNumber": "12.332.987/0001-20",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "628364/2008",
+            "validity": "02/07/2008 a 02/06/2015",
+            "limitDate": "2015-06-02T00:00:00.000Z",
+            "totalValue": 308695.57,
+            "transferValue": 295300,
+            "counterpartValue": 13395.57,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "628363/2008",
+        "company": {
+          "id": "0df8e7c0-c70d-4ab9-aabd-3b840c9da2bc",
+          "cnpj": "12332987000120",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+          "sphere": "Municipal",
+          "city": {
+            "id": "be99b66c-ee5e-4e7f-8e3d-6edcf4f938e1",
+            "name": "Colônia Leopoldina",
+            "uf": "AL",
+            "ibge": "2702108"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-07-02T00:00:00.000Z",
+        "end": "2015-06-02T00:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Adimplente no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "077559/2008",
+            "organId": "CR.NR.0255118-91",
+            "processId": "CR.NR.0255118-91",
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "legalFoundation": "",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PROGRAMA DE INTERESSE SOCIAL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTACAO DE RUAS",
+            "information": "",
+            "proposalDate": "2008-07-02T00:00:00.000Z",
+            "biddingDate": "2008-07-02T00:00:00.000Z",
+            "homologationDate": "2008-07-10T00:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.332.987/0001-20 - MUNICIPIO DE COLONIA LEOPOLDINA",
+            "respProponent": "***.871.804-** - MANUILSON ANDRADE SANTOS",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE COLONIA LEOPOLDINA",
+            "documentNumber": "12.332.987/0001-20",
+            "modality": "Contrato de Repasse",
+            "status": "Proposta do Legado SIAFI",
+            "number": "628363/2008",
+            "validity": "02/07/2008 a 02/06/2015",
+            "limitDate": "2015-06-02T00:00:00.000Z",
+            "totalValue": 307448.51,
+            "transferValue": 295300,
+            "counterpartValue": 12148.51,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

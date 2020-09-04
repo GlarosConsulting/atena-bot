@@ -1,0 +1,337 @@
+{
+  "beginDate": "2020-09-02T00:59:04.202Z",
+  "endDate": "2020-09-02T01:00:20.883Z",
+  "data": {
+    "location": {
+      "city": "Palestina",
+      "uf": "AL",
+      "ibge": "2706208"
+    },
+    "agreements": [
+      {
+        "agreementId": "868851/2018",
+        "company": {
+          "id": "458957fa-fdc0-4db4-a91e-7ebd4a63a9a6",
+          "cnpj": "12369872000100",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "cd33c7ca-4f86-4675-b9c7-5b059ef241c9",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cd33c7ca-4f86-4675-b9c7-5b059ef241c9",
+            "name": "Palestina",
+            "uf": "AL",
+            "ibge": "2706208"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-07-31T00:00:00.000Z",
+        "end": "2021-07-30T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "033445/2018",
+            "organId": "33445/2018",
+            "processId": "334452018",
+            "proponent": "CNPJ 12.369.872/0001-00 - MUNICIPIO DE PALESTINA",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICIPIO DE PALESTINA ESTÁ LOCALIZADO NA MICRORREGIÃO DE SANTANA DO IPANEMA. SUA POPULAÇÃO É DE 5.112 HABITANTES ENQUANTO QUE O SEU ÍNDICE DE DESENVOLVIMENTO HUMANO/PNUD É DE 0,571 HABITANTES SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2000). SUA ECONOMIA É BASEADA NA ATIVIDADE AGROPASTORIL DE FORTE INFLUÊNCIA NO MUNICÍPIO. A POPULAÇÃO DE PALESTINA CRESCE CONTINUAMENTE E DESEJA MELHORIAS DE INFRAESTRUTURA NA COMUNIDADE, SENDO ESTA TAMBÉM A META DA ADMINISTRAÇÃO PÚBLICA, OU SEJA, PROPICIAR AOS MUNÍCIPES UMA MELHOR QUALIDADE DE VIDA, PARA O BOM DESEMPENHO EM SUAS ATIVIDADES SOCIAIS DE FORMA GERAL. COM ESSA VISÃO O MUNICÍPIO DE PALESTINA LANÇA A PRESENTE PROPOSTA PARA DEFINITIVAMENTE EXECUTAR E ATENDER AS DEMANDAS SOCIAIS DA COMUNIDADE. DIVERSAS RUAS NECESSITAM DE UMA FORTE RECUPERAÇÃO, CONSIDERANDO QUE ESTÁ INTRANSITÁVEL EM ALGUNS PONTOS, DIFICULTANDO O TRÁFEGO DE SEUS MORADORES. TENDO EM VISTA ESSES FATO O MUNICÍPIO RESOLVEU DESENVOLVER UM PROJETO DE PAVIMENTAÇÃO COM O OBJETIVO DE MELHORAR A QUALIDADE DE VIDA E O TRABALHO DE NOSSOS MUNÍCIPES. DESSA FORMA, COMO O MUNICÍPIO NÃO POSSUI CONDIÇÕES ORÇAMENTÁRIAS, O PODER PÚBLICO RESOLVEU SOLICITAR APOIO DA UNIÃO PARA A PAVIMENTAÇÃO DESSAS RUAS DE FORMA A POSSIBILITAR À POPULAÇÃO UMA MELHORIA A DIVERSOS ACESSOS DO MUNICÍPIO COM SEGURANÇA E CONFORTO. INFORMAMOS QUE AS RUAS CONTEMPLADAS SÃO LOCALIZADAS DENTRO DO PERÍMETRO URBANO DO MUNICÍPIO DE PALESTINA/AL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "PAVIMENTAÇÃO EM DIVERSAS RUAS NO MUNICÍPIO DE PALESTINA/AL.",
+            "information": "DECLARAMOS QUE POSSUÍMOS CAPACIDADE TÉCNICA E GERENCIAL PARA EXECUTAR O CONTRATO DE REPASSE.",
+            "proposalDate": "2018-03-26T00:00:00.000Z",
+            "biddingDate": "2018-07-31T00:00:00.000Z",
+            "homologationDate": "2018-08-07T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020180033",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 230000,
+              "details": {
+                "code": "5300020180033",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "007/2018",
+                "items": "INFRAESTRUTURA URBANA, Unidades Habitacionais, Equipamentos Comunitários, Pavimentação, Drenagem, Abastecimento de Água, Esgotamento Sanitário, Energia Elétrica e Iluminação, Coleta e Tratamento de Resíduos Sólidos, Contenção e Estabilização de Encostas, Regularização Fundiária, Aquisição de Terreno, Aquisição de Equipamentos e Insumos, Elaboração de Estudos e Projetos, Instrumentos e Ações em Planejamento e Gestão Pública, Ações Complementares de Obras, Gerenciamento, Trabalho Social, Transporte Público",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 230000,
+                "couterpartValues": {
+                  "total": 7142.86,
+                  "financial": 7142.86,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 222857.14,
+                  "amendment": "R$ 222.857,14 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.369.872/0001-00 - MUNICIPIO DE PALESTINA",
+            "respProponent": "***.681.234-** - ELIANE SILVA LISBOA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012020",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2020-01-09T00:00:00.000Z",
+              "processId": "1201100012020",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Rejeitado",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "1201100012020",
+                "biddingId": "012020",
+                "object": "Contratação de empresa especializada em obras relativo a execução de pavimentação  em paralelepípedos.",
+                "legalFoundation": "Lei 8666",
+                "justification": "Necessidades de execução da obra",
+                "publishDate": "2020-01-09T00:00:00.000Z",
+                "beginDate": "2020-01-31T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 192902.55,
+                "homologationDate": "2020-04-20T00:00:00.000Z",
+                "city": "2823 - PALESTINA",
+                "analysisDate": "2020-07-21T00:00:00.000Z",
+                "accepted": "Rejeitado"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2020",
+              "biddingId": "01/2020 TP",
+              "date": "2020-04-20T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12635175000154",
+                "hirerDocument": "CNPJ: 12369872000100",
+                "type": "Obras",
+                "object": "Contratação de empresa especializada em obras relativo a\nexecução de pavimentação em paralelepípedos nas Ruas\nAntônio José da Silva, Joaquim Felix de Carvalho e\nProjetada 1 destinado a atender as necessidades do\nmunicipio de Palestina/AL",
+                "totalValue": 192902.55,
+                "publishDate": "2020-04-20T00:00:00.000Z",
+                "beginDate": "2020-03-30T00:00:00.000Z",
+                "endDate": "2021-03-27T00:00:00.000Z",
+                "signDate": "2020-03-27T00:00:00.000Z",
+                "executionProcessId": "01/2020 TP ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "1201100012020 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE PALESTINA",
+            "documentNumber": "12.369.872/0001-00",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "868851/2018",
+            "validity": "31/07/2018 a 30/07/2021",
+            "limitDate": "2021-09-28T00:00:00.000Z",
+            "totalValue": 230000,
+            "transferValue": 222857.14,
+            "counterpartValue": 7142.86,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "822918/2015",
+        "company": {
+          "id": "458957fa-fdc0-4db4-a91e-7ebd4a63a9a6",
+          "cnpj": "12369872000100",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "cd33c7ca-4f86-4675-b9c7-5b059ef241c9",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cd33c7ca-4f86-4675-b9c7-5b059ef241c9",
+            "name": "Palestina",
+            "uf": "AL",
+            "ibge": "2706208"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2015-12-28T00:00:00.000Z",
+        "end": "2019-11-30T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "024448/2015",
+            "organId": "24448/2015",
+            "processId": "0244482015",
+            "proponent": "CNPJ 12.369.872/0001-00 - MUNICIPIO DE PALESTINA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICIPIO DE PALESTINA ESTÁ LOCALIZADO NA MICRORREGIÃO DE SANTANA DO IPANEMA. SUA POPULAÇÃO É DE 5.112 HABITANTES ENQUANTO QUE O SEU ÍNDICE DE DESENVOLVIMENTO HUMANO/PNUD É DE 0,571 HABITANTES SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2000). SUA ECONOMIA É BASEADA NA ATIVIDADE AGROPASTORIL DE FORTE INFLUÊNCIA NO MUNICÍPIO. A POPULAÇÃO DE PALESTINA CRESCE CONTINUAMENTE E DESEJA MELHORIAS DE INFRAESTRUTURA NA COMUNIDADE, SENDO ESTA TAMBÉM A META DA ADMINISTRAÇÃO PÚBLICA, OU SEJA, PROPICIAR AOS MUNÍCIPES UMA MELHOR QUALIDADE DE VIDA, PARA O BOM DESEMPENHO EM SUAS ATIVIDADES SOCIAIS DE FORMA GERAL. COM ESSA VISÃO O MUNICÍPIO DE PALESTINA LANÇA A PRESENTE PROPOSTA PARA DEFINITIVAMENTE EXECUTAR E ATENDER AS DEMANDAS SOCIAIS DA COMUNIDADE. DIVERSAS RUAS NECESSITAM DE UMA FORTE RECUPERAÇÃO, CONSIDERANDO QUE ESTÁ INTRANSITÁVEL EM ALGUNS PONTOS, DIFICULTANDO O TRÁFEGO DE SEUS MORADORES. TENDO EM VISTA ESSES FATO O MUNICÍPIO RESOLVEU DESENVOLVER UM PROJETO DE PAVIMENTAÇÃO COM O OBJETIVO DE MELHORAR A QUALIDADE DE VIDA E O TRABALHO DE NOSSOS MUNÍCIPES. DESSA FORMA, COMO O MUNICÍPIO NÃO POSSUI CONDIÇÕES ORÇAMENTÁRIAS, O PODER PÚBLICO RESOLVEU SOLICITAR APOIO DA UNIÃO PARA A PAVIMENTAÇÃO DESSAS RUAS DE FORMA A POSSIBILITAR À POPULAÇÃO UMA MELHORIA A DIVERSOS ACESSOS DO MUNICÍPIO COM SEGURANÇA E CONFORTO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO EM DIVERSAS RUAS DO MUNICÍPIO DE PALESTINA/AL.",
+            "information": "O MUNICÍPIO DE PALESTINA DECLARA POSSUIR EQUIPE TÉCNICA E GERENCIAL CAPACITADA PARA GERENCIAR O CONVÊNIO QUE SÃO OS RESPONSÁVEIS ABAIXO: Responsável pelo Gerenciamento: Neila Kéren Ribeiro da Silva; Responsável Técnica: Litianne Monteiro Santos - CAU 47983-7/AL.",
+            "proposalDate": "2015-07-06T00:00:00.000Z",
+            "biddingDate": "2015-12-28T00:00:00.000Z",
+            "homologationDate": "2015-12-30T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020150015",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 250000,
+              "details": {
+                "code": "5600020150015",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA - VIDE ABA ANEXOS OS OBJETOS PASSÍVEIS DE ATENDIMENTO NESSA AÇÃO",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 4150,
+                  "financial": 4150,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.369.872/0001-00 - MUNICIPIO DE PALESTINA",
+            "respProponent": "***.681.234-** - ELIANE SILVA LISBOA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.211.464-** - AGUINALDO VELLOSO BORGES RIBEIRO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "003/2016",
+              "type": "Licitação - Tomada de Preços",
+              "date": null,
+              "processId": "1205050012016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "1205050012016",
+                "biddingId": "003/2016",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DAS OBRAS E SERVIÇOS DE PAVIMENTAÇÃO COM PARALELEPÍPEDOS",
+                "legalFoundation": "LEI 8666",
+                "justification": "LICITAÇÃO 8666",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 245728.49,
+                "homologationDate": null,
+                "city": "2823 - PALESTINA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "120505/2017",
+              "biddingId": "003/2016",
+              "date": "2016-07-05T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 07583098000104",
+                "hirerDocument": "CNPJ: 12369872000100",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DAS OBRAS E SERVIÇOS DE PAVIMENTAÇÃO",
+                "totalValue": 245728.49,
+                "publishDate": "2016-07-05T00:00:00.000Z",
+                "beginDate": "2016-07-05T00:00:00.000Z",
+                "endDate": "2017-07-05T00:00:00.000Z",
+                "signDate": "2016-07-05T00:00:00.000Z",
+                "executionProcessId": "003/2016 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "1205050012016 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE PALESTINA",
+            "documentNumber": "12.369.872/0001-00",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "822918/2015",
+            "validity": "28/12/2015 a 30/11/2019",
+            "limitDate": "2020-01-29T00:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 245850,
+            "counterpartValue": 4150,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

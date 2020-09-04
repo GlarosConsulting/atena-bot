@@ -1,0 +1,175 @@
+{
+  "beginDate": "2020-09-01T21:23:49.459Z",
+  "endDate": "2020-09-01T23:32:10.085Z",
+  "data": {
+    "location": {
+      "city": "Arapiraca",
+      "uf": "AL",
+      "ibge": "2700300"
+    },
+    "agreements": [
+      {
+        "agreementId": "841286/2016",
+        "company": {
+          "id": "38833fc4-2ba1-4c9f-9001-02a9134d36d6",
+          "cnpj": "21013754000156",
+          "name": "FUNDO MUNICIPAL DE SAÚDE",
+          "cityId": "ad76d642-c58e-411b-9ce6-1447d7a8b91c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "ad76d642-c58e-411b-9ce6-1447d7a8b91c",
+            "name": "Arapiraca",
+            "uf": "AL",
+            "ibge": "2700300"
+          }
+        },
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-29T00:00:00.000Z",
+        "end": "2021-04-23T00:00:00.000Z",
+        "program": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / CLINICA - CENTRO DE ESPECIALIDADES - POLICLINICA E UNIDADE MISTA / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "038875/2016",
+            "organId": "38875/2016",
+            "processId": "0388752016",
+            "proponent": "CNPJ 21.013.754/0001-56 - FUNDO MUNICIPAL DE SAUDE DE ARAPIRACA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Arapiraca é referência para 48 municípios da 2ª Macrorregião de Saúde do Estado de Alagoas e dispõe de serviços especializados para atendimento da população. A Unidade Especializada Centro de Diagnóstico - CRIA, reúne unidades de média complexidade de grande relevância para os usuários de Arapiraca e demais municípios, onde são ofertadas consultas aos portadores de tuberculose e hanseníase, serviços de pneumologia, cardiologia, alergologia, endocrinologia, reumatologia, psicologia, dermatologia, mastologia, oncologia pediátrica, enfermagem, nutrição e serviço social; diagnóstico com exames de ultrassonografia, mamografia, oftalmologia, videocolposcopia, eletrocardiograma e teste ergométrico. A recuperação na estrutura física de toda a unidade proporcionará a melhoria da qualidade dos serviços, o fortalecimento das ações já desenvolvidas e a humanização do atendimento, objetivando a satisfação da população alvo. Em seu quadro profissional a Unidade possui Recursos Humanos capacitados para operacionalizar o serviço, sendo estes: 01 Gerente, 45 profissionais de nível superior, 29 profissionais de nível médio e 06 profissionais de nível fundamental.A Unidade Especializada Centro de Diagnóstico - CRIA, CNES 2004968, necessita de recuperação na estrutura física de todo o prédio e adaptação de oito ambientes (laboratório, oficina de calçados, banheiro do laboratório, auditório, consultórios 02 e 04, central de material esterilizado e abrigo de resíduos sólidos); a revisão e recuperação de esquadrias, instalação elétrica e hidrossanitária; a pintura total do prédio em parede com tinta acrílica e teto em látex PVA; a instalação de dois exaustores na central de material esterilizado; a recuperação de piso em granilite e a revisão em coberta de telha em fibrocimento. Não haverá acréscimo de área, permanecendo os 1.260m2 de área construída, mas após a reforma, a Unidade acomodará melhor os usuários e garantirá um espaço com fluxos de atendimento melhor ordenados, humanizando o atendimento, otimizando e qualificando as atividades existentes. Metragem atual da Unidade: 1.260m2. Metragem final da Unidade após a reforma: 1.260m2.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+            "information": "",
+            "proposalDate": "2016-12-19T00:00:00.000Z",
+            "biddingDate": "2016-12-29T00:00:00.000Z",
+            "homologationDate": "2017-01-05T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020160040",
+              "name": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / CLINICA - CENTRO DE ESPECIALIDADES - POLICLINICA E UNIDADE MISTA / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+              "value": 827820,
+              "details": {
+                "code": "3600020160040",
+                "name": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / CLINICA - CENTRO DE ESPECIALIDADES - POLICLINICA E UNIDADE MISTA / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+                "cps": "",
+                "items": "REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+                "couterpartRule": "Entes Publicos (Consorcio Publico, Estados, Distrito Federal e Municipios) Não será exigida contrapartida (Art. 77, paragrafo 4., da Lei 13.242/2015). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 827820,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 827820,
+                  "amendment": "R$ 827.820,00 - Ronaldo Lessa"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 21.013.754/0001-56 - FUNDO MUNICIPAL DE SAUDE DE ARAPIRACA",
+            "respProponent": "***.092.764-** - ROGERIO AUTO TEOFILO",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "024.2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-07-27T00:00:00.000Z",
+              "processId": "12875",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "12875",
+                "biddingId": "024.2018",
+                "object": "OBRAS E SERVIÇOS DE REFORMA DO CENTRO DE REFERÊNCIA INTEGRADO DE ARAPIRACA/AL",
+                "legalFoundation": "8.6666",
+                "justification": "O CENTRO DE REFERÊNCIA INTEGRADO DE ARAPIRACA - CRIA, É UMA UNIDADE DE MÉDIA COMPLEXIDADE DE GRANDE RELEVÂNCIA PARA OS USUÁRIOS DE ARAPIRACA E DEMAIS MUNICÍPIOS, ONDE SÃO OFERTADAS CONSULTAS AOS PORTADORES DE TUBERCULOSE E HANSENÍASE, SERVIÇOS DE PNEUMOLOGIA, CARDIOLOGIA, ARLEGOLOGIA, ENDOCRINOLOGIA ENTRE OUTROS MAIS... A REFERIDA UNIDADE, NECESSITA DE RECUPERAÇÃO NA ESTRUTURA FÍSICA DE TODO PRÉDIO E ADAPTAÇÃO DE OITO AMBIENTES, A REVISÃO E INSTALAÇÃO DE ESQUADRIAS, INSTALAÇÃO ELETRICA E HIDROSANITÁRIA, A PINTURA TOTAL DO PRÉDIO, A INSTALAÇÃO DE EXAUSTORES NA CENTRAL DE MATERIAL ESTERELIZADO, A RECUPERAÇÃO DE PISO EM GRANILITE E A REVISÃO EM COBRETA DE TELHA EM FIBROCIMENTO. APÓS A REFORMA, A UNIDADE ACOMODARÁ MELHOR OS USUÁRIOS E GARANTIRÁ UM ESPAÇO COM FLUXOS DE ATENDIMENTO MELHORES ORDENADOS, HUMANIZANDO O ATENDIMENTO.",
+                "publishDate": "2018-07-27T00:00:00.000Z",
+                "beginDate": "2018-06-06T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 513752.97,
+                "homologationDate": "2018-12-04T00:00:00.000Z",
+                "city": "2705 - ARAPIRACA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "012875/2018",
+              "biddingId": "024.2018",
+              "date": "2019-02-23T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 14862181000170",
+                "hirerDocument": "CNPJ: 21013754000156",
+                "type": "Serviço",
+                "object": "REFORMA DO CENTRO DE REFERÊNCIA INTEGRADO DE ARAPIRACA/AL",
+                "totalValue": 513752.97,
+                "publishDate": "2019-02-23T00:00:00.000Z",
+                "beginDate": "2019-01-16T00:00:00.000Z",
+                "endDate": "2019-12-30T00:00:00.000Z",
+                "signDate": "2019-01-16T00:00:00.000Z",
+                "executionProcessId": "024.2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "12875 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "FUNDO MUNICIPAL DE SAUDE DE ARAPIRACA",
+            "documentNumber": "21.013.754/0001-56",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "841286/2016",
+            "validity": "29/12/2016 a 23/04/2021",
+            "limitDate": "2021-06-22T00:00:00.000Z",
+            "totalValue": 827820,
+            "transferValue": 827820,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

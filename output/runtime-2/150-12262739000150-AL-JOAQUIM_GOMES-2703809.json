@@ -1,0 +1,705 @@
+{
+  "beginDate": "2020-09-01T21:09:57.946Z",
+  "endDate": "2020-09-01T23:35:59.947Z",
+  "data": {
+    "location": {
+      "city": "Joaquim Gomes",
+      "uf": "AL",
+      "ibge": "2703809"
+    },
+    "agreements": [
+      {
+        "agreementId": "856761/2017",
+        "company": {
+          "id": "39c87a43-7e59-4f88-81ef-d35af590b6fd",
+          "cnpj": "12262739000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "b9d653e1-b3ef-4d7a-83b3-545f5a11fb52",
+          "sphere": "Municipal",
+          "city": {
+            "id": "b9d653e1-b3ef-4d7a-83b3-545f5a11fb52",
+            "name": "Joaquim Gomes",
+            "uf": "AL",
+            "ibge": "2703809"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-18T00:00:00.000Z",
+        "end": "2021-10-30T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "016245/2017",
+            "organId": "16245/2017",
+            "processId": "0162452017",
+            "proponent": "CNPJ 12.262.739/0001-50 - MUNICIPIO DE JOAQUIM GOMES",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Joaquim está situado na Microrregião da Mata Alagoana, com as coordenadas Latitude: 09 08 00 S e Longitude: 35 44 54 W a uma altitude de 104 m com uma área de 242 Km², seus limites: Colônia Leopoldina; Matriz de Camaragibe; Flexeiras; São Luiz de Quitunde; Passo de Camaragibe; União dos Palmares; Ibateguara; Messias; Branquinha e Murici. Possui uma população estimada de 24.174 habitantes, com uma área territorial de 298,29 km², sua densidade demográfica é 75,68, e o seu Índice de Desenvolvimento Humano Municipal é de 0,531, e seu PIB per capita é de 5.464, 48, conforme dados do IBGE 2010. O principal acesso é pela BR 101 e está distante da capital, Maceió, aproximadamente 67 Km², O município de Joaquim Gomes tem suas origens históricas ao engenho São Salvador, de propriedade de José Correia de Araújo Barros. Em 1900, Araújo Barros morreu e por razões de problemas financeiros que envolveram os seus negócios a sua propriedade ficou alienada a seu genro, Joaquim Gomes da Silva Rego, que tinha a patente de major da Guarda Nacional, resolveu tomar a frente dos negócios da família e adquiriu do banco credor a propriedade então alienada. Uma de suas primeiras providências foi dedicada à Nossa Senhora da Conceição graças ao espírito empreendedor de Joaquim Gomes, o local alcançou notável prosperidade. Antes do início da colonização daquelas terras, os índios urupês ocupavam a região ainda hoje existem descendentes desses indígenas habitando no povoado Cocal, são morenos com cabelos lisos e dedicam ao cultivo de lavouras de subsistência. A Pequena vila que se formou viveu uma fase de grande desenvolvimento tal fato ensejou o surgimento de movimentos para conseguir sua emancipação política. A comunidade costuma organizar em épocas próprias a cavalhada, guerreiro, pastoril, bandas de pífanos e quadrilhas juninas. De uma miscigenação homogênea, Joaquim Gomes conta com uma Tribo Indígena denominada Wassú na Aldeia Cocal, graças a essa tribo mantém com entusiasmo, civismo e costumes dos primeiros antepassados. A cidade possui vários bairros e com inúmeras vias sem pavimentação que servem de acesso aos moradores às suas residências que, dependendo do período do ano se torna intransitável pelos moradores e automóveis, devido ao acúmulo de água, lixo e o crescimento de vegetação rasteira, o que justifica assim, a urbanização dessas áreas degradadas. Diante esse contexto, é que proponho a implantação de pavimentação em paralelepípedo e drenagem em vias públicas do Conjunto João Batista da Hora, uma vez que o conjunto não faz parte de programa Minha Casa Minha Vida, assim o objeto proposto visa à melhoria da infraestrutura urbana no município e em especial neste bairro. Estas melhorias ira diminuir o índice de doenças transmissíveis através de meios hídricos durante o período chuvoso ou pelo acúmulo de poeira verificada durante o período seco. Com a execução do objeto proposto, espera melhorar e ofertar aos moradores uma infraestrutura adequada, melhorar o tráfego seguro de veículos e dos pedestres; solucionar o problema do escoamento das águas pluviais, além de, proporcionar melhorias na locomoção de todos bem como na qualidade e estilo de vida dos moradores beneficiários, os quais são mais ou menos 257 familiais, ,são famílias que tem em media uma renda familiar menos que 01(um) salario mínimo; e por fim, com a intervenção gerar emprego e renda, melhorando assim a vida financeira e social daquela localidade. E importante ressaltar que, o objeto desta proposta, a implantação de pavimentação em paralelepípedo e drenagem em vias publicas do Conjunto......, será realizada com recurso oriundo da emenda parlamento do Deputado Federal Pedro Vilela nº 37400004 no valor de R$ 245.850,00 do programa - PLANEJAMENTO URBANO do Ministério da Cidades.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de pavimentação em paralelepípedo e drenagem em vias publicas do Conjunto João Batista da Hora",
+            "information": "Em atendimento ao disposto no inciso V, artigo 16, da Portaria Interministerial nº 424, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Joaquim Gomes/AL, possui no quadro de sua Equipe Técnica Municipal os seguintes técnicos: 01 (um) Engenheiro, 01 (uma) Assistente Social, 01(um) GMC – Gerente Municipal de Convênios, 01 (uma) CPL – Comissão Permanente de Licitação, devidamente capacitados e aptos para atuar na gerência, acompanhamento e fiscalização do objeto da Proposta SICONV nº 016245/2017, através do Ministério da Cidade, a qual objetiva a Implantação de pavimentação em paralelepípedo e drenagem em vias publicas do Conjunto João Batista da Hora do município de Joaquim Gomes, Estado de Alagoas e as comprovações das expertises da equipe técnica seguem em anexo.",
+            "proposalDate": "2017-03-17T00:00:00.000Z",
+            "biddingDate": "2017-12-18T00:00:00.000Z",
+            "homologationDate": "2017-12-26T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 253167.43,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 253167.43,
+                "couterpartValues": {
+                  "total": 254,
+                  "financial": 254,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 252913.43,
+                  "amendment": "R$ 252.913,43 - Pedro Vilela"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.739/0001-50 - MUNICIPIO DE JOAQUIM GOMES",
+            "respProponent": "***.433.704-** - ADRIANO FERREIRA BARROS",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "04/2019",
+              "type": "Licitação - Convite",
+              "date": "2019-06-25T00:00:00.000Z",
+              "processId": "20190509016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "20190509016",
+                "biddingId": "04/2019",
+                "object": "Contratação de Empresa Especializada para pavimentação em paralelepípedo, drenagem e sinalização das ruas Ibês Menino de Freitas, Priscila da Silva Rego e Jose Gomes de Barros",
+                "legalFoundation": "Portaria Interministerial nº 424/2016 e Lei nº 8.666/1993",
+                "justification": "Venho através do presente, solicitar de vossa excelência autorização para realização de Certame Licitatório conforme Lei Federal nº 8.666 de 21  de junho de 1993 e suas alterações posteriores e demais normas sobre licitação em vigo, objetivando a contratação de empresa especializada para pavimentação, em paralelepípedo, drenagem e sinalização das ruas Ibês Menino de Freitas, Priscila da Silva Rego e Jose Gomes de Barros, localizadas no bairro João Batista da hora no município de Joaquim Gomes.\nTal solicitação decorrer da necessidade de oferecer aos moradores daquela localidade uma melhor qualidade de vida seja na diminuição de poeira o que pode causar doenças respiratórios, seja para facilitar o acesso a suas casas, uma vez que em períodos chuvosos o trânsito fica prejudicado.  Outrossim, informo a Vossa Excelência que os serviços de pavimentação serão custeados nos moldes do Contrato de Repasse nº 856761/2017 da Caixa Econômica Federal.",
+                "publishDate": "2019-06-25T00:00:00.000Z",
+                "beginDate": "2019-07-05T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 248999.3,
+                "homologationDate": "2019-07-10T00:00:00.000Z",
+                "city": "2775 - JOAQUIM GOMES",
+                "analysisDate": "2019-09-05T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000067/2019",
+              "biddingId": "04/2019",
+              "date": "2019-07-25T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 29138502000165",
+                "hirerDocument": "CNPJ: 12262739000150",
+                "type": "Obras",
+                "object": "Contratação de Empresa Especializada para pavimentação em paralelepípedo, drenagem e sinalização das ruas Ibês Menino de Freitas, Priscila da Silva Rego e Jose Gomes de Barros",
+                "totalValue": 248999.3,
+                "publishDate": "2019-07-25T00:00:00.000Z",
+                "beginDate": "2019-07-10T00:00:00.000Z",
+                "endDate": "2020-07-10T00:00:00.000Z",
+                "signDate": "2019-07-10T00:00:00.000Z",
+                "executionProcessId": "04/2019 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "20190509016 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE JOAQUIM GOMES",
+            "documentNumber": "12.262.739/0001-50",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "856761/2017",
+            "validity": "18/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T00:00:00.000Z",
+            "totalValue": 253167.43,
+            "transferValue": 252913.43,
+            "counterpartValue": 254,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "829374/2016",
+        "company": {
+          "id": "39c87a43-7e59-4f88-81ef-d35af590b6fd",
+          "cnpj": "12262739000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "b9d653e1-b3ef-4d7a-83b3-545f5a11fb52",
+          "sphere": "Municipal",
+          "city": {
+            "id": "b9d653e1-b3ef-4d7a-83b3-545f5a11fb52",
+            "name": "Joaquim Gomes",
+            "uf": "AL",
+            "ibge": "2703809"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-07-27T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "008678/2016",
+            "organId": "08678/2016",
+            "processId": "0086782016",
+            "proponent": "CNPJ 12.262.739/0001-50 - MUNICIPIO DE JOAQUIM GOMES",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Joaquim Gomes tem suas origens históricas ao engenho São Salvador, de propriedade de José Correia de Araújo Barros. Em 1900, Araújo Barros morreu e por razões de problemas financeiros que envolveram os seus negócios a sua propriedade ficou alienada a seu genro, Joaquim Gomes da Silva Rego, que tinha a patente de major da Guarda Nacional, resolveu tomar a frente dos negócios da família e adquiriu do banco credor a propriedade então alienada. Uma de suas primeiras providências foi dedicada à Nossa Senhora da Conceição graças ao espírito empreendedor de Joaquim Gomes, o local alcançou notável prosperidade. Antes do início da colonização daquelas terras, os índios urupês ocupavam a região ainda hoje existem descendentes desses indígenas habitando no povoado Cocal, são morenos com cabelos lisos e dedicam ao cultivo de lavouras de subsistência. A Pequena vila que se formou viveu uma fase de grande desenvolvimento tal fato ensejou o surgimento de movimentos para conseguir sua emancipação política.A comunidade costuma organizar em épocas próprias a cavalhada, guerreiro, pastoril, bandas de pífanos e quadrilhas juninas. De uma miscigenação homogênea, Joaquim Gomes conta com uma Tribo Indígena denominada Wassú na Aldeia Cocal, graças a essa tribo mantém com entusiasmo, civismo e costumes dos primeiros antepassados.O presente projeto tem como objetivo a melhoria da infraestrutura urbana no município, através da PAVIMENTAÇÃO EM PARALELEPÍPEDO E DRENAGEM de ruas localizadas em sua zona urbana e rural. Pois existem inúmeras vias sem pavimentação que servem de acesso aos moradores às suas residências. A dificuldade de locomoção dos moradores ocasionada pela má qualidade do piso natural que dependendo do período do ano se torna intransitável como acúmulo de água, lixo e o crescimento de vegetação rasteira, justificam assim a urbanização dessas áreas degradadas. Estas melhorias ajudarão, também a diminuir o índice de doenças transmissíveis através de meios hídricos durante o período chuvoso ou pelo acúmulo de poeira verificada durante o período seco.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO EM PARALELEPÍPEDO E DRENAGEM.",
+            "information": "ANA GENILDA COSTA COUTO, Brasileira, Casada, portador da CI nº 723329 SSP/AL, e CPF nº 488.431.304-63, residente e domiciliado na Rua Joaquim Machado, S/N – Centro – CEP: 57980-000 – Joaquim Gomes/AL, DECLARA, sob pena de responsabilidade civil, penal e administrativa, que é responsável por qualquer informação ou documentação apresentada, que não corresponda à verdade formal e material pelo Município de Joaquim Gomes/AL: 1. Que, nos termos da PI nº 507/2011, art. 19, V, dispõe de toda a estrutura e recursos necessários para execução dos convênios, como estrutura Administrativa, Técnica, Operacional, Experiência em outros convênios nesse mesmo órgão, Pessoal qualificado: Engenheiro Civil, Arquiteta, assistente social e outros e Estrutura organizacional composta de equipe técnica para acompanhamento e fiscalização da execução do objeto do convênio o qual será gerenciado pelo Engenheiro Civil – Humberto da Costa Araújo Junior – CREA RN 020012232-0. 2. Dessa forma, encontra-se apto à perfeita execução das Metas especificadas no Plano de Trabalho – Proposta n° 008678/2016, constante do SICONV.",
+            "proposalDate": "2016-03-09T00:00:00.000Z",
+            "biddingDate": "2016-07-27T00:00:00.000Z",
+            "homologationDate": "2016-08-02T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160014",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 246100,
+              "details": {
+                "code": "5600020160014",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 246100,
+                "couterpartValues": {
+                  "total": 250,
+                  "financial": 250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00 - Marx Beltrão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.739/0001-50 - MUNICIPIO DE JOAQUIM GOMES",
+            "respProponent": "***.433.704-** - ADRIANO FERREIRA BARROS",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "08/2018",
+              "type": "Licitação - Convite",
+              "date": "2018-11-07T00:00:00.000Z",
+              "processId": "2280",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "2280",
+                "biddingId": "08/2018",
+                "object": "Contratação de Empresa Especializada para Pavimentação, em paralelepípedo, Drenagem e Sinalização da Rua Vereador Mário de Moura, localizada  no município de Joaquim Gomes-Alagoas",
+                "legalFoundation": "PI nº424/2016, Lei 8.666/93 e suas alterações",
+                "justification": "Se faz necessários a contratação de empresa especializada em serviços de obras e engenharia , visando a contratação de empresa especializada para  pavimentação, em paralelepípedo, drenagem e sinalização a ser realizados na Rua Vereador Mário de Moura, localizada  no município de Joaquim Gomes-Alagoas, nos moldes do contrato de Repasse nº 1030017-84/2016.",
+                "publishDate": "2018-11-07T00:00:00.000Z",
+                "beginDate": "2018-11-19T00:00:00.000Z",
+                "endDate": "2018-11-20T00:00:00.000Z",
+                "biddingValue": 229308.2,
+                "homologationDate": "2018-11-20T00:00:00.000Z",
+                "city": "2775 - JOAQUIM GOMES",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "TP 01/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-03-13T00:00:00.000Z",
+              "processId": "402",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": null,
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000060/2018",
+              "biddingId": "08/2018",
+              "date": "2018-11-29T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 24486271000167",
+                "hirerDocument": "CNPJ: 12262739000150",
+                "type": "Obras",
+                "object": "Contratação de Empresa Especializada para Pavimentação, em paralelepípedo, Drenagem e Sinalização da Rua Vereador Mário de Moura, localizada  no município de Joaquim Gomes-Alagoas",
+                "totalValue": 229308.2,
+                "publishDate": "2018-11-29T00:00:00.000Z",
+                "beginDate": "2018-11-20T00:00:00.000Z",
+                "endDate": "2019-11-20T00:00:00.000Z",
+                "signDate": "2018-11-20T00:00:00.000Z",
+                "executionProcessId": "08/2018 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "2280 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE JOAQUIM GOMES",
+            "documentNumber": "12.262.739/0001-50",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "829374/2016",
+            "validity": "27/07/2016 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 246100,
+            "transferValue": 245850,
+            "counterpartValue": 250,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "829282/2016",
+        "company": {
+          "id": "39c87a43-7e59-4f88-81ef-d35af590b6fd",
+          "cnpj": "12262739000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "b9d653e1-b3ef-4d7a-83b3-545f5a11fb52",
+          "sphere": "Municipal",
+          "city": {
+            "id": "b9d653e1-b3ef-4d7a-83b3-545f5a11fb52",
+            "name": "Joaquim Gomes",
+            "uf": "AL",
+            "ibge": "2703809"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-07-27T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "008590/2016",
+            "organId": "08590/2016",
+            "processId": "0085902016",
+            "proponent": "CNPJ 12.262.739/0001-50 - MUNICIPIO DE JOAQUIM GOMES",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Joaquim Gomes tem suas origens históricas ao engenho São Salvador, de propriedade de José Correia de Araújo Barros. Em 1900, Araújo Barros morreu e por razões de problemas financeiros que envolveram os seus negócios a sua propriedade ficou alienada a seu genro, Joaquim Gomes da Silva Rego, que tinha a patente de major da Guarda Nacional, resolveu tomar a frente dos negócios da família e adquiriu do banco credor a propriedade então alienada. Uma de suas primeiras providências foi dedicada à Nossa Senhora da Conceição graças ao espírito empreendedor de Joaquim Gomes, o local alcançou notável prosperidade. Antes do início da colonização daquelas terras, os índios urupês ocupavam a região ainda hoje existem descendentes desses indígenas habitando no povoado Cocal, são morenos com cabelos lisos e dedicam ao cultivo de lavouras de subsistência. A Pequena vila que se formou viveu uma fase de grande desenvolvimento tal fato ensejou o surgimento de movimentos para conseguir sua emancipação política.A comunidade costuma organizar em épocas próprias a cavalhada, guerreiro, pastoril, bandas de pífanos e quadrilhas juninas. De uma miscigenação homogênea, Joaquim Gomes conta com uma Tribo Indígena denominada Wassú na Aldeia Cocal, graças a essa tribo mantém com entusiasmo, civismo e costumes dos primeiros antepassados.O presente projeto tem como objetivo a melhoria da infraestrutura urbana no município, através da PAVIMENTAÇÃO EM PARALELEPÍPEDO E DRENAGEM de ruas localizadas em sua zona urbana e rural. Pois existem inúmeras vias sem pavimentação que servem de acesso aos moradores às suas residências. A dificuldade de locomoção dos moradores ocasionada pela má qualidade do piso natural que dependendo do período do ano se torna intransitável como acúmulo de água, lixo e o crescimento de vegetação rasteira, justificam assim a urbanização dessas áreas degradadas. Estas melhorias ajudarão, também a diminuir o índice de doenças transmissíveis através de meios hídricos durante o período chuvoso ou pelo acúmulo de poeira verificada durante o período seco.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO EM PARALELEPÍPEDO E DRENAGEM",
+            "information": "ANA GENILDA COSTA COUTO, Brasileira, Casada, portador da CI nº 723329 SSP/AL, e CPF nº 488.431.304-63, residente e domiciliado na Rua Joaquim Machado, S/N – Centro – CEP: 57980-000 – Joaquim Gomes/AL, DECLARA, sob pena de responsabilidade civil, penal e administrativa, que é responsável por qualquer informação ou documentação apresentada, que não corresponda à verdade formal e material pelo Município de Joaquim Gomes/AL: 1. Que, nos termos da PI nº 507/2011, art. 19, V, dispõe de toda a estrutura e recursos necessários para execução dos convênios, como estrutura Administrativa, Técnica, Operacional, Experiência em outros convênios nesse mesmo órgão, Pessoal qualificado: Engenheiro Civil, Arquiteta, assistente social e outros e Estrutura organizacional composta de equipe técnica para acompanhamento e fiscalização da execução do objeto do convênio o qual será gerenciado pelo Engenheiro Civil – Humberto da Costa Araújo Junior – CREA RN 020012232-0. 2. Dessa forma, encontra-se apto à perfeita execução das Metas especificadas no Plano de Trabalho – Proposta n° 008590/2016, constante do SICONV.",
+            "proposalDate": "2016-03-09T00:00:00.000Z",
+            "biddingDate": "2016-07-27T00:00:00.000Z",
+            "homologationDate": "2016-08-02T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160014",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 300000,
+              "details": {
+                "code": "5600020160014",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 4700,
+                  "financial": 4700,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.739/0001-50 - MUNICIPIO DE JOAQUIM GOMES",
+            "respProponent": "***.431.304-** - ANA GENILDA COSTA COUTO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.847.618-** - GILBERTO KASSAB"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "TP 02/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-07-11T00:00:00.000Z",
+              "processId": "1169",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "1169",
+                "biddingId": "TP 02/2018",
+                "object": "Contratação de Empresa do ramo da Construção Civil visando a pavimentação, drenagem e sinalização das  Ruas Jose Alexandre Filho , Profª  Lia Vitorino e Rua Projetada “A” no município de Joaquim Gomes/Alagoas.",
+                "legalFoundation": "Lei nº 8.666/1993",
+                "justification": "Venho através do presente, solicitar de Vossa excelência, autorização para realização do Certame Licitatório na modalidade Tomada de Preço, conforme Lei Federal n 8.666 de 21 de 1993 e suas alterações e posteriores e demais normas sobre licitação em vigor objetivando a contratação de empresa especializada em serviços de obras e engenharia, visando a pavimentação de ruas localizadas no município de Joaquim Gomes.\nOutrossim, informo a Vossa Excelência que os serviços de pavimentação drenagem e sinalização, serão realizados na Ruas Jose Alexandre Filho , Lia Vitorino e Rua Projetada “A”, nos moldes do contrato de repasse nº 1030021-66/2016 da Caixa Econômica Federal.  \nTal solicitação decorre da necessidade de oferecer aos nossos munícipes, um serviço de eficiência e qualidade.",
+                "publishDate": "2018-07-11T00:00:00.000Z",
+                "beginDate": "2018-07-30T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 192486.81,
+                "homologationDate": "2018-08-28T00:00:00.000Z",
+                "city": "2775 - JOAQUIM GOMES",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000056/2019",
+              "biddingId": "TP 02/2018",
+              "date": "2018-09-20T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 29138502000165",
+                "hirerDocument": "CNPJ: 12262739000150",
+                "type": "Obras",
+                "object": "Contratação de Empresa Especializada em serviços de pavimentação, drenagem e sinalização, que serão realizadas nas Ruas Jose Alexandre Filho, Profª  Lia Vitorino e Rua Projetada “A'",
+                "totalValue": 192486.81,
+                "publishDate": "2018-09-20T00:00:00.000Z",
+                "beginDate": "2018-08-28T00:00:00.000Z",
+                "endDate": "2019-08-28T00:00:00.000Z",
+                "signDate": "2018-08-28T00:00:00.000Z",
+                "executionProcessId": "TP 02/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "1169 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE JOAQUIM GOMES",
+            "documentNumber": "12.262.739/0001-50",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "829282/2016",
+            "validity": "27/07/2016 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 300000,
+            "transferValue": 295300,
+            "counterpartValue": 4700,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "746741/2010",
+        "company": {
+          "id": "39c87a43-7e59-4f88-81ef-d35af590b6fd",
+          "cnpj": "12262739000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "b9d653e1-b3ef-4d7a-83b3-545f5a11fb52",
+          "sphere": "Municipal",
+          "city": {
+            "id": "b9d653e1-b3ef-4d7a-83b3-545f5a11fb52",
+            "name": "Joaquim Gomes",
+            "uf": "AL",
+            "ibge": "2703809"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2010-11-03T00:00:00.000Z",
+        "end": "2011-05-31T00:00:00.000Z",
+        "program": "Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo – Emendas Parlamentares",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "061274/2010",
+            "organId": "00126/2010",
+            "processId": "71000.057207/2010-84",
+            "proponent": "CNPJ 12.262.739/0001-50 - MUNICIPIO DE JOAQUIM GOMES",
+            "legalFoundation": "Decreto 6.170/2007 e Portaria Interministerial 127/2008",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A feira livre do município de Joaquim Gomes representa cultural e economicamente um comércio alternativo de grande expressão das riquezas artesanais, alimentícias e vestuárias do município e da região, conferindo quase sempre um diagnóstico educacional da qualidade de vida dos seus habitantes. O descuido com a higiene da feira livre, bem como a pouca ou quase nenhuma organização dos feirantes e a falta de informações direcionadas para estes comerciantes, são responsáveis por índices cada vez mais altos da procura dos consumidores por outros centros comercializadores de hortifrutigranjeiros a exemplo de supermercados de grande porte e quitandas que oferecem produtores com qualidades visuais e sanitárias de melhor aspecto. A apresentação das mercadorias é sempre um atrativo forte na hora da escolha dos consumidores, cada vez mais exigentes e seletistas na procura por produtos com atrativos qualitativos e de preços acessíveis. O comércio das feiras livres apresenta uma singularidade importantíssima para o desenvolvimento turístico da região por ter sempre uma expressão regional de forte impacto para quem está visitando ou conhecendo o município. É neste momento onde o produtor, artesões, entre outros estarão vendendo uma imagem muitas vezes até inconscientemente da criatividade, capacidade empreendedora, receptividade e a valorização local, projetando, assim, a imagem do município. A iniciativa de se promover à reestruturação da feira livre de Joaquim Gomes partiu do pressuposto que não se caracteriza efetivamente nenhum processo de mudança sem a ousadia de ariscar e dentro desse pensamento à entidade proponente vem articulando parcerias e implementando atividades para a sua execução de fato. Um diagnóstico realizado recentemente mostrou a situação preocupante que se encontram os produtos e serviços oferecidos na feira, incidindo numa necessidade urgente de se trabalhar aspectos sanitários e estruturais que resguardem a saúde pública dos consumidores que fazem uso desses serviços. A comercialização geralmente ocorre de forma rudimentar, em cima de lonas plásticas e cavaletes o que diminui o tempo de vida útil dos alimentos, aumentando com isso ainda mais o percentual de perda de produtos desde a sua colheita até a sua comercialização. O município de Joaquim Gomes possui várias comunidades rurais os quais possuem grande potencial frutífero onde são explorados produtos como frutíferas e cereais que são vendidos nos estabelecimentos comerciais. Já nas áreas do entorno dos açudes e barragens os agricultores produzem hortaliças. Praticamente durante todo o ano, tanto nas áreas de serras como de sequeiro, são plantados e colhidos os mais diversos produtos originários da agricultura familiar, tais como: macaxeira, jerimum, frutas, feijão de corda e de arranque, milho, farinha, carne caprina e ovina, ovos, leite, mel, etc. Todavia, a maioria destes produtos não é comercializada pelos agricultores por falta de locais apropriados, pois os mesmos não dispõem de recursos, infra-estrutura ou logística para deslocar sua produção para outras cidades do território. Com isso o que se vê todo o ano são produtores procurando ajuda na prefeitura no sentido de solicitar apoio para comercializar seus produtos dentro dos programas sociais, contudo a prefeitura não dispõe de recursos suficientes para tal. O retorno do investimento se prever na economia advindo da redução no sistema de saúde e progressivo crescimento da economia local em virtude do aumento das relações comerciais neste setor alimentício.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Equipar a feira livre do município de Joaquim Gomes para que agricultores familiares feirantes do município adquiram habilidade e competência em comercializar seus produtos, visando alcançar a autonomia financeira através da melhoria de renda. Também visa contribuir para melhoria operacional da feira-livre, dando-lhe visibilidade pela oferta de produtos oriundos da agricultura familiar com qualidade, higiene e bom atendimento.",
+            "information": "Declaro, para os fins que se fizerem necessários, na condição de Chefe do Poder Executivo, que Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Joaquim Gomes/AL. possui quadro de profissionais, GMC - Gerente Municipal de Convênios e Contrato (01 Gerente), CPL – Comissão Permanente de Licitação (04 membros), Engenheiro (01), Técnico Social (02), contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, aquisição de bens, etc, que possam assegurar todo um Potencial Administrativo para gerir o Processo de Contratos de Repasses e Convênios.",
+            "proposalDate": "2010-05-22T00:00:00.000Z",
+            "biddingDate": "2010-11-03T00:00:00.000Z",
+            "homologationDate": "2010-11-11T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020100038",
+              "name": "Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo – Emendas Parlamentares",
+              "value": 212400,
+              "details": {
+                "code": "5500020100038",
+                "name": "Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo – Emendas Parlamentares",
+                "cps": null,
+                "items": "Ampliar a atuação pública com ações locais conjugadas, que abranjam atividades de produção, processamento e distribuição agroalimentar, de forma a: construir e organizar sistemas locais cooperativos e solidários, de segurança alimentar e nutricional; ampliar a disponibilidade agroalimentar, com qualidade e preços acessíveis; valorizar a diversidade dos hábitos de consumo e; promover atividades geradoras de trabalho e renda nos municípios.",
+                "couterpartRule": "a) 2% e 4% para Municípios com até 50.000 hab.; b) 4% e 8% (para Municípios acima de 50.000 hab. localizados nas áreas prioritárias definidas no âmbito da PNDR, SUDENE, SUDAM e da SUDECO; [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 212400,
+                "couterpartValues": {
+                  "total": 12550,
+                  "financial": 12550,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 199850,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.262.739/0001-50 - MUNICIPIO DE JOAQUIM GOMES",
+            "respProponent": "***.855.504-** - BENEDITO DE PONTES SANTOS",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.267.209-** - MARCIA HELENA CARVALHO LOPES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE JOAQUIM GOMES",
+            "documentNumber": "12.262.739/0001-50",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "746741/2010",
+            "validity": "03/11/2010 a 31/05/2011",
+            "limitDate": "2011-07-30T00:00:00.000Z",
+            "totalValue": 212400,
+            "transferValue": 199850,
+            "counterpartValue": 12550,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "626835/2008",
+        "company": {
+          "id": "39c87a43-7e59-4f88-81ef-d35af590b6fd",
+          "cnpj": "12262739000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "b9d653e1-b3ef-4d7a-83b3-545f5a11fb52",
+          "sphere": "Municipal",
+          "city": {
+            "id": "b9d653e1-b3ef-4d7a-83b3-545f5a11fb52",
+            "name": "Joaquim Gomes",
+            "uf": "AL",
+            "ibge": "2703809"
+          }
+        },
+        "name": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-30T00:00:00.000Z",
+        "end": "2010-03-21T00:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Adimplente no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "076435/2008",
+            "organId": "700108/2008",
+            "processId": "23400.003151/2008-78",
+            "proponent": "CNPJ 12.262.739/0001-50 - MUNICIPIO DE JOAQUIM GOMES",
+            "legalFoundation": "",
+            "organ": "26000 - MINISTERIO DA EDUCACAO",
+            "linkedOrgan": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "description": null,
+            "justification": "029, DE 29 DE JUNHO DE 2007",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ESTE CONVENIO TEM POR OBJETO CONCEDER APOIO FINANCEIRO PARA O DESENV OLVIMENTO DE ACOES QUE VISAM PROPORCIONAR A SOCIEDADE A MELHORIA DA IN FRA-ESTRUTURA DA REDE FISICA ESCOLAR, COM A CONSTRUCAO DE ESCOLA(S) CO NFORME ESTABELECE O PROGRAMA NACIONAL DE REESTRUTURACAO E APARELHAGEM DA REDE ESCOLAR PUBLICA DE EDUCACAO INFANTIL - PROINF.NCIA.",
+            "information": "",
+            "proposalDate": "2008-06-30T00:00:00.000Z",
+            "biddingDate": "2008-06-30T00:00:00.000Z",
+            "homologationDate": "2008-07-02T00:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.262.739/0001-50 - MUNICIPIO DE JOAQUIM GOMES",
+            "respProponent": "***.207.514-** - AMARA CRISTINA DA SOLIDADE",
+            "grantor": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "respGrantor": "***.416.934-** - DANIEL SILVA BALABAN"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "convenient": "MUNICIPIO DE JOAQUIM GOMES",
+            "documentNumber": "12.262.739/0001-50",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "626835/2008",
+            "validity": "30/06/2008 a 21/03/2010",
+            "limitDate": "2010-03-21T00:00:00.000Z",
+            "totalValue": 750000,
+            "transferValue": 742500,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

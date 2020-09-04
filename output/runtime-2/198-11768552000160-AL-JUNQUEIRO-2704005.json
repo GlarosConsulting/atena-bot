@@ -1,0 +1,122 @@
+{
+  "beginDate": "2020-09-02T01:22:45.457Z",
+  "endDate": "2020-09-02T01:23:18.457Z",
+  "data": {
+    "location": {
+      "city": "Junqueiro",
+      "uf": "AL",
+      "ibge": "2704005"
+    },
+    "agreements": [
+      {
+        "agreementId": "825443/2015",
+        "company": {
+          "id": "4d8e18da-e76d-4337-952f-e14654c234e8",
+          "cnpj": "11768552000160",
+          "name": "FUNDO MUNICIPAL DE SAÚDE",
+          "cityId": "b523ed48-6a97-4641-af4f-8e9ce70a89e7",
+          "sphere": "Municipal",
+          "city": {
+            "id": "b523ed48-6a97-4641-af4f-8e9ce70a89e7",
+            "name": "Junqueiro",
+            "uf": "AL",
+            "ibge": "2704005"
+          }
+        },
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2015-12-28T00:00:00.000Z",
+        "end": "2019-11-30T00:00:00.000Z",
+        "program": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / REDE DE ESTRUTURACAO - UNIDADES HOSPITALARES / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "044923/2015",
+            "organId": "44923/2015",
+            "processId": "0449232015",
+            "proponent": "CNPJ 11.768.552/0001-60 - FUNDO MUNICIPAL DE SAUDE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE JUNQUEIRO, POSSUI UMA POPULAÇÃO DE 27.500 HABITANTES, REPRESENTADA PELA SINTONIA DOS OBJETIVOS DA PROPOSTA COM AS POLÍTICAS PÚBLICAS, BEM COMO DA CONTRIBUIÇÃO PARA O DESENVOLVIMENTO SÓCIO ECONÔMICO DO ESTADO, MUNICIPIO E DAS REGIÕES ENVOLVIDAS. A UNIDADE HOSPITALAR TEOFILO PEREIRA ESTÁ LOCALIZADA NA ZONA URBANA DO MUNICIPIO ATENDE A UMA ENORME DEMANDA DE PACIENTES EM TORNO DE 20 MIL MÊS ENTRE RESIDENTES E NÃO RESIDENTES. OFERTA DIVERSOS TIPOS DE SERVIÇOS QUE VÃO DESDE A PEQUENA CIRUIGIA ATÉ OUTRAS MAIS COMPLEXAS. O PLEITO SOLICITADO DE AMPLIAÇÃO É AMPLIAR A COZINHA DESTA UNIDADE EM MAIS 120 M2 , QUE SERÃO INTEGRADOS AO HOSPITAL. ESTA OBRA SERÁ CONCLUÍDA EM ATÉ DOZE MESES, ISTO SE NÃO HOUVER ATRASO NO REPASSE DE RECURSOS. O HOSPITAL TEM ATUALMENTE 32 LEITOS. A ampliação é necessária devido ao espaço pequeno da copa /cozinha, que hoje possui 154 m2, onde a mesma será ampliada por mais 120 m2, assim irá melhorar o andamento dos profissionais na área de alimentação e todo o contexto. Esta unidade possui atualmente 32 leitos. este ambiente após a ampliação passará a ter uma área total de 274 m2. Esta obra será concluída em até 12 meses, após a aprovação e liberação dos recursos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AMPLIAÇÃO DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+            "information": "",
+            "proposalDate": "2015-10-15T00:00:00.000Z",
+            "biddingDate": "2015-12-28T00:00:00.000Z",
+            "homologationDate": "2016-01-11T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020150004",
+              "name": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / REDE DE ESTRUTURACAO - UNIDADES HOSPITALARES / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+              "value": 349999.2,
+              "details": {
+                "code": "3600020150004",
+                "name": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / REDE DE ESTRUTURACAO - UNIDADES HOSPITALARES / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+                "cps": "",
+                "items": "AMPLIAÇÃO DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+                "couterpartRule": "Consorcio Publico, constituido por Estados, Distrito Federal e Municipios Nao sera exigida contrapartida (Art. 72, paragrafo 4., da Lei 13.080/2015). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 349999.2,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 349999.2,
+                  "amendment": "R$ 349.999,20 - Arthur Lira"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 11.768.552/0001-60 - FUNDO MUNICIPAL DE SAUDE",
+            "respProponent": "***.943.954-** - CARLOS AUGUSTO LIMA DE ALMEIDA",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.678.377-** - ADEMAR ARTHUR CHIORO DOS REIS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "FUNDO MUNICIPAL DE SAUDE",
+            "documentNumber": "11.768.552/0001-60",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "825443/2015",
+            "validity": "28/12/2015 a 30/11/2019",
+            "limitDate": "2020-01-29T00:00:00.000Z",
+            "totalValue": 349999.2,
+            "transferValue": 349999.2,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

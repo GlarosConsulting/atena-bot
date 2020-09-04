@@ -1,0 +1,2052 @@
+{
+  "beginDate": "2020-09-01T21:10:57.543Z",
+  "endDate": "2020-09-01T23:30:08.556Z",
+  "data": {
+    "location": {
+      "city": "Cajueiro",
+      "uf": "AL",
+      "ibge": "2701308"
+    },
+    "agreements": [
+      {
+        "agreementId": "887802/2019",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2020-01-09T00:00:00.000Z",
+        "end": "2021-07-02T00:00:00.000Z",
+        "program": "SDRU/MDR - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL IMPOSITIVA",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "043934/2019",
+            "organId": "00089/2019",
+            "processId": "59000.007258/2019-06",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Decreto 6170/2017. Portaria 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": "O município de Cajueiro limita-se com Viçosa, Capela e Atalaia. Sua área municipal ocupa 112.30km², na Mata Alagoana. A sede do município tem seu acesso principal pela AL-210. Considerando que os interesses do programa 2029 são a redução das desigualdades regionais e intra regionais e promoção do desenvolvimento territorial sustentável, respeitando as identidades e a diversidade cultura, em reciprocidade com os interesses do município, a proposta pretendida é a Aquisição de Patrulha Mecanizada.",
+            "justification": null,
+            "targetAudience": "Serão beneficiados diretamente 2 mil produtores e indiretamente 6 mil, propiciando condições para acréscimo na safra de grãos, escoamento da produção, principalmente na época de aração de terra, melhor qualidade de vida da população e um fortalecimento da economia local.",
+            "problem": "- Minimizar os impactos naturais, sobretudo durante as cheias que ocasionalmente assolam o município, propiciando melhores condições de trabalho aos pequenos produtores; - Contribuir para o fortalecimento dos grupos locais no processo de planejamento, e gerenciamento das unidades produtivas; - Escoamento da produção, principalmente na época de aração de terra, melhor qualidade de vida da população e um fortalecimento da economia local.",
+            "result": "Com o aquecimento da produção agrícola, isso vem a desencadear um aumento na economia local, onde o produtor terá mais agilidade na produção, favorecendo o comércio e distribuição de seus produtos. Com isso, acarretará um grande impacto social, visto que a geração de renda aumentará, consequentemente a qualidade de vida de seus produtores.",
+            "proposalAndObjectivesRelation": "Construção de barragens para criação de peixes; Irrigação das lavouras; Abertura e melhorias de estradas vicinais e com isso melhoramento para escoar a produção dos nossos agricultores familiares",
+            "categories": "Equipamentos",
+            "object": "Aquisição de uma máquina retroescavadeira e implementos agrícolas para o município de Cajueiro - AL.",
+            "information": "Declaramos que temos sim pessoal capacitado para a execução do convênio.",
+            "proposalDate": "2019-09-04T00:00:00.000Z",
+            "biddingDate": "2019-12-31T00:00:00.000Z",
+            "homologationDate": "2020-01-09T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020190034",
+              "name": "SDRU/MDR - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL IMPOSITIVA",
+              "value": 311000,
+              "details": {
+                "code": "5300020190034",
+                "name": "SDRU/MDR - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL IMPOSITIVA",
+                "cps": null,
+                "items": "Equipamentos",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes (art. 78, § 1º, I, alinea a da Lei 13.707/2018 (LDO 2019) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 311000,
+                "couterpartValues": {
+                  "total": 1000,
+                  "financial": 1000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 310000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.186.624-** - ADRIANA MELO ALVES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0042020",
+              "type": "Licitação - Pregão",
+              "date": "2020-03-09T00:00:00.000Z",
+              "processId": "02282020",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "02282020",
+                "biddingId": "0042020",
+                "object": "AQUISIÇÃO DE RETROESCAVADEIRA E IMPLEMENTOS AGRÍCOLAS.",
+                "legalFoundation": "LEI 10.520/2002",
+                "justification": "DISPÕE A LEI 10.520, DE 17/07/2002, QUE INSTITUI, NO ÂMBITO DA UNIÃO, ESTADOS, DISTRITO FEDERAL E MUNICÍPIOS, A MODALIDADE DE LICITAÇÃO DENOMINADA PREGÃO, PARA AQUISIÇÃO DE BENS E SERVIÇOS COMUNS.",
+                "publishDate": "2020-03-09T00:00:00.000Z",
+                "beginDate": "2020-03-19T00:00:00.000Z",
+                "endDate": "2020-05-04T00:00:00.000Z",
+                "biddingValue": 309496.66,
+                "homologationDate": "2020-05-04T00:00:00.000Z",
+                "city": "2725 - CAJUEIRO",
+                "analysisDate": "2020-08-28T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000401/2020",
+              "biddingId": "0042020",
+              "date": "2020-04-23T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 24491429000278",
+                "hirerDocument": "CNPJ: 12333738000150",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE UMA RETROESCAVADEIRA E IMPLEMENTOS AGRÍCOLAS",
+                "totalValue": 256666.66,
+                "publishDate": "2020-04-23T00:00:00.000Z",
+                "beginDate": "2020-03-26T00:00:00.000Z",
+                "endDate": "2020-06-26T00:00:00.000Z",
+                "signDate": "2020-03-26T00:00:00.000Z",
+                "executionProcessId": "0042020 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "02282020 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "887802/2019",
+            "validity": "09/01/2020 a 02/07/2021",
+            "limitDate": "2021-08-31T00:00:00.000Z",
+            "totalValue": 311000,
+            "transferValue": 310000,
+            "counterpartValue": 1000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "884094/2019",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2019-11-18T00:00:00.000Z",
+        "end": "2022-11-18T00:00:00.000Z",
+        "program": "ESTRUTURA??O DA REDE DE SERVI?OS DO SISTEMA ?NICO DE ASSIST?NCIA SOCIAL (SUAS) ? EMENDAS PARLAMENTARES",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "004451/2019",
+            "organId": "04451/2019",
+            "processId": "71000013653201915",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "DECRETO Nº 8943 E PORTARIA INTERMINISTERIAL Nº 424/2016",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": "“As informações gerais relativas ao mérito social da proposta encontram-se no formulário anexado na Aba Termo de Referência.”",
+            "justification": null,
+            "targetAudience": "Atendimento direto as famílias usuárias dos programas do SUAS, podendo ser indivíduos e famílias em situação de vulnerabilidade ou risco sociais ou direitos violados no Município de Cajueiro/AL.",
+            "problem": "Atendimento a Indivíduos e famílias em situação de vulnerabilidade ou risco sociais ou direitos violados no Município de Cajueiro/AL.",
+            "result": "Construir equipamento social para melhoria serviços e programas de Proteção Social Básica e Especial ofertados no Município de Cajueiro/AL.",
+            "proposalAndObjectivesRelation": "Manter, ampliar e qualificar os serviços e programas de Proteção Social Básica e Especial ofertados às famílias e indivíduos em situação de vulnerabilidade e risco social e pessoal.",
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "ESTRUTURAÇÃO DA REDE DE SERVIÇOS DO SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL (SUAS) - CONSTRUÇÃO DE CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL – CREAS",
+            "information": "Em conformidade com o que estabelece o inciso V, do art. 16, da Portaria Interministerial MP/MF/MTF-CGU Nº 424, de 30 de dezembro de 2016, declara que esta Prefeitura dispõe de estrutura física e quadro de profissionais com capacidade técnica, administrativa e gerencial para a execução do objeto proposto, declarando, ainda, ter a experiência no desenvolvimento das atividades propostas pelo convênio a ser celebrado, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legal e juridicamente, inclusive no que tange à formalização, celebração, instrução, execução e a prestação de contas do convênio com a União.",
+            "proposalDate": "2019-03-15T00:00:00.000Z",
+            "biddingDate": "2019-11-18T00:00:00.000Z",
+            "homologationDate": "2019-11-27T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020190017",
+              "name": "ESTRUTURA??O DA REDE DE SERVI?OS DO SISTEMA ?NICO DE ASSIST?NCIA SOCIAL (SUAS) ? EMENDAS PARLAMENTARES",
+              "value": 376390,
+              "details": {
+                "code": "5500020190017",
+                "name": "ESTRUTURA??O DA REDE DE SERVI?OS DO SISTEMA ?NICO DE ASSIST?NCIA SOCIAL (SUAS) ? EMENDAS PARLAMENTARES",
+                "cps": "001/2018",
+                "items": "Equipamentos Comunitários",
+                "couterpartRule": "",
+                "totalValue": 376390,
+                "couterpartValues": {
+                  "total": 3940,
+                  "financial": 3940,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 372450,
+                  "amendment": "R$ 372.450,00 - Paulão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.714.780-** - OSMAR GASPARINI TERRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "884094/2019",
+            "validity": "18/11/2019 a 18/11/2022",
+            "limitDate": "2023-01-17T00:00:00.000Z",
+            "totalValue": 376390,
+            "transferValue": 372450,
+            "counterpartValue": 3940,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "881217/2018",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-28T00:00:00.000Z",
+        "end": "2021-02-28T00:00:00.000Z",
+        "program": "2029 – DESENVOLVIMENTO REGIONAL E TERRITORIAL : PT - 15.244.2029.7k66.0027 - Ação Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas – (EMENDA)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "062445/2018",
+            "organId": "514900/2018",
+            "processId": "59550.001051/2018-11",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Portaria 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "Em 1904 Cajueiro foi elevado à categoria de município, por meio da lei estadual nº 427, de 10 de Julho de 1904. Por essa lei houve a transferência da sede da povoação de Capela para Cajueiro que passou a se denominar de Euclides Malta. Constituindo-se como distrito sede. (IBGE - Alagoas - lei estadual nº 427, de 10-06-1904). Conforme consta no censo 2016 do IBGE, a população total residente do município é de 21.443 habitantes. Com uma área territorial de 94,357 km², a densidade demográfica é de 226,32 hab/km². O município de Cajueiro está localizado na região leste do Estado de Alagoas, limitando-se ao norte com os municípios de Atalaia; ao sul com os municípios de Atalaia; a leste com o município de Capela; e a oeste com os municípios Viçosa,têm acesso através da rodovia BR 316. Fluxo de veículos: é relativamente baixo. Específico para o transporte dos moradores da localidade. Observa-se que a infraestrutura da cidade ainda está muito aquém da necessária para prover a comunidade de boa saúde, acesso adequado ao trabalho e conforto ambiental. O mesmo ocorre também nas áreas urbanas dos povoados do município. Neste aspecto, além de outros serviços, o município é carente de saneamento básico e pavimentação. O objetivo do projeto é promover ações para mitigação da problemática que também é enfrentada pelos moradores daquela comunidade. Além dos habitantes da localidade, o empreendimento beneficiará indiretamente a total população do município, através do incremento da atratividade em realizar negócios nas áreas beneficiadas, desenvolvendo avanço social e econômico.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Pavimentação das Ruas 01,02,03,04 e 05 no Município de Cajueiro visando a melhoria no tráfego de veículos e melhorias para a própria população",
+            "information": "DECLARAMOS QUE POSSUÍMOS EM NOSSO QUADRO DE COLABORADORES, PESSOAS CAPACITADAS PARA GERENCIAR ESSE CONVÊNIO CONFORME DECLARAÇÃO EM ANEXO",
+            "proposalDate": "2018-11-14T00:00:00.000Z",
+            "biddingDate": "2018-12-28T00:00:00.000Z",
+            "homologationDate": "2019-01-11T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320180008",
+              "name": "2029 – DESENVOLVIMENTO REGIONAL E TERRITORIAL : PT - 15.244.2029.7k66.0027 - Ação Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas – (EMENDA)",
+              "value": 507068.5,
+              "details": {
+                "code": "2220320180008",
+                "name": "2029 – DESENVOLVIMENTO REGIONAL E TERRITORIAL : PT - 15.244.2029.7k66.0027 - Ação Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas – (EMENDA)",
+                "cps": null,
+                "items": "Pavimentação",
+                "couterpartRule": "Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 507068.5,
+                "couterpartValues": {
+                  "total": 32068.5,
+                  "financial": 32068.5,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 475000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012020",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2020-03-10T00:00:00.000Z",
+              "processId": "0012020",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0012020",
+                "biddingId": "0012020",
+                "object": "PAVIMENTAÇÃO DAS RUAS 01, 02, 03, 04 E 05 NO MUNICÍPIO DE CAJUEIRO/AL.",
+                "legalFoundation": "LEI 8.666/1993",
+                "justification": "MODALIDADE TOMADA DE PREÇOS A MAIS ADEQUADA.",
+                "publishDate": "2020-03-10T00:00:00.000Z",
+                "beginDate": "2020-03-26T00:00:00.000Z",
+                "endDate": "2020-03-30T00:00:00.000Z",
+                "biddingValue": 478129.28,
+                "homologationDate": "2020-03-30T00:00:00.000Z",
+                "city": "2725 - CAJUEIRO",
+                "analysisDate": "2020-05-15T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2020",
+              "biddingId": "0012020",
+              "date": "2020-04-23T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 28660503000102",
+                "hirerDocument": "CNPJ: 12333738000150",
+                "type": "Obras",
+                "object": "PAVIMENTAÇÃO DAS RUAS 01, 02, 03, 04 E 05 NO MUNICÍPIO DE CAJUEIRO/AL.",
+                "totalValue": 478129.28,
+                "publishDate": "2020-04-23T00:00:00.000Z",
+                "beginDate": "2020-03-30T00:00:00.000Z",
+                "endDate": "2020-08-30T00:00:00.000Z",
+                "signDate": "2020-03-30T00:00:00.000Z",
+                "executionProcessId": "0012020 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0012020 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "881217/2018",
+            "validity": "28/12/2018 a 28/02/2021",
+            "limitDate": "2021-04-29T00:00:00.000Z",
+            "totalValue": 507068.5,
+            "transferValue": 475000,
+            "counterpartValue": 32068.5,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "865931/2018",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-20T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "029028/2018",
+            "organId": "00111/2018",
+            "processId": "59553.000192/2018-88",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Decreto 6.170/2007 e Port. 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Cajueiro Cajueiro tem sua origem, como povoado, nos meados do século XIX, às margens do Rio Paraíba, formado pela família Marcelino. Os migrantes do sertão em demanda a Pilar e a Maceió descansavam seus animais à sombra de frondoso cajueiro. Aí, a denominação da localidade. Em 1904, Cajueiro foi elevado à categoria de município, vindo a perder a sua autonomia em 1912. No ano de 1958 foi, novamente, elevado à município, com área desmembrada de Capela. Gentílico: cajueirense Tem uma população estimada em 21.526 habitantes, IDH 0,562, localizada na microregião da mata aloagana, região metropolitana da Zona da Mata, com aproximadamente uma extensão de área de 94,357 Km2, cuja renda per capita é R$ 6.592,78, onde reina o clima tropical quente e úmido, detém de uma boa produção agrícola de banana estimada em 132 toneladas, laranja 30 toneladas, manga 40 toneladas, melão 6 toneladas, batata-doce 6 toneladas, todo tipo de verduras, e outras colheitas que são comercializados no mercado. Também tem as cabeças de gados que faz referências ao comércios das carnes com cabeças estimadas de bovinos em 6.700, caprinos em 90, equino em 300, galináceo em 72.000, ovino 460 cabeças, e suíno 490. Sem falar do próprio comércio de pequenos animais que constam nessa lista que foi exposta, enfim, irá trazer o desenvolvimento e produção dessa região. Seguem abaixo os dados referente a produção desses produtos: Produção de origem animal Total Leite (Mil litros) 302 Ovos de galinha (Mil dúzias) 1 Ovos de codorna (Mil dúzias) - Mel de abelha (Quilogramas) 380 - Valor da produção (Mil Reais) Total Leite 363 Ovos de galinha 4 Mel de abelha 11 Valor da produção - percentual do total geral Total Leite 96,03% Ovos de galinha 1,06% Mel de abelha 2,91% Essa reforma beneficiará os agricultores e os comércios que adentram os mercados públicos, consequentemente fortalecendo a capacidade produtiva. Atualmente o Mercado da Agricultura e de Carnes, que há mais de 40 anos não sofre uma boa reforma de suas instalações, necessita o másximo dessa obra para dar maior comodidade aos feirantes e a população em geral. Espera-se que com essa reforma melhore a comercialização desses produtos e também que o faturamento mensal dos agricultores e comerciantes melhore consideravelmente, visto que a renda mensal dos trabalhadores Formais é R$ 1.5 salários mínimos, enfim, essa reforma trará todo tipo de benefício para todos os envolvidos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Reforma dos Mercados Públicos da Agricultura e da Carne situados na Rua José Cabral, s/n.",
+            "information": "Conforme declaração anexada, segue os colaboradoes que darão funcionalidade ao objeto.",
+            "proposalDate": "2018-03-16T00:00:00.000Z",
+            "biddingDate": "2018-12-18T00:00:00.000Z",
+            "homologationDate": "2018-12-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020180005",
+              "name": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+              "value": 400500,
+              "details": {
+                "code": "5300020180005",
+                "name": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+                "cps": null,
+                "items": "Aquisição de Equipamentos e Insumos, Ações Complementares de Obras",
+                "couterpartRule": "No caso de municípios com ate 50.000 habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 400500,
+                "couterpartValues": {
+                  "total": 500,
+                  "financial": 500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 400000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.013.663-** - MARLON CARVALHO CAMBRAIA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "865931/2018",
+            "validity": "20/12/2018 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 400500,
+            "transferValue": 400000,
+            "counterpartValue": 500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "852088/2017",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-01-15T00:00:00.000Z",
+        "end": "2020-12-30T00:00:00.000Z",
+        "program": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "030473/2017",
+            "organId": "00601/2017",
+            "processId": "59553.000172/2017-26",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Decreto 6.170/2017 Port 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Assentamento Loango teve sua portaria de criação publicada no ano de 2007. O imóvel possui 750 hectares e foi desapropriado pelo Governo Federal para atender 90 famílias de trabalhadores sem terra e agricultores do município de Cajueiro. As famílias já acessaram importantes créditos descentralizados por meio do Governo Federal, a exemplo do apoio inicial, credito fomento, fomento mulher, estando aptas ao PRONAF. Ou seja, são famílias que já tem um razoável nível de produção que inclui feijão, milho, macaxeira, inhame, batata doce, legumes diversos, hortaliças e frutas, além de uma pequena criação. Dessa forma, a comercialização e destinação final dos produtos são grande demanda da comunidade. Uma central de abastecimento (Mercado Público) para quiosques, banheiros e estacionamento, localizados nas proximidades da AL210, traria um grande avanço de desenvolvimento para a comunidade local e também uma melhor organização na comercialização dos produtos o que acarretaria uma melhor vitrine para os produtos dos nossos agricultores, visto que a Prefeitura não tem recursos para executar esa construção. O Assentamento Bom Destino, reuni 37 famílias de agricultores, divididas em lotes. O imóvel foi desapropriado no ano de 2009, e já é assentamento do INCRA desde o ano seguinte. Embora ainda não tendo acesso a todas as modalidades de créditos disponibilizados pelo Governo Federal, as famílias conseguem produzir hortaliças, tubérculos (principalmente mandioca), e tem uma pequena criação. Como a comercialização e a destinação dos produtos, sempre tem a sua deficiência, agregação de valor passa a ser uma prioridade, daí a opção da comunidade por uma pequena agroindústria (casa de farinha), que facilitaria a produção final dos derivados e sua comercialização na região, trazendo maior lucratividade para os agricultores e consequentemente uma maior produção dos produtos, visto que a Prefeitura não tem recursos para executar essa construção.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Mercado Público (Assentamento Loango) e Casa da Farinha (Assentamento Bom Destino)",
+            "information": "Declaramos que possuímos colaboradores com capacidades técnica e gerencial para a execução desse convênio.",
+            "proposalDate": "2017-03-29T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020170009",
+              "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+              "value": 300301,
+              "details": {
+                "code": "5300020170009",
+                "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+                "cps": null,
+                "items": "7K66 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado",
+                "couterpartRule": "Municípios com até 50 mil habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300301,
+                "couterpartValues": {
+                  "total": 301,
+                  "financial": 301,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 300000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.013.663-** - MARLON CARVALHO CAMBRAIA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "852088/2017",
+            "validity": "15/01/2018 a 30/12/2020",
+            "limitDate": "2021-02-28T00:00:00.000Z",
+            "totalValue": 300301,
+            "transferValue": 300000,
+            "counterpartValue": 301,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "830894/2016",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-01-20T00:00:00.000Z",
+        "end": "2018-01-20T00:00:00.000Z",
+        "program": "SDR/MI - 2029 - PROGRAMA TEMATICO, DESENVOLVIMENTO TERRITORIAL E REGIONAL - EMENDAS DISPONIVEL",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "014413/2016",
+            "organId": "00103/2016",
+            "processId": "59553.000090/2016-09",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Dec. 6.170/2007 e Port 507/2011",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Cajueiro localiza-se no estado de Alagoas, Região Nordeste do país, limitando-se ao norte com o município de Capela, ao sul com Atalaia, a oeste com Viçosa; o acesso a partir de Maceió é feito através da rodovia pavimentada BR316 e AL410, com percurso total em torno de 78Km. A área municipal ocupa 124,34 Km², com uma população de 20.410 habitantes, entre estes 16.485 habitantes residentes na área urbana e 3.925 habitantes, residentes na área rural. Tem sua origem, como povoado, nos meados do século XIX, às margens do Rio Paraíba, formado pela família Marcelino. Naquela época, os migrantes do agreste e sertão em demanda a Pilar e a Maceió descansavam seus animais à sombra de frondoso cajueiro, num local de paisagem, às margens do Rio Paraíba. Aí, a denominação da localidade. Cuja emancipação política se deu de fato e de direito em 1958. As principais atividades econômicas do município são: comércio, serviços e agropecuária, no ranking de desenvolvimento, Cajueiro está em 81º lugar no estado (81/101 municípios), e em 5.328º lugar no Brasil (5.328/5561), dados de 2005. Na área de pecuária, conta com os seguintes rebanhos (cabeças): bovinos – 5.865; suínos 70; eqüinos–100; muares–114; caprinos–60; ovinos–90, aves–82.300. A produção leiteira é de 322 .000 litros. Na área agrícola: Banana – 04 ha (4.000 cachos); Laranja – 0 4 ha ( 184.000 frutos); Manga– 04 ha (260.000 frutos); Batata Doce –15 ha (115t); Cana -de-açúcar– 5.500 ha (278.030 t); Feijão– 14 ha(06 t) e Milho – 20ha (09t). A sazonalidade na utilização da mão de obra não qualificada pela Agro-industria Sucro-Canavieira, transferindo ciclicamente um contingente considerável de pessoas, faz com que proliferem núcleos de habitação periféricos de baixo padrão, por estas características cerca de 80% da área rural de Cajueiro é destinada ao cultivo de cana de açúcar, sendo em torno de 15% a área de pastagem existente Quanto aos recurso naturais renováveis a Secretaria Municipal de Agricultura vem desenvolvendo um trabalho de conscientização a conservação da vegetação ciliar dos mananciais, conservação do solo e da água, no que se refere as áreas degradadas, e uso racional de agrotóxicos; cujo trabalho vem sendo bem desempenhado, e com tendência de minimizar os impactos naturais, sobretudo ocorrentes durante as cheias que muitas vezes assolam o município. Neste sentido, faz-se necessário um trabalho com parcerias, a fim de captar recursos financeiros com vistas a propiciar melhores condições de trabalho aos pequenos produtores, para tanto, a aquisição de uma Patrulha Mecanizada, composta por Trator e Caminhão com Caçamba será de extrema funcionalidade, tendo em vista que fortalecerá os pequenos e médios produtores através de pareceria do município, que irá apoiar a pequena produção agropecuária, por meio do estímulo à promoção da agregação de valor a seus produtos, melhorando a renda e a qualidade de vida dos produtores, sendo beneficiados diretamente 2 mil produtores e indiretamente 6 mil. Vale salientar que tal medida atenderá todo município, principalmente na época de aração de terra, propiciando condições para acréscimo na safra de grãos, escoamento da produção, melhor qualidade de vida da população e um fortalecimento da economia local; e que o município possui capacidade de gerenciar o referido pleito, conforme consta em documentos anexos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Patrulha Mecanizada, cuja funcionalidade propicia condições para acréscimo na safra de grãos, visando fortalecer a economia local e consequentemente apoiar a produção dos APLs de Cajueiro/AL.",
+            "information": "DECLARAÇÃO CAPACIDADE ADMINISTRATIVA E TÉCNICA Para os devidos fins administrativos e efeitos legais declaro junto ao Ministério da Integração Nacional, por intermédio da Secretaria de Desenvolvimento Regional – SDR/MI, que a Prefeitura Municipal de Cajueiro/AL, inscrita no CNPJ sob o nº 12.333.738/0001-50, dispõe de pessoal com capacidade administrativa e técnica para execução do objeto constante do Plano de Trabalho que objetiva a Aquisição de Patrulha Mecanizada para o Município de Cajueiro/Al, proposto para formalização de Convênio. Esclareço, ainda, que este Proponente assume a responsabilidade pela execução do objeto proposto em todas as fases exigidas legalmente, licitação, acompanhamento da execução e prestação de contas. Cajueiro/AL, 04 de abril de 2016 Atenciosamente, Lucila Régia Albuquerque Toledo - Prefeita",
+            "proposalDate": "2016-03-14T00:00:00.000Z",
+            "biddingDate": "2016-12-30T00:00:00.000Z",
+            "homologationDate": "2017-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020160008",
+              "name": "SDR/MI - 2029 - PROGRAMA TEMATICO, DESENVOLVIMENTO TERRITORIAL E REGIONAL - EMENDAS DISPONIVEL",
+              "value": 255000,
+              "details": {
+                "code": "5300020160008",
+                "name": "SDR/MI - 2029 - PROGRAMA TEMATICO, DESENVOLVIMENTO TERRITORIAL E REGIONAL - EMENDAS DISPONIVEL",
+                "cps": null,
+                "items": "7K66 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado",
+                "couterpartRule": "Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 255000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.636.884-** - LUCILA REGIA ALBUQUERQUE TOLEDO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.013.663-** - MARLON CARVALHO CAMBRAIA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Convênio",
+            "status": "Aguardando Prestação de Contas",
+            "number": "830894/2016",
+            "validity": "20/01/2017 a 20/01/2018",
+            "limitDate": "2018-03-21T00:00:00.000Z",
+            "totalValue": 255000,
+            "transferValue": 250000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "727714/2009",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2011-12-31T00:00:00.000Z",
+        "program": "Habitação de Interesse Social",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "035431/2009",
+            "organId": "03543/2009",
+            "processId": "035431/2009",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Cajueiro com uma extensão de 124 km², está situado na Zona fisiográfica da Mata, limitando-se ao Sul com o Município de Atalaia ao Norte e ao Leste com Capela e ao Oeste, com a distância de 78,2 km da capital do Estado, cidade de Maceió. A população do Município de acordo com dados do IBGE em 2007 é 20.076 habitantes e 0,66% relativo ao Estado. O índice de Desenvolvimento Humano do Município, no ano de 1990 é de 0, 441 passando para 0,547 em 2.000, segundo a Enciclopédia dos Municípios. Embora o IDHM tenha apresentado uma melhoria expressiva ainda encontra-se bem abaixo do índice do Estado de Alagoas 0,633. Sobre o aspecto hidrográfico, apenas um rio corta o Município de forma perene tem sua importância reconhecida é o rio Paraíba, que nasce em Bom Conselho no Estado de Pernambuco, desaguando na lagoa Manguaba nas proximidades de Pilar, no Estado de Alagoas. A economia do Município baseia-se na agricultura, destacando-se a cana - de - açúcar, como principal produto. Apresenta uma pequena diversificação agrícola com a produção de milho, batata doce, macaxeiras. Também produz artesanato de tecido. O mercado local limita-se ao comércio e feiras semanais da própria cidade e das cidades vizinhas, Capela e Viçosa. A clientela se constitui de funcionários públicos, comerciantes e comerciários. De acordo com informações da Prefeitura o grau de urbanização verificada no Município é bastante elevado, com taxa de 74,2%. Na área as características das habitações variam num percentual de 82% de alvenaria ou bloco, 12% taipa e 6% com outras características. Mas a maior preocupação da nossa gestão além da saúde e educação é, sem dúvida, a questão habitacional. Ora, o maior bem que todo cidadão pode ter é sua casa e hoje, em consonância com o que preceitua e luta o Governo Federal, habitação não se resume apenas em uma casa para morar mas sim em habitabilidade, em dignidade de vida já que junto com a casa há de se ter o acesso à mesma, o saneamento, as condições básicas para que o cidadão esteja incluído na comunidade e tenha uma sobrevivência digna. Esse pleito, portanto, é de grande importância para a população pois o local onde serão construídas as casas, Conjunto Habitacional Antônio Palmery Soriano Melo, na Av Francisco Dias Cardoso, zona urbana do município, a renda meédia das 30 famílias beneficiadas diretamente é de, no máximo, 1 (um) salário mínimo.EMENDA Nº 226924 - APOIO À PROVISÃO DE INTERESSE SOCIAL - CONSTRUÇÃO DE HAITAÇÕES POPULARES EM MUNICÍPIOS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE CASAS POPULARES NO MUNICÍPIO DE CAJUEIRO/AL.",
+            "information": "A PREFEITURA MUNICIPAL DE CAJUEIRO POSSUI CORPO TÉCNICO MULTIDISCIPLINAR PARA ACOMPANHAMENTO E FICALIZAÇÃO DA OBRA.",
+            "proposalDate": "2009-06-03T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020092220",
+              "name": "Habitação de Interesse Social",
+              "value": 604998,
+              "details": {
+                "code": "5600020092220",
+                "name": "Habitação de Interesse Social",
+                "cps": "",
+                "items": "Construção de Habitações Populares",
+                "couterpartRule": "",
+                "totalValue": 604998,
+                "couterpartValues": {
+                  "total": 12998,
+                  "financial": 12998,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 592000,
+                  "amendment": "R$ 592.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "727714/2009",
+            "validity": "31/12/2009 a 31/12/2011",
+            "limitDate": "2011-12-31T00:00:00.000Z",
+            "totalValue": 604998,
+            "transferValue": 592000,
+            "counterpartValue": 12998,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "721380/2009",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2011-12-30T00:00:00.000Z",
+        "program": "Habitação de Interesse Social",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "082783/2009",
+            "organId": "82783/2009",
+            "processId": "082783/2009",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "DEC. 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Cajueiro com uma extensão de 124 km², está situado na Zona fisiográfica da Mata, limitando-se ao Sul com o Município de Atalaia ao Norte e ao Leste com Capela e ao Oeste, com a distância de 78,2 km da capital do Estado, cidade de Maceió. A população do Município de acordo com dados do IBGE em 2007 é 20.076 habitantes e 0,66% relativo ao Estado. O índice de Desenvolvimento Humano do Município, no ano de 1990 é de 0, 441 passando para 0,547 em 2.000, segundo a Enciclopédia dos Municípios. Embora o IDHM tenha apresentado uma melhoria expressiva ainda encontra-se bem abaixo do índice do Estado de Alagoas 0,633. Sobre o aspecto hidrográfico, apenas um rio corta o Município de forma perene tem sua importância reconhecida é o rio Paraíba, que nasce em Bom Conselho no Estado de Pernambuco, desaguando na lagoa Manguaba nas proximidades de Pilar, no Estado de Alagoas. A economia do Município baseia-se na agricultura, destacando-se a cana - de - açúcar, como principal produto. Apresenta uma pequena diversificação agrícola com a produção de milho, batata doce, macaxeiras. Também produz artesanato de tecido. O mercado local limita-se ao comércio e feiras semanais da própria cidade e das cidades vizinhas, Capela e Viçosa. A clientela se constitui de funcionários públicos, comerciantes e comerciários. De acordo com informações da Prefeitura o grau de urbanização verificada no Município é bastante elevado, com taxa de 74,2%. Na área as características das habitações variam num percentual de 82% de alvenaria ou bloco, 12% taipa e 6% com outras características. Mas a maior preocupação da nossa gestão além da saúde e educação é, sem dúvida, a questão habitacional. Ora, o maior bem que todo cidadão pode ter é sua casa e hoje, em consonância com o que preceitua e luta o Governo Federal, habitação não se resume apenas em uma casa para morar mas sim em habitabilidade, em dignidade de vida já que junto com a casa há de se ter o acesso à mesma, o saneamento, as condições básicas para que o cidadão esteja incluído na comunidade e tenha uma sobrevivência digna. Esse pleito, portanto, é de grande importância para a população pois o local onde serão construídas as casas, Conjunto Habitacional Antônio Palmery Soriano Melo, na Av. Francisco Dias Cardoso, zona urbana do município, a renda média das 25 famílias beneficiadas diretamente é de, no máximo, 1 (um) salário mínimo.EMENDA Nº 24590013 - FUNCIONAL PROGRAMÁTICA 16.482.9991.10SJ.0220 - APOIO À PROVISÃO DE INTERESSE SOCIAL - CONSTRUÇÃO DE HABITAÇÕES POPULARES EM MUNICÍPIOS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE HABITAÇÕES POPULARES NO MUNICÍPIO DE CAJUEIRO/AL.",
+            "information": "O MUNICÍPIO POSSUI LOCAL, BEM COMO CORPO TÉCNICO CAPACITADO PARA ACOMPANHAMENTO E FISCALIZAÇÃO DA OBRA.",
+            "proposalDate": "2009-10-16T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020090792",
+              "name": "Habitação de Interesse Social",
+              "value": 504165,
+              "details": {
+                "code": "5600020090792",
+                "name": "Habitação de Interesse Social",
+                "cps": "",
+                "items": "Construção de Habitações Populares",
+                "couterpartRule": "",
+                "totalValue": 504165,
+                "couterpartValues": {
+                  "total": 11065,
+                  "financial": 11065,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 493100,
+                  "amendment": "R$ 493.100,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "721380/2009",
+            "validity": "31/12/2009 a 30/12/2011",
+            "limitDate": "2011-12-30T00:00:00.000Z",
+            "totalValue": 504165,
+            "transferValue": 493100,
+            "counterpartValue": 11065,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "714206/2009",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2011-12-30T00:00:00.000Z",
+        "program": "EMENDA PARLAMENTAR - ESTADO AL",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "075710/2009",
+            "organId": "75710/2009",
+            "processId": "075710/2009",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Cajueiro com uma extensão de 124 km², está situado na Zona fisiográfica da Mata, limitando-se ao Sul com o Município de Atalaia ao Norte e ao Leste com Capela e ao Oeste, com a distância de 78,2 km da capital do Estado, cidade de Maceió. A população do Município de acordo com dados do IBGE em 2007 é 20.076 habitantes e 0,66% relativo ao Estado. O índice de Desenvolvimento Humano do Município, no ano de 1990 é de 0, 441 passando para 0,547 em 2.000, segundo a Enciclopédia dos Municípios. Embora o IDHM tenha apresentado uma melhoria expressiva ainda encontra-se bem abaixo do índice do Estado de Alagoas 0,633. Na área as características das habitações variam num percentual de 82% de alvenaria ou bloco, 12% taipa e 6% com outras características. Sobre o aspecto hidrográfico, apenas um rio corta o Município de forma perene tem sua importância reconhecida é o rio Paraíba, que nasce em Bom Conselho no Estado de Pernambuco, desaguando na lagoa Manguaba nas proximidades de Pilar, no Estado de Alagoas. A economia do Município baseia-se na agricultura, destacando-se a cana - de - açúcar, como principal produto. Apresenta uma pequena diversificação agrícola com a produção de milho, batata doce, macaxeiras. Também produz artesanato de tecido. O mercado local limita-se ao comércio e feiras semanais da própria cidade e das cidades vizinhas, Capela e Viçosa. A clientela se constitui de funcionários públicos, comerciantes e comerciários. O galpão de feira, objeto deste pleito, ser´construído no pátio da feira central, localizado na Rua José Cabral, centro da cidade. Os produtos comercializados são: cereais (feijão, arroz, milho e farinha de mandioca); carnes e seus derivados; batata doce, inhame, mandioca; frutas (melão, abacaxi, laranja, banana, melancia, manga e etc); hortaliças (couve, repolho, beterraba, cenoura, quiabo, cebola, tomate e etc). O incremento será a retirada de alguns feirantes de área descoberta para a área coberta do galpão. Atualmente existe a participação de 85 produtores da região na feira local. A construção de um galpão de feira irá trazer um benefício direto a 130 famílias e indiretamente a 230 famílias cuja renda média familiar é de menos de 1 (um) salário mínimo, além do benefício para toda a população, qual seja, a modernidade da feira, a melhor acomodação tanto dos feirantes quanto da população , até porque nas cidades de interior a feira acaba sendo um dos dias em que há mais fluxo de gente no centro da cidade. EMENDA Nº 24590018 E FUNCIONAL PROGRAMÁTICA Nº 20.605.6003.7H17.0027.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE GALPÃO DE FEIRA.",
+            "information": "Atualmente existem 4 (quatro) galpões: 01 (um) para farinha e cereais, 01 (um) para carne bovina e 02 (dois) para frutas, verduras e legumes. A feira ocupa uma área total de 6.850 m² e as barracas são de madeira com cobertura de lonas plásticas. Não há treinamento para especialização de atendentes. A Secretaria de Administração é a responsável pelo funcionamento da feira.",
+            "proposalDate": "2009-09-29T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090066",
+              "name": "EMENDA PARLAMENTAR - ESTADO AL",
+              "value": 199000,
+              "details": {
+                "code": "2200020090066",
+                "name": "EMENDA PARLAMENTAR - ESTADO AL",
+                "cps": "",
+                "items": "Apoio a Projetos de Desenvolvimento do Setor Agropecuário AÇÃO: 7H17 I - INVESTIMENTO 1.PROJETOS DE MECANIZAÇÃO AGRÍCOLA 2.PROJETOS DE RECUPERAÇÃO DE ESTRADAS VICINAIS 3.PROJETOS DE IRRIGAÇÃO E DRENAGEM 4.PROJETOS DE DESENVOLVIMENTO DA PECUÁRIA 5.PROJETOS DE AGROINDUSTRIALIZAÇÃO 6.PROJETOS DE METEOROLOGIA AGROPECUÁRIA 7.PROJETOS DE INFRA-ESTRUTURA AGROPECUÁRIA 8.PROJETOS DE ENERGIZAÇÃO RURAL",
+                "couterpartRule": "Municípios com até 50 mil habitantes - Conforme LEI Nº 11.768,14/08/2008(LDO 2009) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 199000,
+                "couterpartValues": {
+                  "total": 4000,
+                  "financial": 4000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "714206/2009",
+            "validity": "31/12/2009 a 30/12/2011",
+            "limitDate": "2011-12-30T00:00:00.000Z",
+            "totalValue": 199000,
+            "transferValue": 195000,
+            "counterpartValue": 4000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "714202/2009",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2013-06-28T00:00:00.000Z",
+        "program": "EMENDA PARLAMENTAR - ESTADO AL",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "075694/2009",
+            "organId": "75694/2009",
+            "processId": "075694/2009",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Cajueiro com uma extensão de 124 km², está situado na Zona fisiográfica da Mata, limitando-se ao Sul com o Município de Atalaia ao Norte e ao Leste com Capela e ao Oeste, com a distância de 78,2 km da capital do Estado, cidade de Maceió. A população do Município de acordo com dados do IBGE em 2007 é 20.076 habitantes e 0,66% relativo ao Estado. O índice de Desenvolvimento Humano do Município, no ano de 1990 é de 0, 441 passando para 0,547 em 2.000, segundo a Enciclopédia dos Municípios. Embora o IDHM tenha apresentado uma melhoria expressiva ainda encontra-se bem abaixo do índice do Estado de Alagoas 0,633 . De acordo com informações da Prefeitura o grau de urbanização verificada no Município é bastante elevado, com taxa de 74,2%. Na área as características das habitações variam num percentual de 82% de alvenaria ou bloco, 12% taipa e 6% com outras características. Cajueiro,possue 157 estabelecimentos agropecuários(IBGE 2006) com uma área de 1728 hectares,distribuidos com lavouras permanentes,lavouras temporárias,áreas com pastagens e com restos de mata atlântica.Na sua grande maioria constituidos por pequenos proprietários e arrendatários rurais.O seu solo é areno-argiloso com um relevo plano de latossolo( 50%),áreas de encosta mecanizáveis(20%),possue áreas de várzeas encharcadas com um bom potencial de produçao(30%)se fizer drenagem.A produção de cana-de-açúcar predomina com pequenos fornecedores desestruturados de assistencia técnica e carentes de apoio para realização de operações agrícolas.Existem aqueles que exploram a cultura de subsistencia como mandioca,milho,feijão e frutas como manga,banana,abacaxi. Na pecuária a exploração maior é do gado de corte que é comercializado no próprio município e nos vizinhos,Há também em pequenas quantidades a produção leiteira de gado,criaçao de ovinos,equinos,caprinos e aves. Segundo censo IBGE-2006,o munícípio possue apenas 08 tratores nos estabelecimentos rurais.O nosso município também possue um assentamento com 80 famílias em pequenos módulos rurais que precisam de apóio municipal para sua exploração agrícola,sáo localizados em áreas de baixios(várzeas)que precisam serem drenados para o cultivo das culturas agrícolas. Há uma necessidade de aquisição de máquinas agrícolas que ajudem os nossos agropecuáristas a desenvolverem dignamente suas atividades agrícolas e sobreviverem no campo com suas famílias,evitando assim,o exôdo rural. A aquisição da retroescavadeira objetiva drenagem de valas em área de várzeas, composição de encostas, abertura e conservação de estradas vicinais, limpeza de terrenos e barragens e abertura de valas, bem como transporte de areia, pedras, barro, cascalho, metralha, piçarro, a aquisição da grade aradora a ajuda aos pequenos produtores no preparo do solo para a lavoura de subsistência e a carretinha o transporte de produtos e escoamento da produção. Será usada tanto na zona rural quanto na zona urbana (bairo de Olaria, Sitinho, Conjunto Fernando Collor, Conjunto Frei Damião e na zona rural nos povoados Serra dos Mamões, Campinas, Pitimiju, Loango, entre outros, beneficiando diretamente em torno de 250 famílias e indiretamente 400 famílias cuja renda média mensal é de 1 (um) salário mínimo. EMENDA Nº 24590018 E FUNCIONAL PROGRAMÁTICA Nº 20.605.6003.7H17.0027.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE PATRULHA MECANIZADA.",
+            "information": "O MUNICÍPIO POSSUI SECRETARIA MUNICIPAL DE AGRICULTURA, PORÉM SERÁ A SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E OBRAS QUEM FICARÁ RESPONSÁVEL PELA MANUTENÇÃO E FISCALIZAÇÃO DA PATRULHA MECANIZADA. HÁ RUBRICA ORÇAMENTÁRIA PARA A MANUTENÇÃO DA RETROESCAVADEIRA QUANTO À PEÇA, COMBUSTÍVEL E CONSERTO, BEM COMO HÁ SERVIDOR ESPECIALIZADO PARA OPERAR O MAQUINÁRIO.",
+            "proposalDate": "2009-09-29T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090066",
+              "name": "EMENDA PARLAMENTAR - ESTADO AL",
+              "value": 248750,
+              "details": {
+                "code": "2200020090066",
+                "name": "EMENDA PARLAMENTAR - ESTADO AL",
+                "cps": "",
+                "items": "Apoio a Projetos de Desenvolvimento do Setor Agropecuário AÇÃO: 7H17 I - INVESTIMENTO 1.PROJETOS DE MECANIZAÇÃO AGRÍCOLA 2.PROJETOS DE RECUPERAÇÃO DE ESTRADAS VICINAIS 3.PROJETOS DE IRRIGAÇÃO E DRENAGEM 4.PROJETOS DE DESENVOLVIMENTO DA PECUÁRIA 5.PROJETOS DE AGROINDUSTRIALIZAÇÃO 6.PROJETOS DE METEOROLOGIA AGROPECUÁRIA 7.PROJETOS DE INFRA-ESTRUTURA AGROPECUÁRIA 8.PROJETOS DE ENERGIZAÇÃO RURAL",
+                "couterpartRule": "Municípios com até 50 mil habitantes - Conforme LEI Nº 11.768,14/08/2008(LDO 2009) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 248750,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0132011",
+              "type": "Licitação - Pregão",
+              "date": "2011-08-25T00:00:00.000Z",
+              "processId": "0132011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Eletrônico para Registro de Preço",
+                "processId": "0132011",
+                "biddingId": "0132011",
+                "object": "AQUISIÇÃO DE RETROESCAVADEIRA E IMPLEMENTOS",
+                "legalFoundation": "LEIS 10.520 E 8666",
+                "justification": "AQUISIÇÃO PARA O CONTRATO DE REPASSE FIRMARDO COM A CAIXA",
+                "publishDate": "2011-08-25T00:00:00.000Z",
+                "beginDate": "2011-09-14T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 243000,
+                "homologationDate": "2011-09-21T00:00:00.000Z",
+                "city": "2725 - CAJUEIRO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000011/2011",
+              "biddingId": "0132011",
+              "date": "2011-09-22T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 06196577000105",
+                "hirerDocument": "CNPJ: 12333738000150",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE RETRO ESCAVADEIRA E IMPLEMENTOS",
+                "totalValue": 243000,
+                "publishDate": "2011-09-22T00:00:00.000Z",
+                "beginDate": "2011-09-21T00:00:00.000Z",
+                "endDate": "2012-09-20T00:00:00.000Z",
+                "signDate": "2011-09-21T00:00:00.000Z",
+                "executionProcessId": "0132011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0132011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "714202/2009",
+            "validity": "31/12/2009 a 28/06/2013",
+            "limitDate": "2017-07-25T00:00:00.000Z",
+            "totalValue": 248750,
+            "transferValue": 243750,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "712600/2009",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "DEPARTAMENTO NAC.DE OBRAS CONTRA AS SECAS",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2012-08-26T00:00:00.000Z",
+        "program": "1029 - Resposta aos Desastres e Reconstrução",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "095241/2009",
+            "organId": "00012/2009",
+            "processId": "59400.008950/2009-69",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "DECRETO 6.170/2007",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22204 - DEPARTAMENTO NAC.DE OBRAS CONTRA AS SECAS",
+            "description": null,
+            "justification": "O município de Cajueiro com uma extensão de 13.671 km², está situado na Zona fisiográfica da Mata, limitando-se ao Sul com o Município de Atalaia ao Norte e ao Leste com Capela e ao Oeste, com a distância de 78,2 km quadrado a capital do Estado, cidade de Maceió. A população do Município, de acordo com o Censo 2000 é de 18.975 habitantes, sendo 14.048 na zona urbana e 4.927 na zona rural. De acordo com informações da Prefeitura o grau de urbanização verificada no Município é bastante elevado, com taxa de 74,2%. Na área as características das habitações variam num percentual de 82% de alvenaria ou bloco, 12% taipa e 6% com outras características. Sobre o aspecto hidrográfico, apenas um rio corta o Município de forma perene tem sua importância reconhecida é o rio Paraíba, que nasce em Bom Conselho no Estado de Pernambuco, desaguando na lagoa Manguaba nas proximidades de Pilar, no Estado de Alagoas. Ultimamente o Município tem sofrido enxurradas ou inundações bruscas, chuvas fortes de aproximadamente 08 horas diárias causando deslocamento de encostas, desruição e danificação de casas, ruas, estradas e pontes. Em consequência do alto volume de chuvas que caíram no município, foram atingidas cabeceiras de pontes (obras de arte) e estradas foram danificadas numa extensão total de 104 km as quais servem de acesso de transporte de alunos da rede municipal. A refuperação dessas estradas torna-se essencial para a continuidade do transporte escolar dos povoados rurais, uma vez que o ônibus escolar está sem acesso em vários locais, gerando assim grandes transtornos com deslocamento dos alunos à pé ou até mesmo gerando evasão escolar.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "RECUPERAÇÃO DE ESTRADAS VICINAIS E PAVIMENTAÇÃO EM PARALELO EM VIAS DANIFICADAS PELA CHUVA NA ZONA URBANA E RURAL DO MUNICIPIO DE CAJUEIRO",
+            "information": "O município possui engenheiro fiscal para fiscalizar os serviços além de assistente social para acompanhamento das famílias afetadas pelo estado de calamidade.",
+            "proposalDate": "2009-11-05T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-13T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220420090027",
+              "name": "1029 - Resposta aos Desastres e Reconstrução",
+              "value": 326400.32,
+              "details": {
+                "code": "2220420090027",
+                "name": "1029 - Resposta aos Desastres e Reconstrução",
+                "cps": null,
+                "items": "Ações mais comuns: Recuperação/Reconstrução/Ampliação/Implantação de infraestrutura afetada por desastres: açudes, pequenas barragens, cisternas de placa, sistema de abastecimento de água, poço semi-artesiano e demais obras, instalações, equipamentos e materiais permanentes que visem normalizar a situação do desastre.",
+                "couterpartRule": "",
+                "totalValue": 326400.32,
+                "couterpartValues": {
+                  "total": 6400.32,
+                  "financial": 6400.32,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 320000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "22204 - DEPARTAMENTO NAC.DE OBRAS CONTRA AS SECAS",
+            "respGrantor": "***.792.054-** - ELIAS FERNANDES NETO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012010",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2010-04-19T00:00:00.000Z",
+              "processId": "0652010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0652010",
+                "biddingId": "012010",
+                "object": "RECUPERAÇÃO DE ESTRADAS VICINAIS E PAVIMENTAÇÃO EM PARALELO DE VIAS NAS ZONAS URBANA E RURAL DO MUNICÍPIO.",
+                "legalFoundation": "L 8666-93",
+                "justification": "Enxurradas ou inundações bruscas, chuvas fortes de aproximadamente 08 horas diárias causando deslocamento de encostas, desruição e danificação de casas, ruas, estradas e pontes. Em consequência do alto volume de chuvas que caíram no município, foram atingidas cabeceiras de pontes (obras de arte) e estradas foram danificadas numa extensão total de 104 km as quais servem de acesso de transporte de alunos da rede municipal. A recuperação dessas estradas torna-se essencial para a continuidade do transporte escolar dos povoados rurais, uma vez que o ônibus escolar está sem acesso em vários locais, gerando assim grandes transtornos com deslocamento dos alunos à pé ou até mesmo gerando evasão escolar.",
+                "publishDate": "2010-04-19T00:00:00.000Z",
+                "beginDate": "2010-05-05T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 323489.55,
+                "homologationDate": "2010-06-30T00:00:00.000Z",
+                "city": "2725 - CAJUEIRO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000000/2010",
+              "biddingId": "012010",
+              "date": "2010-08-30T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05541344000121",
+                "hirerDocument": "CNPJ: 12333738000150",
+                "type": "Obras",
+                "object": "RECUPERAÇÃO DE ESTRADAS VICINAIS E PAVIMENTAÇÃO EM PARALELO EM VIAS DANIFICADAS PELAS CHUVAS NO MUNICÍPIO.",
+                "totalValue": 323489.55,
+                "publishDate": "2010-08-30T00:00:00.000Z",
+                "beginDate": "2010-06-30T00:00:00.000Z",
+                "endDate": "2010-10-29T00:00:00.000Z",
+                "signDate": "2010-06-30T00:00:00.000Z",
+                "executionProcessId": "012010 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0652010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22204 - DEPARTAMENTO NAC.DE OBRAS CONTRA AS SECAS",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "712600/2009",
+            "validity": "31/12/2009 a 26/08/2012",
+            "limitDate": "2012-08-26T00:00:00.000Z",
+            "totalValue": 326400.32,
+            "transferValue": 320000,
+            "counterpartValue": 6400.32,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "710305/2009",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2011-12-30T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "044340/2009",
+            "organId": "44340/2009",
+            "processId": "044340/2009",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Cajueiro com uma extensão de 124 km², está situado na Zona fisiográfica da Mata, limitando-se ao Sul com o Município de Atalaia ao Norte e ao Leste com Capela e ao Oeste, com a distância de 78,2 km da capital do Estado, cidade de Maceió. A população do Município, de acordo com a contagem populacional de 2007 é de 20.070 habitantes. De acordo com informações da Prefeitura o grau de urbanização verificada no Município é bastante elevado, com taxa de 74,2%. Na área as características das habitações variam num percentual de 82% de alvenaria ou bloco, 12% taipa e 6% com outras características. Sobre o aspecto hidrográfico, apenas um rio corta o Município de forma perene tem sua importância reconhecida é o rio Paraíba, que nasce em Bom Conselho no Estado de Pernambuco, desaguando na lagoa Manguaba nas proximidades de Pilar, no Estado de Alagoas. A economia do Município baseia-se na agricultura, destacando-se a cana - de - açúcar, como principal produto. Apresenta uma pequena diversificação agrícola com a produção de milho, batata doce, macaxeiras. Também produz artesanato de tecido. O mercado local limita-se ao comércio e feiras semanais da própria cidade e das cidades vizinhas, Capela e Viçosa. A clientela se constitui de funcionários públicos, comerciantes e comerciários. O pleito ora solicitado, refere-se aà pavimentação em paralelepípedo do Residencial Antônio Palmery Soriano Melo, que está situado na Av. Francisco Dias Cardoso, centro do município. Irá beneficiar cerca de 300 famílias cuja renda média familiar é de 01 (um) salário mínimo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AÇÕES DE INFRA-ESTRUTURA URBANA NO MUNICÍPIO.",
+            "information": "A PREFEITURA POSSUI EQUIPE TÉCNICA COMPOSTA DE ENGENHEIRO FISCAL E ASSISTENTE SOCIAL PARA A REALIZAÇÃO DO ACOMPANHAMENTO E FISCALIZAÇÃO DOS SERVIÇOS.",
+            "proposalDate": "2009-06-30T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-27T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020092627",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 150800,
+              "details": {
+                "code": "5600020092627",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 150800,
+                "couterpartValues": {
+                  "total": 4550,
+                  "financial": 4550,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 146250,
+                  "amendment": "R$ 146.250,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "710305/2009",
+            "validity": "31/12/2009 a 30/12/2011",
+            "limitDate": "2011-12-30T00:00:00.000Z",
+            "totalValue": 150800,
+            "transferValue": 146250,
+            "counterpartValue": 4550,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "709683/2009",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-11-17T00:00:00.000Z",
+        "end": "2010-03-22T00:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "082567/2009",
+            "organId": "01277/2009",
+            "processId": "72031.004817/2009-47",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Decreto 6170/07 e Portaria interministerial 127/ 08",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "DE 20 A 22 DE NOVEMBRO CAJUEIRO SE PREPARA PARA REALZIAR A FESTA DO VAQUEIRO 2009, QUE É UM DOS MAIS IMPORTANTES EVENTOS DA CIDADE E QUE É TRADIÇÃO EM TODA ALAGOAS E REGIÃO. DURANTE A FESTA DO VAQUEIRO, A PREFEITURA ESPERA RECEBER MAIS DE 40 MIL VISITANTES, VINDOS DE VÁRIAS PARTES DO ESTADO E TAMBÉM DO BRASIL, O QUE VAI GERAR MAIS DE MIL EMPREGOS DIRETOS PARA TODA A POPULAÇÃO DA CIDADE E DAS CIDADES VIZINHAS COMO CAPELA, VIÇOSA, ATALAIA, PILAR, CHÃ PRETA, MAR VERMELHO E OUTRAS. COM A FESTA DO VAQUEIRO, QUE ESTÁ NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO, A PREFEITURA ESPERA A ATRAÇÃO DE NOVOS INVESTIMENTOS NO SETOR TURÍSTICO, CAPACITAÇÃO DA MÃO-DE-OBRA LOCAL E REGIONAL, MELHORIA DOS SERVIÇO JÁ OFERECIDOS AOS VISITANTES E MUNÍCIPES, GERAÇÃO DE EMPREGO E RENDA, FOMENTO AO DESENVOLVIMENTO DO TURISMO NA REGIÃO, FOMENTO A FORMAÇÃO DE REDES DE COOPERAÇÃO, AQUECEMENTO DA ECONOMIA LOCAL E CONSOLIDAÇÃO DE CAJUEIRO COMO UM ROTEIRO DE DESTAQUE QUANDO SE BUSCA UM TURISMO RURAL DE QUALIDADE, ASSOCIADO AO BEM ESTAR E À NATUREZA. CAJUEIRO POSSUI POUCO MENOS DE 20 MIL HABITANTES, 125 KM QUADRADOS DE EXTENÇÃO TERRITORIAL E SE LOCALIZA A CERCA DE MEIA HORA DA CAPITAL. TEM UMA NATUREZA RICA E EXUBERANTE, CHEIA DE VERDE E MUITAS MATAS, COM UMA RICA E DIVERSIFICADA FAUNA E COM UM CLIMA MUITO AGRADÁVEL O ANO TODO. A FESTA DO VAQUEIRO TEM GRANDE POTENCIAL DE GERAÇÃO DE FLUXO TURÍSTICO, JÁ QUE É ESPERADA POR MILHARES DE APAIXONADOS POR ESSA CULTURA QUE É CAPAZ DE UNIR DE UMA SÓ VEZ GERAÇÕES E GERAÇÕES QUE ADMIRAM, VIVEM E PROPAGAM ESSE TIPO EVENTO QUE JÁ É TÃO DIFUNDIDO E APLAUDIDO EM TODO BRASIL. A FESTA DO VAQUEIRO 2009 ESTÁ NA SUA QUINTA EDIÇÃO, EXATAMENTE PORQUE A ATUAL GESTÃO ENTENDE QUE A CONTINUIDADE DESSA FESTA ATINGINDO ESSE NICHO (COM PESSOAS COM ALTO PODER AQUISITIVO) PODE E IRÁ AJUDAR NO DESENVOLVIMENTO DA CIDADE. OUTROS EVENTOS SÃO REALIZADOS NATURALMENTE, E TAMBÉM ATRAEM GRANDES PÚBLICOS DE TODA REGIÃO E DOS ESTADOS VIZINHOS, ALÉM CLARO, DOS TURISTAS QUE ESTÃO EM MACEIÓ E QUE BUSCAM CONHECER MAIS DE PERTO AS BELEZAS DO NOSSO INTERIOR E EM ESPECIAL DA NOSSA CAJUEIRO. APOIAR A REALIZAÇÃO DESSA FESTA, É CONTRIBUIR PARA A CONSTRUÇÃO DE UM PAÍS DE OPORTUNIDADES E DE IGUALDADE PARA TODOS, E ESSE PAPEL O MINISTÉRIO DO TURISMO TEM DESEMPENHADO COM LOUVOR E OS FRUTOS DESSE TRABALHO JÁ PODEM SER COLHIDOS QUANDO SE VÊ TANTAS CIDADES BRASILEIRAS ENTENDENDO O TURISMO COMO UMA FERRAMENTA DE INCLUSÃO E DE DESENVOLVIMENTO HUMANO, SOCIAL E ECONÔMICO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "FESTA DO VAQUEIRO 2009",
+            "information": "DECLARAÇÃO EM ANEXO",
+            "proposalDate": "2009-10-15T00:00:00.000Z",
+            "biddingDate": "2009-11-17T00:00:00.000Z",
+            "homologationDate": "2009-12-03T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090049",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 630000,
+              "details": {
+                "code": "5400020090049",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "FESTIVAIS CULTURAIS",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 630000,
+                "couterpartValues": {
+                  "total": 30000,
+                  "financial": 30000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 600000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "3",
+              "type": "Inexigibilidade",
+              "date": "2009-12-30T00:00:00.000Z",
+              "processId": "3",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "3",
+                "biddingId": null,
+                "object": "Contratação de valores artísticos, equipamentos e serviços para apresentação na Festa do Vaqueiro 2009.",
+                "legalFoundation": "L 8666-93",
+                "justification": "Em atendimento ao objeto do convênio, conforme art. 25.",
+                "publishDate": "2009-12-30T00:00:00.000Z",
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 630000,
+                "homologationDate": "2009-11-19T00:00:00.000Z",
+                "city": "2725 - CAJUEIRO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000000/2010",
+              "biddingId": "3",
+              "date": "2009-12-30T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09412290000155",
+                "hirerDocument": "CNPJ: 12333738000150",
+                "type": "Material e Serviço",
+                "object": "Realização de eventos artísticos no município de Cajueiro/AL, conforme Anexo I.",
+                "totalValue": 630000,
+                "publishDate": "2009-12-30T00:00:00.000Z",
+                "beginDate": "2009-11-19T00:00:00.000Z",
+                "endDate": "2009-12-19T00:00:00.000Z",
+                "signDate": "2009-11-19T00:00:00.000Z",
+                "executionProcessId": "3 ",
+                "biddingModality": "Inexigibilidade ",
+                "processId": "3 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "709683/2009",
+            "validity": "17/11/2009 a 22/03/2010",
+            "limitDate": "2010-03-22T00:00:00.000Z",
+            "totalValue": 630000,
+            "transferValue": 600000,
+            "counterpartValue": 30000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "708217/2009",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-29T00:00:00.000Z",
+        "end": "2017-01-10T00:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "013663/2009",
+            "organId": "13663/2009",
+            "processId": "013663/2009",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Decreto 6170",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Cajueiro com uma extensão de 124 km², está situado na Zona fisiográfica da Mata, limitando-se ao Sul com o Município de Atalaia ao Norte e ao Leste com Capela e ao Oeste, com a distância de 78,2 km da capital do Estado, cidade de Maceió. A população do Município de acordo com dados do IBGE em 2007 é 20.076 habitantes e 0,66% relativo ao Estado. O índice de Desenvolvimento Humano do Município, no ano de 1990 é de 0, 441 passando para 0,547 em 2.000, segundo a Enciclopédia dos Municípios. Embora o IDHM tenha apresentado uma melhoria expressiva ainda encontra-se bem abaixo do índice do Estado de Alagoas 0,633. A economia do Município baseia-se na agricultura destacando-se a cana-de-açúcar como principal produto, seguida de milho, batata doce e macaxeira, além do artesanato de tecido. O mercado local limita-se ao comércio e feiras semanais da própria cidade e de cidades vizinhas. A implantação de um Ginásio Coberto será executado no centro da cidade de Cajueiro, na Av. Guadalajara, onde já existe um local aonde os jovens praticam esporte, ou seja, uma quadrinha existente na pracinha em frente à Prefeitura, expostos aos sol diário.Irá proporcionar um espaço adequado para a pratica esportiva e integrará não só a população jovem do município, mas também a de meia idade já que a prática de exercícios físicos é fundamental para a saúde. O benefício será de toda população urbana, em torno de 10.000 munícipes, cuja renda média familiar é em torno de 1 (um) salário mínimo. Projeto referente à Emenda nº 13040006, Funcional Programática nº 27.812.1250.5450.0450 - Implantação e modernização de Infra-estrutura para esporte, recreação e lazer.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE UM GINÁSIO COBERTO NO MUNICÍPIO DE CAJUEIRO/AL.",
+            "information": "O município possui terreno regular para a construção do referido Ginásio bem como profissional técnico para acompanhamento e fiscalização da obra.",
+            "proposalDate": "2009-04-21T00:00:00.000Z",
+            "biddingDate": "2009-12-29T00:00:00.000Z",
+            "homologationDate": "2010-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 630142.65,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 630142.65,
+                "couterpartValues": {
+                  "total": 45142.65,
+                  "financial": 45142.65,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 585000,
+                  "amendment": "R$ 585.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.636.884-** - LUCILA REGIA ALBUQUERQUE TOLEDO",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.009.734-** - KLEBER COELHO PAZ"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2014",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-03-27T00:00:00.000Z",
+              "processId": "0550",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0550",
+                "biddingId": "01/2014",
+                "object": "Contratação de empresa especializada para execução de remanescente de obra referente a construção de 01 (um) ginásio coberto",
+                "legalFoundation": "8666/93",
+                "justification": "O município de Cajueiro com uma extensão de 124 km², está situado na Zona fisiográfica da Mata, limitando-se ao Sul com o Município de Atalaia ao Norte e ao Leste com Capela e ao Oeste, com a distância de 78,2 km da capital do Estado, cidade de Maceió. A população do Município de acordo com dados do IBGE em 2007 é 20.076 habitantes e 0,66% relativo ao Estado. O índice de Desenvolvimento Humano do Município, no ano de 1990 é de 0, 441 passando para 0,547 em 2.000, segundo a Enciclopédia dos Municípios. Embora o IDHM tenha apresentado uma melhoria expressiva ainda encontra-se bem abaixo do índice do Estado de Alagoas 0,633. A economia do Município baseia-se na agricultura destacando-se a cana-de-açúcar como principal produto, seguida de milho, batata doce e macaxeira, além do artesanato de tecido. O mercado local limita-se ao comércio e feiras semanais da própria cidade e de cidades vizinhas. A implantação de um Ginásio Coberto será executado no centro da cidade de Cajueiro, na Av. Guadalajara, onde já existe um local aonde os jovens praticam esporte, ou seja, uma quadrinha existente na pracinha em frente à Prefeitura, expostos aos sol diário.Irá proporcionar um espaço adequado para a pratica esportiva e integrará não só a população jovem do município, mas também a de meia idade já que a prática de exercícios físicos é fundamental para a saúde. O benefício será de toda população urbana, em torno de 10.000 munícipes, cuja renda média familiar é em torno de 1 (um) salário mínimo. Projeto referente à Emenda nº 13040006, Funcional Programática nº 27.812.1250.5450.0450 - Implantação e modernização de Infra-estrutura para esporte, recreação e lazer.",
+                "publishDate": "2014-03-27T00:00:00.000Z",
+                "beginDate": "2014-04-11T00:00:00.000Z",
+                "endDate": "2014-06-05T00:00:00.000Z",
+                "biddingValue": 476180.81,
+                "homologationDate": "2014-06-05T00:00:00.000Z",
+                "city": "2725 - CAJUEIRO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2014",
+              "biddingId": "01/2014",
+              "date": "2014-06-05T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 18735161000199",
+                "hirerDocument": "CNPJ: 12333738000150",
+                "type": "Serviço",
+                "object": "Contratação de empresa especializada para execução de remanescente de obra referente a construção de 01 (um) ginásio coberto",
+                "totalValue": 476180.81,
+                "publishDate": "2014-06-05T00:00:00.000Z",
+                "beginDate": "2014-06-05T00:00:00.000Z",
+                "endDate": "2014-12-31T00:00:00.000Z",
+                "signDate": "2014-04-16T00:00:00.000Z",
+                "executionProcessId": "01/2014 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0550 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "708217/2009",
+            "validity": "29/12/2009 a 10/01/2017",
+            "limitDate": "2017-01-10T00:00:00.000Z",
+            "totalValue": 630142.65,
+            "transferValue": 585000,
+            "counterpartValue": 45142.65,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "700906/2008",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-12-31T00:00:00.000Z",
+        "end": "2010-12-31T00:00:00.000Z",
+        "program": "0471 - Ciência, Tecnologia e Inovação para a Inclusão e Desenvolvimento Social",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "018306/2008",
+            "organId": "00146/2008",
+            "processId": "01200.002218/2008-71",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "Dec. 6.170/07 e PI 127/08",
+            "organ": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Sub-Projeto Implantação do Cultivo de Caju Anão Precoce no Assentamento da Reforma Agrária Loango: O município de Cajueiro tem sua economia básica no cultivo da cana-de-açúcar e secundada pela atividade pecuária de corte. O total da população municipal é de 19.252 habitantes sendo que 14.210 residem na zona urbana e 5.042 na zona rural. Sendo a atividade produtiva caracterizada como monocultura e pouca absorvedora de mão de obra deduz-se a dificuldade de geração de emprego tanto na área urbana quanto na rural. O maior empregador é o poder municipal, com aproximadamente mil funcionários. O pequeno comércio local voltado para atender as necessidades básicas da população pouco emprego oferecem, sendo em sua maioria pequenas empresas de cunho familiar. A renda média da população é extremamente baixa, pois, 80% da mesma recebe até um salário mínimo. Outro fato importante é a dependência de numerosas famílias da transferência de renda promovida pelo Governo Federal. Aproximadamente 3.000 famílias são beneficiárias dos programas governamentais. Gerar trabalho e renda para este contingente de desempregados ou subempregados é o grande desafio do poder municipal, tendo em vista a pequena arrecadação existente, principalmente considerando-se que a quase totalidade as receitas municipais são decorrentes de transferências constitucionais do governo federal e estadual. Outro aspecto importante a ressaltar refere-se as despesas cobertas com estas transferências, quais sejam pagamento de pessoal e manutenção de serviços públicos como saúde e educação, não sobrando para investimentos em outros projetos. Como o assentamento Loango situa-se nas proximidades do núcleo urbano e considerando ainda a pouca agilidade do INCRA na implementação de ações que beneficiem os assentados, como habitação, assistência técnica e apoio a produção rural, estes fatores tem contribuído para aumento de despesas assinteciais que o município é obrigado a arcar. Promover o desenvolvimento econômico e social é dever do governo, tanto o federal, estadual e municipal. E este desenvolvimento somente será possível quando as pessoas, com apoio financeiro e técnico possam participar da produção e garantir assim o sustento de sua família e possuir algum excedente para comercialização. Desenvolvimento social é sinônimo de inclusão social. Sobe este ângulo o município de Cajueiro procura partilhar com o Ministério da Ciência e Tecnologia do Programa de Inclusão Social da Secretaria de Ciência e Tecnologia para Inclusão Social. A EMBRAPA tendo desenvolvido através de suas pesquisas, a variedade precoce de caju com alta produtividade viabiliza melhor e maior retorno aos agricultores que desejam dedicar-se a atividade do cultivo do caju. A tecnologia está disponível para quem quiser aplicá-la. Tendo em vista a dificuldade dos pequenos agrilcutores em acessar estas tecnologias o poder municipal decidiu apoiar a difusão do que foi desenvolvido pela EMBRAPA e assim possibilitar que as famílias do assentamento tenham condições privilegiadas no desenvolvimento do projeto de reforma agrária e consequentemente sair da qualificação de menos favorecidos no desenvolvimento do país. A prática de mera cultura de subsistência não garante as condições indispensáveis a implementação da inclusão social, principalmente no nordeste brasileiro. Uma das alternativas já evidenciada é a fruticultura, pois, toda a mão de obra familiar poderá dela participar. Além disso ainda segundo a EMBRAPA o aproveitamento do caju é total podendo inclusive contribuir para a melhoria da merenda escolar. Sub-projeto - Reaparelhamento do Centro de Artesanato do Povoado Serra dos Mamões. O Município de Cajueiro, cituado a setenta quilômetros de Maceió tem sua base econômica na exploração da cana-de-açúcar e secundariamente na pecuária de corte. Ambas as atividades caracterizam-se pela baixa absorção de mão-de-obra, sendo que a cana-de-açúcar gera emprego apenas durante cinco meses fasendo com que muitos pais de famílias migrem para outras regiões do país para efetuar o corte de cana. A população total do município é de dezenove mil, duzentos e cinquenta e dois habitantes, sendo que 14.211 viva na zona urbana e 5.042 na zona rural. O principal empregador é o poder municipal, secundado pelo peuqeno comércio local que atende as necessidades básicas da população. Oitenta por cento do habitantes recebem até um salário mínimo o que representa uma situação de difícil solução para o desenvolvimento econômico. O projeto pretende disponibilizar oportunidade para geração de trabalho e renda de modo a inicar o processo de inclusão social e consequentemente vislumbar o inicío do desenvolvimento econômico e social. As atividades propostas irão possibilitar que as famílias participantes não mais sejam beneficiárias dos programas de transferência de renda do govenro federal.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de projetos de Cultivo de Caju e Reestrututração de Centro de Artesanato.",
+            "information": "",
+            "proposalDate": "2008-12-02T00:00:00.000Z",
+            "biddingDate": "2008-12-31T00:00:00.000Z",
+            "homologationDate": "2009-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2400020080001",
+              "name": "0471 - Ciência, Tecnologia e Inovação para a Inclusão e Desenvolvimento Social",
+              "value": 216997,
+              "details": {
+                "code": "2400020080001",
+                "name": "0471 - Ciência, Tecnologia e Inovação para a Inclusão e Desenvolvimento Social",
+                "cps": null,
+                "items": "8976 - Apoio à Pesquisa, Inovação e Extensão Tecnológica para o Desenvolvimento Social; e",
+                "couterpartRule": "Arts. 40 e 43 da Lei nº 11.514/2007 - LDO/2008 [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 216997,
+                "couterpartValues": {
+                  "total": 16800,
+                  "financial": 16800,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 200197,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "respGrantor": "***.390.467-** - SERGIO MACHADO REZENDE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "24000 - MINIST. DA CIENCIA, TECNOL., INOV. E COMUNICACOES",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "700906/2008",
+            "validity": "31/12/2008 a 31/12/2010",
+            "limitDate": "2011-01-30T00:00:00.000Z",
+            "totalValue": 216997,
+            "transferValue": 200197,
+            "counterpartValue": 16800,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "634527/2008",
+        "company": {
+          "id": "2150a5b7-524b-40ac-9b48-b87e74639a08",
+          "cnpj": "12333738000150",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+          "sphere": "Municipal",
+          "city": {
+            "id": "780a27a8-13ae-4315-a4d0-9d751e8687b4",
+            "name": "Cajueiro",
+            "uf": "AL",
+            "ibge": "2701308"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-19T00:00:00.000Z",
+        "end": "2009-01-17T00:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Inadimplencia Suspensa no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "082195/2008",
+            "organId": "54001257200800693",
+            "processId": "72000.002505/2008-85",
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "legalFoundation": "",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Promoção e incentivo ao turismo no Município de Cajueiro/AL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Objeto: \"Arraial Forró Caju\".",
+            "information": "",
+            "proposalDate": "2008-06-23T00:00:00.000Z",
+            "biddingDate": "2008-06-23T00:00:00.000Z",
+            "homologationDate": "2008-07-04T00:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.333.738/0001-50 - MUNICIPIO DE CAJUEIRO",
+            "respProponent": "***.612.824-** - ANTONIO PALMERY MELO NETO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.881.858-** - LUIZ EDUARDO BARRETTO FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CAJUEIRO",
+            "documentNumber": "12.333.738/0001-50",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "634527/2008",
+            "validity": "19/06/2008 a 17/01/2009",
+            "limitDate": "2009-01-17T00:00:00.000Z",
+            "totalValue": 157500,
+            "transferValue": 150000,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

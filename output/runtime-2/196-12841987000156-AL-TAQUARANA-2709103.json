@@ -1,0 +1,12 @@
+{
+  "beginDate": "2020-09-02T01:20:12.900Z",
+  "endDate": "2020-09-02T01:20:14.452Z",
+  "data": {
+    "location": {
+      "city": "Taquarana",
+      "uf": "AL",
+      "ibge": "2709103"
+    },
+    "agreements": []
+  }
+}

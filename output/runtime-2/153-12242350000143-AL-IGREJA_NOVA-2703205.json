@@ -1,0 +1,2181 @@
+{
+  "beginDate": "2020-09-01T23:41:20.411Z",
+  "endDate": "2020-09-01T23:52:02.662Z",
+  "data": {
+    "location": {
+      "city": "Igreja Nova",
+      "uf": "AL",
+      "ibge": "2703205"
+    },
+    "agreements": [
+      {
+        "agreementId": "882372/2018",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-31T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "2084 – RECURSOS HIDRICOS - PT 18.544.2084.15E7.0001 - Acao: Revitalização da bacia hidrográfica do rio São Francisco - Nacional - (EMENDA)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "064490/2018",
+            "organId": "517100/2018",
+            "processId": "59550.001233/2018-83",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Portaria 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "Igreja Nova é um município brasileiro do estado de Alagoas. Localiza-se na microrregião do Leste Alagoano, estando a uma altitude de 14 metros. Sua população estimada em 2010 CENSO era de 23.292 habitantes. Possui uma área de 429,9 km. O município basicamente vive do setor agropecuário, por conta da sua localização e pela pequena população. É um dos maiores produtores de arroz do estado, com reconhecida importância no desenvolvimento da região ribeirinha do São Francisco. Além disso, desenvolve projetos de piscicultura em parceria com a CODEVASF, que encontra no município um laboratório natural, no maior açude de Alagoas. Vale destacar a potencialidade hídrica e uma rica quantidade de nascentes que ultimamente têm sofrido com a falta de políticas públicas para a conservação das mesmas. Na bacia hidrográfica do rio Boacica, existem diversas nascentes, tanto do rio Boacica, como de riachos afluentes. O crescente processo de urbanização, aliado à conversão de áreas vegetadas para fins de implantação da pecuária extensiva, produção agrícola e outras atividades produtivas em meio rural, tais como suinocultura e piscicultura, tem provocado intensa degradação sobre as nascentes, comprometendo a quantidade e a qualidade das águas do corpo hídrico. Para se conhecer a real dimensão do problema e propor um Plano de Ação de recuperação, é necessária a elaboração de um diagnóstico ambiental das nascentes, com caracterização macroscópica do entorno, análises de qualidade de água e medições de vazão. A partir do diagnóstico será proposto um Plano de Ação para recuperação das nascentes, com intervenções como cercamento, reflorestamento e contenção em solocimento, além de um programa de educação ambiental visando conscientizar a população beneficiada acerca da importância do projeto. Assim, o presente projeto se justifica à medida que contribuirá para a melhoria da quantidade e da qualidade das águas do rio Boacica, beneficiando toda a população que reside na bacia hidrográfica, com benefícios indiretos para o próprio rio São Francisco.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Promover a recuperação e a conservação de nascentes na Parte Alta da Bacia do Rio Boacia, em Igreja Nova, conforme Plano de Trabalho.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, atesto para os devidos fins que a Prefeitura Municipal de Igreja Nova /AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2018-12-18T00:00:00.000Z",
+            "biddingDate": "2018-12-31T00:00:00.000Z",
+            "homologationDate": "2019-02-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320180026",
+              "name": "2084 – RECURSOS HIDRICOS - PT 18.544.2084.15E7.0001 - Acao: Revitalização da bacia hidrográfica do rio São Francisco - Nacional - (EMENDA)",
+              "value": 251419.96,
+              "details": {
+                "code": "2220320180026",
+                "name": "2084 – RECURSOS HIDRICOS - PT 18.544.2084.15E7.0001 - Acao: Revitalização da bacia hidrográfica do rio São Francisco - Nacional - (EMENDA)",
+                "cps": null,
+                "items": "Elaboração de Estudos e Projetos",
+                "couterpartRule": "Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 251419.96,
+                "couterpartValues": {
+                  "total": 1419.96,
+                  "financial": 1419.96,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.049.264-** - VERONICA DANTAS LIMA E SILVA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "882372/2018",
+            "validity": "31/12/2018 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 251419.96,
+            "transferValue": 250000,
+            "counterpartValue": 1419.96,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "862733/2017",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T00:00:00.000Z",
+        "end": "2021-10-30T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "022178/2017",
+            "organId": "022178/2017",
+            "processId": "0221782017",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Igreja Nova é um município brasileiro do estado de Alagoas. Localiza-se na microrregião do Leste Alagoano, estando a uma altitude de 14 metros. Sua população estimada em 2010 CENSO era de 23.292 habitantes. Possui uma área de 429,9 km. Igreja Nova é um dos municípios mais antigos do estado de Alagoas, e tem sua história ligada à exploração do rio São Francisco por pescadores saídos da cidade de Penedo que, por volta do século XIX, fundaram um povoado denominando-o de Ponta das Pedras e, em seguida, chamando-o de Oitizeiro. Logo foi erguida uma pequena capela em homenagem a São João Batista, até hoje padroeiro do município. Em 1908, após o desmoronamento da capela, frades alemães se uniram aos moradores para construir um dos mais belos templos católicos de Alagoas, cujas badaladas de sinos são ouvidas a uma distância de 6 km, chamada Igreja Nova. A povoação foi desmembrada de Penedo e teve seus limites fixados pela resolução 849, de 1880. As primeiras tentativas de elevar o povoado à vila (com leis de 1885 e 1889) não surtiram efeito. Em 1890, através do decreto 39, o processo se completou e a nova vila passa a se chamar Triunfo. Em 1892, foi conduzida à categoria de cidade, até uma nova lei suprimir a condição e anexá-la novamente a Penedo. Apenas em 1897 foi elevada à condição de cidade. O nome Igreja Nova, porém, só foi adotado em 1928. O município basicamente vive do setor agropecuário, por conta da sua localização e pela pequena população. É um dos maiores produtores de arroz do estado, com reconhecida importância no desenvolvimento da região ribeirinha do São Francisco. Além disso, desenvolve projetos de piscicultura em parceria com a CODEVASF, que encontra no município um laboratório natural, no maior açude de Alagoas. Atualmente a agricultura do município tem sido profundamente alterada pelo setor sucroalcooleiro, a partir da usina Marituba, do Grupo Carlos Lyra, e pelo setor rizicultor industrial, através da UBA (Usina de Beneficiamento de Arroz). As principais datas festivas são: 16 de maio Emancipação Política, juntamente com o Grande Festival do Arroz, 24 de junho a Festa do Padroeiro da cidade, 20 de Novembro Festas nos Quilombos, 08 de Dezembro Copadroeira do Município. Como Pontos Turísticos devemos destacar a Igreja Matriz, algumas capelas com arquitetura antigas tais como Capela de São José no Povoado Ipiranga e Capela da Nossa Senhora Conceição do Povoado Conceição. Aqui, vale também enfatizar a beleza natural e grande atração do Rio São Francisco que presenteia com várias prainhas como nos Povoados Catrapo, Cajueiro e Chinaré. A atual gestão têm como uma de suas prioridades a urbanização de diversas localidades do município, no intuito de melhorar as condições para os munícipes e visitantes, fortalecendo assim as atividades turísticas. Desde a região central, passando pelos povoados, comunidades quilombolas e ribeirinhas apresentam grande demanda pela implantação de infraestrutura turística. A demanda para a construção de um espaço que possa ser utilizado para eventos, feiras, festivas e no dia a dia da população permitirá a disponibilidade de realizações de grandes festividades, além do fortalecimento da infraestrutura turística local. Diante disso solicitamos a aprovação da referida proposta para a Construção da praça Multieventos no município de Igreja Nova, que será localizada próxima à Usina de Beneficiamento de Arroz COORDENADAS 10°07'51.8''S 36°38'58.4''W.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - Construção da Praça Multieventos no Município de Igreja Nova - AL.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, atesto para os devidos fins que a Prefeitura Municipal de Igreja Nova /AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2017-03-23T00:00:00.000Z",
+            "biddingDate": "2017-12-30T00:00:00.000Z",
+            "homologationDate": "2018-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170004",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+              "value": 1500,
+              "details": {
+                "code": "5400020170004",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+                "cps": "",
+                "items": "I – construção, revitalização e reforma de infraestrutura urbana para adequação de espaços de interesse turístico (saneamento básico, sistemas de drenagem urbana, paisagismo, sinalização turística e praças; parques urbanos, pavimentação, execução de calçadas, passeios, iluminação pública e ciclovias/ciclofaixas, se os projetos estiverem associados a parques, praças, orlas e outros atrativos turísticos, sendo necessária a apresentação de mapa (croqui) que evidencie a associação àqueles atrativos",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1500,
+                "couterpartValues": {
+                  "total": 37500,
+                  "financial": 37500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1462.5,
+                  "amendment": "R$ 1.462.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.049.264-** - VERONICA DANTAS LIMA E SILVA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-05-16T00:00:00.000Z",
+              "processId": "019642019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aguardando Aceite",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "019642019",
+                "biddingId": "01/2019",
+                "object": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE SERVIÇOS DE CONSTRUÇÃO DA PRAÇA MULTIEVENTOS NO MUNICÍPIO DE IGREJA NOVA/AL.",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE SERVIÇOS DE CONSTRUÇÃO DA PRAÇA MULTIEVENTOS NO MUNICÍPIO DE IGREJA NOVA/AL.",
+                "publishDate": "2019-05-16T00:00:00.000Z",
+                "beginDate": "2019-06-04T00:00:00.000Z",
+                "endDate": "2019-06-10T00:00:00.000Z",
+                "biddingValue": 1500,
+                "homologationDate": "2019-06-11T00:00:00.000Z",
+                "city": "2763 - IGREJA NOVA",
+                "analysisDate": null,
+                "accepted": "Aguardando Aceite"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2019",
+              "biddingId": "01/2019",
+              "date": "2019-06-17T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 14974013000176",
+                "hirerDocument": "CNPJ: 12242350000143",
+                "type": "Obras",
+                "object": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE SERVIÇOS DE CONSTRUÇÃO DA PRAÇA MULTIEVENTOS NO MUNICÍPIO DE IGREJA NOVA/AL.",
+                "totalValue": 1299.541,
+                "publishDate": "2019-06-17T00:00:00.000Z",
+                "beginDate": "2019-06-12T00:00:00.000Z",
+                "endDate": "2020-06-12T00:00:00.000Z",
+                "signDate": "2019-06-12T00:00:00.000Z",
+                "executionProcessId": "01/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "019642019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "862733/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T00:00:00.000Z",
+            "totalValue": 1500,
+            "transferValue": 1462.5,
+            "counterpartValue": 37500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "862614/2017",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T00:00:00.000Z",
+        "end": "2021-10-30T00:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "103520/2017",
+            "organId": "103520/2017",
+            "processId": "1035202017",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Igreja Nova é um município brasileiro do estado de Alagoas. Localiza-se na microrregião do Leste Alagoano, estando a uma altitude de 14 metros. Sua população estimada em 2016 era de 24.687 habitantes. Possui uma área de 429,9 km². Igreja Nova é um dos municípios mais antigos do estado de Alagoas, e tem sua história ligada à exploração do rio São Francisco por pescadores saídos da cidade de Penedo que, por volta do século XIX, fundaram um povoado denominando-o de Ponta das Pedras e, em seguida, chamando-o de Oitizeiro. Logo foi erguida uma pequena capela em homenagem a São João Batista, até hoje padroeiro do município. Em 1908, após o desmoronamento da capela, frades alemães se uniram aos moradores para construir um dos mais belos templos católicos de Alagoas, cujas badaladas de sinos são ouvidas a uma distância de 6 km, chamada Igreja Nova. A povoação foi desmembrada de Penedo e teve seus limites fixados pela resolução 849, de 1880. As primeiras tentativas de elevar o povoado à vila (com leis de 1885 e 1889) não surtiram efeito. Em 1890, através do decreto 39, o processo se completou e a nova vila passa a se chamar Triunfo. Em 1892, foi conduzida à categoria de cidade, até uma nova lei suprimir a condição e anexá-la novamente a Penedo. Apenas em 1897 foi elevada à condição de cidade. O nome Igreja Nova, porém, só foi adotado em 1928. O município basicamente vive do setor agropecuário, por conta da sua localização e pela pequena população. É um dos maiores produtores de arroz do estado, com reconhecida importância no desenvolvimento da região ribeirinha do São Francisco. Além disso, desenvolve projetos de piscicultura em parceria com a CODEVASF, que encontra no município um laboratório natural, no maior açude de Alagoas. Atualmente a agricultura do município tem sido profundamente alterada pelo setor sucroalcooleiro, a partir da usina Marituba, do Grupo Carlos Lyra, e pelo setor rizicultor industrial, através da UBA (Usina de Beneficiamento de Arroz). A atual gestão têm como uma de suas prioridades a Implantação de Espeços com Infraestrutura Esportiva e de Lazer em diversas localidades do município, no intuito de melhorar as condições para os munícipes e visitantes, fortalecendo assim a prática esportiva e o convívio da comunidade. Desde a região central, passando pelos povoados, comunidades quilombolas e ribeirinhas apresentam grande demanda pela implantação de infraestrutura esportiva, diante disso solicitamos a aprovação da referida proposta para a Construção de Quadras Poliesportivas no município de Igreja Nova..",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Quadras Poliesportivas no município de Igreja Nova, Alagoas",
+            "information": "Em atendimento a Portaria Interministerial nº 424, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de São Miguel dos Campos/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras.",
+            "proposalDate": "2017-12-26T00:00:00.000Z",
+            "biddingDate": "2017-12-30T00:00:00.000Z",
+            "homologationDate": "2018-01-12T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020170001",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+              "value": 975975.98,
+              "details": {
+                "code": "5100020170001",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "a) 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com ATÉ cinquenta mil habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 975975.98,
+                "couterpartValues": {
+                  "total": 975.98,
+                  "financial": 975.98,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 975000,
+                  "amendment": "R$ 975.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.049.264-** - VERONICA DANTAS LIMA E SILVA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-05-23T00:00:00.000Z",
+              "processId": "029552019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "029552019",
+                "biddingId": "02/2019",
+                "object": "CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO DE QUADRAS POLIESPORTIVAS NO MUNICÍPIO DE IGREJA NOVA/AL.",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO DE QUADRAS POLIESPORTIVAS NO MUNICÍPIO DE IGREJA NOVA/AL.",
+                "publishDate": "2019-05-23T00:00:00.000Z",
+                "beginDate": "2019-06-10T00:00:00.000Z",
+                "endDate": "2019-06-10T00:00:00.000Z",
+                "biddingValue": 1000,
+                "homologationDate": "2019-06-11T00:00:00.000Z",
+                "city": "2763 - IGREJA NOVA",
+                "analysisDate": "2019-10-25T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000019/2019",
+              "biddingId": "02/2019",
+              "date": "2019-06-17T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 14554855000179",
+                "hirerDocument": "CNPJ: 12242350000143",
+                "type": "Obras",
+                "object": "CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO DE QUADRAS POLIESPORTIVAS NO MUNICÍPIO DE IGREJA NOVA/AL.",
+                "totalValue": 831324.74,
+                "publishDate": "2019-06-17T00:00:00.000Z",
+                "beginDate": "2019-06-12T00:00:00.000Z",
+                "endDate": "2020-06-12T00:00:00.000Z",
+                "signDate": "2019-06-12T00:00:00.000Z",
+                "executionProcessId": "02/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "029552019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "862614/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T00:00:00.000Z",
+            "totalValue": 975975.98,
+            "transferValue": 975000,
+            "counterpartValue": 975.98,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "858895/2017",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T00:00:00.000Z",
+        "end": "2021-10-30T00:00:00.000Z",
+        "program": "Fomento ao Setor Agropecuario - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "016011/2017",
+            "organId": "16011/2017",
+            "processId": "0160112017",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Igreja Nova é um município brasileiro do estado de Alagoas. Estando a uma altitude de 14 metros. Sua população estimada em 2016 era de 24.687 habitantes. Possui uma área de 429,9 km². Igreja Nova é um dos municípios mais antigos do estado de Alagoas, e tem sua história ligada à exploração do rio São Francisco por pescadores saídos da cidade de Penedo que, por volta do século XIX, fundaram um povoado denominando-o de Ponta das Pedras e, em seguida, chamando-o de Oitizeiro. Logo foi erguida uma pequena capela em homeagem a São João Batista, até hoje padroeiro do município. Em 1908, após o desmoronamento da capela, frades alemães se uniram aos moradores para construir um dos mais belos templos católicos de Alagoas, cujas badaladas de sinos são ouvidas a uma distância de 6 km, chamada Igreja Nova. A povoação foi desmembrada de Penedo e teve seus limites fixados pela resolução 849, de 1880. As primeiras tentativas de elevar o povoado à vila (com leis de 1885 e 1889) não surtiram efeito. Em 1890, através do decreto 39, o processo se completou e a nova vila passa a se chamar Triunfo. Em 1892, foi conduzida à categoria de cidade, até uma nova lei suprimir a condição e anexá-la novamente a Penedo. Apenas em 1897 foi elevada à condição de cidade. O nome Igreja Nova, porém, só foi adotado em 1928. O município basicamente vive do setor agropecuário, por conta da sua localização e pela pequena população. É um dos maiores produtores de arroz do estado, com reconhecida importância no desenvolvimento da região ribeirinha do São Francisco. Além disso, desenvolve projetos de piscicultura em parceria com a Codevasf, que encontra no município um laboratório natural, no maior açude de Alagoas. Atualmente a agricultura do município tem sido profundamente alterada pelo setor sucroalcoolerio, a partir da usina Marituba, do Grupo Carlos Lyra, e pelo setor rizicultor industrial, atravéz da UBA (Usina de Beneficiamento de Arroz). A aquisição de Caminhão Caçamba permitirá à atual gestão atuar de forma mais enfática para a manutenção das estradas vicinais e demais atividades que colaborarão sem sombra de dúvidas, as principais vias de acesso da zona rural ao centro da cidade para o escoamento da produção principalmente dos pequenos produtores.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Máquinas e Equipamentos Agrícolas.",
+            "information": "Declaramos para os devidos fins junto ao Ministério do Turismo que a Prefeitura Municipal de Igreja Nova ora representado por Verônica Dantas Lima e Silva, declara dispor em seu quadro de funcionários profissionais devidamente habilitados com capacidade técnica e gerencial para a Aquisição de Caminhão Caçamba.",
+            "proposalDate": "2017-03-16T00:00:00.000Z",
+            "biddingDate": "2017-12-30T00:00:00.000Z",
+            "homologationDate": "2018-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020170003",
+              "name": "Fomento ao Setor Agropecuario - Investimento",
+              "value": 244000,
+              "details": {
+                "code": "2200020170003",
+                "name": "Fomento ao Setor Agropecuario - Investimento",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 244000,
+                "couterpartValues": {
+                  "total": 250,
+                  "financial": 250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.049.264-** - VERONICA DANTAS LIMA E SILVA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.044.049-** - BLAIRO BORGES MAGGI"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "42/2018",
+              "type": "Licitação - Pregão",
+              "date": "2019-05-16T00:00:00.000Z",
+              "processId": "0584918",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0584918",
+                "biddingId": "42/2018",
+                "object": "AQUISIÇÃO DE 01 (UMA) RETROESCAVADEIRA",
+                "legalFoundation": "LEI 8.666",
+                "justification": "A aquisição do referido bem seguirá às normativas da lei vigente",
+                "publishDate": "2019-05-16T00:00:00.000Z",
+                "beginDate": "2019-05-30T00:00:00.000Z",
+                "endDate": "2019-06-03T00:00:00.000Z",
+                "biddingValue": 240000,
+                "homologationDate": "2019-06-05T00:00:00.000Z",
+                "city": "2763 - IGREJA NOVA",
+                "analysisDate": "2019-09-25T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000017/2019",
+              "biddingId": "42/2018",
+              "date": "2019-12-12T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 15652882000147",
+                "hirerDocument": "CNPJ: 12242350000143",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE 01 RETROESCAVADEIRA COM TRAÇÃO 4X4.",
+                "totalValue": 240000,
+                "publishDate": "2019-12-12T00:00:00.000Z",
+                "beginDate": "2019-06-06T00:00:00.000Z",
+                "endDate": "2020-06-06T00:00:00.000Z",
+                "signDate": "2019-06-06T00:00:00.000Z",
+                "executionProcessId": "42/2018 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0584918 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "858895/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2020-07-01T00:00:00.000Z",
+            "totalValue": 20,
+            "transferValue": 244000,
+            "counterpartValue": 243750,
+            "yieldValue": 250
+          }
+        }
+      },
+      {
+        "agreementId": "855858/2017",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T00:00:00.000Z",
+        "end": "2021-07-11T00:00:00.000Z",
+        "program": "2068 - Saneamento Básico (Ação: 10GG - Sistemas Públicos de Manejo de Resíduos Sólidos)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "097487/2017",
+            "organId": "00610/2017",
+            "processId": "25100.016469/2017-10",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 424/2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "É possível notar a expansão urbana e o aumento populacional do município como resultado do seu desenvolvimento, em decorrência disto há também o acréscimo da produção de resíduos sólidos, que se tiver seu descarte realizado de forma inadequada irá causar danos ambientais ao município, além de haver o risco de expor a saúde de seus habitantes a condições insalubres. Isso demonstra que a gestão pública deve buscar de forma efetiva os meios para que a coleta de resíduos sólidos seja realizada da maneira adequada. Nossa proposta é utilizar os recursos oriundos do Programa de Saneamento Básico (Ação: 10GG - Sistemas Públicos de Manejo de Resíduos Sólidos) concedido pela FUNDACAO NACIONAL DE SAUDE para a aquisição de um caminhão compactador que atenderá ao processo de coleta, transporte e destinação final dos resíduos sólidos domiciliares e comerciais da área urbana do município de Igreja Nova, Alagoas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de veículo do tipo caminhão compactador para coleta de resíduos sólidos.",
+            "information": "Em conformidade com o que estabelece o artigo 16, inciso V, da Portaria Interministerial MP/MF/CGU nº 424/2016, declaro que esta Prefeitura dispõe de estrutura física e de pessoal, com capacidade administrativa, técnica e gerencial para a execução do objeto proposto, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legalmente, inclusive as que se referem a licitação, acompanhamento da execução e prestação de contas.",
+            "proposalDate": "2017-11-28T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170030",
+              "name": "2068 - Saneamento Básico (Ação: 10GG - Sistemas Públicos de Manejo de Resíduos Sólidos)",
+              "value": 259000,
+              "details": {
+                "code": "3621120170030",
+                "name": "2068 - Saneamento Básico (Ação: 10GG - Sistemas Públicos de Manejo de Resíduos Sólidos)",
+                "cps": null,
+                "items": "A ação de implantação e ampliação dos sistemas de limpeza pública, acondicionamento, coleta, disposição final e tratamento de resíduos sólidos urbanos contempla intervenções que visam contribuir para a universalização dos serviços de coleta, limpeza pública, tratamento e disposição final dos resíduos sólidos nas áreas mais carentes do país e com população inferior a 50.000 habitantes, preferencialmente, nos municípios acometidos de incidência da dengue.",
+                "couterpartRule": "Não será exigida a contrapartida, conforme Art. 79, §4, da Lei de Diretrizes Orçamentárias - LDO (Lei nº 13.408, de 26 de dezembro de 2016). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 259000,
+                "couterpartValues": {
+                  "total": 19000,
+                  "financial": 19000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 240000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.049.264-** - VERONICA DANTAS LIMA E SILVA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "05/2019",
+              "type": "Licitação - Pregão",
+              "date": "2019-03-27T00:00:00.000Z",
+              "processId": "0140819",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0140819",
+                "biddingId": "05/2019",
+                "object": "AQUISIÇÃO DE 01 (UM) CAMINHÃO COMPACTADOR DE LIXO",
+                "legalFoundation": "LEI 8.666",
+                "justification": "A licitação para o registro de preços foi devidamente instaurada na modalidade Pregão (art. 3o, do Decreto 4.342/02) e foi precedida de ampla pesquisa, ou seja, na fase de instrução do processo licitatório a Administração deverá realizar cotação entre o maior número possível de",
+                "publishDate": "2019-03-27T00:00:00.000Z",
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 259000,
+                "homologationDate": null,
+                "city": "2763 - IGREJA NOVA",
+                "analysisDate": null,
+                "accepted": ""
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000005/2019",
+              "biddingId": "05/2019",
+              "date": "2019-04-24T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 03079649000138",
+                "hirerDocument": "CNPJ: 12242350000143",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE 01 (UM) CAMINHÃO COMPACTADOR DE LIXO",
+                "totalValue": 259000,
+                "publishDate": "2019-04-24T00:00:00.000Z",
+                "beginDate": "2019-04-22T00:00:00.000Z",
+                "endDate": "2020-04-22T00:00:00.000Z",
+                "signDate": "2019-04-22T00:00:00.000Z",
+                "executionProcessId": "05/2019 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0140819 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "855858/2017",
+            "validity": "29/12/2017 a 11/07/2021",
+            "limitDate": "2021-09-09T00:00:00.000Z",
+            "totalValue": 259000,
+            "transferValue": 240000,
+            "counterpartValue": 19000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "850065/2017",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-01-15T00:00:00.000Z",
+        "end": "2020-12-30T00:00:00.000Z",
+        "program": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "020499/2017",
+            "organId": "00396/2017",
+            "processId": "59553.000035/2017-91",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto 6.170; Portaria 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Igreja Nova é um município brasileiro do estado de Alagoas. Localiza-se na microrregião do Leste Alagoano, estando a uma altitude de 14 metros. Sua população estimada em 2016 era de 24.687 habitantes IBGE. Possui uma área de 429,9 km². Igreja Nova é um dos municípios mais antigos do estado de Alagoas, e tem sua história ligada à exploração do rio São Francisco por pescadores saídos da cidade de Penedo que, por volta do século XIX, fundaram um povoado denominando-o de Ponta das Pedras e, em seguida, chamando-o de Oitizeiro. Logo foi erguida uma pequena capela em homenagem a São João Batista, até hoje padroeiro do município. Em 1908, após o desmoronamento da capela, frades alemães se uniram aos moradores para construir um dos mais belos templos católicos de Alagoas, cujas badaladas de sinos são ouvidas a uma distância de 6 km, chamada Igreja Nova. A povoação foi desmembrada de Penedo e teve seus limites fixados pela resolução 849, de 1880. As primeiras tentativas de elevar o povoado à vila (com leis de 1885 e 1889) não surtiram efeito. Em 1890, através do decreto 39, o processo se completou e a nova vila passa a se chamar Triunfo. Em 1892, foi conduzida à categoria de cidade, até uma nova lei suprimir a condição e anexá-la novamente a Penedo. Apenas em 1897 foi elevada à condição de cidade. O nome Igreja Nova, porém, só foi adotado em 1928. O município basicamente vive do setor agropecuário, por conta da sua localização e pela pequena população. É um dos maiores produtores de arroz do estado, com reconhecida importância no desenvolvimento da região ribeirinha do São Francisco. Além disso, desenvolve projetos de piscicultura em parceria com a CODEVASF, que encontra no município um laboratório natural, no maior açude de Alagoas. Atualmente a agricultura do município tem sido profundamente alterada pelo setor sucroalcooleiro, a partir da usina Marituba, que produz álcool e açúcar e pelo setor rizicultor industrial, através da UBA (Usina de Beneficiamento de Arroz). Nos últimos anos houve um crescimento da zona urbana que não foi acompanhada da infraestrutura necessária, um dos exemplos é o Conjunto Antonio Borges, um dos objetos do atual pleito, hoje carente de pavimentação, para que possa oferecer maior trafegabilidade, segurança e comodidade aos moradores e demais que necessitam acessá-lo, dotando-o assim de melhores condições habitacionais. Vale destacar que serão atentidas com a pavimentação as ruas A, B, C, D, E, F, G e H do referido conjunto urbano com extensão de total de 5.213,00m² de pavimentação. Também há a existência de diversos povoados que não dispõem de infraestrutura necessária, tendo como um dos exemplos o Povoado Palmeira dos Negros, o outro objeto desse pleito, que conta com uma população considerável e necessita de melhores em suas ruas, daí ao pleito pela pavimentação da rua 01 do tal povoado com extensão de 4.264,80m² de pavimentação. Assim, reafirmamos a importância do referido pleito que que tem como objeto a Pavimentação de Diversas Ruas no município de Igreja Nova. Tal pleito conta com o apoio do Deputado Federal Givaldo Carimbão, que alocou recursos através da emenda 35420004.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação das Ruas A, B, C, D, E, F, G e H no Conjunto Antônio Borges e a Ruas 01 no Povoado Palmeira dos Negros no município de Igreja Nova/AL.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, atesto para os devidos fins que a Prefeitura Municipal de Igreja Nova /AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2017-03-22T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020170009",
+              "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+              "value": 1011.818,
+              "details": {
+                "code": "5300020170009",
+                "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+                "cps": null,
+                "items": "7K66 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado",
+                "couterpartRule": "Municípios com até 50 mil habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1011.818,
+                "couterpartValues": {
+                  "total": 11818.63,
+                  "financial": 11818.63,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.049.264-** - VERONICA DANTAS LIMA E SILVA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.013.663-** - MARLON CARVALHO CAMBRAIA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "850065/2017",
+            "validity": "15/01/2018 a 30/12/2020",
+            "limitDate": "2021-02-28T00:00:00.000Z",
+            "totalValue": 1011.818,
+            "transferValue": 1000,
+            "counterpartValue": 11818.63,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "850064/2017",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-01-15T00:00:00.000Z",
+        "end": "2020-12-30T00:00:00.000Z",
+        "program": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "020507/2017",
+            "organId": "00395/2017",
+            "processId": "59553.000090/2017-81",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto 6.170/2007 e Port. 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Igreja Nova é um município brasileiro do estado de Alagoas. Localiza-se na microrregião do Leste Alagoano, estando a uma altitude de 14 metros. Sua população estimada em 2016 era de 24.687 habitantes segundo o IBGE. Possui uma área de 429,9 km². Igreja Nova é um dos municípios mais antigos do estado de Alagoas, e tem sua história ligada à exploração do rio São Francisco por pescadores saídos da cidade de Penedo que, por volta do século XIX, fundaram um povoado denominando-o de Ponta das Pedras e, em seguida, chamando-o de Oitizeiro. Logo foi erguida uma pequena capela em homenagem a São João Batista, até hoje padroeiro do município. Em 1908, após o desmoronamento da capela, frades alemães se uniram aos moradores para construir um dos mais belos templos católicos de Alagoas, cujas badaladas de sinos são ouvidas a uma distância de 6 km, chamada Igreja Nova. A povoação foi desmembrada de Penedo e teve seus limites fixados pela resolução 849, de 1880. As primeiras tentativas de elevar o povoado à vila (com leis de 1885 e 1889) não surtiram efeito. Em 1890, através do decreto 39, o processo se completou e a nova vila passa a se chamar Triunfo. Em 1892, foi conduzida à categoria de cidade, até uma nova lei suprimir a condição e anexá-la novamente a Penedo. Apenas em 1897 foi elevada à condição de cidade. O nome Igreja Nova, porém, só foi adotado em 1928. O município basicamente vive do setor agropecuário, por conta da sua localização e pela pequena população. É um dos maiores produtores de arroz do estado, com reconhecida importância no desenvolvimento da região ribeirinha do São Francisco. Além disso, desenvolve projetos de piscicultura em parceria com a CODEVASF, que encontra no município um laboratório natural, no maior açude de Alagoas. Atualmente a agricultura do município tem sido profundamente alterada pelo setor sucroalcooleiro, a partir da usina Marituba, que produz açúcar e álcool, e pelo setor rizicultor industrial, através da UBA (Usina de Beneficiamento de Arroz). Daí, a grande necessidade de melhorias das estradas vicinais, que são sem sombra de dúvidas, as principais vias de acesso da zona rural ao centro da cidade para o escoamento da produção principalmente dos pequenos produtores. O objeto de tal proposta visa atender a demanda de Ampliação e Recuperação de Estradas Vicinais que ligam a sede do município ao Povoado Ipiranga, estrada que liga o Povoado Ipiranga ao Povoado Tapera e estrada Barro Vermelho que liga o Povoado Lagoa Grande ao Povoado Mata no município de Igreja Nova. Tal pleito conta com o apoio do Deputado Federal Givaldo Carimbão, que alocou recursos através da emenda 35420004.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Ampliação e Recuperação de Estradas Vicinais que ligam a sede do município ao Povoado Ipiranga, estrada que liga o Povoado Ipiranga ao Povoado Tapera e estrada Barro Vermelho que liga o Povoado Lagoa Grande ao Povoado Mata no município de Igreja Nova",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, atesto para os devidos fins que a Prefeitura Municipal de Igreja Nova /AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2017-03-22T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020170009",
+              "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+              "value": 1040.45,
+              "details": {
+                "code": "5300020170009",
+                "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+                "cps": null,
+                "items": "7K66 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado",
+                "couterpartRule": "Municípios com até 50 mil habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1040.45,
+                "couterpartValues": {
+                  "total": 40450.51,
+                  "financial": 40450.51,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.049.264-** - VERONICA DANTAS LIMA E SILVA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.943.702-** - HELDER ZAHLUTH BARBALHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "850064/2017",
+            "validity": "15/01/2018 a 30/12/2020",
+            "limitDate": "2021-02-28T00:00:00.000Z",
+            "totalValue": 1040.45,
+            "transferValue": 1000,
+            "counterpartValue": 40450.51,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "844321/2017",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-09-11T00:00:00.000Z",
+        "end": "2019-10-30T00:00:00.000Z",
+        "program": "Alagoas - Emendas Parlamentares - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "020542/2017",
+            "organId": "20542/2017",
+            "processId": "0205422017",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Igreja Nova é um município brasileiro do estado de Alagoas. Localiza-se na microrregião do Leste Alagoano, estando a uma altitude de 14 metros. Sua população estimada em 2016 era de 24.687 habitantes segundo o IBGE. Possui uma área de 429,9 km². Igreja Nova é um dos municípios mais antigos do estado de Alagoas, e tem sua história ligada à exploração do rio São Francisco por pescadores saídos da cidade de Penedo que, por volta do século XIX, fundaram um povoado denominando-o de Ponta das Pedras e, em seguida, chamando-o de Oitizeiro. Logo foi erguida uma pequena capela em homenagem a São João Batista, até hoje padroeiro do município. Em 1908, após o desmoronamento da capela, frades alemães se uniram aos moradores para construir um dos mais belos templos católicos de Alagoas, cujas badaladas de sinos são ouvidas a uma distância de 6 km, chamada Igreja Nova. A povoação foi desmembrada de Penedo e teve seus limites fixados pela resolução 849, de 1880. As primeiras tentativas de elevar o povoado à vila (com leis de 1885 e 1889) não surtiram efeito. Em 1890, através do decreto 39, o processo se completou e a nova vila passa a se chamar Triunfo. Em 1892, foi conduzida à categoria de cidade, até uma nova lei suprimir a condição e anexá-la novamente a Penedo. Apenas em 1897 foi elevada à condição de cidade. O nome Igreja Nova, porém, só foi adotado em 1928. O município basicamente vive do setor agropecuário, por conta da sua localização e pela pequena população. É um dos maiores produtores de arroz do estado, com reconhecida importância no desenvolvimento da região ribeirinha do São Francisco. Além disso, desenvolve projetos de piscicultura em parceria com a CODEVASF, que encontra no município um laboratório natural, no maior açude de Alagoas. Atualmente a agricultura do município tem sido profundamente alterada pelo setor sucroalcooleiro, a partir da usina Marituba, do Grupo Carlos Lyra, e pelo setor rizicultor industrial, através da UBA (Usina de Beneficiamento de Arroz). A aquisição de Caminhão Caçamba permitirá à atual gestão atuar de forma mais enfática para a manutenção das estradas vicinais e demais atividades que colaborarão sem sombra de dúvidas, as principais vias de acesso da zona rural ao centro da cidade para o escoamento da produção principalmente dos pequenos produtores.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Caminhão Caçamba",
+            "information": "Em atendimento ao disposto no inciso V, artigo 16, da Portaria Interministerial nº 424/2016, declaro para os devidos fins que a Prefeitura Municipal de Igreja Nova /AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2017-03-22T00:00:00.000Z",
+            "biddingDate": "2017-09-11T00:00:00.000Z",
+            "homologationDate": "2017-09-14T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020170005",
+              "name": "Alagoas - Emendas Parlamentares - Investimento",
+              "value": 221000,
+              "details": {
+                "code": "2200020170005",
+                "name": "Alagoas - Emendas Parlamentares - Investimento",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário. Favor, verificar lista dos objetos contemplados na aba anexos.",
+                "couterpartRule": "Municípios até 50.000 habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 221000,
+                "couterpartValues": {
+                  "total": 26000,
+                  "financial": 26000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.049.264-** - VERONICA DANTAS LIMA E SILVA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "43/2018",
+              "type": "Licitação - Pregão",
+              "date": "2018-12-21T00:00:00.000Z",
+              "processId": "0585018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0585018",
+                "biddingId": "43/2018",
+                "object": "AQUISIÇÃO DE 01 (UM) CAMINHÃO BASCULANTE COM CAÇAMBA",
+                "legalFoundation": "LEI 8.666",
+                "justification": "PROCESSO LICITATÓRIO PARA A AQUISIÇÃO DE 01 (UM) CAMINHÃO BASCULANTE COM CAÇAMBA",
+                "publishDate": "2018-12-21T00:00:00.000Z",
+                "beginDate": "2019-01-10T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 221000,
+                "homologationDate": null,
+                "city": "2763 - IGREJA NOVA",
+                "analysisDate": null,
+                "accepted": ""
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2019",
+              "biddingId": "43/2018",
+              "date": "2019-01-31T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 03079649000138",
+                "hirerDocument": "CNPJ: 12242350000143",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE 01 (UM) CAMINHÃO BASCULANTE COM CAÇAMBA",
+                "totalValue": 221000,
+                "publishDate": "2019-01-31T00:00:00.000Z",
+                "beginDate": "2019-01-22T00:00:00.000Z",
+                "endDate": "2019-10-30T00:00:00.000Z",
+                "signDate": "2019-01-22T00:00:00.000Z",
+                "executionProcessId": "43/2018 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0585018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "844321/2017",
+            "validity": "11/09/2017 a 30/10/2019",
+            "limitDate": "2019-07-09T00:00:00.000Z",
+            "totalValue": 29,
+            "transferValue": 221000,
+            "counterpartValue": 195000,
+            "yieldValue": 26000
+          }
+        }
+      },
+      {
+        "agreementId": "833092/2016",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2016-06-13T00:00:00.000Z",
+        "end": "2020-07-30T00:00:00.000Z",
+        "program": "Alagoas -Emendas Parlamentares - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "016160/2016",
+            "organId": "16160/2016",
+            "processId": "0161602016",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Igreja Nova localiza-se a uma latitude 10:07;31,sul e a uma longitude 36:39;43,oeste, estando a uma altitude de 14 metros. Possuindo uma área de 429,9 km2. Sua população estimada em 2004 era de 22.273 habitantes, porém atualmente é de 23.298 hab.(Censo IBGE/2010) e que seu IDH é de 0,585(PNUD/2000). Na área agrícola: Banana–06ha(6.000 cachos); Coco-da-baía-06ha(14.000 frutos); Laranja–34ha(991.000 frutos); Manga–29ha(608.000 frutos), Algodão–09ha(04t), Arroz–4.915ha(21.687t); Cana-de-açúcar–3.387ha(120.263t); Feijão-665ha(160t), Fumo–09ha(04t), Mandioca–662ha(3.391t) e Milho–497ha(179t). A forma histórica de ocupação da Zona Rural deste município transformou-o num cenário de enormes contradições e injustiças sociais que assumem proporções de calamidade com as freqüentes estiagens prolongadas. As principais problemáticas enfrentadas pela população empobrecida são: A inexistência de iniciativas que propiciem o acesso da população ao trabalho formal e informal para geração de renda; dificuldade de acesso à Infraestrutura adequada à produção de alimentos para consumo humano e animal em quantidade e qualidade ideais, principalmente nos períodos de estiagem prolongada na região. Os agricultores (as) familiares do município enfrentam grandes dificuldades para a melhoria e diversificação da produção, o que tem provocado o empobrecimento das famílias e o êxodo de jovens para os centros urbanos. As práticas inapropriadas de manejo do solo raso e arenoso tem tornado a região uma das mais susceptíveis ao processo de desertificação, reduzindo ainda mais as chances de êxito na produção agropecuária de subsistência. Os agricultores familiares perdem o valor agregado, a perda de sementes nativas e o difícil acesso às sementes apropriadas à região, a ausência de iniciativas de capacitação e assistência técnica agravam ainda mais essa situação. A Modernização e aquisição destes equipamentos atenderá aproximadamente todas as famílias da zona rural do município, visando a geração de renda e oportunidade de trabalho, com base na visão de futuro nos princípios da sustentabilidade onde, o manejo e conservação da agrobiodiversidade são de fundamental importância para a geração de trabalhos, empregos e renda, e a prevenção da desertificação na recuperação de áreas degradadas. O projeto será implantado na zona rural do município de Igreja Nova atendendo a, praticamente, todos os Agricultores Familiares, sendo este Projeto Coordenado pela Equipe Técnica da Secretaria de Agricultura da Prefeitura Municipal, visando a implantação deste o qual alcançará resultados como: Criação de novos postos de trabalho para inclusão dos jovens agricultores no setor produtivo. Utilização das plantas da Nativas e outros espécimes através de um manejo sustentável, recuperando áreas degradadas Beneficiamento da matéria prima da agricultura familiar agregando valor em pequenas propriedades agrícolas através do comércio justo e solidário teremos uma maior aproximação produtor/consumidor obtendo uma renda familiar justa, pela agregação da cultura da convivência com a realidade local. É neste sentido que apresentamos a presente proposta de parceria com o Ministério da Agricultura, Pecuária e Abastecimento, com o propósito de contribuir para transformar esta iniciativa em centro de referência de produção apropriada no Município. As famílias que serão beneficiadas têm renda média em torno de 1,0 salário mínimo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Reforma dos Mercados Públicos e Aquisição de Equipamentos para equipar o mercado.",
+            "information": "Em atendimento ao disposto no artigo 26 da Portaria Interministerial n.º 507, de 24 de novembro de 2011, declaro, para os devidos fins, perante o Ministério da Agricultura, Pecuária e Abasteciemento, que A PREFEITURA MUNICIPAL DE IGREJA NOVA possui Capacidade Técnica e Gerencial para celebrar, executar e prestar contas de convênios com a União, nos termos da Proposta de Convênio n.º 016160/2015, cadastrada no Sistema de Gestão de Convênios e Contratos de Repasse (SICONV).",
+            "proposalDate": "2016-03-15T00:00:00.000Z",
+            "biddingDate": "2016-06-13T00:00:00.000Z",
+            "homologationDate": "2016-06-21T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020160005",
+              "name": "Alagoas -Emendas Parlamentares - Investimento",
+              "value": 400000,
+              "details": {
+                "code": "2200020160005",
+                "name": "Alagoas -Emendas Parlamentares - Investimento",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário. Favor, verificar lista dos objetos contemplados na aba anexos.",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 400000,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.983.364-** - JOSE AUGUSTO SOUSA SANTOS",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "833092/2016",
+            "validity": "13/06/2016 a 30/07/2020",
+            "limitDate": "2020-09-28T00:00:00.000Z",
+            "totalValue": 400000,
+            "transferValue": 390000,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "825671/2015",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2015-12-31T00:00:00.000Z",
+        "end": "2018-12-31T00:00:00.000Z",
+        "program": "2068 - Saneamento Básico / Ação 7656 - Implantação, Ampliação ou Melhoria de Ações e Serviços Sustentáveis de Saneamento Básico em Comunidades Rurais, Tradicionais e Especiais",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "051064/2015",
+            "organId": "00319/2015",
+            "processId": "25100.018618/2015-13",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 507/2011.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O município de Igreja Nova localiza-se a uma latitude 10:07;31,sul e a uma longitude 36:39;43,oeste, estando a uma altitude de 14 metros. Possuindo uma área de 429,9 km2. Sua população estimada é de 23.298 hab.(Censo IBGE/2010) e que seu IDH é de 0,585(PNUD/2000). Na área agrícola cultiva-se: Banana–06 ha(6.000 cachos);Coco-da-baía- 06ha(14.000 frutos); Laranja–34ha(991.000 frutos); Manga–29ha(608.000 frutos), Algodão–09ha(04t),Arroz – 4.915ha(21.687t); Cana-deaçúcar–3.387ha(120.263t); Feijão-665ha(160t), Fumo–09ha(04t), Mandioca–662ha(3.391t) e Milho–497ha(179t). Os principais problemas enfrentadas pelas produtores rurais são: A inexistência de iniciativas que propiciem o acesso da população ao trabalho formal e informal para geração de renda; dificuldade de acesso à Máquinas e Implementos Agrícolas na produção de alimentos para consumo Humano e animal em quantidade e qualidade, principalmente nos períodos de estiagem prolongada na região. Os agricultores familiares do município enfrentam grandes dificuldades para a melhoria e diversificação da produção, o que tem provocado o empobrecimento das famílias e o êxodo de jovens para os centros urbanos. As práticas inapropriadas de manejo do solo raso e arenoso tem tornado a região uma das mais susceptíveis ao processo de desertificação,reduzindo ainda mais as chances de êxito na produção agropecuária de subsistência. Os agricultores familiares tem baixo rendimento operacional das culturas devido a falta de máquinas e equipamentos necessários ao manejo do solo, plantio, tratos culturais e colheita, além disso, o difícil acesso às sementes apropriadas à região, a ausência de iniciativas de capacitação e assistência técnica agravam ainda mais essa situação. Com a aquisição deste Sistema de Abastecimento de Água serão atendidos aproximadamente 255 famílias da Comunidade Quilombola do município, visando a geração de renda e oportunidade de trabalho, com base na visão de futuro nos princípios da sustentabilidade onde, o manejo e conservação da biodiversidade são de fundamental importância para a geração de Trabalhos, empregos e renda, e a prevenção da desertificação na recuperação de áreas degradadas. O município é formado por 30 associações rurais, 01 assentamento e 02 cooperativas atendendo a, praticamente, todos os Agricultores Familiares. A implantação deste Projeto alcançará resultados tais como: criação de novos postos de trabalho para inclusão dos jovens agricultores no setor produtivo; recuperando áreas degradadas, beneficiamento da matéria prima da agricultura familiar agregando valor em pequenas propriedades agrícolas, através do comércio justo e solidário teremos uma maior aproximação produtor/consumidor obtendo uma renda familiar justa, pela agregação da cultura da convivência com a realidade local. É neste sentido que apresentamos a presente proposta: a esta autarquia FUNDAÇÃO NACIONAL DE SAÚDE – FUNASA",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA DA COMUNIDADE QUILOMBOLA DE PALMEIRA DOS NEGROS.",
+            "information": "Declaramos para os devidos fins que a PREFEITURA MUNICIPAL DE IGREJA NOVA, inscrita no CNPJ n° 12.242.350/0001-43, localizada na Praça Prof. Agnelo Moreira, n° 06, na cidade de Igreja Nova, Estado de Alagoas, possui equipe com capacidade técnica e gerencial para celebrar, executar e prestar contas de convênio com a União, nos termos da proposta de convênio n.º 000/2015, cadastrada no Sistema de Gestão de Convênios e Contratos de Repasse (SICONV) cujo objeto do Projeto IMPLANTAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA DA COMUNIDADE QUILOMBOLA DE PALMEIRA DOS NEGROS, com recursos oriundos da FUNDAÇÃO NACIONAL DE SAÚDE – FUNASA, no valor de R$ 887.747,44 (Oitocentos e Oitenta e Sete Mil Reais, Setecentos e Quarenta e Sete Reais e Quarenta e Quatro Centavos), bem como, executar todas as ações planejadas no referido plano de trabalho.",
+            "proposalDate": "2015-12-11T00:00:00.000Z",
+            "biddingDate": "2015-12-31T00:00:00.000Z",
+            "homologationDate": "2016-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120150018",
+              "name": "2068 - Saneamento Básico / Ação 7656 - Implantação, Ampliação ou Melhoria de Ações e Serviços Sustentáveis de Saneamento Básico em Comunidades Rurais, Tradicionais e Especiais",
+              "value": 887747.44,
+              "details": {
+                "code": "3621120150018",
+                "name": "2068 - Saneamento Básico / Ação 7656 - Implantação, Ampliação ou Melhoria de Ações e Serviços Sustentáveis de Saneamento Básico em Comunidades Rurais, Tradicionais e Especiais",
+                "cps": null,
+                "items": "a) Implantação, ampliação ou melhoria de Sistemas de Abastecimento de Água em áreas rurais e comunidades tradicionais. b) Implantação de Sistemas de Captação e Armazenamento de Água de Chuva em áreas rurais e comunidades tradicionais (Cisternas)",
+                "couterpartRule": "",
+                "totalValue": 887747.44,
+                "couterpartValues": {
+                  "total": 7747.44,
+                  "financial": 7747.44,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 880000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.983.364-** - JOSE AUGUSTO SOUSA SANTOS",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.810.894-** - ANTONIO HENRIQUE DE CARVALHO PIRES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "825671/2015",
+            "validity": "31/12/2015 a 31/12/2018",
+            "limitDate": "2019-03-01T00:00:00.000Z",
+            "totalValue": 887747.44,
+            "transferValue": 880000,
+            "counterpartValue": 7747.44,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "788047/2013",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-05T00:00:00.000Z",
+        "end": "2015-11-30T00:00:00.000Z",
+        "program": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 -Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas - (EMENDA)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "062329/2013",
+            "organId": "50049/2013",
+            "processId": "59550.001043/2013-51",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto nº 6.170/2007 c/ Portaria Interministerial CGU/MF/MP 507/2011",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "O município de Igreja Nova localiza-se a uma latitude 10;07,31,,sul e a uma longitude 36;39,43,,oeste, estando a uma altitude de 14 metros Possuindo uma área de 429,9km2. Sua população estimada em 2004 era de 22.273 habitantes, porém atualmente é de 23.298 hab.(Censo IBGE/2010) e que seu IDH é de 0,585(PNUD/2000). Igreja Nova é um dos municípios mais antigos do estado de Alagoas, e tem sua história ligada à exploração do rio São Francisco por pescadores saídos da cidade de Penedo que, por volta do século XIX, fundaram um povoado denominando-o de Ponta das Pedras e, em seguida, chamando-o de Oitizeiro. Logo foi erguida uma pequena capela em homenagem a São João Batista, até hoje padroeiro do município. Em 1908, após o desmoronamento da capela, frades alemães se uniram aos moradores para construir um dos mais belos templos católicos de Alagoas, cujas badaladas de sinos são ouvidas a uma distância de 6 km, chamada Igreja Nova. A povoação foi desmembrada de Penedo e teve seus limites fixados pela resolução 849, de 1880. As primeiras tentativas de elevar o povoado à vila (com leis de 1885 e 1889) não surtiram efeito. Em 1890, através do decreto 39, o processo se completou e a nova vila passa a se chamar Triunfo. Em 1892, foi conduzida à categoria de cidade, até uma nova lei suprimir a condição e anexá-la novamente a Penedo. Apenas em 1897 foi elevada à condição de cidade, porém, cujo nome Igreja Nova só foi adotado em 1928. Este basicamente vive do setor agropecuário, por conta da sua localização e, por sua vez, é um dos maiores produtores de arroz do estado, com reconhecida importância no desenvolvimento da região ribeirinha do São Francisco. Além disso, desenvolve projetos de piscicultura em parceria com a CODEVASF, que encontra no município um laboratório natural, no maior açude de Alagoas. Atualmente a agricultura do município tem sido profundamente alterada pelo setor sucroalcooleiro, já que a única indústria de grande porte do município é a usina Marituba. Sabendo-se que devido o substancial aumento populacional de 4,65%, onde estima-se que em 2013 é de 24.328 hab.(IBGE2012), onde cerca de 22% destes residem na zona urbana em 1.363 domicílios permanentes(IBGE/2010) provocando assim uma coleta de resíduos sólidos de 152,6 Ton/mês(SINIS/2012) onde esta é realizada através de coleta porta-a-porta em regime de terceirização de Transporte Coletor com sistema basculante rudimentar e aberto sem ao menos efetivar 100% de transferência de seu volume, o percurso é de 4,8Km, observamos o percurso e concluímos “In Locum” que vários resíduos menos densos sobrevoam e pousam por todo trajeto causando vários distúrbios sanitários e na saúde das comunidades locais. Diante deste cenário, podemos perceber que a efetivação na celebridade deste convênio cujo objeto “AQUISIÇÃO DE CAMINHÃO COMPACTADOR DE RESÍDUOS SÓLIDOS”, com esta autarquia MINISTÉRIO DA INTEGRAÇÃO NACIONAL em parceria com a CODEVASF/AL, atenderá ao fomento de nossa comunidade e melhor qualidade de vida resgatando os valores socioambientais, assim sendo, amenizando de maneira satisfatória em curto prazo o sofrimento da população igrejanovense. Tendo em vista a necessidade de melhorarmos nossa coleta de resíduos sólidos solicitamos aprovação deste pleito de suma importância e de necessidade aos nossos munícipes.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Caminhão Compactador de Resíduos Sólidos.",
+            "information": "Em atendimento ao disposto no artigo 26 da Portaria Interministerial n.º 507, de 24 de novembro de 2011, declaro, para os devidos fins, perante a Secretaria de Direitos Humanos da Presidência da República (SDH/PR), que A PREFEITURA MUNICIPAL DE IGREJA NOVA possui Capacidade Técnica e Gerencial para celebrar, executar e prestar contas de convênio com a União, nos termos da Proposta de Convênio n.º 062329/2013, cadastrada no Sistema de Gestão de Convênios e Contratos de Repasse (SICONV).",
+            "proposalDate": "2013-09-25T00:00:00.000Z",
+            "biddingDate": "2013-12-05T00:00:00.000Z",
+            "homologationDate": "2013-12-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320130008",
+              "name": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 -Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas - (EMENDA)",
+              "value": 250000,
+              "details": {
+                "code": "2220320130008",
+                "name": "2029 – DESENVOLVIMENTO REGIONAL, TERRITORIAL SUSTENTÁVEL E ECONOMIA SOLIDÁRIA - Ação: PT - 15.244.2029.7k66.0027 -Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas - (EMENDA)",
+                "cps": null,
+                "items": "a) Construção e recuperação de estradas – rodovias estaduais, estradas vicinais, obras de arte, pontes;, g) Aquisição de equipamentos agrícolas e de apoio ao município - colhetadeira, trator de pneu, grade, arado, plantadeira, picador de forragem, tanque de resfriamento, etc",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 12500,
+                  "financial": 12500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 237500,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.723.888-** - MANOEL ROQUE GREGORIO DOS SANTOS",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.459.574-** - SILVIO ROMERO DE ARAUJO CAVALCANTI"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "00152014",
+              "type": "Licitação - Pregão",
+              "date": "2014-09-19T00:00:00.000Z",
+              "processId": "0036102014",
+              "status": "Em elaboração",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Em elaboração",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Eletrônico",
+                "processId": "0036102014",
+                "biddingId": "00152014",
+                "object": "Aquisição de Caminhão Compactador.",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "A aquisição deste equipamento, tem como objetivo fomentar o desenvolvimento municipal através de investimentos em infraestrutura, para alcance da melhoria da qualidade\nde vida da população. A realização de um pregão eletrônico está em consonância com a legislação vigente e não fere qualquer dos princípios vinculativos da Administração Pública, visa tão somente possibilitar a gestão das aquisições de forma mais organizada e sistemática.",
+                "publishDate": "2014-09-19T00:00:00.000Z",
+                "beginDate": "2014-10-02T00:00:00.000Z",
+                "endDate": "2014-11-26T00:00:00.000Z",
+                "biddingValue": 250000,
+                "homologationDate": "2014-11-26T00:00:00.000Z",
+                "city": "2763 - IGREJA NOVA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000069/2014",
+              "biddingId": "015/2014",
+              "date": "2014-11-27T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12450888000143",
+                "hirerDocument": "CNPJ: 12242350000143",
+                "type": "Material e Serviço",
+                "object": "AQUISIÇÃO DE UM CAMINHÃO COMPACTADOR DE RESÍDUOS SÓLIDOS",
+                "totalValue": 250000,
+                "publishDate": "2014-11-27T00:00:00.000Z",
+                "beginDate": "2014-11-27T00:00:00.000Z",
+                "endDate": "2015-11-27T00:00:00.000Z",
+                "signDate": "2014-11-27T00:00:00.000Z",
+                "executionProcessId": "015/2014 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0036102014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "788047/2013",
+            "validity": "05/12/2013 a 30/11/2015",
+            "limitDate": "2016-08-16T00:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 237500,
+            "counterpartValue": 12500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "757343/2011",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2012-01-18T00:00:00.000Z",
+        "end": "2014-01-15T00:00:00.000Z",
+        "program": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "047692/2011",
+            "organId": "00060/2011",
+            "processId": "59250.000061/2011-39",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Igreja Nova – AL., por ser um município em amplo processo de expansão em todas as áreas da economia (comércio, indústria e agropecuária) vem nos últimos 05 (cinco) anos passando por um processo de desgaste contínuo de suas vias (ruas e avenidas) pelo crescente aumento do fluxo de veículos de passeio e carros pesados (caminhões e carretas) que circulam diariamente. Outros fatores que diretamente contribuíram para a deterioração das vias foram as obras estruturantes que a municipalidade vem realizando, tais como a Implantação do Sistema de Esgotamento Sanitário e do Sistema de Abastecimento d’Água, o que torna-se necessário a imediata recuperação das mesmas, através de pavimentação asfáltica, por ser uma alternativa mais viável, de custos mais baixos e por ser mais resistente e ao trânsito pesado que ocorrerá com mais intensidade nos próximos meses, ocasião em que a fábrica de beneficiamento de arroz (cultura principal do município) entrar em funcionamento. A pavimentação asfáltica proporcionará um melhor fluxo para o escoamento da produção de arroz, principal cultura, e de outros insumos produzidos e comercializados no município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação Asfáltica sobre Paralelepípedo Irregular, no Município de Igreja Nova/AL, na Rua da Alegria, Rua Bela Vista, Rua do Beco I, Rua do Beco II, Rua do Cajueiro, Praça Freitas Cavalcante, Rua Joaquim Távora, Rua do Matadouro, Travessa do Matadouro, Rua Nossa Senhora Aparecida, Travessa Nossa Senhora Aparecida, Rua da Olaria, Rua da Providência, Travessa da Providência, Rua São Bento, Travessa São Bento, Rua São Francisco, Rua São Gonçalo, Travessa São Gonçalo, Praça São João Batista, Rua São Joaquim, Rua São Vicente, Rua Santa Luzia, Travessa Santos Filho, Rua Trapiá, Rua Vila São José, Rua da Vitória e Travessa da Vitória I, para proporcionar um melhor fluxo para o escoamento da produção",
+            "information": "",
+            "proposalDate": "2011-08-30T00:00:00.000Z",
+            "biddingDate": "2011-12-31T00:00:00.000Z",
+            "homologationDate": "2012-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020110077",
+              "name": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+              "value": 1530.612,
+              "details": {
+                "code": "5300020110077",
+                "name": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+                "cps": null,
+                "items": "Apoio à Implantação de Infra-Estrutura Social e Produtiva em Espaços Sub-Regionais",
+                "couterpartRule": "Municípios com até 50.000 habitantes localizados nas Mesorregiões Prioritárias da PNDR [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1530.612,
+                "couterpartValues": {
+                  "total": 30612.24,
+                  "financial": 30612.24,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1500,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.103.704-** - FILLIPO GUSTAVO DE ARAUJO LIMA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.733.591-** - SERGIO DUARTE DE CASTRO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "757343/2011",
+            "validity": "18/01/2012 a 15/01/2014",
+            "limitDate": "2014-02-14T00:00:00.000Z",
+            "totalValue": 1530.612,
+            "transferValue": 1500,
+            "counterpartValue": 30612.24,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "747107/2010",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-30T00:00:00.000Z",
+        "end": "2012-05-25T00:00:00.000Z",
+        "program": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas enviada para Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "078377/2010",
+            "organId": "00698/2010",
+            "processId": "59200.000249/2010-91",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Dec 6.170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Igreja Nova possui em seu perímetro 48 povoados que são interligados por estradas vicinais de piçarra e que precisam constantemente de reparos fazendo com que o município tenha que contratar serviços desse tipo de para recuperação de estradas. A aquasição desse trator e do caminhão será de suma importância para dar suporte na recuperação dessas estradas, visto que a região é também produtora de arroz e necessitam das estradas em bom estado para o escoamento da produção.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Patrulha Mecanizada - 01 caminhão trucado 06 cilindros; 01 carroceria basculante 10/12; e 01 moto niveladora",
+            "information": "",
+            "proposalDate": "2010-06-30T00:00:00.000Z",
+            "biddingDate": "2010-12-28T00:00:00.000Z",
+            "homologationDate": "2010-12-30T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100012",
+              "name": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+              "value": 816326.53,
+              "details": {
+                "code": "5300020100012",
+                "name": "SPR - PROMO??O DA SUSTENTABILIDADE DE ESPA?OS SUB-REGIONAIS - PROMESO - EMENDAS",
+                "cps": null,
+                "items": "Estruturação e Dinamização de Arranjos Produtivos Locais em Espaços Sub-Regionais, Apoio à Implantação de Infra-Estrutura Social e Produtiva em Espaços Sub-Regionais, Apoio à Geração de Empreendimentos Produtivos em Espaços Sub-Regionais, Apoio a Projetos de Desenvolvimento Sustentável Local Integrado",
+                "couterpartRule": "Municípios com até 50.000 habitantes localizados nas Mesorregiões Prioritárias da PNDR [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 816326.53,
+                "couterpartValues": {
+                  "total": 16326.53,
+                  "financial": 16326.53,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 800000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.083.214-** - NEIWTON SILVA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.669.809-** - MARCIA REGINA SARTORI DAMO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2011",
+              "type": "Licitação - Pregão",
+              "date": "2011-03-21T00:00:00.000Z",
+              "processId": "0176",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0176",
+                "biddingId": "03/2011",
+                "object": "Aquisição de uma patrulha mecanizada:",
+                "legalFoundation": "Lei Federal 10.520/2002 e 8.666/93",
+                "justification": "sob o ângulo jurídico-formal guarda conformidade com as exigências legais preconizadas para os instrumentos da espécie, em consonância com as Leis Federais 10.520/2002 e 8.666/93 e suas modificações aplicada subsidiariamente àquela.",
+                "publishDate": "2011-03-21T00:00:00.000Z",
+                "beginDate": "2011-04-06T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 816326.53,
+                "homologationDate": "2011-04-29T00:00:00.000Z",
+                "city": "2763 - IGREJA NOVA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000009/2011",
+              "biddingId": "03/2011",
+              "date": "2011-05-19T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 03079649000138",
+                "hirerDocument": "CNPJ: 12242350000143",
+                "type": "Material",
+                "object": "CAMINHÃO TRUCADO COM CARROCERIA BASCULANTE 10/12",
+                "totalValue": 220000,
+                "publishDate": "2011-05-19T00:00:00.000Z",
+                "beginDate": "2011-05-02T00:00:00.000Z",
+                "endDate": "2011-12-29T00:00:00.000Z",
+                "signDate": "2011-05-02T00:00:00.000Z",
+                "executionProcessId": "03/2011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0176 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Enviada para Análise",
+            "number": "747107/2010",
+            "validity": "30/12/2010 a 25/05/2012",
+            "limitDate": "2012-06-24T00:00:00.000Z",
+            "totalValue": 816326.53,
+            "transferValue": 800000,
+            "counterpartValue": 16326.53,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "712286/2009",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-21T00:00:00.000Z",
+        "end": "2012-06-14T00:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "097041/2009",
+            "organId": "50012/2009",
+            "processId": "59550.000969/2009-43",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto nº 6.170/2007 c/ Portaria Interministerial MP/MF/MCT nº 165/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "Devido as fortes chuvas ocorridas no período de 23/05/2009 à 09/06/2009, o município de Igreja Nova especificamente, no distrito de irrigação do perímetro Boacica, a qual sua barragem transbordou além do normal causando grande enchente na várzea do Vale Boacica; houve prejuízos significativos em todas as estradas do perímetro impossibilitando o transito entre o centro e seus povoados como também, o escoamento da produção agrícola (arroz). É importante salientar que 70% da população do município localiza-se nos povoados e que a mesma sofreu inúmeros transtornos como a dificuldade no transporte de estudantes que se deslocam para o centro do município para as escolas de ensino médio, também vale lembrar que o deslocamento de profissionais para as unidades de saúdes situadas nos povoados ficam prejudicados. Diante do quadro exposto acima, esperamos que esta intervenção minimize os danos sofridos pela população.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Serviços de recuperação de estradas vicinais por decorrência das fortes chuvas ocorridas entre os meses de maio e junho de 2009 no Município de Igreja Nova/AL, especificamente no perimetro de irrigação do Boacica que abrange os povoados: Bela Vista, Cajueiro, Chinaré, Ilha das Antas, Itapicuru, Ipiranga, Jenipapo, Lagoa Grande, Serraria, Tapera, Remendo e Vista Alegre.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial n° 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Igreja Nova/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contratos (José Leite Filho), CPL – Comissão Permanente de Licitação (Anna Karyne Alves da Silva, Karla Patrícia Raposo de Azevedo, Ângela Maria Santos), Engenheiro (Octavio Teixeira Soares Neto), Técnico Social (Luana Karla Nascimento Fagundes), e Contador Geral (Luis Gustavo dos Santos), para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2009-11-09T00:00:00.000Z",
+            "biddingDate": "2009-12-21T00:00:00.000Z",
+            "homologationDate": "2009-12-23T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320090122",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 360000,
+              "details": {
+                "code": "2220320090122",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Todos os municípios, com população abaixo de 50.000 habitantes, localizados em todas as regiões do Brasil. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 360000,
+                "couterpartValues": {
+                  "total": 7200,
+                  "financial": 7200,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 352800,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.083.214-** - NEIWTON SILVA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2010",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "974",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "974",
+                "biddingId": null,
+                "object": "CONTRATA��O DE PROFISSIONAL DE ENGENHARIA PARA ELABORA��O DE PROJETO B�SICO PARA RECUPERA��O DAS ESTRADAS VICINAIS NO MUNIC�PIO DE IGREJA NOVA-AL",
+                "legalFoundation": "LEI 8666/93, ART 24 INCISO I",
+                "justification": "O VALOR COBRADO PELA PRESTA��O DE SERVI�O N�O ULTRAPASSA O LIMITE ESTIPULADO, NO INCISO I, DO ART 24 DA LEI 8.666/93, BEM COMO, A DOCUMENTA��O JUNTADA AOS AUTOS DO PROCESSO, COMPROVA QUE O MESMO EST� HABILITADO PELO CONSELHO FEDERAL DE ENGENHARIA ARQUITETURA E AGRONOMIA.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": null,
+                "city": "2763 - IGREJA NOVA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000013/2010",
+              "biddingId": "02/2010",
+              "date": "2010-07-15T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 04369116473",
+                "hirerDocument": "CNPJ: 12242350000143",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE PROFISSIONAL DE ENGENHARIA PARA ELABORAÇÃO DE PROJETO BÁSICO PARA RECUPERAÇÃO DAS ESTRADAS VICINAIS NO MUNICÍPIO DE IGREJA NOVA-AL",
+                "totalValue": 12100,
+                "publishDate": "2010-07-15T00:00:00.000Z",
+                "beginDate": "2010-07-15T00:00:00.000Z",
+                "endDate": "2010-08-15T00:00:00.000Z",
+                "signDate": "2010-07-14T00:00:00.000Z",
+                "executionProcessId": "02/2010 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "974 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "712286/2009",
+            "validity": "21/12/2009 a 14/06/2012",
+            "limitDate": "2012-08-21T00:00:00.000Z",
+            "totalValue": 360000,
+            "transferValue": 352800,
+            "counterpartValue": 7200,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "709838/2009",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2013-01-10T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "050148/2009",
+            "organId": "50148/2009",
+            "processId": "050148/2009",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "Decreto 1670/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Igreja Nova,em seu perímetro, é muito carente com relação a obras de infra estrutura urbana; em que sua população sofre constantemente com a falta de pavimentação, que gera no verão por conta da poeira uma série de doenças respiratórias principalmente nas crianças e idosos como também impossibilitando o tráfego nos períodos chuvosos.Com está intervenção serão beneficiadas direta e indiretamente 500 famílias com renda familiar em torno de 02 salários mínimos.(zona urbana)",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO EM PARALELEPÍPEDO NA RUA DA PROVIDÊNCIA, ZONA URBANA DO MUNICÍPIO DE IGREJA NOVA - AL",
+            "information": "O Município de Igreja Nova Possui em seu corpo Técnico profissionais capacitados a fiscalizar e gerenciar esse tipo de intervenção; contando com um Engenheiro e dois Arquitetos.",
+            "proposalDate": "2009-07-15T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020091341",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 301326.53,
+              "details": {
+                "code": "5600020091341",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 301326.53,
+                "couterpartValues": {
+                  "total": 6026.53,
+                  "financial": 6026.53,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.083.214-** - NEIWTON SILVA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "709838/2009",
+            "validity": "31/12/2009 a 10/01/2013",
+            "limitDate": "2013-01-10T00:00:00.000Z",
+            "totalValue": 301326.53,
+            "transferValue": 295300,
+            "counterpartValue": 6026.53,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "707785/2009",
+        "company": {
+          "id": "3bcef0c0-61a9-4a21-bd02-b78f8cc41907",
+          "cnpj": "12242350000143",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5dd27b0d-55fa-47ef-9925-b74368b9a68e",
+            "name": "Igreja Nova",
+            "uf": "AL",
+            "ibge": "2703205"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2013-01-10T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "052946/2009",
+            "organId": "52946/2009",
+            "processId": "052946/2009",
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "legalFoundation": "decreto 6170",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Igreja Nova, que possui 42 povoados em seu perímetro é muito carente com relação a obras de infra estrutura principalmente em seus povoados; em que sua população sofre constantemente com a falta de pavimentação, que gera no verão por conta da poeira uma série de doenças respiratórias principalmente nas crianças e idosos como também impossibilitando o tráfego nos períodos chuvosos. Serão beneficiadas cerca de 1000 famílias com renda familiar entre 01(um) e 02(dois) salários mínimos da zona rural.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO EM PARALELEPÍPEDO NOS POVOADOS: VISTA ALEGRE, ALECRIM, ITAPICURU, QUARESMA, TAPERA, SERRARIA, ILHA DAS ANTAS, IPIRANGA, BELA VISTA; ZONA RURAL DO MUNICÍPIO DE IGREJA NOVA - AL",
+            "information": "O Município de Igreja Nova Possui em seu corpo Técnico profissionais capacitados a fiscalizar e gerenciar esse tipo de intervenção; contando com um Engenheiro e dois Arquitetos.",
+            "proposalDate": "2009-07-22T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020090763",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 1209.591,
+              "details": {
+                "code": "5600020090763",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Infraestrutura urbana",
+                "couterpartRule": "",
+                "totalValue": 1209.591,
+                "couterpartValues": {
+                  "total": 24191.84,
+                  "financial": 24191.84,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1185.4,
+                  "amendment": "R$ 1.185.400,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.242.350/0001-43 - MUNICIPIO DE IGREJA NOVA",
+            "respProponent": "***.083.214-** - NEIWTON SILVA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE IGREJA NOVA",
+            "documentNumber": "12.242.350/0001-43",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "707785/2009",
+            "validity": "31/12/2009 a 10/01/2013",
+            "limitDate": "2013-01-10T00:00:00.000Z",
+            "totalValue": 1209.591,
+            "transferValue": 1185.4,
+            "counterpartValue": 24191.84,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

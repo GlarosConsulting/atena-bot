@@ -1,0 +1,611 @@
+{
+  "beginDate": "2020-09-01T20:16:04.535Z",
+  "endDate": "2020-09-01T20:48:14.197Z",
+  "data": {
+    "location": {
+      "city": "Craíbas",
+      "uf": "AL",
+      "ibge": "2702355"
+    },
+    "agreements": [
+      {
+        "agreementId": "875507/2018",
+        "company": {
+          "id": "1e0ac730-8f87-4bc0-af77-9ffd8139eafa",
+          "cnpj": "08439549000199",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "2af69ef6-abab-4840-9d3c-0cbbef5b03e5",
+          "sphere": "Municipal",
+          "city": {
+            "id": "2af69ef6-abab-4840-9d3c-0cbbef5b03e5",
+            "name": "Craíbas",
+            "uf": "AL",
+            "ibge": "2702355"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2019-01-15T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "029861/2018",
+            "organId": "00474/2018",
+            "processId": "59553.000443/2018-24",
+            "proponent": "CNPJ 08.439.549/0001-99 - MUNICIPIO DE CRAIBAS",
+            "legalFoundation": "Decreto 6.170/2007 e Portaria 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Craíbas está situado na mesorregião do agreste alagoano, sob as coordenadas geográficas: Latitude: 09º 37’ 05’’ S e Longitude: 36º 46’ 05’’ W. Estabelece limites com os municípios de Igaci, Girau do Ponciano, Lagoa da Canoa, Arapiraca, Jaramataia, e Major Isidoro. O acesso a partir de Maceió é feito através das rodovias pavimentadas BR-316, BR-101 e AL-220. Estando há 20 Km da 2ª maior cidade do Estado, que é ARAPIRACA. Sua população é de 22.641 habitantes, dessas 7.328 habitantes está localizada na zona urbana, além disso, tem área territorial em 271, 3 Km² e uma densidade demográfica de 83,44 e possui um IDHM 0,525 de acordo com o censo do IBGE 2010. Sua população vive basicamente da agricultura, voltada para o plantio de tabaco (fumo); também é muito forte o plantio de milho, algodão e feijão. Seus habitantes têm forte ligação com a cidade vizinha de Arapiraca, grande consumidora do tabaco plantado na cidade. As Principais atividades econômicas: são a Agropecuária e Comércio. Atualmente conta com 126 empresas com CNPJ, ocupando 1.118 pessoas (5% da população). Na área de pecuária, conta com os seguintes rebanhos (cabeças): Bovinos – 7.321; Suínos – 1.066; Equinos – 606; Asininos – 87; Muares – 96; Ovinos – 3.088; Caprinos – 485; Aves: codorna – 35, galináceos – 15.036; Patos, gansos, marrecos, perdizes e faisões – 319; Perus – 90. A produção leiteira é de 5.348,719 litros, de ovos é de 33.911 dúzias e de mel de abelha 700 Kg. Na área agrícola: Abóbora, moranga, jerimum – 47.115 há (80.291 t); Amendoim- 2.913 há (1.993 t); Fumo – 1.129,722 há (1.131,928 t); Mandioca – 23,198 ha (250,540 t); Melancia – 0,318 há (0,631 t) e Milho (grão) – 980,031 ha (1.611,675 t); Milho forrageiro – 1.634,838 há (23.630,120 t); Algodão- 600 t; Feijão – 625 t. Na área extrativista o município retira: Lenha – 130 m³ e Madeira em Toras – 55 m³. Contudo, o povoado de Marruas situado próximo da sede do município é ponto estratégico para o desenvolvimento local e regional, uma vez que boa parte da movimentação econômica produzida por produtores locais utiliza o povoado como passagem da produção. Entretanto, a falta de infraestrutura adequada impacta negativamente no desenvolvimento regional e territorial, dificultando o escoamento da produção para os grandes centro e cidades circunvizinhas, além de que, nos períodos chuvosos se transita com muita dificuldade, pois não possui pavimento, nem drenagem e no verão devido o transito de veículos produz uma poeira de terra excessiva que invade os estabelecimentos comerciais e residências, gerando problemas de saúde a população. Diante do exposto, a presente proposta visa o estabelecimento de políticas públicas através de ações que objetiva o Desenvolvimento Regional e Territorial, através da obra de Pavimentação e drenagem da Rua Principal do Povoado Marruas no município de Craíbas/AL. A obra beneficiará diretamente cerca de 70 produtores de culturas diversificada, 150 famílias e indiretamente produtores e empreendedores da região. Sendo assim, se faz necessário à intervenção da execução de serviços de drenagens pluviais, pavimentação em paralelepípedo, passeio (calçada) e a sinalização vertical. A pavimentação permitirá um translado dos produtores e sua produção ao seu destino de comercialização, gerando um a competitividade e possibilitando a geração de emprego e renda, promovendo o desenvolvimento territorial local e da região. Com isso, os resultados esperados são: melhoria na qualidade de vida, no trafego de veículos e um melhor aspecto paisagístico; fortalecer a promoção do desenvolvimento regional do território por meio do planejamento da ocupação do uso do espaço territorial; Promover a estruturação para atividades produtivas, arranjos produtivos e rotas de integração para o Desenvolvimento Regional e Territorial. Para tanto, esta proposta conta com recurso oriundo da Emenda 22890003 no valor de R$ 286.271,00 – Senador da República – RENAN CALHEIROS",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Pavimentação e drenagem da Rua Principal do Povoado Marruas no município de Craíbas/AL",
+            "information": "Em atendimento ao disposto no inciso V, artigo 16, da Portaria Interministerial nº 424, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Craíbas possui quadro de profissionais que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta",
+            "proposalDate": "2018-03-19T00:00:00.000Z",
+            "biddingDate": "2018-12-31T00:00:00.000Z",
+            "homologationDate": "2019-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020180008",
+              "name": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+              "value": 351503.27,
+              "details": {
+                "code": "5300020180008",
+                "name": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+                "cps": null,
+                "items": "Pavimentação, Drenagem",
+                "couterpartRule": "No caso de municípios com ate 50.000 habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 351503.27,
+                "couterpartValues": {
+                  "total": 65232.27,
+                  "financial": 65232.27,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 286271,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 08.439.549/0001-99 - MUNICIPIO DE CRAIBAS",
+            "respProponent": "***.427.384-** - EDIEL BARBOSA LIMA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.943.702-** - HELDER ZAHLUTH BARBALHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CRAIBAS",
+            "documentNumber": "08.439.549/0001-99",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "875507/2018",
+            "validity": "15/01/2019 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 351503.27,
+            "transferValue": 286271,
+            "counterpartValue": 65232.27,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "864919/2018",
+        "company": {
+          "id": "1e0ac730-8f87-4bc0-af77-9ffd8139eafa",
+          "cnpj": "08439549000199",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "2af69ef6-abab-4840-9d3c-0cbbef5b03e5",
+          "sphere": "Municipal",
+          "city": {
+            "id": "2af69ef6-abab-4840-9d3c-0cbbef5b03e5",
+            "name": "Craíbas",
+            "uf": "AL",
+            "ibge": "2702355"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-28T00:00:00.000Z",
+        "end": "2022-12-31T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS 2018",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "022460/2018",
+            "organId": "22460/2018",
+            "processId": "224602018",
+            "proponent": "CNPJ 08.439.549/0001-99 - MUNICIPIO DE CRAIBAS",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Craíbas está situado na mesorregião do agreste alagoano, sob as coordenadas geográfica com Latitude: 09º 37’ 05’’ S e Longitude: 36º 46’ 05’’ W . Estabelece limites com os municípios de Igaci, Girau do Ponciano, Lagoa da Canoa, Arapiraca, Jaramataia, e Major Isidoro. O acesso a partir de Maceió é feito através das rodovias pavimentadas BR-316, BR-101 e AL-220. Estando há 20 Km da 2ª maior cidade do Estado, que é ARAPIRACA. Sua população é de 22.641 habitantes, dessas 7.328 habitantes está localizada na zona urbana, além disso, tem área territorial em 271, 3 Km² e uma densidade demográfica de 83,44 e possui um IDHM 0,525 de acordo com o censo do IBGE 2010. Situada na região turística Agreste, Craíbas tem em seu calendário varias festividades bastante movimentadas: a festa de emancipação política (23 de abril), as festas Juninas que ocorre ente 12 a 29 de junho, comemoração de São Antônio, São João e São Pedro e a festa da padroeira, Nossa Senhora da Conceição (8 de dezembro) e comemoração a religiosa a Santa Luzia ( 13 de dezembro), com novenário e apresentações religiosa. Possui como principais atrativos turísticos a Praça Nossa Senhora do Coração de Ouro, onde tem uma estátua de Nossa Senhora com vista panorâmica da cidade, a Praça Padre Cicero Romão, onde tem uma estátua do Pe Cicero, muito visitada pelo os romeiros e turistas de outras regiões, as Praças Santa Luzia(1 e 2) e a Cidade de Maria. Localizada no povoado de Lagoa Torta, um local de orações e visitações dedicado à Nossa Senhora que no período da semana santa (entre março e abril) acontece durante a semana apresentação teatral da paixão de cristo, reunindo um público de 5.000 visitantes/turistas por dia, fortalecendo o turismo religioso. Quando no período das festividades a cidade chegar a receber uma estimativa de 4.000 mil turistas. Entretanto, existem acessos a pontos turísticos sem infraestrutura adequada, sem pavimento adequado e no período dos eventos e festividades realizados dificulta o transito e locomoção dos turistas, causando certo desconforto e transtorno. Há também uma carência de infraestrutura adequada que divulgue as potencialidades e atraia mais turistas ao Município. Nesse contexto, a Prefeitura propõe APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - PAVIMENTAÇÃO DE ACESSO A PRAÇAS E CONSTRUÇÃO DE PORTAL NO MUNICÍPIO DE CRAÍBAS-AL. O publico alvo beneficiado são todos turistas. O acesso realização com a execução de pavimentação, drenagem e sinalização, iniciará na Travessa Santa Luzia (9°37’12,55’’S e 36°46’15,21’’O) na Praça Santa Luzia (1) seguindo pela Rua Santa Luzia até a Praça Santa Luzia(2). Nessas Praças são realizados a festa de emancipação política (23 de abril) que reuni aproximadamente 6 mil participantes; As comemorações das Festas Juninas que acontecem entre 12, 23 e 29 de junho, com quermesse, apresentação de danças culturais(forro, xaxado, etc) e show artísticos aglomerando um publico de 3000 pessoas); e por fim a comemoração religiosa a Santa Luzia ( 13 de dezembro), com novenário e apresentações religiosa com um publico de 2.000 pessoas); esses eventos e festividades gera um fluxo turístico de aproximadamente 11.000 pessoas/ano. Já a construção do Portal no município se dará sob as nas coordenadas: 9º38’1.62”S e 36º45’9.77”O, o qual fomentará a divulgação constante dos elementos históricos, econômicos, culturais e as particularidades da cidade, tornando-se fundamental na valorização dos aspectos culturais do município. Ao tempo que ira fomentar o aumento do fluxo de turista regional e até nacional uma vez que sua localização e favorável. Os resultados esperados com a execução da obra é suprir com uma infraestrutura adequada o acesso os pontos turísticos, garantir a locomoção dos turistas com acessibilidade e segurança, além de, promover a valorização dos atrativos culturais e históricos; proporcionar maior divulgação aos turistas e visitantes, e por fim, aumentar o fluxo turístico local e da região. Concluindo, em conformidade com o Ministério do Turismo que estabelece políticas que objetiva promover Estados e Municípios, o objeto, APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - PAVIMENTAÇÃO DE ACESSO A PRAÇAS E CONSTRUÇÃO DE PORTAL NO MUNICÍPIO DE CRAÍBAS-AL possui plena conformidade com o Programa - Apoio Projetos de Infraestrutura Turística.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - Pavimentação de acesso à praças e construção de portal no município de Craíbas-AL",
+            "information": "Declaro para devido fins que se faz necessário que esta Municipalidade possui na composição do quadro de sua Equipe Técnica, os seguintes profissionais - Engenheiro Civil, Arquiteto Urbanista, Assistente Social, CPL - Comissão de Licitação e um GMC - Gerente Municipal de Convênio. Todos devidamente capacitados e aptos para atuar na gerência, acompanhamento e fiscalização do objeto desta proposta.",
+            "proposalDate": "2018-02-22T00:00:00.000Z",
+            "biddingDate": "2018-12-28T00:00:00.000Z",
+            "homologationDate": "2019-01-07T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020180003",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS 2018",
+              "value": 1437.645,
+              "details": {
+                "code": "5400020180003",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS 2018",
+                "cps": "007/2018",
+                "items": "Equipamentos Comunitários, Pavimentação",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1437.645,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1427.645,
+                  "amendment": "R$ 1.427.645,15"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 08.439.549/0001-99 - MUNICIPIO DE CRAIBAS",
+            "respProponent": "***.427.384-** - EDIEL BARBOSA LIMA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CRAIBAS",
+            "documentNumber": "08.439.549/0001-99",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "864919/2018",
+            "validity": "28/12/2018 a 31/12/2022",
+            "limitDate": "2023-03-01T00:00:00.000Z",
+            "totalValue": 1437.645,
+            "transferValue": 1427.645,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "864679/2018",
+        "company": {
+          "id": "1e0ac730-8f87-4bc0-af77-9ffd8139eafa",
+          "cnpj": "08439549000199",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "2af69ef6-abab-4840-9d3c-0cbbef5b03e5",
+          "sphere": "Municipal",
+          "city": {
+            "id": "2af69ef6-abab-4840-9d3c-0cbbef5b03e5",
+            "name": "Craíbas",
+            "uf": "AL",
+            "ibge": "2702355"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-28T00:00:00.000Z",
+        "end": "2022-12-31T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS 2018",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "022651/2018",
+            "organId": "22651/2018",
+            "processId": "226512018",
+            "proponent": "CNPJ 08.439.549/0001-99 - MUNICIPIO DE CRAIBAS",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Craíbas está situado na mesorregião do agreste alagoano. Estabelece limites com os municípios de Igaci, Girau do Ponciano, Lagoa da Canoa, Arapiraca, Jaramataia, e Major Isidoro. O acesso a partir de Maceió é feito através das rodovias pavimentadas BR-316, BR-101 e AL-220. Estando há 20 Km da 2ª maior cidade do Estado, que é ARAPIRACA. Sua população é de 22.641 habitantes, dessas 7.328 habitantes está localizada na zona urbana, além disso, tem área territorial em 271, 3 Km² e uma densidade demográfica de 83,44 e possui um IDHM 0,525 de acordo com o censo do IBGE 2010. Situada na região turística Agreste, Craíbas tem em seu calendário duas festividades bastante movimentadas: a festa de emancipação política (23 de abril), as festas Juninas, que ocorrer ente 12 a 29 de junho, comemoração de São Antônio, São João e São Pedro; e a festa da padroeira, Nossa Senhora da Conceição (8 de dezembro), cerca de 3000 turistas durante esta festividades. Craíbas é também movimentada pelo turismo religioso. Possui como principais atrativos turísticos a Praça Nossa Senhora do Coração de Ouro, onde tem uma estátua de Nossa Senhora com vista panorâmica da cidade, a Praça Padre Cicero Romão, onde tem uma estátua do Pe Cicero, muito visitada pelo os romeiros e turistas de outras regiões e a Praça Santa Luzia e a Cidade de Maria. Localizada no povoado de Lagoa Torta, um local de orações e visitações dedicado à Nossa Senhora, e no período da semana santa (entre março e abril) acontece durante a semana apresentação teatral da paixão de cristo, reunido um publico de 5.000 visitantes/turistas, fortalecendo o turismo religioso. Quando no período das festividades a cidade chegar a receber uma estimativa de 4.000 mil turistas. Embora tendo um potencial turístico não possui uma infraestrutura adequada para desembarque e embarque dos turistas que visitam a cidade nos períodos das festividades. Diante do exposto, a Prefeitura propõe o APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - Construção do Terminal Rodoviário Intermunicipal/Interestadual no município de Craíbas-Alagoas( coordenadas 9°37'06.3''S 36°46'08.5''W), a obra tem como público alvo os turistas de outro municípios, da região e de outros Estados. A implantação da obra irá suprir a ausência de uma infraestrutura adequada para o recebimento dos turistas. Sendo assim, os beneficiados com a obra são os turistas, pois terá um aparelho que garantirá melhor estrutura na locomoção para o município, o que fomentará melhor o desenvolvimento do turismo local. Esta obra proporcionará uma melhor receptividade e acesso à cidade, maior facilidade e conforto na locomoção dos turistas tanto no embarque e desembarque, além de atrair mais turistas para os eventos e festividades e fomentar a economia local. Logo, com a execução da obra os resultados esperados são: construção de um terminal rodoviário que comporte o recebimento de turistas de maneira adequada; Implantação uma espaço adequado que oferte mais conforto e comodidade para os turistas; Promova o fortalecimento e desenvolvimento do turismo local, aumentar o fluxo turístico Intermunicipal e Interestadual. Concluindo, em conformidade com o Ministério do Turismo que estabelece políticas que objetiva promover Estados e Municípios, o objeto, APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - Construção do Terminal Rodoviário no município de Craíbas possui plena conformidade com o Programa - Apoio Projetos de Infraestrutura Turística.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Equipamentos, Obras e Serviços de Engenharia",
+            "object": "APOIO A PROJETO DE INFRAESTRUTURA TURÍSTICA - Construção do Terminal Rodoviário no Município de Craíbas - AL",
+            "information": "Declaro para devido fins que se faz necessário que esta Municipalidade possui na composição do quadro de sua Equipe Técnica, os seguintes profissionais - Engenheiro Civil, Arquiteto Urbanista, Assistente Social, CPL - Comissão de Licitação e um GMC - Gerente Municipal de Convênio. Todos devidamente capacitados e aptos para atuar na gerência, acompanhamento e fiscalização do objeto desta proposta.",
+            "proposalDate": "2018-02-22T00:00:00.000Z",
+            "biddingDate": "2018-12-28T00:00:00.000Z",
+            "homologationDate": "2019-01-07T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020180003",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS 2018",
+              "value": 461500,
+              "details": {
+                "code": "5400020180003",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS 2018",
+                "cps": "007/2018",
+                "items": "III – construção, revitalização e reforma de terminais rodoviários intermunicipais e interestaduais, de aeroportos, de ferrovias e estações férreas de interesse turístico;, Equipamentos, Equipamentos Comunitários",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 461500,
+                "couterpartValues": {
+                  "total": 547.62,
+                  "financial": 547.62,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 460952.38,
+                  "amendment": "R$ 460.952,38"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 08.439.549/0001-99 - MUNICIPIO DE CRAIBAS",
+            "respProponent": "***.427.384-** - EDIEL BARBOSA LIMA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CRAIBAS",
+            "documentNumber": "08.439.549/0001-99",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "864679/2018",
+            "validity": "28/12/2018 a 31/12/2022",
+            "limitDate": "2023-03-01T00:00:00.000Z",
+            "totalValue": 461500,
+            "transferValue": 460952.38,
+            "counterpartValue": 547.62,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "855036/2017",
+        "company": {
+          "id": "1e0ac730-8f87-4bc0-af77-9ffd8139eafa",
+          "cnpj": "08439549000199",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "2af69ef6-abab-4840-9d3c-0cbbef5b03e5",
+          "sphere": "Municipal",
+          "city": {
+            "id": "2af69ef6-abab-4840-9d3c-0cbbef5b03e5",
+            "name": "Craíbas",
+            "uf": "AL",
+            "ibge": "2702355"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T00:00:00.000Z",
+        "end": "2021-07-11T00:00:00.000Z",
+        "program": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "094292/2017",
+            "organId": "00965/2017",
+            "processId": "25100.016824/2017-51",
+            "proponent": "CNPJ 08.439.549/0001-99 - MUNICIPIO DE CRAIBAS",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 424/2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O município de Craibas esta situado na mesorregião do agreste alagoano, sob as coordenadas geográfica com Latitude: 09º 37’ 05’’ S e Longitude: 36º 46’ 05’’ W . Vizinho dos municípios de Arapiraca, Major Izidoro, Girau do Porciano e Igaci. O acesso a Craibas se dar pela rodovia AL 486, a distância entre a cidade e a capital é de 150 km pela AL 220. Estando há 20 Km da 2ª maior cidade do Estado, que é Arapiraca. Conforme dados do IBGE 2010, possui uma densidade demográfica 83,44 hab/km², além disso, com uma área territorial de 271, 3 Km² e um IDHM de 0,525, com uma população de 22.641 habitantes, onde 7.328 é a população residente em área urbana e 15.313 é a população residente em área rural, sendo esta população rural formada por várias localidades, entre as quais se destacam nas localidades de Povoado Lagoa do Algodão, Povoado Lagoa da Angélica, Povoado Marruas e o Povoado Lagoa das Pedras. Embora o município possua um Plano Municipal de Saneamento Básico, está situado em área endêmica da doença de chagas e conforme dado da Secretaria de Vigilância em Saúde (SVS) do Ministério da Saúde, o município de Craíbas/AL consta na relação da FUNASA como um dos municípios prioritários para o Programa de Melhorias Habitacionais para o Controle da Doença de Chagas, com pontuação de 47,2 , o que representa um índice de infestação de doenças de chagas. Assim após um breve levantamento realizado, identificou há existência de varias habitações de taipas o que favorecem a colonização do transmissor da doença de Chagas, o que acaba sendo demanda para a realização do referido programa já mencionado. Diante do exposto, esta Municipalidade propõem com objeto a IMPLANTAÇÃO DE MELHORIAS HABITACIONAIS PARA O CONTROLE DA DOENÇA DE CHAGAS no município de Craíbas-Alagoas. Onde o PÚBLICO ALVO: População residente em habitações cujas condições físicas favorecem a colonização de agentes transmissores da Doença de Chagas. A LOCALIDADE COMTEMPLADA com a intervenção será o “Povoado Lagoa das Pedras”. Com a realização destas obras os RESULTADOS ESPERADOS, são: melhorar a qualidade de vida e bem estar para a população beneficiada, diminuir os agravos do transmissor das doenças de chagas, eliminar a existência de lugares propícios para a hospedagem e proliferação do transmissor, proporcionando moradias dentro dos padrões de habitabilidade adequada, construir novas unidades habitacionais e por fim promover a geração de emprego e renda com as construção.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE MELHORIAS HABITACIONAIS PARA O CONTROLE DA DOENÇA DE CHAGAS NO MUNICIPIO DE CRAÍBAS/ALAGOAS",
+            "information": "Declaro para os devidos fins, em atendimento ao disposto no inciso V, artigo 16, da Portaria Interministerial nº 424, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Craibas, inscrito sob CNPJ nº 08.439.549/0001-99, dispõe dos servidores na sua Equipe Técnica Municipal que é composta por : 01 Arquiteta : Juliana Lécia Santos do Vale CAU: A106535-1 01 Engenheiro Civil: Roany Izidoro Soares Alves, inscrito no CREA nº 020457724-1, 01 Assistente Social: Sra Helena Lucia Lopes Pereira, inscrita no CRESS nº 931 - 16º REGIÃO; 01 GMC – Sr. Jefferson Harlem da Silva – CPF: 423.311.295-68; e 01 (uma) CPL – Comissão Permanente de Licitação sobre a presidência da Sra. Greice Anne Praxedes da Silva Santos, inscrito no CPF nº 084.836.244-60 Devidamente capacitados e aptos para gerênciar, acompanhar e fiscalizar o objeto da Proposta no Siconv, a qual objetiva a Implantação de Melhorias Habitacionais para o Combate da Doença de Chagas no município de Craíbas, Estado de Alagoas.",
+            "proposalDate": "2017-11-21T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170028",
+              "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+              "value": 398594.17,
+              "details": {
+                "code": "3621120170028",
+                "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+                "cps": null,
+                "items": "Implantação de Melhorias Habitacionais para Controle da Doença de Chagas (MHCDC).",
+                "couterpartRule": "Não será exigida a contrapartida, conforme Art. 79, §4, da Lei de Diretrizes Orçamentárias – LDO 2017 (Lei nº 13.408, de 26 de dezembro de 2016). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 398594.17,
+                "couterpartValues": {
+                  "total": 2152.41,
+                  "financial": 2152.41,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 396441.76,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 08.439.549/0001-99 - MUNICIPIO DE CRAIBAS",
+            "respProponent": "***.427.384-** - EDIEL BARBOSA LIMA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "TP 03/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-12-12T00:00:00.000Z",
+              "processId": "0402018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0402018",
+                "biddingId": "TP 03/2018",
+                "object": "Contratação de Empresa Especializada em Engenharia Civil, para execução de Melhorias Habitacionais (10 Unidades) para Controle de Doenças de Chagas",
+                "legalFoundation": "Portaria Interministerial nº 424/2016 e Lei nº 8.666/1993",
+                "justification": "Considerando que ao longo dos anos, famílias que residem no município de Craíbas, construíram casas, com mão de obra própria, de forma inadequada para a habilitação digna, em razão  da escassez de recursos para construção de unidades ou pelo fato do crescimento dos núcleos familiares. Ressaltando que as mesmas unidades que se encontram em situações precárias, servem de moradia para o transmissor das doenças de chagas e também para outros que podem causa doenças.\nConsiderando ainda que o direito a moradia compõe, o conjunto de direitos sociais e também assegurados na Constituição da República Federativa do Brasil, o qual compete a União, Estado, Distrito Federal e Municípios, promover programas de construção de moradia e aa melhoria das condições habitacionais e saneamento básico.\nSolicitamos, por meio deste, autorização para abertura de processo licitatório na modalidade tomada de Preços, visando a contratação de empresa especializada em engenharia civil, para execução da construção de melhorias habitacionais (10 unidades) para o controle de doenças de chagas.",
+                "publishDate": "2018-12-12T00:00:00.000Z",
+                "beginDate": "2018-12-31T00:00:00.000Z",
+                "endDate": "2019-02-27T00:00:00.000Z",
+                "biddingValue": 398594.17,
+                "homologationDate": "2019-02-27T00:00:00.000Z",
+                "city": "2889 - CRAIBAS",
+                "analysisDate": "2019-07-11T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000028/2019",
+              "biddingId": "TP 03/2018",
+              "date": "2019-02-27T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 07285336000197",
+                "hirerDocument": "CNPJ: 08439549000199",
+                "type": "Obras",
+                "object": "Contratação de Empresa Especializada em Engenharia Civil, para execução de Melhorias Habitacionais (10 Unidades) para Controle de Doenças de Chagas",
+                "totalValue": 398594.17,
+                "publishDate": "2019-02-27T00:00:00.000Z",
+                "beginDate": "2020-04-20T00:00:00.000Z",
+                "endDate": "2021-04-20T00:00:00.000Z",
+                "signDate": "2019-02-22T00:00:00.000Z",
+                "executionProcessId": "TP 03/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0402018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE CRAIBAS",
+            "documentNumber": "08.439.549/0001-99",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "855036/2017",
+            "validity": "29/12/2017 a 11/07/2021",
+            "limitDate": "2021-09-09T00:00:00.000Z",
+            "totalValue": 398594.17,
+            "transferValue": 396441.76,
+            "counterpartValue": 2152.41,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "829907/2016",
+        "company": {
+          "id": "1e0ac730-8f87-4bc0-af77-9ffd8139eafa",
+          "cnpj": "08439549000199",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "2af69ef6-abab-4840-9d3c-0cbbef5b03e5",
+          "sphere": "Municipal",
+          "city": {
+            "id": "2af69ef6-abab-4840-9d3c-0cbbef5b03e5",
+            "name": "Craíbas",
+            "uf": "AL",
+            "ibge": "2702355"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2016-12-14T00:00:00.000Z",
+        "end": "2021-02-26T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "009056/2016",
+            "organId": "09056/2016",
+            "processId": "0090562016",
+            "proponent": "CNPJ 08.439.549/0001-99 - MUNICIPIO DE CRAIBAS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município tem o inicio com Manoel Nunes da Silva Santos que foi um dos primeiros habitantes da região onde está hoje o município de Craíbas, tendo chegado por volta de 1865. Ele comprou um grande lote de terras que pertencia a Felipe Nogueira de Lima, composto basicamente de árvores e matas, particularmente, a craibeira, que, no futuro, deu nome à cidade. A partir daí, foi iniciado por eles o desenvolvimento no povoado. Só no início do século XX é que Craíbas passou a ter características de cidade. Em 23 de março de 1923 foi realizada a primeira feira pública. Em 1939 foi instalado o primeiro cartório de registro civil. A emancipação política de Craíbas ocorreu no ano de 1962, através da Lei 2.471. O projeto, de autoria do deputado José Pereira Lúcio, foi aprovado na Assembleia Legislativa e sancionado pelo então governador Luiz Cavalcante. Antônio Barbosa foi nomeado prefeito até a realização de eleições no novo município. Craíbas tem, em seu calendário, duas festividades bastante movimentadas: a festa de Emancipação Política (23 de abril) e a festa da padroeira, Nossa Senhora da Conceição (8 de dezembro). O município de Craibas esta situado na mesorregião do agreste alagoano, sob as coordenadas geográfica com Latitude: 09º 37’ 05’’ S e Longitude: 36º 46’ 05’’ W . Vizinho dos municípios de Arapiraca, Major Izidoro, Girau do Porciano e Igaci. O acesso a Craibas se dar pela rodovia AL 486 a distancia entre a cidade e a capital é de 150 km pela AL 220. Estando há 20 Km da 2ª maior cidade do Estado, que é ARAPIRACA. Sua população é de 22.641 habitantes, dessas 7.328 habitantes esta localizada na zona urbana, além disso, tem área territorial em 271, 3 Km² e uma densidade demográfica de 83,44, de acordo com o censo do IBGE 2010. De modo, com a Implantação de pavimentação em vias públicas urbana do município de Craíbas, objeto de proposta de Convenio, visar solucionar a ausência de pavimentação nas ruas onde não existe. A execução deste objeto será de grande importância, pois solucionará o problema de fluxo de pedestre, bem como o de transito de veículos e outros meios de locomoção. Proporcionará a solução do problema de empolçamento que ocorre no período das chuvas, onde o trajeto fica interrompido devido à falta de escoamento das águas pluviais. Com isso, o projeto tornará melhor a qualidade de vidas dos moradores dessas vias urbanas, onde cerca de aproximadamente 800 famílias que tem uma renda família mensal de R$ 880,00 (oitocentos e oitenta reais) serão beneficiadas com esse convênio. Sendo que, Craíbas que possui um IDHM 0,525, com a realização e execução desta obra promoverá benefícios de melhoria em relação a este índice, além de, promover a geração de emprego e renda, onde cerca de aproximadamente 50 (cinquenta) novos postos de emprego serão criados de forma direta ou indireta, com a implantação da obra. E importante ressaltar que, este objeto de convênio, será adquirida com recurso da emenda parlamentar nº 22890003 do Senador Renan Calheiros, no valor de R$ 295.300,00 (duzentos e noventa e cinco mil, trezentos reais), cujo titulo do objeto, é Implantação de pavimentação em vias públicas urbana do município de Craíbas, e este possui vinculo com o programa 5600020160014 do Ministério das Cidades.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de pavimentação em vias públicas urbana do município de Craíbas",
+            "information": "Eu, Bruno Albuquerque de Farias Santos, Prefeito, portador do CPF nº 045.554.674-48, em atendimento ao disposto na Portaria Interministerial nº 507, de 24 de novembro de 2011, declaro para os devidos fins que, a Prefeitura Municipal de Craíbas – AL, estabelecida na Rua Pedro Gama nº 122, Centro deste município, inscrita no CNPJ n 08.439.594/0001-99, possui Capacidade Técnica e Gerencial, apta para desempenhar as atividades, na quantidade e prazos exigidos na realização do objeto deste Convênio, a Implantação de pavimentação em vias urbanas do município de Craíbas, proposta 009056/2016, cadastrado no Siconv. Declaro ainda que, o Município possui em seu quadro funcional uma equipe de servidores, capacitados e habilitados para execução, fiscalização e gerenciamento administrativo. A Gerência deste convênio ficará na responsabilidade da Secretaria Municipal de Obras, na pessoa do Secretário, Sr. Manoel Barbosa de Sena, portador do CPF nº 034.469.024-57 e do responsável pelo gerenciamento técnico da obra o Engenheiro Civil- Sr. Roany Izidoro Soares Alves, inscrito no CREA nº 020457724-1, fazendo parte desta equipe, a Assistente Social - Sra Helena Lucia Lopes Pereira, inscrita no CRESS nº 931 - 16º REGIÃO, a Comissão de Licitação - CPL – sobre a presidência da Sra. Greice Anne Praxedes da Silva Santos, inscrito no CPF nº 084.836.244-60 e o Gerente Municipal de Convênios - Sr. Jefferson Harlem da Silva, CPF. 423.311.295-68.",
+            "proposalDate": "2016-03-09T00:00:00.000Z",
+            "biddingDate": "2016-12-14T00:00:00.000Z",
+            "homologationDate": "2016-12-22T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160014",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 300000,
+              "details": {
+                "code": "5600020160014",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 4700,
+                  "financial": 4700,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 08.439.549/0001-99 - MUNICIPIO DE CRAIBAS",
+            "respProponent": "***.554.674-** - BRUNO ALBUQUERQUE DE FARIAS SANTOS",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.847.618-** - GILBERTO KASSAB"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE CRAIBAS",
+            "documentNumber": "08.439.549/0001-99",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "829907/2016",
+            "validity": "14/12/2016 a 26/02/2021",
+            "limitDate": "2021-04-27T00:00:00.000Z",
+            "totalValue": 300000,
+            "transferValue": 295300,
+            "counterpartValue": 4700,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

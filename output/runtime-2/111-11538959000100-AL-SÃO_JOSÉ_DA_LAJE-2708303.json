@@ -1,0 +1,231 @@
+{
+  "beginDate": "2020-09-01T21:54:44.411Z",
+  "endDate": "2020-09-01T21:55:50.091Z",
+  "data": {
+    "location": {
+      "city": "São José da Laje",
+      "uf": "AL",
+      "ibge": "2708303"
+    },
+    "agreements": [
+      {
+        "agreementId": "840757/2016",
+        "company": {
+          "id": "281d39cb-a0ec-4d8e-a719-3a84dcd599d4",
+          "cnpj": "11538959000100",
+          "name": "FUNDO MUNICIPAL DE SAÚDE",
+          "cityId": "cb41956d-4135-478d-9e90-58944365512d",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cb41956d-4135-478d-9e90-58944365512d",
+            "name": "São José da Laje",
+            "uf": "AL",
+            "ibge": "2708303"
+          }
+        },
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2016-12-30T00:00:00.000Z",
+        "end": "2021-03-30T00:00:00.000Z",
+        "program": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / CLINICA - CENTRO DE ESPECIALIDADES - POLICLINICA E UNIDADE MISTA / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "033529/2016",
+            "organId": "33529/2016",
+            "processId": "0335292016",
+            "proponent": "CNPJ 11.538.959/0001-00 - FUNDO MUNICIPAL DE SAUDE SAO JOSE DA LAJE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE SÃO JOSÉ DA LAJE ESTÁ LOCALIZADO NA ZONA DA MATA DO ESTADO DE ALAGOAS E TEM UMA ÁREA DE EXTENSÃO DE 299 KM2, ALTITUDE 245 M ACIMA DO NÍVEL DO MAR, ACESSO A BR 104, DISTANCIANDO DA CAPITAL DO ESTADO A 100 KM. A POPULAÇÃO DO MUNICÍPIO É DE 23.950 HABITANTES (IBGE 2010 COM ESTIMATIVA), COM MAIOR CONCENTRAÇÃO NA ÁREA URBANA E PREDOMINÂNCIA DE POPULAÇÃO JOVEM E O SEXO FEMININO. A REDE DE SERVIÇO É COMPOSTA DE 09 UNIDADES DE SAÚDE DA FAMÍLIA, 01 UNIDADE CAPS, 01 NASF E 01 UNIDADE MISTA. A COBERTURA DA ESTRATÉGIA DE SAÚDE DA FAMÍLIA NO MUNICÍPIO É DE 100%, A UNIDADE MISTA DR. ARTUR CAMELO VERAS OFERECE ATENDIMENTO AMBULATORIAL NAS ESPECIALIDADES DE PEDIATRIA, GINECOLOGIA, ORTOPEDIA, FISIOTERAPIA, OTORRINOLARINGOLOGIA, DERMATOLOGIA, OFTALMOLOGIA, CARDIOLOGIA E SERVIÇO DE URGÊNCIAS E EMERGÊNCIAS. NA ÁREA DE INTERNAÇÃO DISPÕE DE 51 LEITOS DISTRIBUÍDOS NAS CLINICAS PEDIÁTRICA, OBSTETRICIA E CLÍNICA MÉDICA. ALÉM DE LEITOS DE OBSERVAÇÃO. CONTAMOS AINDA COM O SERVIÇO DE APOIO DIAGNOSTICO EM ULTRASSONOGRAFIA, ELETROCARDIOGRAMA, COLPOCOSPIA, PENISCOPIA E RADIOLOGIA E OS EXAMES DE VIGILÂNCIA EPIDEMIOLÓGICA. DESTARTE O MUNICÍPIO DE SÃO JOSÉ DA LAJE APRESENTA A NECESSIDADE DE REFORMAR A UNIDADE MISTA ARTUR CAMELO VERAS COM O CNES 2722356, PARA MELHOR ATENDER AOS USUÁRIOS DO SUS. OBSERVA¬SE QUE A ESTRUTURA CONSTRUÍDA TEM MAIS 45 ANOS, NECESSICITANDO REFORMAR COM ALTERAÇÃO EM AMBIENTE SEM ACRÉSCIMO DE ÁREA, A RECEPÇÃO, OS LEITOS DE OBSTETRICIA, CLINICA MASCULINA, FEMININA, SALA DE OBSERVAÇÃO, SALA DE URGENCIA E EMERGENCIA, SECRETARIA, POSTO MEDICO, COZINHA, LAVANDERIA. DESTE MODO O MUNICÍPIO PODERÁ AMPLIAR A DEMANDA DE ATENDIMENTO EM URGÊNCIA E INTERNAÇÃO OFERECIDA AOS USUÁRIOS. JÁ QUE RECEBEMOS PACIENTES ORIUNDOS DE OUTROS MUNICÍPIOS. Área de ação da reforma 1250m2 (serviço de reforma, recuperação predial). informamos que os prazos serão cumpridos e a obra terminará em no período de 12 meses.REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE O SEGUINTE MEMORIAL TRATA SE DA REFORMA DO HOSPITAL DE SÃO JOSÉ DA LAJE, O QUAL FOI ANALISADO E VISTO QUE PRECISA DE VÁRIAS INTERNEÇÕES, AS QUAIS SERÃO SITADAS A BAIXO: FOI VISTA A NECESSIDADE DA REFORMA DAS SEGUINTES ÁREAS; DA CLINICA MÉDICA, NA ALA FEMININA E MASCULINA, DA SALA DE REPOSO, DO CENTRO DE ESPECIALIDADE E DIAGNISTICO E DOS BANHEIROS DE TODAS ESSAS ÁREAS, E AINDA DA CIRCULAÇÃO E COZINHA. ONDE ESSA REFORMA CONTEMPLARIA A TROCA DE REVESTIMENTO DE PISO E PAREDE, TROCA DAS ESQUADRIAS DE PORTAS E JANELAS, TROCA DE LOÇAS E METAIS, COMO TAMBEM BANCADAS EM GRANITOS, RECUPERAÇÃO DO REBOCO NAS ÁREAS SOFRERAM PERCOLAÇÃO E PINTURA E EMASSAMENTO DAS ÁREAS INTERNA, COM TINTA LAVÁVEL PARA AS ÁREAS DE PAREDES QUE NÃO SERÃO REVESTIDAS E PINTURA FOSCA PARA DE TETO. TODAS AS ÁREAS SITADAS A CIMA PRECISAM DE REPAROS NA PARTE ELÉTRICA, COM A TROCA DE ALGUMAS FIAÇÕES, QUADROS, DIJUNTORES E ACRESCIMO DE NOVOS PONTOS ELÉTRICOS(TOMADAS, INTERRUPITORES E PONTOS DE LUZ), NA PARTE HIDRAULICA COM A TROCA E CRIAÇÃO DE NOVOS PONTOS. Á TAMBÉM A NECESSIDADE DE RECUPERAÇÃO DA COBERTA COM IMPERMIABILIZAÇÃO EM ALGUMAS ÁREAS DANIFICADAS E A TROCA DO MADEIRAMENTO, RUFOS, CALHAS E TELHAS, COM APROVEITAMENTO DE APENAS 20% DO TELHADO EXISTENTE. NA PARTE EXTERNA FOI VISTO A NECESSIDADE DA RECUPERAÇÃO DO REPOCO EM ALGUMAS PARTES E PINTURA EXTERNA DE TODA A UNIDADE, COMO TAMBÉM A REFORMA DA CAÇADA, COM COLOCAÇÃO DE NOVO PISO, REBAIXO DE MEIO FIO E SINALIZAÇÃO TÁTIL PARA PORTADORES DE NECESSIDADES ESPECIAIS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+            "information": "",
+            "proposalDate": "2016-11-16T00:00:00.000Z",
+            "biddingDate": "2016-12-30T00:00:00.000Z",
+            "homologationDate": "2017-01-05T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020160040",
+              "name": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / CLINICA - CENTRO DE ESPECIALIDADES - POLICLINICA E UNIDADE MISTA / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+              "value": 1000,
+              "details": {
+                "code": "3600020160040",
+                "name": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / CLINICA - CENTRO DE ESPECIALIDADES - POLICLINICA E UNIDADE MISTA / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+                "cps": "",
+                "items": "REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+                "couterpartRule": "Entes Publicos (Consorcio Publico, Estados, Distrito Federal e Municipios) Não será exigida contrapartida (Art. 77, paragrafo 4., da Lei 13.242/2015). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1000,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1000,
+                  "amendment": "R$ 1.000.000,00 - Ronaldo Lessa"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 11.538.959/0001-00 - FUNDO MUNICIPAL DE SAUDE SAO JOSE DA LAJE",
+            "respProponent": "***.410.464-** - KENYA VALENCA DE ANDRADE",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.789.799-** - RICARDO JOSE MAGALHAES BARROS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "FUNDO MUNICIPAL DE SAUDE SAO JOSE DA LAJE",
+            "documentNumber": "11.538.959/0001-00",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "840757/2016",
+            "validity": "30/12/2016 a 30/03/2021",
+            "limitDate": "2021-05-29T00:00:00.000Z",
+            "totalValue": 1000,
+            "transferValue": 1000,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "826423/2015",
+        "company": {
+          "id": "281d39cb-a0ec-4d8e-a719-3a84dcd599d4",
+          "cnpj": "11538959000100",
+          "name": "FUNDO MUNICIPAL DE SAÚDE",
+          "cityId": "cb41956d-4135-478d-9e90-58944365512d",
+          "sphere": "Municipal",
+          "city": {
+            "id": "cb41956d-4135-478d-9e90-58944365512d",
+            "name": "São José da Laje",
+            "uf": "AL",
+            "ibge": "2708303"
+          }
+        },
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2015-12-31T00:00:00.000Z",
+        "end": "2019-11-30T00:00:00.000Z",
+        "program": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / REDE DE ESTRUTURACAO - UNIDADES HOSPITALARES / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "051963/2015",
+            "organId": "51963/2015",
+            "processId": "0519632015",
+            "proponent": "CNPJ 11.538.959/0001-00 - FUNDO MUNICIPAL DE SAUDE SAO JOSE DA LAJE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE SÃO JOSÉ DA LAJE ESTÁ LOCALIZADO NA ZONA DA MATA DO ESTADO DE ALAGOAS E TEM UMA ÁREA DE EXTENSÃO DE 299 KM2, ALTITUDE 245 M ACIMA DO NÍVEL DO MAR, ACESSO A BR 104, DISTANCIANDO DA CAPITAL DO ESTADO A 100 KM. A POPULAÇÃO DO MUNICÍPIO É DE 23.950 HABITANTES (IBGE 2010 COM ESTIMATIVA), COM MAIOR CONCENTRAÇÃO NA ÁREA URBANA E PREDOMINÂNCIA DE POPULAÇÃO JOVEM E O SEXO FEMININO. A REDE DE SERVIÇO É COMPOSTA DE 09 UNIDADES DE SAÚDE DA FAMÍLIA, 01 UNIDADE CAPS, 01 NASF E 01 UNIDADE MISTA. A COBERTURA DA ESTRATÉGIA DE SAÚDE DA FAMÍLIA NO MUNICÍPIO É DE 100%, A UNIDADE MISTA DR. ARTUR CAMELO VERAS OFERECE ATENDIMENTO AMBULATORIAL NAS ESPECIALIDADES DE PEDIATRIA, GINECOLOGIA, ORTOPEDIA, FISIOTERAPIA, OTORRINOLARINGOLOGIA, DERMATOLOGIA, OFTALMOLOGIA, CARDIOLOGIA E SERVIÇO DE URGÊNCIAS E EMERGÊNCIAS. NA ÁREA DE INTERNAÇÃO DISPÕE DE 51 LEITOS DISTRIBUÍDOS NAS CLINICAS PEDIÁTRICA, OBSTETRICIA E CLÍNICA MÉDICA. ALÉM DE LEITOS DE OBSERVAÇÃO. CONTAMOS AINDA COM O SERVIÇO DE APOIO DIAGNOSTICO EM ULTRASSONOGRAFIA, ELETROCARDIOGRAMA, COLPOCOSPIA, PENISCOPIA E RADIOLOGIA E OS EXAMES DE VIGILÂNCIA EPIDEMIOLÓGICA. DESTARTE O MUNICÍPIO DE SÃO JOSÉ DA LAJE APRESENTA A NECESSIDADE DE REFORMAR A UNIDADE MISTA ARTUR CAMELO VERAS COM O CNES 2722356, PARA MELHOR ATENDER AOS USUÁRIOS DO SUS. OBSERVA-SE QUE A ESTRUTURA CONSTRUÍDA TEM MAIS 45 ANOS, NECESSICITANDO REFORMAR COM ALTERAÇÃO EM AMBIENTE SEM ACRÉSCIMO DE ÁREA, A RECEPÇÃO, OS LEITOS DE OBSTETRICIA, CLINICA MASCULINA, FEMININA, SALA DE OBSERVAÇÃO, SALA DE URGENCIA E EMERGENCIA, SECRETARIA, POSTO MEDICO, COZINHA, LAVANDERIA. DESTE MODO O MUNICÍPIO PODERÁ AMPLIAR A DEMANDA DE ATENDIMENTO EM URGÊNCIA E INTERNAÇÃO OFERECIDA AO USUÁRIOS. JÁ QUE RECEBEMOS PACIENTES ORIUNDOS DE OUTROS MUNICÍPIOS. Área de ação da reforma 1000m2 (serviço de reforma,recuperação predial) O recurso sera utilizado apenas para reforma , a recuperaçao do posto sera dentro das seguintes areas Revisao eletrica (308pontos) Revisao Hidraulica (84pontos) Esquadrias (revisao de janelas e portas) 10 portas novas de 90/210 Coberta 1068m2( recuperação de coberta com reaproveitamneto de 20% incluso lavagem das telhas Pintura de 5235 m2 ( lixamento/emassamento e pintura acrilica) Alvenaria - chapisco e reboco 92m2 (recuperação de area q sofreu percolação) Recuperação de calçada 102m2 Revestimento ceramico 1092m2",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+            "information": "",
+            "proposalDate": "2015-12-16T00:00:00.000Z",
+            "biddingDate": "2015-12-31T00:00:00.000Z",
+            "homologationDate": "2016-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020150004",
+              "name": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / REDE DE ESTRUTURACAO - UNIDADES HOSPITALARES / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+              "value": 500000,
+              "details": {
+                "code": "3600020150004",
+                "name": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / REDE DE ESTRUTURACAO - UNIDADES HOSPITALARES / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+                "cps": "",
+                "items": "REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+                "couterpartRule": "Consorcio Publico, constituido por Estados, Distrito Federal e Municipios Nao sera exigida contrapartida (Art. 72, paragrafo 4., da Lei 13.080/2015). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 500000,
+                  "amendment": "R$ 500.000,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 11.538.959/0001-00 - FUNDO MUNICIPAL DE SAUDE SAO JOSE DA LAJE",
+            "respProponent": "***.410.464-** - KENYA VALENCA DE ANDRADE",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.820.913-** - MARCELO COSTA E CASTRO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "FUNDO MUNICIPAL DE SAUDE SAO JOSE DA LAJE",
+            "documentNumber": "11.538.959/0001-00",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "826423/2015",
+            "validity": "31/12/2015 a 30/11/2019",
+            "limitDate": "2020-01-29T00:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 500000,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

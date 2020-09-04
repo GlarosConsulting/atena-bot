@@ -1,0 +1,12 @@
+{
+  "beginDate": "2020-09-01T16:17:30.769Z",
+  "endDate": "2020-09-01T16:17:32.316Z",
+  "data": {
+    "location": {
+      "city": "Ibateguara",
+      "uf": "AL",
+      "ibge": "2703007"
+    },
+    "agreements": []
+  }
+}

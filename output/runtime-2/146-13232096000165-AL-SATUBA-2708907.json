@@ -1,0 +1,12 @@
+{
+  "beginDate": "2020-09-01T23:30:46.746Z",
+  "endDate": "2020-09-01T23:30:48.287Z",
+  "data": {
+    "location": {
+      "city": "Satuba",
+      "uf": "AL",
+      "ibge": "2708907"
+    },
+    "agreements": []
+  }
+}

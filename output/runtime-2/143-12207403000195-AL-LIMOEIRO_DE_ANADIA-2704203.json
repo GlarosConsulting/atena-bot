@@ -1,0 +1,2912 @@
+{
+  "beginDate": "2020-09-01T23:14:48.608Z",
+  "endDate": "2020-09-01T23:29:48.717Z",
+  "data": {
+    "location": {
+      "city": "Limoeiro de Anadia",
+      "uf": "AL",
+      "ibge": "2704203"
+    },
+    "agreements": [
+      {
+        "agreementId": "859783/2017",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T00:00:00.000Z",
+        "end": "2021-07-11T00:00:00.000Z",
+        "program": "2068 - Saneamento Básico (Ação: 10GD - Sistemas Públicos de Abastecimento de Água)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "103013/2017",
+            "organId": "06271/2017",
+            "processId": "25100.022490/2017-54",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto nº 6.170, de 25 de julho de 2007, e Portaria Interministerial nº 424, de 30 de dezembro de 2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O município de Limoeiro de Anadia está localizado na região central do Estado de Alagoas, limitando-se a norte com os municípios de Taquarana e Coité do Nóia, a sul com Junqueiro, a leste com Campo Alegre e Anadia e a oeste com Arapiraca. A área municipal ocupa 334,41 km2 (1,20% de AL). A sede do município tem uma altitude de aproximadamente 140 m e coordenadas geográficas de 09°44’27,6’’ de latitude sul e 36°30’10,8’’ de longitude oeste. O acesso a partir de Maceió é feito através das rodovias pavimentadas BR-316, BR-101 e AL- 220, com percurso em torno de 117 km. No município existem 5.115 domicílios particulares permanentes, dos quais 3.997 (78,10%) possuem banheiro ou sanitário e destes, apenas 08 (0,16%) possuem banheiro e esgotamento sanitário via rede geral. Cerca de 503 (9,80%) são abastecidos pela rede geral de água, enquanto que 3.061 (59,80%) são abastecidos por poço ou nascente e 1.551 utilizam outras formas de abastecimento (30,30%). Apenas 1.605 (31,40%) domicílios são atendidos pela coleta de lixo, evidenciando a existência de uma fonte de sérios problemas ambientais e de saúde pública para a população. Atualmente estimasse segundo o IBGE uma população de aproximadamente 28.244 habitantes. Para o projeto de implantação e ampliação da rede de abastecimento de água estabeleceu-se como alcance o período de 25 anos, tendo como horizonte o ano de 2039 e para a determinação da população das áreas de projeto foram utilizados cadastros sociais e levantamento cadastral das residências. O Sistema de Abastecimento de Água está dividido em três trechos principais: • Linha de recalque 1 ( adução ) – Consiste na construção de uma elevatória EE1 que recalca para a estação de tratamento projetada com extensão de 300 m em ferro fumdido; •Linha de recalque 2 ( adução ) – Consiste no construção da elevatória EE2 ao lado da ETA para recalcar para os reservatórios R1 ( abastece Olho d’ Água ), R2 ( abastece Timbo ) e R3 ( abastece Jacaré, Jenipapo e Limoeiro – Centro ) com extensão total de 5.115 m em ferro fundido; •Tronco distribuidor – Consiste na construção de uma elevatória EE3 que recalca para a caixa de passagem elevada, ambos localizados no mesmárea do reservatório R3. A caixa de passagem distribui para Jacaré, Jenipapo e Limoeiro – Centro ) com extensão total de 6.045 m. Parte do tronco será executado em PVC DEF°F°, pois esta livre de transientes hidráulicos e parte será executado em F°F° para resistir a pressão estática acima de 100 mca. Nossa proposta é utilizar os recursos oriundos do OGU para as obras de Implantação do Sistema de Abastecimento de Água de Limoeiro de Anadia.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação do Sistema de Abastecimento de Água no Município de Limoeiro de Anadia/AL.",
+            "information": "Em conformidade com o que estabelece o artigo 16, inciso V, da Portaria Interministerial MP/MF/CGU nº 424/2016, declaro que esta Prefeitura dispõe de estrutura física e de pessoal, com capacidade administrativa, técnica e gerencial para a execução do objeto proposto, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legalmente, inclusive as que se referem a licitação, acompanhamento da execução e prestação de contas.",
+            "proposalDate": "2017-12-22T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170002",
+              "name": "2068 - Saneamento Básico (Ação: 10GD - Sistemas Públicos de Abastecimento de Água)",
+              "value": 7806.349,
+              "details": {
+                "code": "3621120170002",
+                "name": "2068 - Saneamento Básico (Ação: 10GD - Sistemas Públicos de Abastecimento de Água)",
+                "cps": null,
+                "items": "Implantação e/ou ampliação de sistemas públicos de abastecimento de água em municípios com população até 50.000 habitantes, contemplando obras que visem garantir o abastecimento da população com água potável, compreendendo captações, adutoras, reservatórios, estações elevatórias, estações de tratamento, redes de distribuição, ligações domiciliares, entre outras intervenções.",
+                "couterpartRule": "A contrapartida (no caso dos municípios) dependerá da comprovação, por parte do convenente, na forma definida pelo Inciso I, Alíneas (a), (b), (c) e (d) do Art. 79, da Lei nº. 13.408/2016 (LOA 2017) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 7806.349,
+                "couterpartValues": {
+                  "total": 10500,
+                  "financial": 10500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 7795.849,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.909.194-** - MARCELO RODRIGUES BARBOSA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2018",
+              "type": "Licitação - Concorrência",
+              "date": "2018-06-01T00:00:00.000Z",
+              "processId": "7952018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concorrência",
+                "biddingType": "Menor Preço",
+                "processId": "7952018",
+                "biddingId": "02/2018",
+                "object": "Contratação de empresa de engenharia para executar os serviços de ampliação do sistema de abastecimento de água no município de Limoeiro de Anadia/AL",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "O Processo Licitatório é uma exigência da Legislação Pública Brasileira vigente, em especial o que estabelece a Lei Federal 8.666/1993 e suas alterações, visando atender os princípios legais no que se refere à contratação por parte da Administração Pública.  Tal Licitação teve como objetivo a Contratação de empresa de engenharia para executar os serviços de ampliação do sistema de abastecimento de água no município de Limoeiro de Anadia/AL, buscando a proposta mais vantajosa ao município.",
+                "publishDate": "2018-06-01T00:00:00.000Z",
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 7806.349,
+                "homologationDate": "2019-01-17T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": "2019-07-12T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2019",
+              "biddingId": "02/2018",
+              "date": "2019-01-21T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 21162446000192",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Obras",
+                "object": "Contratação de empresa especializada para Construção de Sistema de Abastecimento de Água em Limoeiro de Anadia/AL",
+                "totalValue": 7806.349,
+                "publishDate": "2019-01-21T00:00:00.000Z",
+                "beginDate": "2019-01-17T00:00:00.000Z",
+                "endDate": "2020-09-29T00:00:00.000Z",
+                "signDate": "2019-01-17T00:00:00.000Z",
+                "executionProcessId": "02/2018 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "7952018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "859783/2017",
+            "validity": "29/12/2017 a 11/07/2021",
+            "limitDate": "2021-09-09T00:00:00.000Z",
+            "totalValue": 7806.349,
+            "transferValue": 7795.849,
+            "counterpartValue": 10500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "800564/2013",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "098462/2013",
+            "organId": "98462/2013",
+            "processId": "0984622013",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O municipio de Limoeiro de Anadia distante cerca de 100 km da capital esta situado na zona do Agreste e como os demais municípios da região e carente de infraestrutura e estes recursos serão utilizados para implantação de pavimentação e drenagem em diversas ruas da zona urbana do municipio",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação e Drenagem de diversas ruas da zona urbana",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2013-12-26T00:00:00.000Z",
+            "biddingDate": "2013-12-31T00:00:00.000Z",
+            "homologationDate": "2014-01-17T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020130013",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 503100,
+              "details": {
+                "code": "5600020130013",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "Contrato de Repasse com valor inferior a R$ 750.000,00, para Municípios,exceto quando necessário à funcionalidade do objeto e à cobertura de despesas não apoiadas com recursos da União. [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 503100,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 493100,
+                  "amendment": "R$ 493.100,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.909.194-** - MARCELO RODRIGUES BARBOSA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "022018",
+              "type": "Licitação - Tomada de Preços",
+              "date": null,
+              "processId": "13012017",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "13012017",
+                "biddingId": "022018",
+                "object": "Pavimentação e Drenagem em diversas ruas do município de Limoeiro de Anadia/AL",
+                "legalFoundation": "Lei 8666/1993",
+                "justification": "O Processo Licitatório é uma exigência da Legislação Pública Brasileira vigente, em especial o que estabelece a Lei Federal 8.666/1993 e suas alterações, visando atender os princípios legais no que se refere à contratação por parte da Administração Pública.  Tal Licitação teve como objetivo contratar uma empresa de engenharia civil para Pavimentação e Drenagem em diversas ruas do município de Limoeiro de Anadia/AL, buscando a proposta mais vantajosa ao município.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 433220.26,
+                "homologationDate": null,
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000028/2018",
+              "biddingId": "022018",
+              "date": "2018-04-05T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 16554376000188",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Obras",
+                "object": "Pavimentação e Drenagem de diversas ruas do município de Limoeiro de Anadia/AL",
+                "totalValue": 433220.26,
+                "publishDate": "2018-04-05T00:00:00.000Z",
+                "beginDate": "2018-04-03T00:00:00.000Z",
+                "endDate": "2018-12-31T00:00:00.000Z",
+                "signDate": "2018-04-03T00:00:00.000Z",
+                "executionProcessId": "022018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "13012017 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "800564/2013",
+            "validity": "31/12/2013 a 31/12/2020",
+            "limitDate": "2022-08-24T00:00:00.000Z",
+            "totalValue": 503100,
+            "transferValue": 493100,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "792770/2013",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T00:00:00.000Z",
+        "end": "2021-03-02T00:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "057882/2013",
+            "organId": "57882/2013",
+            "processId": "0578822013",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Limoeiro de Anadia, situada a 100 km da capital possui umas das maiores áreas territoriais onde se encontram 51 povoados de pequeno e médio porte. A finalidade de a Prefeitura executar as obras de de Reformas de Praças, visa promover o município de infraestrutura adequada para expansão das suas atividades turísticas com a melhoria dos produtos e serviços ofertados aos turistas. A execução da obra solucionará problemas no âmbito de infraestrutura local tais como trafegabilidade e acessibilidade, vale ressaltar que o objeto proposto é de suma importância para o município, tendo em vista que os resultados esperados do objeto compreende dotar o município de uma boa infraestrutura disponibilizando para os visitantes mais conforto e segurança. Com isto, teremos um aumento na geração de emprego e renda, pois, durante a realização de eventos e no lazer do dia-a-dia haverá um aumento significativo do emprego de mão de obra.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Reforma de Praças Públicas no município de Limoeiro de Anadia-AL.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2013-09-10T00:00:00.000Z",
+            "biddingDate": "2013-12-31T00:00:00.000Z",
+            "homologationDate": "2014-01-14T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020130013",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 1008,
+              "details": {
+                "code": "5600020130013",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação e requalificação de infraestrutura de sistemas de transporte público coletivo urbano de passageiros ( Vide aba ANEXOS - Arquivo MOBILIDADE URBANA)",
+                "couterpartRule": "Contrato de Repasse com valor igual ou superior a R$ 750.000,00, para Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1008,
+                "couterpartValues": {
+                  "total": 20400,
+                  "financial": 20400,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.909.194-** - MARCELO RODRIGUES BARBOSA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "06/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-09-19T00:00:00.000Z",
+              "processId": "1396",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "1396",
+                "biddingId": "06/2019",
+                "object": "Reforma de Praças Públicas no Município de Limoeiro de Anadia/AL",
+                "legalFoundation": "Lei 8666/93",
+                "justification": "O Processo Licitatório é uma exigência da Legislação Pública Brasileira vigente, em especial o que estabelece a Lei Federal 8.666/1993, visando atender os princípios legais no que se refere à contratação por parte da Administração Pública. Tal Licitação teve como objetivo contratar uma empresa para execução de serviços de engenharia para Reforma de Praças Públicas no Município de Limoeiro de Anadia/AL, buscando a proposta mais vantajosa ao município.",
+                "publishDate": "2019-09-19T00:00:00.000Z",
+                "beginDate": "2019-10-04T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 902286,
+                "homologationDate": "2019-12-04T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000046/2019",
+              "biddingId": "06/2019",
+              "date": "2019-12-05T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 17872922000191",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Serviço de Engenharia",
+                "object": "Contratação de Empresa Especializada para execução de engenharia referente a Reforma de Praças Públicas no Município de Limoeiro de Anadia/AL",
+                "totalValue": 902286,
+                "publishDate": "2019-12-05T00:00:00.000Z",
+                "beginDate": "2019-12-04T00:00:00.000Z",
+                "endDate": "2021-03-02T00:00:00.000Z",
+                "signDate": "2019-12-04T00:00:00.000Z",
+                "executionProcessId": "06/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "1396 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "792770/2013",
+            "validity": "31/12/2013 a 02/03/2021",
+            "limitDate": "2021-05-01T00:00:00.000Z",
+            "totalValue": 1008,
+            "transferValue": 987600,
+            "counterpartValue": 20400,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "786964/2013",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "048351/2013",
+            "organId": "48351/2013",
+            "processId": "048351/2013",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Limoeiro de Anadia é um município brasileiro que fica localizado na região central do estado de Alagoas, com uma população recenseada em 2010 em 26.992 mil habitantes e possui uma área de 316 km² (81,48 h/km²). Limita ao norte com os municípios de Coité do Noia, Taquarana e Tanque d'Arca, ao sul com o município de Junqueiro, a leste com o município de Anadia, a oeste com o município de Arapiraca, e a sudeste com o município de Campo Alegre. Limoeiro de Anadia destaca-se por duas de suas principais festividades, que são a festa de emancipação política e a festa da padroeira, ambas atraindo muitos visitantes. A IMPLANTAÇÃO E MODERNIZAÇÃO DE INFRAESTRUTURA ESPORTIVA, visa promover o município de infraestrutura esportiva adequada para expansão das suas atividades, como também implantação de área de lazer onde se tenha acesso a múltiplas práticas desportivas e promoção social da população carente através do esporte, com conseqüente diminuição dos riscos sociais provocados pela baixa renda e pela exclusão social.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO E MODERNIZAÇÃO DE INFRAESTRUTURA ESPORTIVA",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc ..",
+            "proposalDate": "2013-08-08T00:00:00.000Z",
+            "biddingDate": "2013-12-31T00:00:00.000Z",
+            "homologationDate": "2014-01-14T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020130002",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+              "value": 1000,
+              "details": {
+                "code": "5100020130002",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na Lei de Diretrizes Orçamentárias vigente. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1000,
+                "couterpartValues": {
+                  "total": 25000,
+                  "financial": 25000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 975000,
+                  "amendment": "R$ 975.000,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.909.194-** - MARCELO RODRIGUES BARBOSA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2017",
+              "type": "Licitação - Tomada de Preços",
+              "date": null,
+              "processId": "14062017",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "14062017",
+                "biddingId": "02/2017",
+                "object": "Implantação e Modernização de Infraestrutura Esportiva - Complexo Esportivo no município de Limoeiro de Anadia/AL.",
+                "legalFoundation": "Lei Federal 8.666/1993",
+                "justification": "O Processo Licitatório é uma exigência da Legislação Pública Brasileira vigente, em especial o que estabelece a Lei Federal 8.666/1993 e suas alterações, visando atender os princípios legais no que se refere à contratação por parte da Administração Pública.  Tal Licitação teve como objetivo Contratar Empresa Especializada para a execução dos serviços de Implantação e Modernização de Infraestrutura Esportiva - Complexo Esportivo no município de Limoeiro de Anadia/AL, buscando a proposta mais vantajosa ao município.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 1021.186,
+                "homologationDate": null,
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000032/2018",
+              "biddingId": "02/2017",
+              "date": "2018-04-24T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 21162446000192",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Material e Serviço",
+                "object": "Implantação e Modernização de Infraestrutura Esportiva - Complexo Esportivo no município de Limoeiro de Anadia/AL.",
+                "totalValue": 1021.186,
+                "publishDate": "2018-04-24T00:00:00.000Z",
+                "beginDate": "2018-04-20T00:00:00.000Z",
+                "endDate": "2018-12-31T00:00:00.000Z",
+                "signDate": "2018-04-20T00:00:00.000Z",
+                "executionProcessId": "02/2017 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "14062017 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "786964/2013",
+            "validity": "31/12/2013 a 31/12/2020",
+            "limitDate": "2022-08-24T00:00:00.000Z",
+            "totalValue": 1000,
+            "transferValue": 975000,
+            "counterpartValue": 25000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "783298/2013",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2013-12-31T00:00:00.000Z",
+        "end": "2016-01-30T00:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "040788/2013",
+            "organId": "40788/2013",
+            "processId": "040788/2013",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Limoeiro de Anadia fica situado a 100 km da capital, possui umas das maiores áreas territoriais onde se encontram 51 povoados de pequeno e médio porte. O município vem com o objetivo de melhorar a infra estrutura urbana. A falta de infra-estrutura acarreta vários problemas para a população especialmente nos setores de transporte e mobilidade urbana. A pavimentação de diversas ruas irá proporcionar uma melhora significativa nos locais onde forem implantadas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de Diversas Ruas no município de Limoeiro de Anadia.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2013-07-12T00:00:00.000Z",
+            "biddingDate": "2013-12-31T00:00:00.000Z",
+            "homologationDate": "2014-01-09T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020130013",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 1007.8,
+              "details": {
+                "code": "5600020130013",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "Contrato de Repasse com valor igual ou superior a R$ 750.000,00, para Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1007.8,
+                "couterpartValues": {
+                  "total": 20200,
+                  "financial": 20200,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00 - Arthur Lira"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.211.464-** - AGUINALDO VELLOSO BORGES RIBEIRO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "062014",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-03-31T00:00:00.000Z",
+              "processId": "062014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "062014",
+                "biddingId": "062014",
+                "object": "Serviços de Engenharia Civil para terraplanagem, pavimentação e drenagem de águas pluviais de ruas do Povoado Genipapo.",
+                "legalFoundation": "8666/93",
+                "justification": "Serviços de Engenharia Civil para terraplanagem, pavimentação e drenagem de águas pluviais de ruas do Povoado Genipapo.",
+                "publishDate": "2014-03-31T00:00:00.000Z",
+                "beginDate": "2014-05-12T00:00:00.000Z",
+                "endDate": "2014-05-12T00:00:00.000Z",
+                "biddingValue": 979379.66,
+                "homologationDate": "2014-07-15T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000006/2014",
+              "biddingId": "062014",
+              "date": "2014-08-06T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 17872922000191",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Serviço",
+                "object": "Serviços de Engenharia Civil para terraplanagem, pavimentação e drenagem de águas pluviais de ruas do Povoado Genipapo.",
+                "totalValue": 979379.66,
+                "publishDate": "2014-08-06T00:00:00.000Z",
+                "beginDate": "2013-12-31T00:00:00.000Z",
+                "endDate": "2016-01-30T00:00:00.000Z",
+                "signDate": "2014-07-16T00:00:00.000Z",
+                "executionProcessId": "062014 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "062014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "783298/2013",
+            "validity": "31/12/2013 a 30/01/2016",
+            "limitDate": "2016-03-30T00:00:00.000Z",
+            "totalValue": 1007.8,
+            "transferValue": 987600,
+            "counterpartValue": 20200,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "767019/2011",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2011-12-30T00:00:00.000Z",
+        "end": "2014-03-31T00:00:00.000Z",
+        "program": "Gestao da Politica de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "030311/2011",
+            "organId": "30311/2011",
+            "processId": "030311/2011",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Limoeiro de Anadia, cidade situada a 100 km da capital possui umas das maiores áreas territoriais onde se encontram 51 povoados de pequeno e médio porte. O objetivo dessa obra é melhorar a infra estrutura urbana do município com a pavimentação de calçadas em concreto em diversas ruas da zona urbana. A falta de infra-estrutura acarreta vários problemas para a população especialmente nos setores de transporte e mobilidade urbana. A construção dessas obras irá proporcionar uma melhora significativa nos locais onde forem implantadas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de Calçadas.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al. Possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2011-07-05T00:00:00.000Z",
+            "biddingDate": "2011-12-30T00:00:00.000Z",
+            "homologationDate": "2012-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020110005",
+              "name": "Gestao da Politica de Desenvolvimento Urbano",
+              "value": 250000,
+              "details": {
+                "code": "5600020110005",
+                "name": "Gestao da Politica de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infraestrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 5020,
+                  "financial": 5020,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 244980,
+                  "amendment": "R$ 244.980,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "767019/2011",
+            "validity": "30/12/2011 a 31/03/2014",
+            "limitDate": "2014-04-30T00:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 244980,
+            "counterpartValue": 5020,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "762432/2011",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2011-12-30T00:00:00.000Z",
+        "end": "2013-03-19T00:00:00.000Z",
+        "program": "ALAGOAS OGU 2011",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "059689/2011",
+            "organId": "59689/2011",
+            "processId": "059689/2011",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Limoeiro de Anadia é um município que fica localizado na região central de Alagoas, população aproximadamente 25.484 habitantes. O município cresce continuamente e deseja melhorias de infra-estrutura nas comunidades rurais, sendo estas também a meta da administração pública, ou seja, propiciar aos munícipes a melhor qualidade de vida, para o bom desempenho em suas atividades sociais de forma geral. Com o objetivo de ajudar a esses produtores na melhoria das condições de trabalho e na dinamização da produção e do escoamento de seus produtos, a Secretaria de Agricultura, dentro de suas limitações, vem buscando caminhos e alternativas para que as famílias se mantenham produzindo para o município que depende de recursos e programas do governo. A propósito, a Patrulha Mecanizada torna-se imprescindível para que se viabilizem as condições necessárias ao melhor aproveitamento das terras utilizadas por pequenos produtores rurais, objetivando o abastecimento do mercado consumidor interno, merenda escolar, feiras livres, gerando assim emprego e renda para as pessoas envolvidas em nível local quer em municípios circunvizinho.As melhorias nas Estradas Vicinais serão feitas com recursos da emenda parlamentar nº 25790001 do Senador Fernando Collor, funcional programática n° 20.605.6003.7H17.0027, valor do Repasse de R$ 390.000,00 (trezentos e noventa mil reais), cujo título – Apoio a Projetos de Desenvolvimento do Setor Agropecuário - No Estado de Alagoas, contempla o objeto da proposta, ou seja, “aquisição de patrulha mecanizada",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Patrulha Mecanizada",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al. Possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2011-10-24T00:00:00.000Z",
+            "biddingDate": "2011-12-30T00:00:00.000Z",
+            "homologationDate": "2012-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020110006",
+              "name": "ALAGOAS OGU 2011",
+              "value": 438000,
+              "details": {
+                "code": "2200020110006",
+                "name": "ALAGOAS OGU 2011",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra-Estrutura Agropecuária.",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 438000,
+                "couterpartValues": {
+                  "total": 48000,
+                  "financial": 48000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "102012",
+              "type": "Licitação - Pregão",
+              "date": "2012-04-24T00:00:00.000Z",
+              "processId": "2592012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "2592012",
+                "biddingId": "102012",
+                "object": "Contratação de empresa especializada no fornecimento de máquinas pesadas destinados ao Município de Limoeiro de Anadia.",
+                "legalFoundation": "8.666/93",
+                "justification": "Contratação de empresa especializada no fornecimento de máquinas pesadas destinados ao Município de Limoeiro de Anadia.",
+                "publishDate": "2012-04-24T00:00:00.000Z",
+                "beginDate": "2012-05-09T00:00:00.000Z",
+                "endDate": "2012-05-09T00:00:00.000Z",
+                "biddingValue": 438000,
+                "homologationDate": "2012-05-15T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000029/2012",
+              "biddingId": "102012",
+              "date": "2012-08-17T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 60850617000128",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Material",
+                "object": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE MÁQUINAS PESADAS DESTINADOS AO MUNICÍPIO DE LIMOEIRO DE ANADIA.",
+                "totalValue": 438000,
+                "publishDate": "2012-08-17T00:00:00.000Z",
+                "beginDate": "2012-05-16T00:00:00.000Z",
+                "endDate": "2012-12-31T00:00:00.000Z",
+                "signDate": "2012-05-16T00:00:00.000Z",
+                "executionProcessId": "102012 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "2592012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "762432/2011",
+            "validity": "30/12/2011 a 19/03/2013",
+            "limitDate": "2016-03-20T00:00:00.000Z",
+            "totalValue": 438000,
+            "transferValue": 390000,
+            "counterpartValue": 48000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "760817/2011",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2011-12-31T00:00:00.000Z",
+        "end": "2013-03-19T00:00:00.000Z",
+        "program": "OGU 2011",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "064476/2011",
+            "organId": "64476/2011",
+            "processId": "064476/2011",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Limoeiro de Anadia é um município que fica localizado na região central de Alagoas, população aproximadamente 25.484 habitantes. O município cresce continuamente e deseja melhorias de infra-estrutura nas comunidades rurais, sendo estas também a meta da administração pública, ou seja, propiciar aos munícipes a melhor qualidade de vida, para o bom desempenho em suas atividades sociais de forma geral. Com o objetivo de ajudar a esses produtores na melhoria das condições de trabalho e na dinamização da produção e do escoamento de seus produtos, a Secretaria de Agricultura, dentro de suas limitações, vem buscando caminhos e alternativas para que as famílias se mantenham produzindo para o município que depende de recursos e programas do governo. A propósito, a Patrulha Mecanizada torna-se imprescindível para que se viabilizem as condições necessárias ao melhor aproveitamento das terras utilizadas por pequenos produtores rurais, objetivando o abastecimento do mercado consumidor interno, merenda escolar, feiras livres, gerando assim emprego e renda para as pessoas envolvidas em nível local quer em municípios circunvizinho. O município já foi beneficiado com recursos do MAPA, obras da pavimentação da Lagoa Areia Vermelha, que se encontra em execução. O tamanho das propriedades são de 2 a 3ha, com renda familiar de 1 a 3 salário mínimo. A patrulha mecanizada será adquirida com recurso da emanda parlamentar nº 50100002 do Deputado Federal Artur Lira, funcional programártica nº 20.605.6003.7H17.1588, valor do repasse R$ 243.750,00(duzentos e quarenta e três mil, setecentos e cinquenta reais), cujo título: Apoio a Projeros do Setor Agropecuário - Máquina e Equipamento, possui vínculo com objeto da proposta.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Patrulha Mecanizada",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2011-11-08T00:00:00.000Z",
+            "biddingDate": "2011-12-31T00:00:00.000Z",
+            "homologationDate": "2012-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020110057",
+              "name": "OGU 2011",
+              "value": 250000,
+              "details": {
+                "code": "2200020110057",
+                "name": "OGU 2011",
+                "cps": "",
+                "items": "APOIO AO PEQUENO E MÉDIO PRODUTOR AGROPECUÁRIO *************************************************************** AÇÃO: 8611****************************************************** I -INVESTIMENTO 1.Projetos de Recuperação e Correção de Solos 2.Projetos de Mecanização Agrícola 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Infra-Estrutura Agropecuária 7.Projetos de Energização Rural",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 6250,
+                  "financial": 6250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "10/2012",
+              "type": "Licitação - Pregão",
+              "date": "2012-04-24T00:00:00.000Z",
+              "processId": "2592012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "2592012",
+                "biddingId": "10/2012",
+                "object": "Patrulha Mecanizada.",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "Aquisição de Patrulha Mecanizada",
+                "publishDate": "2012-04-24T00:00:00.000Z",
+                "beginDate": "2012-05-09T00:00:00.000Z",
+                "endDate": "2012-05-09T00:00:00.000Z",
+                "biddingValue": 250000,
+                "homologationDate": "2012-05-15T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000030/2012",
+              "biddingId": "10/2012",
+              "date": "2012-07-16T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 08489098000102",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Material",
+                "object": "Contratação de empresa especializada no fornecimento de maquinas pesadas destinados ao Município de Limoeiro de Anadia/AL.",
+                "totalValue": 78475,
+                "publishDate": "2012-07-16T00:00:00.000Z",
+                "beginDate": "2012-05-16T00:00:00.000Z",
+                "endDate": "2012-12-31T00:00:00.000Z",
+                "signDate": "2012-05-16T00:00:00.000Z",
+                "executionProcessId": "10/2012 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "2592012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "760817/2011",
+            "validity": "31/12/2011 a 19/03/2013",
+            "limitDate": "2013-05-18T00:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 243750,
+            "counterpartValue": 6250,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "758112/2011",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2011-12-30T00:00:00.000Z",
+        "end": "2013-03-19T00:00:00.000Z",
+        "program": "OGU 2011",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "046912/2011",
+            "organId": "46912/2011",
+            "processId": "046912/2011",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Limoeiro de Anadia é um município que fica localizado na região central de Alagoas, população aproximadamente 26.992 habitantes,sendo 24.746 habitantes na zona rural e 2.246 habitantes na zona urbana. O município cresce continuamente e deseja melhorias de infra-estrutura nas comunidades rurais, sendo estas também a meta da administração pública, ou seja, propiciar aos munícipes a melhor qualidade de vida, para o bom desempenho em suas atividades sociais de forma geral. Com o objetivo de ajudar a esses produtores na melhoria das condições de trabalho e na dinamização da produção e do escoamento de seus produtos, a Secretaria de Agricultura, dentro de suas limitações, vem buscando caminhos e alternativas para que as famílias se mantenham produzindo para o município que depende de recursos e programas do governo. A propósito, a Patrulha Mecanizada torna-se imprescindível para que se viabilizem as condições necessárias ao melhor aproveitamento das terras utilizadas por pequenos produtores rurais, objetivando o abastecimento do mercado consumidor interno, merenda escolar, feiras livres, gerando assim emprego e renda para as pessoas envolvidas em nível local quer em municípios circunvizinho.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Patrulha Mecanizada.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2011-08-26T00:00:00.000Z",
+            "biddingDate": "2011-12-30T00:00:00.000Z",
+            "homologationDate": "2012-01-17T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020110057",
+              "name": "OGU 2011",
+              "value": 307500,
+              "details": {
+                "code": "2200020110057",
+                "name": "OGU 2011",
+                "cps": "",
+                "items": "APOIO AO PEQUENO E MÉDIO PRODUTOR AGROPECUÁRIO *************************************************************** AÇÃO: 8611****************************************************** I -INVESTIMENTO 1.Projetos de Recuperação e Correção de Solos 2.Projetos de Mecanização Agrícola 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Infra-Estrutura Agropecuária 7.Projetos de Energização Rural",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 307500,
+                "couterpartValues": {
+                  "total": 15000,
+                  "financial": 15000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "10/2012",
+              "type": "Licitação - Pregão",
+              "date": "2012-04-24T00:00:00.000Z",
+              "processId": "2592012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "2592012",
+                "biddingId": "10/2012",
+                "object": "PATRULHA MECANIZADA",
+                "legalFoundation": "8.666",
+                "justification": "PATRULHA MECANIZADA",
+                "publishDate": "2012-04-24T00:00:00.000Z",
+                "beginDate": "2012-05-09T00:00:00.000Z",
+                "endDate": "2012-05-09T00:00:00.000Z",
+                "biddingValue": 292500,
+                "homologationDate": "2012-05-15T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000031/2012",
+              "biddingId": "10/2012",
+              "date": "2012-07-16T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 03079649000138",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Material",
+                "object": "Contratação de empresa especializada no fornecimento de máquinas pesadas destinadas ao Município de Limoeiro de Anadia.",
+                "totalValue": 150000,
+                "publishDate": "2012-07-16T00:00:00.000Z",
+                "beginDate": "2012-05-16T00:00:00.000Z",
+                "endDate": "2012-12-31T00:00:00.000Z",
+                "signDate": "2012-05-16T00:00:00.000Z",
+                "executionProcessId": "10/2012 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "2592012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "758112/2011",
+            "validity": "30/12/2011 a 19/03/2013",
+            "limitDate": "2016-05-04T00:00:00.000Z",
+            "totalValue": 307500,
+            "transferValue": 292500,
+            "counterpartValue": 15000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "754950/2010",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-31T00:00:00.000Z",
+        "end": "2012-10-31T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "104941/2010",
+            "organId": "04941/2010",
+            "processId": "104941/2010",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "LIMOEIRO DE ANADIA É UM MUNICÍPIO QUE FICA LOCALIZADO NA REGIÃO CENTRAL DE ALAGOAS. SUA POPULAÇÃO É DE 25.484 HABITANTES E SUA ÁREA É DE 316 KM². LIMITA AO NORTE COM OS MUNICÍPIOS DE COITÉ DO NÓIA, TAQUARANA E TANQUE D'ARCA, AO SUL COM O MUNICÍPIO DE JUNQUEIRO, A LESTE COM O MUNICÍPIO DE ANADIA, A OESTE COM O MUNICÍPIO DE ARAPIRACA E A SUDESTE COM O MUNICÍPIO DE CAMPO ALEGRE. LIMOEIRO DE ANADIA DESTACA-SE AINDA POR DUAS DE SUAS PRINCIPAIS FESTIVIDADES: A FESTA DA PADROEIRA E A DA EMANCIPAÇÃO POLÍTICA, AMBAS ATRAINDO MUITOS VISITANTES. O PÚBLICO ALVO ESPERADO SÃO OS TURISTAS E A POPULAÇÃO DE LIMOEIRO. A IMPLANTAÇÃO DO OBJETO PLEITADO URBANIZAÇÃO DA ORLA DO RIO CORURIPE, VISA PROVER O MUNICÍPIO DE INFRAESTRUTURA ADEQUADA PARA EXPANSÃO DA ATIVIDADE TURÍSTICA E MELHORIA DOS PRODUTOS E SERVIÇOS OFERTADOS. E IMPORTANTE RESSALTAR QUE O OBJETO PROPOSTO É DE INTERESSE TURÍSTICO PARA O MUNICÍPIO, TENDO EM VISTA QUE OS RESULTADOS ESPERADOS COM A IMPLANTAÇÃO DO OBJETO COMPREENDEM DOTAR O MUNICIPIO DE IMPORTANTE INFRAESTRUTURA TURÍSTICA, MELHORANDO A QUALIDADE DA POPULAÇÃO COM A GERAÇÃO DE EMPREGO E RENDA E DISPONIBILIZANDO AO TURISTA CONFORTO E SEGURANÇA POTENCIALIZANDO E ALAVANCANDO O TURISMO MUNICIPAL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "URBANIZAÇÃO DA ORLA DO RIO CORURIPE",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-12-10T00:00:00.000Z",
+            "biddingDate": "2010-12-31T00:00:00.000Z",
+            "homologationDate": "2011-01-24T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100020",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 200000,
+              "details": {
+                "code": "5400020100020",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "Infraestrutura urbanística",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 200000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "754950/2010",
+            "validity": "31/12/2010 a 31/10/2012",
+            "limitDate": "2012-11-30T00:00:00.000Z",
+            "totalValue": 200000,
+            "transferValue": 195000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "747312/2010",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-16T00:00:00.000Z",
+        "end": "2015-03-30T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "068863/2010",
+            "organId": "68863/2010",
+            "processId": "068863/2010",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "LIMOEIRO DE ANADIA É UM MUNICÍPIO QUE FICA LOCALIZADO NA REGIÃO CENTRAL DE ALAGOAS. SUA POPULAÇÃO É DE 25.747 HABITANTES E SUA ÁREA É DE 316 KM². LIMITA AO NORTE COM OS MUNICÍPIOS DE COITÉ DO NÓIA, TAQUARANA E TANQUE D'ARCA, AO SUL COM O MUNICÍPIO DE JUNQUEIRO, A LESTE COM O MUNICÍPIO DE ANADIA, A OESTE COM O MUNICÍPIO DE ARAPIRACA E A SUDESTE COM O MUNICÍPIO DE CAMPO ALEGRE. LIMOEIRO DE ANADIA DESTACA-SE AINDA POR DUAS DE SUAS PRINCIPAIS FESTIVIDADES: A FESTA DA PADROEIRA E A DA EMANCIPAÇÃO POLÍTICA, AMBAS ATRAINDO MUITOS VISITANTES. O PÚBLICO ALVO ESPERADO É A POPULAÇÃO DE LIMOEIRO E CIDADES CIRCUNVIZINHAS, PRINCIPALMENTE ARAPIRACA,MAIOR CIDADE DO INTERIOR DE ALAGOAS DISTANTE DO EMPREENDIMENTO EM QUESTÃO APENAS 12KM. PRETENDEMOS COM ESTA AÇÃO EQUACIONAR DOIS PROBLEMAS GRAVES E EXISTENTES NA REGIÃO. O PRIMEIRO É O ESCOAMENTO DA PRODUÇÃO LOCAL ESPECIALIZADA EM GASTRONOMIA REGIONAL E ARTESANATO E O SEGUNDO É O LAZER, HOJE INEXISTENTE, DE TÃO GRANDE VALIA PARA TODOS, PRINCIPALMENTE PARA CENTENAS DE JOVENS QUE HABITAM NO ENTORNO DA OBRA. A IDÉIA QUE PATROCINOU O PROJETO FOI A DE URBANIZAR PARTE DA ORLA DA LAGOA DO PÉ LEVE, RECOMPONDO A PAISAGEM HOJE DEGRADADA PELA AÇÃO ANTRÓPICA E IMPLANTAR NO ESPAÇO AMPLAS ÁREAS DE LAZER PROPORCIONANDO UMA INTEGRAÇÃO DE TODA POPULAÇÃO, ALÉM DE BARRACAS PADRONIZADAS PARA O COMÉRCIO DE GASTRONOMIA E ARTESANATO, ALÉM DE UMA GRANDE ÁREA VERDE DE PRESERVAÇÃO. TUDO ISSO CONSTRUÍDO COM AS MAIS MODERNAS TECNOLOGIAS ORGÂNICAS DE ENGENHARIA. TRATA-SE DE UMA INTERVENÇÃO ARQUITETÔNICA E DE ENGENHARIA SUSTENTÁVEL DE ENORME IMPACTO PARA O TURISMO DA REGIÃO TÃO CARENTE EM NOSSO ESTADO, POIS HOJE ESSA RIQUEZA NATURAL - A LÂMINA D'ÁGUA DA LAGOA - ESTÁ POLUÍDA E COM SUAS MARGENS SENDO INVADIDA DE FORMA DESCONTROLADA E SEM CRITÉRIO. COM A CONCLUSÃO DAS OBRAS E UMA INTERVENÇÃO EDUCATIVA, TEREMOS UM POLO TURÍSTICO NO MUNICÍPIO DE LIMOEIRO DE ANADIA QUE CERTAMENTE SERÁ BASTANTE UTILIZADO, CONCORRENDO PARA O INCREMENTO DA PARCERIA LAZER-ECONOMIA CONTRIBUINDO ASSIM PARA O DESENVOLVIMENTO DA REGIÃO E DO NOSSO ESTADO. TUDO ISSO EM COMPLETA SINTONIA COM OS OBJETIVOS DOS PROGRAMAS GOVERNAMENTAIS QUE COMPÕEM TÃO IMPORTANTE MINISTÉRIO. PÉ LEVE É O PRINCIPAL POVOADO DO MUNICÍPIO E COM A REALIZAÇÃO DESSAS OBRAS CERCA DE 1000 FAMILIAS COM RENDA MENSAL MÉDIA ENTRE 2 E 3 SALÁRIOS MÍNIMOS SERÃO BENEFICIADAS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Complementação da urbanização da obra da Lagoa do Pé Leve.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-06-09T00:00:00.000Z",
+            "biddingDate": "2010-12-16T00:00:00.000Z",
+            "homologationDate": "2010-12-27T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100020",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 600000,
+              "details": {
+                "code": "5400020100020",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "Infraestrutura urbanística",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 600000,
+                "couterpartValues": {
+                  "total": 15000,
+                  "financial": 15000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 585000,
+                  "amendment": "R$ 585.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "747312/2010",
+            "validity": "16/12/2010 a 30/03/2015",
+            "limitDate": "2015-04-29T00:00:00.000Z",
+            "totalValue": 600000,
+            "transferValue": 585000,
+            "counterpartValue": 15000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "738966/2010",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-08-12T00:00:00.000Z",
+        "end": "2015-08-30T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "031814/2010",
+            "organId": "31814/2010",
+            "processId": "031814/2010",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "LIMOEIRO DE ANADIA É UM MUNICÍPIO QUE FICA LOCALIZADO NA REGIÃO CENTRAL DE ALAGOAS. SUA POPULAÇÃO É DE 25.747 HABITANTES E SUA ÁREA É DE 316 KM². LIMITA AO NORTE COM OS MUNICÍPIOS DE COITÉ DO NÓIA, TAQUARANA E TANQUE D'ARCA, AO SUL COM O MUNICÍPIO DE JUNQUEIRO, A LESTE COM O MUNICÍPIO DE ANADIA, A OESTE COM O MUNICÍPIO DE ARAPIRACA E A SUDESTE COM O MUNICÍPIO DE CAMPO ALEGRE. LIMOEIRO DE ANADIA DESTACA-SE AINDA POR DUAS DE SUAS PRINCIPAIS FESTIVIDADES: A FESTA DA PADROEIRA E A DA EMANCIPAÇÃO POLÍTICA, AMBAS ATRAINDO MUITOS VISITANTES. COM A CONCLUSÃO DAS OBRAS E UMA INTERVENÇÃO EDUCATIVA, TEREMOS UMA BOA PAVIMENTAÇÃO E UMA BOA ÁREA COM TOTAL MOBILIDADE URBANA NO MUNICÍPIO QUE CERTAMENTE SERÁ BASTANTE UTILIZADA, CONCORRENDO PARA O INCREMENTO DA PARCERIA LAZER-ECONOMIA CONTRIBUINDO ASSIM PARA O DESENVOLVIMENTO DO MUNICÍPIO, DA REGIÃO E DO ESTADO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Obras de infra-estrutura urbana, construção de pavimentação em paralelepípedo e calçadas.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-04-01T00:00:00.000Z",
+            "biddingDate": "2010-08-12T00:00:00.000Z",
+            "homologationDate": "2010-08-26T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100103",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 375396.46,
+              "details": {
+                "code": "5300020100103",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "INFRAESTRUTURA URBANA",
+                "couterpartRule": "",
+                "totalValue": 375396.46,
+                "couterpartValues": {
+                  "total": 80096.46,
+                  "financial": 80096.46,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0102012",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2012-05-30T00:00:00.000Z",
+              "processId": "3452012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "3452012",
+                "biddingId": "0102012",
+                "object": "Pavimenta��o de Ruas no Povoado Genipapo.",
+                "legalFoundation": "8.666/93",
+                "justification": "Pavimenta��o de Ruas no Povoado Genipapo.",
+                "publishDate": "2012-05-30T00:00:00.000Z",
+                "beginDate": "2012-06-15T00:00:00.000Z",
+                "endDate": "2012-06-15T00:00:00.000Z",
+                "biddingValue": 375396.46,
+                "homologationDate": "2012-07-04T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000044/2012",
+              "biddingId": "0102012",
+              "date": "2012-12-20T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 03086586000147",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Serviço",
+                "object": "Pavimentação de Ruas no Povoado Genipapo.",
+                "totalValue": 375396.46,
+                "publishDate": "2012-12-20T00:00:00.000Z",
+                "beginDate": "2012-07-04T00:00:00.000Z",
+                "endDate": "2012-12-31T00:00:00.000Z",
+                "signDate": "2012-07-04T00:00:00.000Z",
+                "executionProcessId": "0102012 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "3452012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "738966/2010",
+            "validity": "12/08/2010 a 30/08/2015",
+            "limitDate": "2015-09-29T00:00:00.000Z",
+            "totalValue": 375396.46,
+            "transferValue": 295300,
+            "counterpartValue": 80096.46,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "738788/2010",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-08-12T00:00:00.000Z",
+        "end": "2012-08-30T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "055098/2010",
+            "organId": "55098/2010",
+            "processId": "055098/2010",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "LIMOEIRO DE ANADIA É UM MUNICÍPIO QUE FICA LOCALIZADO NA REGIÃO CENTRAL DE ALAGOAS. SUA POPULAÇÃO É DE 25.747 HABITANTES E SUA ÁREA É DE 316 KM². LIMITA AO NORTE COM OS MUNICÍPIOS DE COITÉ DO NÓIA, TAQUARANA E TANQUE D'ARCA, AO SUL COM O MUNICÍPIO DE JUNQUEIRO, A LESTE COM O MUNICÍPIO DE ANADIA, A OESTE COM O MUNICÍPIO DE ARAPIRACA E A SUDESTE COM O MUNICÍPIO DE CAMPO ALEGRE. LIMOEIRO DE ANADIA DESTACA-SE AINDA POR DUAS DE SUAS PRINCIPAIS FESTIVIDADES: A FESTA DA PADROEIRA E A DA EMANCIPAÇÃO POLÍTICA, AMBAS ATRAINDO MUITOS VISITANTES. O PÚBLICO ALVO ESPERADO É A POPULAÇÃO DE LIMOEIRO E CIDADES CIRCUNVIZINHAS, PRINCIPALMENTE ARAPIRACA,MAIOR CIDADE DO INTERIOR DE ALAGOAS DISTANTE DO EMPREENDIMENTO EM QUESTÃO APENAS 12KM. PRETENDEMOS COM ESTA AÇÃO EQUACIONAR DOIS PROBLEMAS GRAVES E EXISTENTES NA REGIÃO. O PRIMEIRO É O ESCOAMENTO DA PRODUÇÃO LOCAL ESPECIALIZADA EM GASTRONOMIA REGIONAL E ARTESANATO E O SEGUNDO É O LAZER, HOJE INEXISTENTE, DE TÃO GRANDE VALIA PARA TODOS, PRINCIPALMENTE PARA CENTENAS DE JOVENS QUE HABITAM NO ENTORNO DA OBRA. A IDÉIA QUE PATROCINOU O PROJETO FOI A DE URBANIZAR PARTE DA ORLA DA LAGOA DO PÉ LEVE, RECOMPONDO A PAISAGEM HOJE DEGRADADA PELA AÇÃO ANTRÓPICA E IMPLANTAR NO ESPAÇO AMPLAS ÁREAS DE LAZER PROPORCIONANDO UMA INTEGRAÇÃO DE TODA POPULAÇÃO, ALÉM DE BARRACAS PADRONIZADAS PARA O COMÉRCIO DE GASTRONOMIA E ARTESANATO, ALÉM DE UMA GRANDE ÁREA VERDE DE PRESERVAÇÃO. TUDO ISSO CONSTRUÍDO COM AS MAIS MODERNAS TECNOLOGIAS ORGÂNICAS DE ENGENHARIA. TRATA-SE DE UMA INTERVENÇÃO ARQUITETÔNICA E DE ENGENHARIA SUSTENTÁVEL DE ENORME IMPACTO PARA O TURISMO DA REGIÃO TÃO CARENTE EM NOSSO ESTADO, POIS HOJE ESSA RIQUEZA NATURAL - A LÂMINA D'ÁGUA DA LAGOA - ESTÁ POLUÍDA E COM SUAS MARGENS SENDO INVADIDA DE FORMA DESCONTROLADA E SEM CRITÉRIO. COM A CONCLUSÃO DAS OBRAS E UMA INTERVENÇÃO EDUCATIVA, TEREMOS UM POLO TURÍSTICO NO MUNICÍPIO DE LIMOEIRO DE ANADIA QUE CERTAMENTE SERÁ BASTANTE UTILIZADO, CONCORRENDO PARA O INCREMENTO DA PARCERIA LAZER-ECONOMIA CONTRIBUINDO ASSIM PARA O DESENVOLVIMENTO DA REGIÃO E DO NOSSO ESTADO. TUDO ISSO EM COMPLETA SINTONIA COM OS OBJETIVOS DOS PROGRAMAS GOVERNAMENTAIS QUE COMPÕEM TÃO IMPORTANTE MINISTÉRIO. PÉ LEVE É O PRINCIPAL POVOADO DO MUNICÍPIO E COM A REALIZAÇÃO DESSAS OBRAS CERCA DE 1000 FAMILIAS COM RENDA MENSAL MÉDIA ENTRE 2 E 3 SALÁRIOS MÍNIMOS SERÃO BENEFICIADAS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Infra-estrutura turística (Complementação das obras de Urbanização da Logoa do Pé Leve)",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al. Possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-05-12T00:00:00.000Z",
+            "biddingDate": "2010-08-12T00:00:00.000Z",
+            "homologationDate": "2010-08-26T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100020",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 200000,
+              "details": {
+                "code": "5400020100020",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "Infraestrutura urbanística",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 200000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "738788/2010",
+            "validity": "12/08/2010 a 30/08/2012",
+            "limitDate": "2012-09-29T00:00:00.000Z",
+            "totalValue": 200000,
+            "transferValue": 195000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "735448/2010",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-08-20T00:00:00.000Z",
+        "end": "2012-08-20T00:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "031786/2010",
+            "organId": "31786/2010",
+            "processId": "031786/2010",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Incentivar a prática de atividades esportivas entre os moradores dos povoados Genipapo e Papa-Farinha, que pertencem ao município de Limoeiro de Anadia e ficam a aproximadamente 5 km da sede do município e ambos tem uma população superior a 1.000 habitantes.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de uma quadra poli esportiva no Povoado de Genipapo e Papa-Farinha.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al. Possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-04-01T00:00:00.000Z",
+            "biddingDate": "2010-08-20T00:00:00.000Z",
+            "homologationDate": "2010-08-26T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 200000,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 200000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "735448/2010",
+            "validity": "20/08/2010 a 20/08/2012",
+            "limitDate": "2012-09-19T00:00:00.000Z",
+            "totalValue": 200000,
+            "transferValue": 195000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "718607/2009",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "064204/2009",
+            "organId": "64204/2009",
+            "processId": "064204/2009",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "LIMOEIRO DE ANADIA É UM MUNICÍPIO QUE FICA LOCALIZADO NA REGIÃO CENTRAL DE ALAGOAS. SUA POPULAÇÃO É DE 25.747 HABITANTES E SUA ÁREA É DE 316 KM². LIMITA AO NORTE COM OS MUNICÍPIOS DE COITÉ DO NÓIA, TAQUARANA E TANQUE D'ARCA, AO SUL COM O MUNICÍPIO DE JUNQUEIRO, A LESTE COM O MUNICÍPIO DE ANADIA, A OESTE COM O MUNICÍPIO DE ARAPIRACA E A SUDESTE COM O MUNICÍPIO DE CAMPO ALEGRE. LIMOEIRO DE ANADIA DESTACA-SE AINDA POR DUAS DE SUAS PRINCIPAIS FESTIVIDADES: A FESTA DA PADROEIRA E A DA EMANCIPAÇÃO POLÍTICA, AMBAS ATRAINDO MUITOS VISITANTES. O PÚBLICO ALVO ESPERADO É A POPULAÇÃO DE LIMOEIRO E CIDADES CIRCUNVIZINHAS, PRINCIPALMENTE ARAPIRACA,MAIOR CIDADE DO INTERIOR DE ALAGOAS DISTANTE DO EMPREENDIMENTO EM QUESTÃO APENAS 12KM. PRETENDEMOS COM ESTA AÇÃO EQUACIONAR DOIS PROBLEMAS GRAVES E EXISTENTES NA REGIÃO. O PRIMEIRO É O ESCOAMENTO DA PRODUÇÃO LOCAL ESPECIALIZADA EM GASTRONOMIA REGIONAL E ARTESANATO E O SEGUNDO É O LAZER, HOJE INEXISTENTE, DE TÃO GRANDE VALIA PARA TODOS, PRINCIPALMENTE PARA CENTENAS DE JOVENS QUE HABITAM NO ENTORNO DA OBRA. A IDÉIA QUE PATROCINOU O PROJETO FOI A DE URBANIZAR PARTE DA ORLA DA LAGOA DO PÉ LEVE, RECOMPONDO A PAISAGEM HOJE DEGRADADA PELA AÇÃO ANTRÓPICA E IMPLANTAR NO ESPAÇO ACADEMIAS AO AR LIVRE, PISTA DE CORRIDA, CICLOVIAS, BARRACAS PADRONIZADAS PARA O COMÉRCIO DE GASTRONOMIA E ARTESANATO, ALÉM DE UMA GRANDE ÁREA VERDE DE PRESERVAÇÃO. TUDO ISSO CONSTRUÍDO COM AS MAIS MODERNAS TECNOLOGIAS ORGÂNICAS DE ENGENHARIA. TRATA-SE DE UMA INTERVENÇÃO ARQUITETÔNICA E DE ENGENHARIA SUSTENTÁVEL DE ENORME IMPACTO PARA O TURISMO DA REGIÃO TÃO CARENTE EM NOSSO ESTADO, POIS HOJE ESSA RIQUEZA NATURAL - A LÂMINA D'ÁGUA DA LAGOA - ESTÁ POLUÍDA E COM SUAS MARGENS SENDO INVADIDA DE FORMA DESCONTROLADA E SEM CRITÉRIO. COM A CONCLUSÃO DAS OBRAS E UMA INTERVENÇÃO EDUCATIVA, TEREMOS UM POLO TURÍSTICO NO MUNICÍPIO DE LIMOEIRO DE ANADIA QUE CERTAMENTE SERÁ BASTANTE UTILIZADO, CONCORRENDO PARA O INCREMENTO DA PARCERIA LAZER-ECONOMIA CONTRIBUINDO ASSIM PARA O DESENVOLVIMENTO DA REGIÃO E DO NOSSO ESTADO. TUDO ISSO EM COMPLETA SINTONIA COM OS OBJETIVOS DOS PROGRAMAS GOVERNAMENTAIS QUE COMPÕEM TÃO IMPORTANTE MINISTÉRIO. ESSE PROJETO É PROVENIENTE DE EMENDA Nº 3144010, FUNCIONAL PROGRAMÁTICA Nº 23.695.1166.10V0.0027 DO DEPUTADO FEDERAL BENEDITO DE LIRA. PÉ LEVE É O PRINCIPAL POVOADO DO MUNICÍPIO E COM A REALIZAÇÃO DESSAS OBRAS CERCA DE 1000 FAMILIAS COM RENDA MENSAL MÉDIA ENTRE 2 E 3 SALÁRIOS MÍNIMOS SERÃO BENEFICIADAS",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "OBRAS DE INFRAESTRUTURA NA ORLA DA LAGOA PÉ LEVE NO DISTRITO PÉ LEVE.",
+            "information": "A PREFEITURA MUNICIPAL DE LIMOEIRO DE ANADIA DECLARA QUE DISPÕE DE EQUIPE CAPACITADA PARA ATUAR NA COORDENAÇÃO E FISCALIZAÇÃO DOS SERVIÇOS DE OBRAS DE ENGENHARIA QUE VENHAM A SER EXECUTADOS QUANDO DA FORMALIZAÇÃO DESTE CONVÊNIO.",
+            "proposalDate": "2009-08-21T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-27T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090006",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+              "value": 500000,
+              "details": {
+                "code": "5400020090006",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 12500,
+                  "financial": 12500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.909.194-** - MARCELO RODRIGUES BARBOSA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2017",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2017-12-15T00:00:00.000Z",
+              "processId": "14622017",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "14622017",
+                "biddingId": "03/2017",
+                "object": "Executar os Serviços de Obras de Infraestrutura na Orla da Lagoa do Pé Leve no Distrito Pé Leve no município de Limoeiro de Anadia/AL",
+                "legalFoundation": "Lei 8.666/1993",
+                "justification": "O Processo Licitatório é uma exigência da Legislação Pública Brasileira vigente, em especial o que estabelece a Lei Federal 8.666/1993 e suas alterações, visando atender os princípios legais no que se refere à contratação por parte da Administração Pública.  Tal Licitação teve como objetivo contratar uma empresa para Executar os Serviços de Obras de Infraestrutura na Orla da Lagoa Pé Leve no Distrito Pé Leve no município de Limoeiro de Anadia/AL, buscando a proposta mais vantajosa ao município.",
+                "publishDate": "2017-12-15T00:00:00.000Z",
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 463277.98,
+                "homologationDate": "2018-03-01T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000018/2018",
+              "biddingId": "03/2017",
+              "date": "2018-03-08T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 19443620000123",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Serviço de Engenharia",
+                "object": "Executar os serviços de Obras de Infraestrutura na Orla da Lagoa do Pé Leve no Distrito Pé Leve no município de Limoeiro de Anadia/AL",
+                "totalValue": 463277.98,
+                "publishDate": "2018-03-08T00:00:00.000Z",
+                "beginDate": "2018-03-01T00:00:00.000Z",
+                "endDate": "2018-06-30T00:00:00.000Z",
+                "signDate": "2018-03-01T00:00:00.000Z",
+                "executionProcessId": "03/2017 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "14622017 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "718607/2009",
+            "validity": "31/12/2009 a 31/12/2020",
+            "limitDate": "2020-12-31T00:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 487500,
+            "counterpartValue": 12500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "717482/2009",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-01T00:00:00.000Z",
+        "end": "2010-04-03T00:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "089287/2009",
+            "organId": "01391/2009",
+            "processId": "72031.005958/2009-87",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07 e Portaria interministerial 127/ 08",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "DE 04 A 08 DE DEZEMBRO, A CIDADE DE LIMOEIRO DE ANADIA IRÁ REALIZAR O FESTIVAL DO LIMÃO 2009, NUMA JUSTA HOMENAGEM A ESTA CULTURA QUE TANTO DESTAQUE DÁ A ESSA TERRA DE NATUREZA RICA E POVO PACATO E HOSPITALEIRO. O FESTIVAL DO LIMÃO É UM EVENTO QUE CERTAMENTE VAI ENTRAR NO CALENDÁRIO OFICIAL DO ESTADO DE ALAGOAS E QUIÇÁ DO BRASIL, DADA SUA ORGANIZAÇÃO, TAMANHO E ATRAÇÕES QUE IRÃO SE APRESENTAR. BANDAS CONSAGRADAS COMO AVIÕES DO FORRÓ, FORRÓ DOS PLAYS, AMADO BATISTA, CAVALO DE PAU, MIRELLA E BANDA DOCE AVENTURA, AFFARRA E O PADRE ANTÔNIO MARIA, DENTRE OUTROS, SERÃO OS RESPONSÁVEIS POR ATRAIR UM PÚBLICO DE MAIS DE 30 MIL PESSOAS NOS QUATRO DIAS DE FESTA. A CIDADE, DE ACORDO COM A PREFEITURA, ESPERA COM A REALIZAÇÃO DO EVENTO EM PARCERIA COM O MINISTÉRIO DO TURISMO, ATRAIR NOVOS INVESTIMENTOS DO SETOR, FOMENTAR REDES DE COOPERAÇÃO, AUMENTAR OS SERVIÇOS OFERECIDOS AOS TURISTAS, GERAR EMPREGO E RENDA(SÃO CERCA DE 1200 EMPREGOS DIRETOS E INDIRETOS DURANTE OS CINCO DIAS DE FESTA) , AUMENTAR A OCUPAÇÃO HOTELEIRA NA REGIÃO,INSERIR LIMOEIRO NO ROTEIRO DO TURISMO DE INTERIOR E AMPLIAR A CAPACITAÇÃO DA MÃO DE OBRA LOCAL, UMA VEZ QUE O TURISMO É UMA INDÚSTRIA QUE NÃO POLUÍ E É CAPAZ DE SER UMA FERRAMENTA IMPORTANTE DE INCLUSÃO E DESENVOLVIMENTO SOCIAL. LIMOEIRO ESTÁ LOCALIZADA A CERCA DE 100 QUILÔMETROS DE MACEIÓ, VIZINHA DA CIDADE DE ARAPIRACA (PRINCIPAL POLO DA REGIÃO AGRESTE), TEM 316 KM QUADRADOS DE ÁREA E POPULAÇÃO DE POUCO MENOS DE 26 MIL PESSOAS. A ECONOMIA É VOLTADA PARA CANA-DE-AÇÚCAR E AGROPECUÁRIA. O FESTIVAL DO LIMÃO 2009 ESTÁ SENDO REALIZADO PELA PRIMEIRA VEZ, MAS A TRADIÇÃO DE REALIZAR GRANDES FESTAS FAZ PARTE DA VIDA DE LIMOEIRO DE ANADIA, QUE COMEMORA ENTRE OUTRAS DATAS, O CARNAVAL, O SÃO JOÃO, O NATAL, O ANO NOVO, A FESTA DA PADROEIRA E DA EMANCIPÃÇÃO POLÍTICA. EM TODOS ESSES EVENTOS, A PREFEITURA PODE CONSTATAR O AUMENTO CONSIDERÁVEL DO FLUXO TURÍSTICO QUE CHEGA A LOTAR OS MEIOS DE HOSPEDAGEM DISPONÍVEIS NA CIDADE E REGIÃO E ANIMA O COMÉRCIO LOCAL QUE LUCRA COM O ENORME NÚMERO DE VISITANTES QUE CADA FESTA ATRAI. CADA EVENTO ATRAI DE OITO A DEZ MIL PESSOAS POR DIA E CORRROBORA DE FORMA EFICÁZ PARA O AQUECIMENTO ECONÔMICO DE TODA REGIÃO. A REALIZAÇÃO DO FESTIVAL DO LIMÃO, QUE TEM GRANDE POTENCIAL PARA GERAÇÃO DE FLUXO TURÍSTICO, PERMITIRÁ COM QUE LIMOEIRO POSSA SE DESTACAR AINDA MAIS NO CENÁRIO ALAGOANO COMO UM DESTINO CHEIO DE BELEZA E MAGIA, CAPAZ DE UNIR A SIMPLICIDADE DE UMA GENTE COM UMA NATUREZA VERDADEIRAMENTE RICA E BELA. O MINISTÉRIO DO TURISMO ACERTA EM APOIAR MAIS ESSE GRANDE EVENTO QUE COLOCA LIMOEIRO A FRENTE DO SEU TEMPO, FAZENDO DO TURISMO UMA INDÚSTRIA FORTE DE GERAÇÃO DE EMPREGO E DE OPORTUNIDADES.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "FESTIVAL DO LIMÃO 2009",
+            "information": "DECLARAÇÃO EM ANEXO",
+            "proposalDate": "2009-10-28T00:00:00.000Z",
+            "biddingDate": "2009-12-01T00:00:00.000Z",
+            "homologationDate": "2009-12-24T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090049",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 420000,
+              "details": {
+                "code": "5400020090049",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "FESTIVAIS CULTURAIS",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 420000,
+                "couterpartValues": {
+                  "total": 20000,
+                  "financial": 20000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 400000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0062009",
+              "type": "Inexigibilidade",
+              "date": "2009-12-03T00:00:00.000Z",
+              "processId": "6042009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "6042009",
+                "biddingId": null,
+                "object": "contratação de atração musical com as bandas:Aviões do Forró,Afarra,Bakanas, Forró dos Plays,Amado Batista, Cavalo de Pau, Mirella e Banda Doce Aventura e Padre Antonio Maria com estrutura completa de palco, nos dias 04,05,06 e 08 de dezembro de 2009.",
+                "legalFoundation": "0062009",
+                "justification": "E inexigível a licitação quando houver inviabilidade de competição em especial para a contratação de profissional de quaçquer setor Artístico, diretamente ou através de empresário exclusivo desde que consagrado pela critica especializada ou pela opinião pública",
+                "publishDate": "2009-12-03T00:00:00.000Z",
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 420000,
+                "homologationDate": "2009-12-03T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000006/2009",
+              "biddingId": "0062009",
+              "date": "2009-12-03T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09412290000155",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Material",
+                "object": "Apresentação de Show musical por parte das Bandas/Atrações: Aviões do Forró,Afarra,Bakanas, Forró dos Plays,Amado Batista,Cavalo de Pau, Mirella e Banda Doce Aventura e Padre Antonio Maria, com estrutura completa de palco, nos dias 04,05,06 e 08 de dezembro de 2009.",
+                "totalValue": 420000,
+                "publishDate": "2009-12-03T00:00:00.000Z",
+                "beginDate": "2009-12-01T00:00:00.000Z",
+                "endDate": "2010-04-03T00:00:00.000Z",
+                "signDate": "2009-12-01T00:00:00.000Z",
+                "executionProcessId": "0062009 ",
+                "biddingModality": "Inexigibilidade ",
+                "processId": "6042009 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "717482/2009",
+            "validity": "01/12/2009 a 03/04/2010",
+            "limitDate": "2010-04-03T00:00:00.000Z",
+            "totalValue": 420000,
+            "transferValue": 400000,
+            "counterpartValue": 20000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "715095/2009",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-30T00:00:00.000Z",
+        "end": "2014-04-24T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "072267/2009",
+            "organId": "72267/2009",
+            "processId": "072267/2009",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "LIMOEIRO DE ANADIA É UM MUNICÍPIO QUE FICA LOCALIZADO NA REGIÃO CENTRAL DE ALAGOAS. SUA POPULAÇÃO É DE 25.747 HABITANTES E SUA ÁREA É DE 316 KM². LIMITA AO NORTE COM OS MUNICÍPIOS DE COITÉ DO NÓIA, TAQUARANA E TANQUE D'ARCA, AO SUL COM O MUNICÍPIO DE JUNQUEIRO, A LESTE COM O MUNICÍPIO DE ANADIA, A OESTE COM O MUNICÍPIO DE ARAPIRACA E A SUDESTE COM O MUNICÍPIO DE CAMPO ALEGRE. LIMOEIRO DE ANADIA DESTACA-SE AINDA POR DUAS DE SUAS PRINCIPAIS FESTIVIDADES: A FESTA DA PADROEIRA E A DA EMANCIPAÇÃO POLÍTICA, AMBAS ATRAINDO MUITOS VISITANTES. PÚBLICO ALVO SERÁ, ALÉM DOS PRÓPRIOS MUNÍCIPES, OS HABITANTES DAS CIDADES CIRCUNVIZINHAS, PRINCIPALMENTE ORIUNDOS DE ARAPIRACA, SEGUNDA MAIOR CIDADE ALAGOANA E DISTANTE APENAS 10KM DO COMPLEXO A SER CONSTRUIDO. TAMBÉM TEREMOS O APORTE DE TURISTAS DE OUTRAS REGIÕES DE DENTRO E FORA DO NOSSO ESTADO, JÁ QUE NOSSO ARTESANATO É DE BOA QUALIDADE E RECONHECIDO NACIONALMENTE. A IDÉIA QUE PATROCINOU O PROJETO FOI A DE CONSTRUIR 02 PRAÇAS PÚBLICAS E 02 CENTROS PÚBLICOS DE COMERCIALIZAÇÃO DE PRODUTOS ARTESANAIS COM O OBJETIVO DE URBANIZAR E REVITALIZAR A ORLA LAGUNAR DA LAGOA DO PÉ LEVE, RECOMPONDO A PAISAGEM HOJE DEGRADADA PELA AÇÃO ANTRÓPICA. TUDO ISSO CONSTRUÍDO COM AS MAIS MODERNAS TECNOLOGIAS ORGÂNICAS DE ENGENHARIA. TRATA-SE DE UMA INTERVENÇÃO ARQUITETÔNICA E DE ENGENHARIA SUSTENTÁVEL QUE IRÁ CATAPULTAR O TURISMO DA REGIÃO TRAZENDO A OPORTUNIDADE DE GERAÇÃO DE RENDA PARA OS MUNÍCIPES DA REGIÃO. TUDO ISSO EM COMPLETA SINTONIA COM OS OBJETIVOS DOS PROGRAMAS GOVERNAMENTAIS QUE COMPÕEM TÃO IMPORTANTE MINISTÉRIO. CABE,EM TEMPO RESSALTAR QUE TODAS AS OBRAS EM EPÍGRAFE SERÃO EXECUTADAS NO DISTRITO DO PÉ LEVE NO MUNICÍPIO DE LIMOEIRO DE ANADIA. PÉ LEVE É OMAIOR DISTRITO DO MUNICÍPIO E TEM UMA POPULAÇÃO DE CERCA DE 4.000 PESSOAS COM RENDA MÉDIA FAMILIAR ENTRE 2 E 3 SALÁRIOS MÍNIMOS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE 02 PRAÇAS PÚBLICAS E 02 CENTROS PÚBLICOS DE COMERCIALIZAÇÃO DE PRODUTOS ARTESANAIS NA ORLA DA LAGOA DO PÉ LEVE NO MUNICÍPIO DE LIMOEIRO DE ANADIA/ALAGOAS.",
+            "information": "A PREFEITURA MUNICIPAL DE LIMOEIRO DE ANADIA DECLARA QUE DISPÕE DE EQUIPE CAPACITADA PARA ATUAR NA COORDENAÇÃO E FISCALIZAÇÃO DOS SERVIÇOS DE OBRAS DE ENGENHARIA QUE VENHAM A SER EXECUTADOS QUANDO DA FORMALIZAÇÃO DESTE CONTRATO DE REPASSE.",
+            "proposalDate": "2009-09-17T00:00:00.000Z",
+            "biddingDate": "2009-12-30T00:00:00.000Z",
+            "homologationDate": "2010-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090005",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 500000,
+              "details": {
+                "code": "5400020090005",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "INFRAESTRUTURA URBANÍSTICA, INFRAESTRUTURA EM ORLA MARÍTIMA E FLUVIA, CENTRO DE EVENTOS E/OU CONVENÇÕES, PRAÇA PUBLICA, PARQUE PÚBLICO ECOLÓGICO OU TEMÁTICO, CENTRO PÚBLICO DE COMERCIALIZAÇÃO DE PRODUTOS ARTESANAIS, AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 12500,
+                  "financial": 12500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012011",
+              "type": "Licitação - Concorrência",
+              "date": "2011-02-25T00:00:00.000Z",
+              "processId": "0492011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concorrência",
+                "biddingType": "Menor Preço",
+                "processId": "0492011",
+                "biddingId": "0012011",
+                "object": "Urbanização da Orla Lagunar do Distrito do Pé Leve no município.",
+                "legalFoundation": "8666/93",
+                "justification": "Urbanização da Orla Lagunar do Distrito do Pé Leve no município.",
+                "publishDate": "2011-02-25T00:00:00.000Z",
+                "beginDate": "2011-03-28T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 1907.637,
+                "homologationDate": "2011-04-04T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2011",
+              "biddingId": "0012011",
+              "date": "2011-05-02T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 40917478000103",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Material e Serviço",
+                "object": "Urbanização da Orla Lagunar do Distrito do Pé Leve no município.",
+                "totalValue": 1907.637,
+                "publishDate": "2011-05-02T00:00:00.000Z",
+                "beginDate": "2011-09-26T00:00:00.000Z",
+                "endDate": "2012-03-24T00:00:00.000Z",
+                "signDate": "2011-04-04T00:00:00.000Z",
+                "executionProcessId": "0012011 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "0492011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "715095/2009",
+            "validity": "30/12/2009 a 24/04/2014",
+            "limitDate": "2014-04-24T00:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 487500,
+            "counterpartValue": 12500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "712021/2009",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-23T00:00:00.000Z",
+        "end": "2012-12-12T00:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "096664/2009",
+            "organId": "50020/2009",
+            "processId": "59550.000992/2009-38",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "Decreto nº 6.170/2007 c/ Portaria Interministerial MP/MF/MCT nº 165/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "Os principais danos causados pelas fortes de chuvas do mês de maio/09 foram nas casas dos moradores do município, onde 03 dessas casas foram derrubadas, nas estradas vicinais do município e no Posto de Saúde. Nas estradas vicinais serão feitos serviços em pontos localizados, devido a grande extensão de estradas do município e os poucos recursos disponíveis. As casas atingidas serão levantadas individualmente com um cadastro e um memorial descritivo para cada unidade habitacional. As novas unidades habitacionais terão 36 m² com sala, cozinha, banheiro e 2 quartos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Recuperação de 102 unidades habitacionais, Reconstrução de 03 unidades habitacionais, Recuperação do Posto de Saúde e Recuperação de Pontos Localizados das Estradas Vicinais",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-11-08T00:00:00.000Z",
+            "biddingDate": "2009-12-23T00:00:00.000Z",
+            "homologationDate": "2009-12-28T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320090122",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 409795,
+              "details": {
+                "code": "2220320090122",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Todos os municípios, com população abaixo de 50.000 habitantes, localizados em todas as regiões do Brasil. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 409795,
+                "couterpartValues": {
+                  "total": 8200,
+                  "financial": 8200,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 401595,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0032010",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "1392010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "1392010",
+                "biddingId": null,
+                "object": "CONTRATAÇÃO DE ENGENHEIRO CIVIL, PARA EXECUÇÃO DE SERVIÇOS NA ELABORAÇÃO DE PROJETOS BÁSICOS-ESTRADAS VICINAIS",
+                "legalFoundation": "8666/93",
+                "justification": "CONTRATAÇÃO DE ENGENHEIRO CIVIL, PARA EXECUÇÃO DE SERVIÇOS NA ELABORAÇÃO DE PROJETOS BÁSICOS-ESTRADAS VICINAIS",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": "2010-04-30T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2010",
+              "biddingId": "0032010",
+              "date": "2011-02-01T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 20813511453",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE ENGENHEIRO CIVIL, PARA EXECUÇÃO DE SERVIÇOS NA ELABORAÇÃO DE PROJETOS BÁSICOS-ESTRADAS VICINAIS.",
+                "totalValue": 6400,
+                "publishDate": "2011-02-01T00:00:00.000Z",
+                "beginDate": "2010-04-30T00:00:00.000Z",
+                "endDate": "2010-05-30T00:00:00.000Z",
+                "signDate": "2010-04-30T00:00:00.000Z",
+                "executionProcessId": "0032010 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "1392010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "712021/2009",
+            "validity": "23/12/2009 a 12/12/2012",
+            "limitDate": "2013-07-09T00:00:00.000Z",
+            "totalValue": 409795,
+            "transferValue": 401595,
+            "counterpartValue": 8200,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "707395/2009",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2015-01-10T00:00:00.000Z",
+        "program": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "051324/2009",
+            "organId": "51324/2009",
+            "processId": "051324/2009",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A POPULAÇÃO DE LIMOEIRO DE ANADIA CRESCE CONTINUAMENTE E DESEJA MELHORIAS DE INFRA-ESTRUTURA NAS COMUNIDADES RURAIS, SENDO ESTAS TAMBÉM A META DA ADMINISTRAÇÃO PÚBLICA, OU SEJA, PROPICIAR AOS MUNÍCIPES A MELHOR QUALIDADE DE VIDA, PARA O BOM DESEMPENHO EM SUAS ATIVIDADES SOCIAIS DE FORMA GERAL. COM ESSA VISÃO O MUNICÍPIO DE LIMOEIRO DE ANADIA LANÇA A PRESENTE PROPOSTA DE CONVÊNIO COM O GOVERNO FEDERAL, PARA DEFINITIVAMENTE EXECUTAR E ATENDER AS DEMANDAS SOCIAIS DA COMUNIDADE AGROPECUÁRIA LOCAL. A ADMINISTRAÇÃO MUNICIPAL PRETENDE ATRAVÉS DESTE CONTRATO DE REPASSE PAVIMENTAR A ESTRADA VICINAL DE LIGAÇÃO ENTRE O POVOADO GENIPAPO À SEDE DO MUNICÍPIO. SERÃO DIRETAMENTE BENEFICIADOS COM A EXECUÇÃO DESTAS OBRAS, MAIS DE 20 PEQUENOS E MÉDIOS PRODUTORES QUE VERÃO FACILITADO O ESCOAMENTO DE SUAS PRODUÇÕES DIÁRIAS DE LEITE PRINCIPALMENTE. O IDH DO MUNICÍPIO É 0,57. DIRETAMENTE SERÃO BENEFICIADOS CERCA DE 20 PEQUENOS PRODUTORES QUE TEM RENDA MÉDIA EM TORNO DE 3 SALÁRIOS MÍNIMOS, E INDIRETAMENTE MAIS DE 100 PEQUENOS PRODUTORES. COMO É NA ESTRADA DE LIGAÇÃO ENTRE A SEDE DO MUNICÍPIO E O POVOADO GENIPAPO CONSIDERAMOS COMO ZONA RURAL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "MANUTENÇÃO DE ESTRADA VICINAL NO MUNICÍPIO DE LIMOEIRO DE ANADIA/AL.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Limoeiro de Anadia/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-07-17T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090055",
+              "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+              "value": 410000,
+              "details": {
+                "code": "2200020090055",
+                "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+                "cps": "",
+                "items": "Apoio ao Desenvolvimento do Setor Agropecuário",
+                "couterpartRule": "Municípios com até 50.000 (cinqüenta mil) habitantes. (Lei 11768/08, art. 40 §1º, inc I-a) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 410000,
+                "couterpartValues": {
+                  "total": 20000,
+                  "financial": 20000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "004/2010",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2010-05-05T00:00:00.000Z",
+              "processId": "1972010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "1972010",
+                "biddingId": "004/2010",
+                "object": "Execução dos serviços de infraestrutra de Pavimentação a paralelepípedo em ruas de acesso ao Povoado Areia Vermelha no município de Limoeiro de Anadia.",
+                "legalFoundation": "8666/93",
+                "justification": "Execução dos serviços de infraestrutra de Pavimentação a paralelepípedo em ruas de acesso ao Povoado Areia Vermelha no município de Limoeiro de Anadia.",
+                "publishDate": "2010-05-05T00:00:00.000Z",
+                "beginDate": "2010-05-20T00:00:00.000Z",
+                "endDate": "2010-05-20T00:00:00.000Z",
+                "biddingValue": 398528.49,
+                "homologationDate": "2010-05-27T00:00:00.000Z",
+                "city": "2783 - LIMOEIRO DE ANADIA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2010",
+              "biddingId": "004/2010",
+              "date": "2010-05-27T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04068582000107",
+                "hirerDocument": "CNPJ: 12207403000195",
+                "type": "Serviço",
+                "object": "Execução dos Serviços de infraestrutura de Pavimentação em paralelepípedo em ruas de acesso ao Povoado Areia vermelha no município de Limoeiro de Anadia.",
+                "totalValue": 398528.49,
+                "publishDate": "2010-05-27T00:00:00.000Z",
+                "beginDate": "2011-04-18T00:00:00.000Z",
+                "endDate": "2013-01-10T00:00:00.000Z",
+                "signDate": "2010-05-27T00:00:00.000Z",
+                "executionProcessId": "004/2010 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "1972010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "707395/2009",
+            "validity": "31/12/2009 a 10/01/2015",
+            "limitDate": "2015-01-10T00:00:00.000Z",
+            "totalValue": 410000,
+            "transferValue": 390000,
+            "counterpartValue": 20000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "626838/2008",
+        "company": {
+          "id": "376212b9-8c49-4df3-b73c-3e4ff0c45712",
+          "cnpj": "12207403000195",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "33c5d55e-37cb-4437-89a7-fdabcf30aeba",
+            "name": "Limoeiro de Anadia",
+            "uf": "AL",
+            "ibge": "2704203"
+          }
+        },
+        "name": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-30T00:00:00.000Z",
+        "end": "2009-05-03T00:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Concluído no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "076438/2008",
+            "organId": "655676/2008",
+            "processId": "23400.000654/2008-91",
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "legalFoundation": "",
+            "organ": "26000 - MINISTERIO DA EDUCACAO",
+            "linkedOrgan": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "description": null,
+            "justification": "11, DE 25 DE ABRIL DE 2008",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ESTE CONVENIO TEM POR OBJETO A ASSISTENCIA FINANCEIRA, VISANDO A AQUIS ICAO DE VEICULO AUTOMOTOR, ZERO QUILOMETRO, DE TRANSPORTE COLETIVO, DE STINADO EXCLUSIVAMENTE AO TRANSPORTE DIARIO DE ALUNOS DA EDUCACAO BASI CA, CONFORME PROJETO APRESENTADO, DECORRENTE DE EMENDA PARLAMENTAR.",
+            "information": "",
+            "proposalDate": "2008-06-30T00:00:00.000Z",
+            "biddingDate": "2008-06-30T00:00:00.000Z",
+            "homologationDate": "2008-07-02T00:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.207.403/0001-95 - MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "respProponent": "***.422.464-** - JORGE NIVALDO RIBEIRO DE ALBUQUERQUE",
+            "grantor": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "respGrantor": "***.416.934-** - DANIEL SILVA BALABAN"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "convenient": "MUNICIPIO DE LIMOEIRO DE ANADIA",
+            "documentNumber": "12.207.403/0001-95",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "626838/2008",
+            "validity": "30/06/2008 a 03/05/2009",
+            "limitDate": "2009-05-03T00:00:00.000Z",
+            "totalValue": 173895.9,
+            "transferValue": 172168.9,
+            "counterpartValue": 1727,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

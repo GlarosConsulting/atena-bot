@@ -1,0 +1,12 @@
+{
+  "beginDate": "2020-09-01T21:24:28.992Z",
+  "endDate": "2020-09-01T21:24:30.520Z",
+  "data": {
+    "location": {
+      "city": "Pão de Açúcar",
+      "uf": "AL",
+      "ibge": "2706406"
+    },
+    "agreements": []
+  }
+}

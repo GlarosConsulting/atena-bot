@@ -1,0 +1,1292 @@
+{
+  "beginDate": "2020-09-01T13:21:39.111Z",
+  "endDate": "2020-09-01T13:28:10.712Z",
+  "data": {
+    "location": {
+      "city": "Jacuípe",
+      "uf": "AL",
+      "ibge": "2703502"
+    },
+    "agreements": [
+      {
+        "agreementId": "899927/2020",
+        "company": {
+          "id": "02b857f4-aa10-4917-b8f9-b9a22f3e11d4",
+          "cnpj": "12247755000174",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+            "name": "Jacuípe",
+            "uf": "AL",
+            "ibge": "2703502"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2020-06-09T00:00:00.000Z",
+        "end": "2023-06-09T00:00:00.000Z",
+        "program": "SDRU/MDR - 2217 - Programa de Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - Emenda Individual Impositiva",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "005031/2020",
+            "organId": "05031/2020",
+            "processId": "50312020",
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": "Propõe a redução das desigualdades regionais e locais buscando a promoção do desenvolvimento territorial sustentável, a produção agropecuária, respeitando as diferenças sociais, educativas e cultural.",
+            "justification": null,
+            "targetAudience": "Agricultores familiares e os moradores do Assentamento Agrário da Boa Vista e adjacencias do município de Jacuípe e todos aqueles que usufruem dos serviços públicos essenciais existente na sede do Assentamento, tais como Unidade Básica de Saúde, Escola de Ensino Fundamental, Creche Escolar, Igrejas, Campo de Futebol entre outros serviços.",
+            "problem": "Manutenção e conservação da malha viária do município, melhorias nas condições de segurança no trânsito e trafegabilidade das vias para a circulação de pessoas e veículos, além de condições adequadas de acessibilidade nas vias e calçadas.",
+            "result": "Melhoria da mobilidade urbana, estruturação de atividades produtivas, arranjos produtivos e rotas de integração para promover o desenvolvimento local e territorial, e melhoria da qualidade de vida da populaçãolocal.",
+            "proposalAndObjectivesRelation": "Promoção da estruturação de atividades produtivas, arranjos produtivos e a integração para o desenvolvimento regional e territorial.",
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Serviço de Pavimentação do Acesso a sede do Assentamento Agrário da Boa Vista ligando este a AL - 105, via estadual que dá acesso a cidade de Jacuípe.",
+            "information": "Para os devidos fins administrativos e efeitos legais, declaro junto ao Ministério da Integração Nacional, por intermédio da Secretaria de Desenvolvimento Regional – SDR/MI, que a Prefeitura Municipal de Jacuípe - AL, inscrita no CNPJ sob o nº 12.247.755/0001-74, dispõe de pessoal com capacidade administrativa e técnica para execução do objeto constante do Plano de Trabalho (Serviço de Pavimentação do Acesso a sede do Assentamento Agrário da Boa Vista ligando este a AL - 105, via estadual que dá acesso a cidade de Jacuípe) proposto para formalização de Convênio. A obra será acompanhada pelo engenheira EDUARDA PAVOLLYNE FREITAS FERREIRA, CREA/PE nº ...... Esclareço, ainda, que este Proponente assume a responsabilidade pela execução do objeto proposto em todas as fases exigidas legalmente, licitação, acompanhamento da execução e prestação de contas.",
+            "proposalDate": "2020-03-14T00:00:00.000Z",
+            "biddingDate": "2020-06-09T00:00:00.000Z",
+            "homologationDate": "2020-06-12T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020200012",
+              "name": "SDRU/MDR - 2217 - Programa de Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - Emenda Individual Impositiva",
+              "value": 1456.131,
+              "details": {
+                "code": "5300020200012",
+                "name": "SDRU/MDR - 2217 - Programa de Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - Emenda Individual Impositiva",
+                "cps": "007/2018",
+                "items": "Pavimentação",
+                "couterpartRule": "no caso dos Estados e do Distrito Federal; um décimo por cento e dez por cento, se localizados nas áreas prioritárias definidas no âmbito da PNDR, nas áreas da Sudene, da Sudam e da Sudeco [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1456.131,
+                "couterpartValues": {
+                  "total": 14417.14,
+                  "financial": 14417.14,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 1441.714,
+                  "amendment": "R$ 1.441.714,00 - Nivaldo Albuquerque"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "respProponent": "***.848.784-** - AMARO FERREIRA DA SILVA JUNIOR",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE JACUIPE",
+            "documentNumber": "12.247.755/0001-74",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "899927/2020",
+            "validity": "09/06/2020 a 09/06/2023",
+            "limitDate": "2023-08-08T00:00:00.000Z",
+            "totalValue": 1456.131,
+            "transferValue": 1441.714,
+            "counterpartValue": 14417.14,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "867796/2018",
+        "company": {
+          "id": "02b857f4-aa10-4917-b8f9-b9a22f3e11d4",
+          "cnpj": "12247755000174",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+            "name": "Jacuípe",
+            "uf": "AL",
+            "ibge": "2703502"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2019-01-10T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "028097/2018",
+            "organId": "00135/2018",
+            "processId": "59553.000239/2018-11",
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "legalFoundation": "Decreto 6.170/2007 e Port. 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Jacuípe está inserido na microrregião da mata alagoana e mesorregião do Leste Alagoano; limita-se ao norte com os municípios pernambucanos de Água Preta e Barreiros, ao sul com Porto Calvo e Jundiá, a leste com Maragogi e a oeste com Campestre. Tem uma área de 219,03km² (IBGE, 2010), distando 140 km de Maceió, com altitude de aproximadamente 74m e coordenadas geográficas de 08°50’31.2’’ de latitude sul e 35°27’36.8’’ de longitude oeste. População de 7.177 habitantes (IBGE – 2014). O Município de Jacuípe possui características de diversidade de recursos ambientais em diferentes níveis de preservação e degradação ambiental. NO município, existem os Assentamentos da Boa Vista com 177 famílias (no mapa da INCRA, são 185 parcelas numa área de cerca de 1400 hectares), Canafístula com 45 famílias numa área aproximada de 358 hectares e no Assentamento Conceição as 25 parcelas da área conhecida como Vargem Grande, e demais sítios rurais isolados no território municipal, tendo o município uma área agricultável de pequenos produtores e agricultores familiares de aproximadamente 3.000 hectares com estimativa de atender cerca de 310 produtores rurais. Com a Melhoria das Estradas Vicinais o Município possibilitará rapidez para o escoamento da produção, sendo um requisito necessário para atender a produção para comercialização dos produtores familiares de Jacuípe em sua totalidade das famílias da Zona de Agricultura Familiar - ZAF aquela destinada ao plantio diversificado de raízes, tubérculos, frutíferas, entre outras. Assim melhorando a infraestrutura e logística da produção agrícola e a fomentação da agroindústria bem como permitir a venda dos produtos típicos deste município, como: farinha, feijão, macaxeira, frutas (manga, banana, laranja, limão, acerola), permitir também atendimento de demandas com amplo efeito socioeconômico aos pequenos produtores rurais. O Município de Jacuípe possui capacidade operacional para manutenção e controle da gestão do pleito solicitado e utilizaremos como metodologia o processo de gestão compartilhada com os agricultores familiares através de suas associações, comerciantes locais e feirantes itinerantes para melhor atender a comunidade jacuipense. A obra de MELHORIA DE ESTRADAS VICINAIS de Jacuípe será executada com recursos da emenda parlamentar nº 29730003 do Deputado PAULÃO no valor de R$ 305.000,00, recurso repasse, cujo título – PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL, possui vinculo com o programa nº 5300020180005 do Ministério da Integração Nacional.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Recuperação da estrada vicinal que liga a Fazenda Barro Branco ao Assentamento Agrário da Canafístula.",
+            "information": "O município possui capacidade técnica e gerencial para conduzir os serviços objeto deste projeto.",
+            "proposalDate": "2018-03-15T00:00:00.000Z",
+            "biddingDate": "2018-12-31T00:00:00.000Z",
+            "homologationDate": "2019-01-10T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020180005",
+              "name": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+              "value": 305000,
+              "details": {
+                "code": "5300020180005",
+                "name": "SDR/MI - 2029 PROGRAMA DE DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA",
+                "cps": null,
+                "items": "Pavimentação, Ações Complementares de Obras",
+                "couterpartRule": "CONSÓRCIOS PÚBLICOS, 1% A 4% [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 305000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 300000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "respProponent": "***.848.784-** - AMARO FERREIRA DA SILVA JUNIOR",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.013.663-** - MARLON CARVALHO CAMBRAIA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE JACUIPE",
+            "documentNumber": "12.247.755/0001-74",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "867796/2018",
+            "validity": "10/01/2019 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 305000,
+            "transferValue": 300000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "857206/2017",
+        "company": {
+          "id": "02b857f4-aa10-4917-b8f9-b9a22f3e11d4",
+          "cnpj": "12247755000174",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+            "name": "Jacuípe",
+            "uf": "AL",
+            "ibge": "2703502"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2017-12-28T00:00:00.000Z",
+        "end": "2021-10-30T00:00:00.000Z",
+        "program": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "027616/2017",
+            "organId": "27616/2017",
+            "processId": "0276162017",
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Com a construção de uma quadra poliesportiva visamos restabelecer o espaço público destinado a prática de esportes coletivos, recreação e lazer, uma vez que o único espaço existente foi destruído pelas inundações ocorridas em 2010/2011.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "construção de uma Quadra poliesportiva.",
+            "information": "O município dispões de capacidade técnica e gerencial.",
+            "proposalDate": "2017-03-28T00:00:00.000Z",
+            "biddingDate": "2017-12-28T00:00:00.000Z",
+            "homologationDate": "2018-01-02T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020170010",
+              "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+              "value": 400000,
+              "details": {
+                "code": "5100020170010",
+                "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+                "cps": "",
+                "items": "Implantacao e Modernizacao de Infraestrutura Esportiva",
+                "couterpartRule": "Estados e Distrito Federal - b) 2% (dois por cento) e 20% (vinte por cento) para os demais [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 400000,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00 - Ronaldo Lessa"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "respProponent": "***.848.784-** - AMARO FERREIRA DA SILVA JUNIOR",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.360.667-** - LEONARDO CARNEIRO MONTEIRO PICCIANI"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE JACUIPE",
+            "documentNumber": "12.247.755/0001-74",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "857206/2017",
+            "validity": "28/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T00:00:00.000Z",
+            "totalValue": 400000,
+            "transferValue": 390000,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "854024/2017",
+        "company": {
+          "id": "02b857f4-aa10-4917-b8f9-b9a22f3e11d4",
+          "cnpj": "12247755000174",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+            "name": "Jacuípe",
+            "uf": "AL",
+            "ibge": "2703502"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2017-12-30T00:00:00.000Z",
+        "end": "2021-10-30T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "027919/2017",
+            "organId": "27919/2017",
+            "processId": "0279192017",
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Jacuípe está inserido na microrregião da mata alagoana e mesorregião do Leste Alagoano; limita-se ao norte com os municípios pernambucanos de Água Preta e Barreiros, ao sul com Porto Calvo e Jundiá, a leste com Maragogi e a oeste com Campestre. Tem uma área de 219,03km² (IBGE, 2010), distando 140 km de Maceió, com altitude de aproximadamente 74m. O Censo Demográfico de 2010 do Instituto Brasileiro de Geografia e Estatística (IBGE) registra, para o município, uma população total de 6.997 habitantes, sendo 4.419 habitantes na zona urbana. Na zona rural é a porção do território compreendida entre a Zona Urbana e os limites com os municípios de Porto Calvo, Jundiá, Campestre e Maragogi, em Alagoas e Água Preta e Barreiros, em Pernambuco. A Zona Rural de Jacuípe possui uma diversidade de recursos ambientais em diferentes níveis de preservação e degradação ambiental com clima tropical, com temperaturas que variam entre 34° e 18° graus. Embora o município de Jacuípe não apresente indústria e o comercio seja ainda tímido e precário, a região tem no turismo uma vocação a ser explorada para fortalecer as fontes de renda, com destaque para as fazendas antigas de cana de açúcar (seculares) existentes na região, as rotas dos quilombos dos Palmares (antigas estradas vicinais que ligavam a região aos quilombos de Palmares e de Cucaú), às plantações e exploração da cana-de-açúcar junto a estes potenciais turísticos temos ainda a Cachoeira da Pratinha, um banho gostoso nas águas dentro da mata atlântica. O município possui 05 sítios arqueológicos não explorados ainda com resquícios de tribos indígenas. E as maiores atrações turísticas que atraem pessoas de várias regiões do país são as seguintes: Festa de Reis (a mais antiga festividade religiosa de Jacuípe, acontece nos dias 05 e 06 de janeiro), A Festa do Padroeiro São Caetano de Thienne que acontece no mês de Agosto, temos ainda o JACUIPEFEST a Micareta mais animada de toda região que ocorre sempre no final de novembro e início de dezembro. Em nosso calendário local ainda oferecemos como atrativos A Trilha dos Amigos (percorre pelo interior do município). A Cavalgada dos Amigos e ainda mais temos a Festa de Emancipação Política de Jacuípe em 04 de fevereiro. São esses nossos principais atrativos que contribui para elevar o nome de nossa cidade no cenário local e regional. Diante do exposto acima o Município de Jacuípe que não dispõe de um espaço destinado a grandes eventos, principalmente depois das inundações ocorridas em 2010/2011. Com a construção deste centro de eventos a proposta na localização onde existiu o Colégio Estadual Major Luiz Cavalcante, hoje o espaço destinado já se encontra sem as ruínas da antiga escola, de modo que possa atender ao nosso pleito (8°50'30.8''S 35°27'16.0''W) e assim o município poderá promover grandes eventos para dinamizar nosso calendário turístico e fortalecer o turismo local.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - Construção de um Centro de Eventos no município de Jacuípe - AL",
+            "information": "O Município dispõe de capacidade técnica e gerencial.",
+            "proposalDate": "2017-03-28T00:00:00.000Z",
+            "biddingDate": "2017-12-30T00:00:00.000Z",
+            "homologationDate": "2018-01-08T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170004",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+              "value": 750000,
+              "details": {
+                "code": "5400020170004",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURÍSTICA - CONTRATO DE REPASSE - PROPOSTAS VOLUNTÁRIAS",
+                "cps": "",
+                "items": "VI – construção, revitalização e reforma de edificações de uso público ou coletivo destinadas a atividades indutoras de turismo, como centros de cultura, museus, teatros, casas de memória, centros de convenções, feiras, centros de eventos, centros de apoio ao turista e centros de comercialização de produtos associados ao turismo;",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 750000,
+                "couterpartValues": {
+                  "total": 18750,
+                  "financial": 18750,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 731250,
+                  "amendment": "R$ 731.250,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "respProponent": "***.848.784-** - AMARO FERREIRA DA SILVA JUNIOR",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-11-25T00:00:00.000Z",
+              "processId": "038",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aguardando Aceite",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Decreto 93.872/1986",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "038",
+                "biddingId": "002/2019",
+                "object": "Contratação de empresa especializada em Construção de Pátio de Eventos.",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "A presente licitação na modalidade tomada de preços obedeceu a norma legal vigente.",
+                "publishDate": "2019-11-25T00:00:00.000Z",
+                "beginDate": "2019-12-11T00:00:00.000Z",
+                "endDate": "2019-12-11T00:00:00.000Z",
+                "biddingValue": 750000,
+                "homologationDate": "2019-12-11T00:00:00.000Z",
+                "city": "2769 - JACUIPE",
+                "analysisDate": null,
+                "accepted": "Aguardando Aceite"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000079/2019",
+              "biddingId": "002/2019",
+              "date": "2019-12-24T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 34057039000167",
+                "hirerDocument": "CNPJ: 12247755000174",
+                "type": "Obras",
+                "object": "Construção do Pátio de Eventos de Jacuípe.",
+                "totalValue": 718375.89,
+                "publishDate": "2019-12-24T00:00:00.000Z",
+                "beginDate": "2019-12-16T00:00:00.000Z",
+                "endDate": "2020-06-16T00:00:00.000Z",
+                "signDate": "2019-12-16T00:00:00.000Z",
+                "executionProcessId": "002/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "038 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE JACUIPE",
+            "documentNumber": "12.247.755/0001-74",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "854024/2017",
+            "validity": "30/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T00:00:00.000Z",
+            "totalValue": 750000,
+            "transferValue": 731250,
+            "counterpartValue": 18750,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "852087/2017",
+        "company": {
+          "id": "02b857f4-aa10-4917-b8f9-b9a22f3e11d4",
+          "cnpj": "12247755000174",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+            "name": "Jacuípe",
+            "uf": "AL",
+            "ibge": "2703502"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-01-15T00:00:00.000Z",
+        "end": "2020-12-30T00:00:00.000Z",
+        "program": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "026753/2017",
+            "organId": "00599/2017",
+            "processId": "59553.000120/2017-50",
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "legalFoundation": "Dec. 6.170 e Port. 424/2006",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A recuperação de estradas vicinais no Município de Jacuípe beneficiará cerca de quatro mil habitantes no que tange aos trabalhos de recuperação e piçarramento de cerca de 6,0 quilômetros de estradas vicinais no perímetro urbano e rural do Município de Jacuípe (AL). A proposta para execução do objeto proposto será destinado para melhorar o escoamento da produção agrícola local. Os 6,0 quilômetros de vias a serem recuperadas estão concentrados, principalmente, na ligação entre a sede do município e a Fazenda Barro Branco na proximidade da divisa intermunicipal com o município de Campestre. Além da população da cidade, os habitantes das comunidades localizadas neste percurso serão beneficiados. Será muito importante para facilitar o escoamento da produção agrícola familiar destes locais, incluindo o milho, o feijão, macaxeira, inhame, coco e outros produtos hortifrutigranjeiros além de melhorar o tráfego de veículos na região.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Recuperação de estrada vicinal que liga a sede do município de Jacuípe a Fazenda Barro Branco até a proximidade da divisa intermunicipal com o município de Campestre, visando o fortalecimento da atividade produtiva.",
+            "information": "Para os devidos fins administrativos e efeitos legais, declaro junto ao Ministério da Integração Nacional, por intermédio da Secretaria de Desenvolvimento Regional – SDR/MI, que a Prefeitura Municipal de Jacuípe, inscrita no CNPJ sob o nº 12.247.755/0001-74, dispõe de pessoal com capacidade administrativa e técnica para execução do objeto constante do Plano de Trabalho (Recuperação de estrada vicinal que liga a sede do município de Jacuípe a Fazenda Barro Branco até a proximidade da divisa intermunicipal com o município de Campestre, visando o fortalecimento da atividade produtiva.) proposto para formalização de Convênio. Esclareço, ainda, que este Proponente assume a responsabilidade pela execução do objeto proposto em todas as fases exigidas legalmente, licitação, acompanhamento da execução e prestação de contas.",
+            "proposalDate": "2017-03-28T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020170009",
+              "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+              "value": 303000,
+              "details": {
+                "code": "5300020170009",
+                "name": "SDR/MI - 2029 - DESENVOLVIMENTO REGIONAL E TERRITORIAL - EMENDA INDIVIDUAL",
+                "cps": null,
+                "items": "7K66 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado",
+                "couterpartRule": "Consórcios públicos constituídos por Estados, Distrito Federal e Municípios. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 303000,
+                "couterpartValues": {
+                  "total": 3000,
+                  "financial": 3000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 300000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "respProponent": "***.848.784-** - AMARO FERREIRA DA SILVA JUNIOR",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.013.663-** - MARLON CARVALHO CAMBRAIA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE JACUIPE",
+            "documentNumber": "12.247.755/0001-74",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "852087/2017",
+            "validity": "15/01/2018 a 30/12/2020",
+            "limitDate": "2021-02-28T00:00:00.000Z",
+            "totalValue": 303000,
+            "transferValue": 300000,
+            "counterpartValue": 3000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "832842/2016",
+        "company": {
+          "id": "02b857f4-aa10-4917-b8f9-b9a22f3e11d4",
+          "cnpj": "12247755000174",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+            "name": "Jacuípe",
+            "uf": "AL",
+            "ibge": "2703502"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2016-10-13T00:00:00.000Z",
+        "end": "2020-10-30T00:00:00.000Z",
+        "program": "Alagoas -Emendas Parlamentares - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "006736/2016",
+            "organId": "06736/2016",
+            "processId": "0067362016",
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Jacuípe está inserido na microrregião da mata alagoana e mesorregião do Leste Alagoano; limita-se ao norte com os municípios pernambucanos de Água Preta e Barreiros, ao sul com Porto Calvo e Jundiá, a leste com Maragogi e a oeste com Campestre. Tem uma área de 219,03km² (IBGE, 2010), distando 140 km de Maceió, com altitude de aproximadamente 74m e coordenadas geográficas de 08°50’31.2’’ de latitude sul e 35°27’36.8’’ de longitude oeste. População de 7.177 habitantes (IBGE – 2014). O Município de Jacuípe possui características de diversidade de recursos ambientais em diferentes níveis de preservação e degradação ambiental. NO município, existem os Assentamentos da Boa Vista com 177 famílias (no mapa da INCRA, são 185 parcelas numa área de cerca de 1400 hectares), Canafístula com 45 famílias numa área aproximada de 358 hectares e no Assentamento Conceição as 25 parcelas da área conhecida como Vargem Grande, e demais sítios rurais isolados no território municipal, tendo o município uma área agricultável de pequenos produtores e agricultores familiares de aproximadamente 3.000 hectares com estimativa de atender cerca de 310 produtores rurais. Com a Construção do Mercado Público o Município disponibilizará de um espaço com os requisitos necessários para atendera produção para comercialização dos produtores familiares de Jacuípe em sua totalidade das famílias da Zona de Agricultura Familiar - ZAF aquela destinada ao plantio diversificado de raízes, tubérculos, frutíferas, entre outras. Assim melhorando a infraestrutura e logística da produção agrícola e a fomentação agroindústria bem como permitir a venda dos produtos típicos deste município, como: farinha, feijão, macaxeira, frutas (manga, banana, laranja, limão, acerola), permitir também atendimento de demandas com amplo efeito socioeconômico aos pequenos produtores rurais. Atualmente o mercado somente oferece espaço para vendas de carnes e farinha e, diante do crescimento da população do município esperamos ofertar espaço para comercialização de raízes, tubérculos, verduras e legumes dentro dos padrões de higiene que a legislação em vigor impõe ao mesmo tempo atender 4.000 famílias direta e indiretamente. O Município de Jacuípe possui capacidade operacional para manutenção e controle da gestão do pleito solicitado e utilizaremos como metodologia o processo de gestão compartilhada com os agricultores familiares através de suas associações, comerciantes locais e feirantes itinerantes para melhor atender a comunidade jacuipense. A Construção do Mercado Público Municipal de Jacuípe será adquirido com recursos das emendas parlamentares nº 37280001 do Deputado Marx Beltrão e 25790001 do Senador Fernando Affonso Collor de Mello, funcional programática n° 20.608.2077.20ZV.0027, nos valores de R$ 243.750,00 (duzentos e quarenta e três mil setecentos e cinquenta reais)e R$ 292.500,00 (duzentos e noventa e dois mil e quinhentos reais) respectivamente, recurso repasse, cujo título – Fomento ao Setor Agropecuário no Estado de Alagoas, possui vinculo com o programa nº 2200020160005 do Ministério da Agricultura, Pecuária e Abastecimento.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção do Mercado Público Municipal de Jacuípe/AL.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 19, da Portaria Interministerial nº 507, de 24 de novembro de 2011, atesto para os devidos fins que a Prefeitura Municipal de Jacuípe /AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc.",
+            "proposalDate": "2016-03-07T00:00:00.000Z",
+            "biddingDate": "2016-10-13T00:00:00.000Z",
+            "homologationDate": "2016-10-24T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020160005",
+              "name": "Alagoas -Emendas Parlamentares - Investimento",
+              "value": 611776,
+              "details": {
+                "code": "2200020160005",
+                "name": "Alagoas -Emendas Parlamentares - Investimento",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário. Favor, verificar lista dos objetos contemplados na aba anexos.",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 611776,
+                "couterpartValues": {
+                  "total": 13750,
+                  "financial": 13750,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 598026,
+                  "amendment": "R$ 243.750,00 - Marx Beltrão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "respProponent": "***.445.264-** - MANOEL MARQUES JUNIOR",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE JACUIPE",
+            "documentNumber": "12.247.755/0001-74",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "832842/2016",
+            "validity": "13/10/2016 a 30/10/2020",
+            "limitDate": "2020-12-29T00:00:00.000Z",
+            "totalValue": 611776,
+            "transferValue": 598026,
+            "counterpartValue": 13750,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "815839/2014",
+        "company": {
+          "id": "02b857f4-aa10-4917-b8f9-b9a22f3e11d4",
+          "cnpj": "12247755000174",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+            "name": "Jacuípe",
+            "uf": "AL",
+            "ibge": "2703502"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-12-31T00:00:00.000Z",
+        "end": "2019-04-30T00:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "006066/2014",
+            "organId": "06066/2014",
+            "processId": "0060662014",
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Tendo como atribuições e atividades a ser desenvolvida pela Secretaria Municipal de Esportes e Lazer do Município de Jacuípe e reivindicações da sociedade local a atual administração resolveu atender aos anseios propondo o presente projeto de construção do Estádio Municipal que deverá garantir o espaço necessário exigido pelo Programa e as normas do Ministério do Esporte quando as dimensões, infraestrutura e segurança exigidas.Objetiva o presente projeto o incentivo ao lazer e prática de esportes mediante a construção do centro Esportivo de Futebol na Avenida Projetada no prolongamento do Loteamento Amaro Felix da Silva.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção do Campo de Futebol",
+            "information": "A Prefeitura Municipal de Jacuípe – AL, estabelecido na Rua Prefeito Mario Acioly Wanderley, 1 2, Centro, deste município, inscrita no CNPJ n 12.247.755/0001-74, possui Capacidade Técnica e Gerencial para Execução, Fiscalização e Gerencia Administrativa, pelo que declaro estar apto para desempenho das atividades, na quantidade e prazos exigidos. Declaro ainda que o Município possui em seu Quadro Funcional servidores, capacitados e habilitados para execução, fiscalização e gerenciamento administrativo, responsáveis pelo Gerenciamento do Projeto, Arquiteta Stéphanie Buarque - inscrita no CAU Nº 13646/AL.",
+            "proposalDate": "2014-02-08T00:00:00.000Z",
+            "biddingDate": "2014-12-31T00:00:00.000Z",
+            "homologationDate": "2015-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020140001",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+              "value": 760220,
+              "details": {
+                "code": "5100020140001",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "Estados e Distrito Federal - b) 2% (dois por cento) e 20% (vinte por cento) para os demais. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 760220,
+                "couterpartValues": {
+                  "total": 15220,
+                  "financial": 15220,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 745000,
+                  "amendment": "R$ 745.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "respProponent": "***.848.784-** - AMARO FERREIRA DA SILVA JUNIOR",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012016",
+              "type": "Licitação - Pregão",
+              "date": "2016-04-19T00:00:00.000Z",
+              "processId": "0092016",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial por Maior Desconto",
+                "processId": "0092016",
+                "biddingId": "0012016",
+                "object": "Construção de um campo de futebol com vestiário.",
+                "legalFoundation": "Lei 10.520/2002",
+                "justification": "Trata-se de recursos oriundo do governo federal.",
+                "publishDate": "2016-04-19T00:00:00.000Z",
+                "beginDate": "2016-05-04T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 710994.49,
+                "homologationDate": "2016-05-11T00:00:00.000Z",
+                "city": "2769 - JACUIPE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000009/2016",
+              "biddingId": "0012016",
+              "date": "2016-05-19T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 22381037000140",
+                "hirerDocument": "CNPJ: 12247755000174",
+                "type": "Serviço",
+                "object": "Construçao de um campo de futebol com vestiário.",
+                "totalValue": 710994.49,
+                "publishDate": "2016-05-19T00:00:00.000Z",
+                "beginDate": "2016-05-11T00:00:00.000Z",
+                "endDate": "2017-05-11T00:00:00.000Z",
+                "signDate": "2016-05-11T00:00:00.000Z",
+                "executionProcessId": "0012016 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0092016 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE JACUIPE",
+            "documentNumber": "12.247.755/0001-74",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "815839/2014",
+            "validity": "31/12/2014 a 30/04/2019",
+            "limitDate": "2019-06-29T00:00:00.000Z",
+            "totalValue": 760220,
+            "transferValue": 745000,
+            "counterpartValue": 15220,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "809701/2014",
+        "company": {
+          "id": "02b857f4-aa10-4917-b8f9-b9a22f3e11d4",
+          "cnpj": "12247755000174",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+            "name": "Jacuípe",
+            "uf": "AL",
+            "ibge": "2703502"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-09-24T00:00:00.000Z",
+        "end": "2019-01-30T00:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "022749/2014",
+            "organId": "22749/2014",
+            "processId": "0227492014",
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Jacuípe tende a desenvolver sua área de expansão urbana paralelamente ao Loteamento Amaro Felix da Silva onde estão sendo inserindo novas intervenções públicas tais como: Unidade Básica de Saúde, 03 (três) Escolas Públicas cada uma com 12 salas de aulas, Ginásio de Esporte, Campo de futebol society com proposta de horário integral. Com o aumento da demanda populacional devido ao surgimento do Loteamento Amaro Felix da Silva (288 casas) e tem como consequência o aumento do fluxo de circulação de transportes (ônibus escolares, ônibus de trabalhadores rurais, entre outros meios de locomoção) provocando maior mobilidade na área de intervenção.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de pavimentação em vias públicas urbanas no município de Jacuípe.",
+            "information": "Declaramos que o município possui capacidade técnica e gerencial.",
+            "proposalDate": "2014-02-27T00:00:00.000Z",
+            "biddingDate": "2014-09-24T00:00:00.000Z",
+            "homologationDate": "2014-09-30T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020140001",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 395000,
+              "details": {
+                "code": "5600020140001",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Projetos Básicos e Executivos Integrado de Reabilitação Urbana(Vide aba ANEXOS - Arquivo ACESSIBILIDADE E PROGRAMAS URBANOS)., Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO)",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 395000,
+                "couterpartValues": {
+                  "total": 800,
+                  "financial": 800,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 394200,
+                  "amendment": "R$ 394.200,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "respProponent": "***.848.784-** - AMARO FERREIRA DA SILVA JUNIOR",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "022016",
+              "type": "Licitação - Pregão",
+              "date": "2016-08-11T00:00:00.000Z",
+              "processId": "132106",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial por Maior Desconto",
+                "processId": "132106",
+                "biddingId": "022016",
+                "object": "Implantação de pavimentação em vias públicas neste município.",
+                "legalFoundation": "Lei 10.520/2002",
+                "justification": "Tomada de Preços visando o menor preço para atingir a totalidade das vias com necessidades de pavimentação.",
+                "publishDate": "2016-08-11T00:00:00.000Z",
+                "beginDate": "2016-08-23T00:00:00.000Z",
+                "endDate": "2016-08-29T00:00:00.000Z",
+                "biddingValue": 391455.59,
+                "homologationDate": "2016-09-05T00:00:00.000Z",
+                "city": "2769 - JACUIPE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000013/2016",
+              "biddingId": "022016",
+              "date": "2016-09-06T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 22381037000140",
+                "hirerDocument": "CNPJ: 12247755000174",
+                "type": "Material",
+                "object": "Implantação de pavimentação em vias públicas neste município.",
+                "totalValue": 391455.59,
+                "publishDate": "2016-09-06T00:00:00.000Z",
+                "beginDate": "2016-09-06T00:00:00.000Z",
+                "endDate": "2017-02-02T00:00:00.000Z",
+                "signDate": "2016-09-06T00:00:00.000Z",
+                "executionProcessId": "022016 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "132106 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE JACUIPE",
+            "documentNumber": "12.247.755/0001-74",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "809701/2014",
+            "validity": "24/09/2014 a 30/01/2019",
+            "limitDate": "2019-03-31T00:00:00.000Z",
+            "totalValue": 395000,
+            "transferValue": 394200,
+            "counterpartValue": 800,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "805803/2014",
+        "company": {
+          "id": "02b857f4-aa10-4917-b8f9-b9a22f3e11d4",
+          "cnpj": "12247755000174",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+            "name": "Jacuípe",
+            "uf": "AL",
+            "ibge": "2703502"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-09-24T00:00:00.000Z",
+        "end": "2018-12-31T00:00:00.000Z",
+        "program": "Alagoas - Emendas Parlamentares - Investimento",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Liminar Judicial",
+            "status": {
+              "value": "Prestação de Contas em Complementação",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "022755/2014",
+            "organId": "22755/2014",
+            "processId": "0227552014",
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Jacuípe está inserido na microrregião da mata alagoana e mesorregião do Leste Alagoano; limita-se ao norte com os municípios pernambucanos de Água Preta e Barreiros, ao sul com Porto Calvo e Jundiá, a leste com Maragogi e a oeste com Campestre. Tem uma área de 219,03km² (IBGE, 2010), distando 140 km de Maceió, com altitude de aproximadamente 74m e coordenadas geográficas de 08°50’31.2’’ de latitude sul e 35°27’36.8’’ de longitude oeste. A Macrozona Rural de Jacuípe possui características de diversidade de recursos ambientais em diferentes níveis de preservação e degradação ambiental; diversidade de intensidade de usos; em algumas partes do Município, ora há disponibilidade ora carência de infraestrutura básica e de saneamento ambiental e ocupação de assentamentos rurais antigos (mais de 10 anos) com mais de 247 famílias de agricultores cujo trabalho cresce e demandam por serviços e assistência social. Em Jacuípe, existem os Assentamentos da Boa Vista com 177 famílias (no mapa da INCRA, são 185 parcelas numa área de cerca de 1400 hectares), Canafístula com 45 famílias numa área aproximada de 358 hectares e no Assentamento Conceição as 25 parcelas da área conhecida como Vargem Grande, e demais sítios rurais isolados no território municipal, tendo o município uma área agricultável de pequenos produtores e agricultores familiares de aproximadamente 3.000 hectares com estimativa de atender cerca de 310 produtores rurais. Com a aquisição do Trator e seus implementos pretende-se contribuir para melhorar a produção; desenvolver projetos de agricultura irrigada; promover melhorias permanentes e conservar as estradas vicinais e atender as demandas dos pequenos agricultores e agricultores familiares no sentido de fomentar a produção. O município possui duas associações de produtores rurais, uma no Assentamento Agrário da Boa Vista e outra no Assentamento Agrário da Canafístula. A principal cultura do município ainda é a cana de açúcar com 2.340 hectares plantados, seguido da laranja com 80 hectares, banana comprida com 80 hectares, banana prata com 40 hectares, limão thaiti com 30 hectares, coco anão com 20 hectares, maracujá com 5 hectares. Também produz o feijão com 56 hectares, milho com 38 hectares, arroz com 3 hectares, macaxeira com 15 hectares, inhame com 12 hectares e coentro, alface entre outras leguminosas. Possui um rebanho bovino significativo de cerca de 9.980 cabeças espalhados em cerca de 6.000 hectares, possui 321 equinos, 40 bubalinos, 170 muares, 200 suínos, 370 ovinos. 860 galinhas caipiras produzindo cerca de 2.000 ovos caipiras ainda mais 45 vacas lactantes produzindo 58.000 litros de leite/ano e 650 kgs de mel de abelha. Não exploração de extração vegetal e nem possui agroindústria no município. A delimitação das Zonas Especiais de Proteção dos Recursos Naturais Renováveis no entorno dos cursos d’água ou rios, são determinadas de acordo com a legislação federal à faixa de proteção aos mananciais, notadamente àquelas definidas pela Lei 4.771/65 e Lei 6.938/81. Além que o município buscar conscientizar com as seguintes diretrizes para o fortalecimento dos nossos recursos naturais, tais como criar mecanismos de gerenciamento do uso e da ocupação do solo rural; estabelecer normas restritivas especifica com o propósito de minimizar os impactos negativos sobre o uso e a ocupação do solo rural; equilibrar as atividades de conservação do ambiente com o manejo sustentável e as atividades da agricultura familiar a serem dinamizadas no território municipal; estimular e apoiar a assistência técnica e social aos produtores rurais de pequenos imóveis rurais. O alvo do município para o objeto do pleito é dispor de mecanismos para atender as famílias da Zona de Agricultura Familiar - ZAF aquela destinada ao plantio diversificado de raízes, tubérculos, frutíferas, entre outras, podendo ser orgânico ou não, utilizando a mão de obra dos trabalhadores rurais composto pelos integrantes das famílias dos assentados residentes e de produtores rurais de imóveis menores de 30 (trinta) hectare. É possível que além de melhorar a produção no município e possamos atingir a 65% da nossa população através dos programas governamentais (PNAE, PAA, PETI, PROJOVEM, Pastoral da Criança) e nas feiras livres. O município dispõe de garagem, mecânicos e operadores capazes de operacionalizar o sistema produtivo agrícola que será gerido pela Secretaria Municipal de Agricultura e Desenvolvimento Rural Sustentável de acordo com o Plano Municipal de Uso, Manutenção e Conservação de Máquinas e Implementos Agrícolas. É importante frisar que o objeto desta proposta será adquirido com recursos da emenda parlamentar nº 25790001 do DD. Senador da República, Sr. Fernando Collor de Melo no valor de R$ 334.425,00 (trezentos e trinta e quatro mil, quatrocentos e e vinte e cinco reais) de repasse cujo título: APOIO A PROJETOS DE DESENVOLVIMENTO E FOMENTO DO SETOR AGROPECUÁRIO, possui vínculo com o Programa 2200020140031.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE MAQUINAS E IMPLEMENTOS AGRICOLAS",
+            "information": "Declaramos que o município tem capacidade técnica e gerencial para conduzir o objeto deste contrato.",
+            "proposalDate": "2014-02-27T00:00:00.000Z",
+            "biddingDate": "2014-09-24T00:00:00.000Z",
+            "homologationDate": "2014-09-30T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020140031",
+              "name": "Alagoas - Emendas Parlamentares - Investimento",
+              "value": 335000,
+              "details": {
+                "code": "2200020140031",
+                "name": "Alagoas - Emendas Parlamentares - Investimento",
+                "cps": "",
+                "items": "Fomento ao Setor Agropecuário",
+                "couterpartRule": "Município com menos de 50.000 habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 335000,
+                "couterpartValues": {
+                  "total": 575,
+                  "financial": 575,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 334425,
+                  "amendment": "R$ 334.425,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "respProponent": "***.848.784-** - AMARO FERREIRA DA SILVA JUNIOR",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012015",
+              "type": "Licitação - Pregão",
+              "date": "2015-01-16T00:00:00.000Z",
+              "processId": "012015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "012015",
+                "biddingId": "012015",
+                "object": "AQUISI��O DE M�QUINA E IMPLEMENTOS AGR�COLAS.",
+                "legalFoundation": "Lei 105200/2002 - Preg�",
+                "justification": "A presente licita��o justifica-se pela necessidade de implementa��o de uma pol�tica voltada para atender aos agricultores familiares e pequenos agricultores do munic�pio de Jacu�pe.",
+                "publishDate": "2015-01-16T00:00:00.000Z",
+                "beginDate": "2015-01-29T00:00:00.000Z",
+                "endDate": "2015-02-05T00:00:00.000Z",
+                "biddingValue": 250300,
+                "homologationDate": "2015-02-05T00:00:00.000Z",
+                "city": "2769 - JACUIPE",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2015",
+              "biddingId": "012015",
+              "date": "2015-03-04T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05453608000195",
+                "hirerDocument": "CNPJ: 12247755000174",
+                "type": "Material",
+                "object": "Aquisição de Máquina e Implementos Agrícolas.",
+                "totalValue": 250300,
+                "publishDate": "2015-03-04T00:00:00.000Z",
+                "beginDate": "2015-02-05T00:00:00.000Z",
+                "endDate": "2015-12-31T00:00:00.000Z",
+                "signDate": "2015-02-05T00:00:00.000Z",
+                "executionProcessId": "012015 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "012015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE JACUIPE",
+            "documentNumber": "12.247.755/0001-74",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas em Complementação",
+            "number": "805803/2014",
+            "validity": "24/09/2014 a 31/12/2018",
+            "limitDate": "2019-03-01T00:00:00.000Z",
+            "totalValue": 363106,
+            "transferValue": 334425,
+            "counterpartValue": 575,
+            "yieldValue": 28106
+          }
+        }
+      },
+      {
+        "agreementId": "626553/2008",
+        "company": {
+          "id": "02b857f4-aa10-4917-b8f9-b9a22f3e11d4",
+          "cnpj": "12247755000174",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+          "sphere": "Municipal",
+          "city": {
+            "id": "d3d9a4e8-5989-4b73-b11e-a5e68b4c478a",
+            "name": "Jacuípe",
+            "uf": "AL",
+            "ibge": "2703502"
+          }
+        },
+        "name": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-25T00:00:00.000Z",
+        "end": "2009-01-20T00:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Inadimplencia Suspensa no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "076192/2008",
+            "organId": "655885/2008",
+            "processId": "23400.000383/1008-74",
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "legalFoundation": "",
+            "organ": "26000 - MINISTERIO DA EDUCACAO",
+            "linkedOrgan": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "description": null,
+            "justification": "RES. 13, DE 28 DE ABRIL DE 2008",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISICAO DE TRANSPORTE ESCOLAR",
+            "information": "",
+            "proposalDate": "2008-06-25T00:00:00.000Z",
+            "biddingDate": "2008-06-25T00:00:00.000Z",
+            "homologationDate": "2008-06-26T00:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.247.755/0001-74 - MUNICIPIO DE JACUIPE",
+            "respProponent": "***.460.534-** - AMARO JORGE MARQUES DA SILVA",
+            "grantor": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "respGrantor": "***.416.934-** - DANIEL SILVA BALABAN"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "convenient": "MUNICIPIO DE JACUIPE",
+            "documentNumber": "12.247.755/0001-74",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "626553/2008",
+            "validity": "25/06/2008 a 20/01/2009",
+            "limitDate": "2009-01-20T00:00:00.000Z",
+            "totalValue": 114000,
+            "transferValue": 112860,
+            "counterpartValue": 1140,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

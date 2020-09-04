@@ -1,0 +1,208 @@
+{
+  "beginDate": "2020-09-01T16:40:49.749Z",
+  "endDate": "2020-09-01T17:13:51.491Z",
+  "data": {
+    "location": {
+      "city": "São Luís do Quitunde",
+      "uf": "AL",
+      "ibge": "2708501"
+    },
+    "agreements": [
+      {
+        "agreementId": "873610/2018",
+        "company": {
+          "id": "0f4c24e3-2eff-46e3-b14c-fc9d4661a550",
+          "cnpj": "12342671000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO (ANTIGO)",
+          "cityId": "ea634844-1ea0-4b7a-986d-b0f97e3b603f",
+          "sphere": "Municipal",
+          "city": {
+            "id": "ea634844-1ea0-4b7a-986d-b0f97e3b603f",
+            "name": "São Luís do Quitunde",
+            "uf": "AL",
+            "ibge": "2708501"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2018-08-14T00:00:00.000Z",
+        "end": "2021-08-30T00:00:00.000Z",
+        "program": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "040254/2018",
+            "organId": "40254/2018",
+            "processId": "402542018",
+            "proponent": "CNPJ 12.342.671/0001-10 - MUNICIPIO DE SAO LUIS DO QUITUNDE",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de São Luiz do Quitunde, possui uma população aproximada a 35.000 habitantes. A finalidade deste empreendimento social é proporcionar uma melhoria nas condições de lazer, controle social em seus vários tipos de ações sociais e lazer para população, além de incentivar a prática do esporte no município, melhorando, portanto o padrão da qualidade social para a população, notadamente dos jovens e adultos que gostam da prática salutar de esporte, como também alcançar a melhoria no convívio; melhoria da auto-estima; melhoria das capacidades e habilidades motoras; melhoria das condições de saúde; aumento do número de praticantes de atividades esportivas educacionais de todos os participantes, ou seja, jovens, adultos, crianças, e maiores de 60 anos",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Construção de uma quadra poliesportiva no município de São Luiz do Quitunde.",
+            "information": "Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de São Luis do Quitunde/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc ..",
+            "proposalDate": "2018-04-11T00:00:00.000Z",
+            "biddingDate": "2018-08-14T00:00:00.000Z",
+            "homologationDate": "2018-08-17T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020180051",
+              "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+              "value": 465000,
+              "details": {
+                "code": "5500020180051",
+                "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+                "cps": "001/2018",
+                "items": "Equipamentos Comunitários",
+                "couterpartRule": "a) 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com ATÉ cinquenta mil habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 465000,
+                "couterpartValues": {
+                  "total": 4047.62,
+                  "financial": 4047.62,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 460952.38,
+                  "amendment": "R$ 460.952,38 - Marx Beltrão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.342.671/0001-10 - MUNICIPIO DE SAO LUIS DO QUITUNDE",
+            "respProponent": "***.496.814-** - FERNANDA MARIA SILVA CAVALCANTI DE OLIVEIRA",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.714.780-** - OSMAR GASPARINI TERRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE SAO LUIS DO QUITUNDE",
+            "documentNumber": "12.342.671/0001-10",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "873610/2018",
+            "validity": "14/08/2018 a 30/08/2021",
+            "limitDate": "2021-10-29T00:00:00.000Z",
+            "totalValue": 465000,
+            "transferValue": 460952.38,
+            "counterpartValue": 4047.62,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "626465/2008",
+        "company": {
+          "id": "0f4c24e3-2eff-46e3-b14c-fc9d4661a550",
+          "cnpj": "12342671000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO (ANTIGO)",
+          "cityId": "ea634844-1ea0-4b7a-986d-b0f97e3b603f",
+          "sphere": "Municipal",
+          "city": {
+            "id": "ea634844-1ea0-4b7a-986d-b0f97e3b603f",
+            "name": "São Luís do Quitunde",
+            "uf": "AL",
+            "ibge": "2708501"
+          }
+        },
+        "name": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-26T00:00:00.000Z",
+        "end": "2009-01-21T00:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Concluído no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "076105/2008",
+            "organId": "655713/2008",
+            "processId": "23400.002179/2008-98",
+            "proponent": "CNPJ 12.342.671/0001-10 - MUNICIPIO DE SAO LUIS DO QUITUNDE",
+            "legalFoundation": "",
+            "organ": "26000 - MINISTERIO DA EDUCACAO",
+            "linkedOrgan": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "description": null,
+            "justification": "11, DE 25 DE ABRIL DE 2008",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ESTE CONVENIO TEM POR OBJETO A ASSISTENCIA FINANCEIRA, VISANDO A AQUIS ICAO DE VEICULO AUTOMOTOR, ZERO QUILOMETRO, DE TRANSPORTE COLETIVO, DE STINADO EXCLUSIVAMENTE AO TRANSPORTE DIARIO DE ALUNOS DA EDUCACAO BASI CA, CONFORME PROJETO APRESENTADO, DECORRENTE DE EMENDA PARLAMENTAR.",
+            "information": "",
+            "proposalDate": "2008-06-26T00:00:00.000Z",
+            "biddingDate": "2008-06-26T00:00:00.000Z",
+            "homologationDate": "2008-06-27T00:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.342.671/0001-10 - MUNICIPIO DE SAO LUIS DO QUITUNDE",
+            "respProponent": "***.808.908-** - CICERO CAVALCANTE DE ARAUJO",
+            "grantor": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "respGrantor": "***.416.934-** - DANIEL SILVA BALABAN"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "convenient": "MUNICIPIO DE SAO LUIS DO QUITUNDE",
+            "documentNumber": "12.342.671/0001-10",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "626465/2008",
+            "validity": "26/06/2008 a 21/01/2009",
+            "limitDate": "2009-01-21T00:00:00.000Z",
+            "totalValue": 172700,
+            "transferValue": 170973,
+            "counterpartValue": 1727,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

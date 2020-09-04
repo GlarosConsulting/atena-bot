@@ -1,0 +1,720 @@
+{
+  "beginDate": "2020-09-01T23:36:38.570Z",
+  "endDate": "2020-09-01T23:41:02.258Z",
+  "data": {
+    "location": {
+      "city": "Monteirópolis",
+      "uf": "AL",
+      "ibge": "2705408"
+    },
+    "agreements": [
+      {
+        "agreementId": "830338/2016",
+        "company": {
+          "id": "3a0b58dc-5d97-4476-89c7-3254253ac13b",
+          "cnpj": "12251450000136",
+          "name": "SECRETARIA MUNICIPAL DE ASSIS SOCIAL",
+          "cityId": "1b078120-2caa-4db9-94b4-821acad55bc7",
+          "sphere": "Municipal",
+          "city": {
+            "id": "1b078120-2caa-4db9-94b4-821acad55bc7",
+            "name": "Monteirópolis",
+            "uf": "AL",
+            "ibge": "2705408"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-14T00:00:00.000Z",
+        "end": "2021-02-26T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "017253/2016",
+            "organId": "17253/2016",
+            "processId": "0172532016",
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Monteirópolis se encontra no sertão alagoano, possui uma população de aproximadamente 7.090 pessoas, com uma área de aproximadamente 86,097 km² e uma densidade demográfica de 80,65 habitantes km². Tem como municípios limítrofes Jacaré dos Homens, Olho D’agua das Flores e Pão de Açúcar. Por ser uma cidade jovem, tendo apenas 55 anos de existência e por se encontrar numa região pobre como o sertão alagoano, o município necessita ainda hoje de recursos oriundos do governo federal para se desenvolver, tendo em vista que, o repasse do FPM é um dos menores do Brasil, dificultando assim o desenvolvimento através de obras com recursos próprios. Levando em consideração o que acima foi exposto, o objeto desta proposta é de suma importância para o desenvolvimento e crescimento desta municipalidade, pois ainda hoje a quantidade de ruas a serem calçadas é muito grande e a suplicação da população para que isto aconteça é diário. Diante disto, Monteirópolis terá em média mais de 30 famílias beneficiadas com esta grandiosa obra.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de Diversas Ruas no município de Monteirópolis/AL.",
+            "information": "O município garante a capacidade técnica e gerencial para gerir o convênio.",
+            "proposalDate": "2016-03-15T00:00:00.000Z",
+            "biddingDate": "2016-12-14T00:00:00.000Z",
+            "homologationDate": "2016-12-22T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160014",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 250000,
+              "details": {
+                "code": "5600020160014",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "0,1% (um décimo por cento) e 10% (dez por cento) para os Estados e Distrito Federal localizados nas áreas prioritárias definidas no âmbito do PNDR, nas áreas da SUDENE, SUDAM e SUDECO; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 4150,
+                  "financial": 4150,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "respProponent": "***.591.154-** - ELMO ANTONIO MEDEIROS",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.847.618-** - GILBERTO KASSAB"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-04-13T00:00:00.000Z",
+              "processId": "0490032018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0490032018",
+                "biddingId": "01/2018",
+                "object": "Contratação de empresa de engenharia para executar obra de\npavimentação em paralelepípedo nas Ruas Projetada II, Projetada III, Projetada\nIV e Rua Projetada VII, localizadas na Cidade de Monteirópolis/AL",
+                "legalFoundation": "Art. 22 da lei 8666/93",
+                "justification": "Busca-se, com a pavimentação  ofertar de maior conforto ao usuário, além de proporcionar um fluxo de veículos sem transtornos provocados pela lama e valetas em período de chuva e poeira em período de estiagem.",
+                "publishDate": "2018-04-13T00:00:00.000Z",
+                "beginDate": "2018-05-05T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 198441.96,
+                "homologationDate": "2018-05-16T00:00:00.000Z",
+                "city": "2807 - MONTEIROPOLIS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000026/2018",
+              "biddingId": "01/2018",
+              "date": "2018-05-21T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 26644162000156",
+                "hirerDocument": "CNPJ: 12251450000136",
+                "type": "Obras",
+                "object": "Executar obra de pavimentação em\nparalelepípedo nas Ruas Projetada II, Projetada III, Projetada IV e\nRua Projetada VII, localizadas na Cidade de Monteirópolis/AL",
+                "totalValue": 198441.96,
+                "publishDate": "2018-05-21T00:00:00.000Z",
+                "beginDate": "2018-05-17T00:00:00.000Z",
+                "endDate": "2018-10-17T00:00:00.000Z",
+                "signDate": "2018-05-17T00:00:00.000Z",
+                "executionProcessId": "01/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0490032018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MONTEIROPOLIS",
+            "documentNumber": "12.251.450/0001-36",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "830338/2016",
+            "validity": "14/12/2016 a 26/02/2021",
+            "limitDate": "2021-04-27T00:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 245850,
+            "counterpartValue": 4150,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "753319/2010",
+        "company": {
+          "id": "3a0b58dc-5d97-4476-89c7-3254253ac13b",
+          "cnpj": "12251450000136",
+          "name": "SECRETARIA MUNICIPAL DE ASSIS SOCIAL",
+          "cityId": "1b078120-2caa-4db9-94b4-821acad55bc7",
+          "sphere": "Municipal",
+          "city": {
+            "id": "1b078120-2caa-4db9-94b4-821acad55bc7",
+            "name": "Monteirópolis",
+            "uf": "AL",
+            "ibge": "2705408"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2011-11-17T00:00:00.000Z",
+        "end": "2012-11-16T00:00:00.000Z",
+        "program": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - PT 15.244.1025.7K66.0027 - Ação: Apoio A Projetos De Desenvolvimento Sustentável Local Integrado - No Estado De Alagoas (Emenda -2403 0015)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "107243/2010",
+            "organId": "50005/2010",
+            "processId": "59550.001223/2010-91",
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "legalFoundation": "Decreto 6.170/2007 c/ Portaria Interm. 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "O município de Monteirópolis possui uma população de aproximadamente 7.090 pessoas. Essa elaboração do projeto de abastecimento de água visa uma adequação de qualidade, um transporte até os aglomerados urbanos e fornecimento à população em quantidade compatível com suas necessidades. O Sistema de Abastecimento de Água representa o conjunto de obras, equipamentos e serviços destinados ao abastecimento de água potável de uma comunidade para fins de consumo doméstico, serviços públicos, consumo industrial e outros usos. A água constitui elemento essencial à vida vegetal e animal. O homem necessita de água de qualidade adequada e em quantidade suficiente para atender a suas necessidades, para proteção de sua saúde e para propiciar o desenvolvimento econômico.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Elaboração do Projeto de Abastecimento de Água dos Povoados Sítio Bola, Agreste Velho, Gameleiro, Agreste, Sobradinho, Farias do Meio, Pilão, São Joaquim,Paus Pretos e Sabalangá em Monteirópolis/AL.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Monteirópolis/Al. Possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2010-12-20T00:00:00.000Z",
+            "biddingDate": "2011-11-17T00:00:00.000Z",
+            "homologationDate": "2011-11-21T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320100035",
+              "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - PT 15.244.1025.7K66.0027 - Ação: Apoio A Projetos De Desenvolvimento Sustentável Local Integrado - No Estado De Alagoas (Emenda -2403 0015)",
+              "value": 100817.17,
+              "details": {
+                "code": null,
+                "name": null,
+                "cps": null,
+                "items": null,
+                "couterpartRule": null,
+                "totalValue": 0,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 0,
+                  "amendment": null
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "respProponent": "***.487.024-** - MAILSON DE MENDONCA LIMA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE MONTEIROPOLIS",
+            "documentNumber": "12.251.450/0001-36",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "753319/2010",
+            "validity": "17/11/2011 a 16/11/2012",
+            "limitDate": "2012-12-16T00:00:00.000Z",
+            "totalValue": 100817.17,
+            "transferValue": 95000,
+            "counterpartValue": 5817.17,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "729453/2009",
+        "company": {
+          "id": "3a0b58dc-5d97-4476-89c7-3254253ac13b",
+          "cnpj": "12251450000136",
+          "name": "SECRETARIA MUNICIPAL DE ASSIS SOCIAL",
+          "cityId": "1b078120-2caa-4db9-94b4-821acad55bc7",
+          "sphere": "Municipal",
+          "city": {
+            "id": "1b078120-2caa-4db9-94b4-821acad55bc7",
+            "name": "Monteirópolis",
+            "uf": "AL",
+            "ibge": "2705408"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Assinado",
+        "start": "2010-01-19T00:00:00.000Z",
+        "end": "2012-01-18T00:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Cancelado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "131626/2009",
+            "organId": "01396/2009",
+            "processId": "59050.004060/2009-03",
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Minimizar os efeitos do longo período de estiagem no município",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Caminhões Pipa",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Monteirópolis/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-12-22T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090016",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 256000,
+              "details": {
+                "code": "5300020090016",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Todos os municípios, com população abaixo de 50.000 habitantes, localizados em todas as regiões do Brasil. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 256000,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "respProponent": "***.487.024-** - MAILSON DE MENDONCA LIMA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.042.835-** - IVONE MARIA VALENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE MONTEIROPOLIS",
+            "documentNumber": "12.251.450/0001-36",
+            "modality": "Convênio",
+            "status": "Cancelado",
+            "number": "729453/2009",
+            "validity": "19/01/2010 a 18/01/2012",
+            "limitDate": "2012-02-17T00:00:00.000Z",
+            "totalValue": 256000,
+            "transferValue": 250000,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "722434/2009",
+        "company": {
+          "id": "3a0b58dc-5d97-4476-89c7-3254253ac13b",
+          "cnpj": "12251450000136",
+          "name": "SECRETARIA MUNICIPAL DE ASSIS SOCIAL",
+          "cityId": "1b078120-2caa-4db9-94b4-821acad55bc7",
+          "sphere": "Municipal",
+          "city": {
+            "id": "1b078120-2caa-4db9-94b4-821acad55bc7",
+            "name": "Monteirópolis",
+            "uf": "AL",
+            "ibge": "2705408"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2013-12-26T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041217/2009",
+            "organId": "04121/2009",
+            "processId": "041217/2009",
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Melhorar as condições de Infra-Estrutura do município proporcionando uma melhor qualidade de vida a toda a população do conjunto Luiz Dantas que está localizado na zona urbana do município e as cerca de 150 famílias beneficiadas têm renda mensal inferior a 3 salários mínimos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de diversas ruas no município de Monteirópolis",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Monteirópolis/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-06-22T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020093247",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 266337.26,
+              "details": {
+                "code": "5600020093247",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 266337.26,
+                "couterpartValues": {
+                  "total": 20487.26,
+                  "financial": 20487.26,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "respProponent": "***.487.024-** - MAILSON DE MENDONCA LIMA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MONTEIROPOLIS",
+            "documentNumber": "12.251.450/0001-36",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "722434/2009",
+            "validity": "31/12/2009 a 26/12/2013",
+            "limitDate": "2013-12-26T00:00:00.000Z",
+            "totalValue": 266337.26,
+            "transferValue": 245850,
+            "counterpartValue": 20487.26,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "708517/2009",
+        "company": {
+          "id": "3a0b58dc-5d97-4476-89c7-3254253ac13b",
+          "cnpj": "12251450000136",
+          "name": "SECRETARIA MUNICIPAL DE ASSIS SOCIAL",
+          "cityId": "1b078120-2caa-4db9-94b4-821acad55bc7",
+          "sphere": "Municipal",
+          "city": {
+            "id": "1b078120-2caa-4db9-94b4-821acad55bc7",
+            "name": "Monteirópolis",
+            "uf": "AL",
+            "ibge": "2705408"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2012-12-26T00:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "031208/2009",
+            "organId": "31208/2009",
+            "processId": "031208/2009",
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "legalFoundation": "Decreto 6170",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Monteirópolis não dispõe de um local adequado para realização de atividades esportivas para atendimento de sua população. A construção do Ginásio Poli-Esdportivo irá proporcionar um incremento nas práticas esportivas, principalmente entre os jovens. Toda a população da zona urbana do município, cerca de 600 famílias com renda mensal média inferior a 3 salários mínimos será beneficiada com a construção do Ginásio Poli-Esportivo no Centro da zona urbana.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção do Ginásio Poli-Esportivo de Monteirópolis.",
+            "information": "“Em atendimento ao disposto no inciso V, artigo 15, da Portaria Interministerial nº 127, de 29 de maio de 2008, atesto para os devidos fins que a Prefeitura Municipal de Monteirópolis/Al. possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2009-05-25T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 619336.99,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na LDO vigente, podendo haver redução para municípios incluídos nos bolsões de pobreza, conforme legislação em vigor. [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 619336.99,
+                "couterpartValues": {
+                  "total": 34336.99,
+                  "financial": 34336.99,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 585000,
+                  "amendment": "R$ 585.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "respProponent": "***.487.024-** - MAILSON DE MENDONCA LIMA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE MONTEIROPOLIS",
+            "documentNumber": "12.251.450/0001-36",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "708517/2009",
+            "validity": "31/12/2009 a 26/12/2012",
+            "limitDate": "2012-12-26T00:00:00.000Z",
+            "totalValue": 619336.99,
+            "transferValue": 585000,
+            "counterpartValue": 34336.99,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "705893/2009",
+        "company": {
+          "id": "3a0b58dc-5d97-4476-89c7-3254253ac13b",
+          "cnpj": "12251450000136",
+          "name": "SECRETARIA MUNICIPAL DE ASSIS SOCIAL",
+          "cityId": "1b078120-2caa-4db9-94b4-821acad55bc7",
+          "sphere": "Municipal",
+          "city": {
+            "id": "1b078120-2caa-4db9-94b4-821acad55bc7",
+            "name": "Monteirópolis",
+            "uf": "AL",
+            "ibge": "2705408"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-11-30T00:00:00.000Z",
+        "end": "2012-03-31T00:00:00.000Z",
+        "program": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "027293/2009",
+            "organId": "00083/2009",
+            "processId": "71000.076503/2009-41",
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "legalFoundation": "Decreto Nº 6.170/2007 e Portaria Nº 127/2008",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Estado de Alagoas com 27.933 km² corresponde a menos de 0,5% da área do Brasil e a cerca de 1,8% do Nordeste. Os dados da pesquisa populacional do IBGE em 2002 identificaram uma população de 2.882.621 habitantes, sendo 66,5% na área urbana e 33,5% em áreas rurais. Alagoas conta atualmente com 102 municípios, dos quais apenas 10 concentram cerca de 50% da população de Alagoas. O Território da Cidadania Médio Sertão Alagoano está localizado na região semi-árido de alagoas corresponde a cerca de (12%) da área do Estado e (5,55%) de sua população, sendo todos os municípios pertencentes à bacia hidrográfica do Rio São Francisco. A forma histórica de ocupação do espaço transformou esta região num cenário de enormes contradições e injustiças sociais que assumem proporções de calamidade com as freqüentes estiagens prolongadas. As principais problemáticas enfrentadas pela população empobrecida desta região são: A inexistência de iniciativas que propiciem o acesso a água em quantidade e com qualidade, geração de trabalho formal e informal para geração de renda; Dificuldade de acesso à água para produção familiar e alimentos em quantidade e qualidade para o consumo humano, principalmente nos períodos de estiagem prolongada na região. É de fundamental importância a parceria com o Ministério de Desenvolvimento Social e combate a Fome, no qual a mesma permitirá um canal de abertura para o acesso de famílias de baixa renda a instrumentos de captação de água de chuva através da construção de cisternas de placas e capacitação em gestão dos recursos hídricos para convivência com o semi-árido, além de aprofundar as relações de solidariedade no semi-árido contribuindo para novas conquista de direitos e acesso aos espaços de discussões políticos para o público beneficiário do projeto. A presente proposta tem por objetivo contribuir para a qualidade de vida das famílias rurais do município de Monteirópolis, situado na região semi-árida do Estado de Alagoas, a partir do acesso de Duzentas e Oitenta (280) famílias com acesso a água de qualidade e em quantidade para o consumo humano. O mesmo será desenvolvido em dezessete (17) comunidades rurais do município, cada uma com capacidade para armazenamento de (16.000) litros de água das chuvas. Simultaneamente a instalação das cisternas, as famílias receberão informações através de oficinas de formação sobre o manejo da água das cisternas, gerenciamento dos recursos disponíveis na região e outras práticas de convivência com o semi-árido. Estas ações são estrategicas para a transformação da realidade do semi-árido alagoano. O Município de Monteirópolis possui uma população total de (7.240) habitantes, sendo (76% dos habitantes) residente em área rural e menos que (30% dos habitantes) residem em áreas urbanas. Está inserido numa das áreas mais secas do Estado de Alagoas. Apenas 24% da população são abastecidas pela rede publica de fornecimento de água, que não abastece com regularidade.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "O Projeto visa à dotação de infra-estrutura hídrica para consumo humano através da construção de cisternas de placas. Realizar-se-á por meio do estabelecimento de vínculo de cooperação entre as partes, em benefício da população de baixa renda e com dificuldade no acesso a recursos hídricos, no Município de Monteirópolis, localizado na região semi-árida do Estado de Alagoas, desde que os beneficiários se enquadrem nos critérios de elegibilidade do Programa Bolsa Família do Governo Federal. (CadÚnico) O Projeto objetiva o acesso, o gerencia-mento e a valorização da água como um direito essencial da vida e da cidadania, ampliando a compreensão e a prática da convivência sustentável e solidária com o ecossistema do semi-árido",
+            "information": "",
+            "proposalDate": "2009-05-15T00:00:00.000Z",
+            "biddingDate": "2009-11-26T00:00:00.000Z",
+            "homologationDate": "2009-11-30T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020090011",
+              "name": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+              "value": 379132.8,
+              "details": {
+                "code": "5500020090011",
+                "name": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+                "cps": null,
+                "items": "Universalizar as condições de acesso adequado à água potável das populações rurais de baixa renda no semi-árido a partir do armazenamento de água em cisternas, tendo como objeto padronizável: Apoio a construção de cisternas de placas de cimento;",
+                "couterpartRule": "Será exigida dos proponentes a apresentação de contrapartida financeira de acordo com os percentuais dispostos na Lei nº. 11.768 de 14 de agosto de 2008 (Lei de Diretrizes Orçamentárias) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 379132.8,
+                "couterpartValues": {
+                  "total": 14780,
+                  "financial": 14780,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 364352.8,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.251.450/0001-36 - MUNICIPIO DE MONTEIROPOLIS",
+            "respProponent": "***.487.024-** - MAILSON DE MENDONCA LIMA",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.864.406-** - Patrus Ananias de Souza"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE MONTEIROPOLIS",
+            "documentNumber": "12.251.450/0001-36",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "705893/2009",
+            "validity": "30/11/2009 a 31/03/2012",
+            "limitDate": "2012-05-30T00:00:00.000Z",
+            "totalValue": 379132.8,
+            "transferValue": 364352.8,
+            "counterpartValue": 14780,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

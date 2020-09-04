@@ -1,0 +1,2915 @@
+{
+  "beginDate": "2020-09-01T13:29:28.165Z",
+  "endDate": "2020-09-01T13:47:22.651Z",
+  "data": {
+    "location": {
+      "city": "Canapi",
+      "uf": "AL",
+      "ibge": "2701605"
+    },
+    "agreements": [
+      {
+        "agreementId": "882387/2018",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-31T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "2084 – RECURSOS HIDRICOS - PT 18.544.2084.15E7.0001 - Acao: Revitalização da bacia hidrográfica do rio São Francisco - Nacional - (EMENDA)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "064372/2018",
+            "organId": "517200/2018",
+            "processId": "59550.001231/2018-94",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Portaria 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "O município de Canapí está situado no sertão alagoano, teve origem em uma propriedade denominada Cavalo Morto. Sua população é de 17.793, contagem populacional IBGE 2007. É possuidor do IDH de 0,521 considerado muito baixo para os padrões atuais e consequentemente precisa de grandes investimentos de infra-estrutura turística. A construção de praças na área central dos distritos de Carié, Capiá e na Sede do município. O município possui uma rica quantidade de nascentes que ultimamente têm sofrido com a falta de políticas públicas para a conservação das mesmas. O crescente processo de urbanização, aliado à conversão de áreas vegetadas para fins de implantação da pecuária extensiva, produção agrícola e outras atividades produtivas em meio rural, tais como suinocultura e piscicultura, tem provocado intensa degradação sobre as nascentes, comprometendo a quantidade e a qualidade das águas do corpo hídrico. Para se conhecer a real dimensão do problema e propor um Plano de Ação de recuperação, é necessária a elaboração de um diagnóstico ambiental das nascentes, com caracterização macroscópica do entorno, análises de qualidade de água e medições de vazão. A partir do diagnóstico será proposto um Plano de Ação para recuperação das nascentes, com intervenções como cercamento, reflorestamento e contenção em solocimento, além de um programa de educação ambiental visando conscientizar a população beneficiada acerca da importância do projeto. Assim, o presente projeto se justifica à medida que contribuirá para a melhoria da quantidade e da qualidade das águas do rio Capiá, beneficiando toda a população que reside na bacia hidrográfica, com benefícios indiretos para o próprio rio São Francisco.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Promover o diagnóstico, a recuperação e a conservação de nascentes na bacia do rio Capiá, em Canapi/AL.",
+            "information": "Em atendimento ao disposto na Portaria Interministerial nº. 424, de 30 de dezembro de 2016, atesto para os devidos fins, que a Prefeitura Municipal de Canapi/AL, possui quadro de profissionais, GMC – Gerente Municipal de Convênios, CPL – Comissão Permanente de Licitação, Engenheiro Civil, Engenheiro Ambiental, Arquiteto e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de Capacidade Técnica e Gerencial para Gestão e Execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto tais como: licitações, execução e fiscalização de obras.",
+            "proposalDate": "2018-12-17T00:00:00.000Z",
+            "biddingDate": "2018-12-31T00:00:00.000Z",
+            "homologationDate": "2019-01-25T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320180026",
+              "name": "2084 – RECURSOS HIDRICOS - PT 18.544.2084.15E7.0001 - Acao: Revitalização da bacia hidrográfica do rio São Francisco - Nacional - (EMENDA)",
+              "value": 300300.3,
+              "details": {
+                "code": "2220320180026",
+                "name": "2084 – RECURSOS HIDRICOS - PT 18.544.2084.15E7.0001 - Acao: Revitalização da bacia hidrográfica do rio São Francisco - Nacional - (EMENDA)",
+                "cps": null,
+                "items": "Ações Complementares de Obras",
+                "couterpartRule": "Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300300.3,
+                "couterpartValues": {
+                  "total": 300.3,
+                  "financial": 300.3,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 300000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.295.514-** - VINICIUS JOSE MARIANO DE LIMA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "882387/2018",
+            "validity": "31/12/2018 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 300300.3,
+            "transferValue": 300000,
+            "counterpartValue": 300.3,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "880557/2018",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-31T00:00:00.000Z",
+        "end": "2021-12-31T00:00:00.000Z",
+        "program": "2068 - Saneamento Basico (Acao: 10GD - Sistemas Publicos de Abastecimento de Agua)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "063549/2018",
+            "organId": "02169/2018",
+            "processId": "25100.016422/2018-37",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto nº 6.170, de 25 de julho de 2007, e Portaria Interministerial nº 424, de 30 de dezembro de 2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O MUNICÍPIO DE CANAPI TEM UMA POPULAÇÃO DE 17.726 HABITANTES, CONFORME POPULAÇÃO ESTIMADA PELO IBGE PARA O ANO DE 2018 POSSUI IDH DE 0,506 CONSIDERADO MUITO BAIXO PARA OS PADRÕES ATUAIS.O MUNICÍPIO DE CANAPI POSSUI UMA POPULAÇÃO DESPROVIDA DE RECURSOS FINANCEIROS, NECESSITANDO PORTANTO, DE AÇÕES GOVERNAMENTAIS VOLTADAS AO ABASTECIMENTO DE ÁGUA COMO UMA DAS ESTRATÉGIAS PARA O CONTROLE DE DOENÇAS E PREVENÇÃO DE AGRAVOS, COM REDUÇÃO DA EXTREMA POBREZA E MELHORIA DA QUALIDADE DE VIDA DA POPULAÇÃO. A IMPLANTAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUAS NO MUNICÍPIO DE CANAPI/AL TEM COMO OBJETIVO FOMENTAR A CONSTRUÇÃO/INSTALAÇÃO DE UM SISTEMA DE ABASTECIMENTO DE ÁGUA E PREVENÇÃO DE AGRAVOS OCASIONADOS PELA FALTA OU INADEQUAÇÃO DAS CONDIÇÕES DE ÁGUA POTÁVEL NOS DOMICÍLIOS. A IMPLANTAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA SERÁ REALIZADO NO POVOADO DE FORQUILHA E IRÁ BENEFICIAR 220 FAMÍLIAS NA COMUNIDADE. ATUALMENTE O ABASTECIMENTO DE ÁGUA NO MUNICÍPIO DE CANAPI ATINGE A 55% DA ZONA URBANA E COM A REALIZAÇÃO DESTE PLEITO IRÁ SUBIR 4,5%. A ESCOLHA FEITA PARA FORQUILHA FOI QUE A MESMA ATUALMENTE É ABASTECIDA ATRAVÉS DE CARRO PIPA, UMA PARTE PELO EXERCITO E OUTRA PELO PRÓPRIO MUNICÍPIO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "IMPLANTAÇÃO DE SISTEMA DE ABASTECIMENTO DE ÁGUA",
+            "information": "Em conformidade com o que estabelece o artigo 16, inciso V, da Portaria Interministerial MP/MF/MTC 424/2016, declaro que esta prefeitura dispõe de estrutura física e de pessoal, com capacidade administrativa, técnica e gerencial para a execução do objeto proposto, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legalmente, inclusive as que se referem a licitação, acompanhamento da execução e prestação de contas",
+            "proposalDate": "2018-12-04T00:00:00.000Z",
+            "biddingDate": "2018-12-31T00:00:00.000Z",
+            "homologationDate": "2019-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120180001",
+              "name": "2068 - Saneamento Basico (Acao: 10GD - Sistemas Publicos de Abastecimento de Agua)",
+              "value": 700000,
+              "details": {
+                "code": "3621120180001",
+                "name": "2068 - Saneamento Basico (Acao: 10GD - Sistemas Publicos de Abastecimento de Agua)",
+                "cps": null,
+                "items": "Abastecimento de Água",
+                "couterpartRule": "A contrapartida não é exigida, por tratar-se de transferência de recursos no âmbito do SUS, conforme Art. 74. § 4º, Inciso I, da Lei nº 13.473 de 08/08/2017. Para contrapartida voluntária, vide Anexo [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 700000,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 700000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.295.514-** - VINICIUS JOSE MARIANO DE LIMA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "880557/2018",
+            "validity": "31/12/2018 a 31/12/2021",
+            "limitDate": "2022-03-01T00:00:00.000Z",
+            "totalValue": 700000,
+            "transferValue": 700000,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "871491/2018",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-31T00:00:00.000Z",
+        "end": "2021-12-31T00:00:00.000Z",
+        "program": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "050026/2018",
+            "organId": "00818/2018",
+            "processId": "25100.007791/2018-39",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto nº 6.170, de 25 de julho de 2007 e suas alterações, combinado com a Portaria Interministerial nº 424, de 30 de dezembro de 2016 e suas alterações.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O MUNICIPIO DE CANAPI TEM UMA POPULAÇÃO 17.250,SEGUNDO IBGE/2010. POSSUI IDH DE 0,506 CONSIDERADO MUITO BAIXO PARA OS PADRÕES ATUAIS. O MUNICÍPIO DE CANAPI POSSUI UMA POPULAÇÃO DESPROVIDA DE RECURSOS FINANCEIROS, NECESSITANDO PORTANTO, DE AÇÕES GOVERNAMENTAIS VOLTADAS À MELHORIAS HABITACIONAIS PARA CONTROLE DA DOENÇA DE CHAGAS COMO UMA DAS ESTRATÉGIAS PARA O CONTROLE DE DOENÇAS E PREVENÇÃO DE AGRAVOS, COM REDUÇÃO DA EXTREMA POBREZA E MELHORIA DA QUALIDADE DE VIDA DA POPULAÇÃO. A IMPLANTAÇÃO DE MELHORIAS HABITACIONAIS PARA CONTROLE DA DOENÇA DE CHAGAS NO MUNICÍPIO DE CANAPI/AL TEM COMO OBJETIVO FOMENTAR A CONSTRUÇÃO UNIDADES HABITACIONAIS PARA CONTROLE DE DOENÇAS E PREVENÇÃO DE AGRAVOS OCASIONADOS PELA FALTA OU INADEQUAÇÃO DAS CONDIÇÕES DE MORADIA E DE SANEAMENTO NOS DOMICÍLIOS. A LOCALIDADE ONDE SERÁ CONTEMPLADA A IMPLANTAÇÃO DE MELHORIAS HABITACIONAIS PARA O CONTROLE DE DOENÇA DE CHAGAS SERÁ NO POVOADO TUPETE NO MUNICÍPIO DE CANAPI/AL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Implantação de Melhorias Habitacionais para o Controle da Doença de Chagas.",
+            "information": "Em conformidade com o que estabelece o artigo 16, inciso V, da Portaria Interministerial MP/MF/MTC 424/2016, declaro que esta prefeitura dispõe de estrutura física e de pessoal, com capacidade administrativa, técnica e gerencial para a execução do objeto proposto, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legalmente, inclusive as que se referem a licitação, acompanhamento da execução e prestação de contas",
+            "proposalDate": "2018-06-04T00:00:00.000Z",
+            "biddingDate": "2018-12-31T00:00:00.000Z",
+            "homologationDate": "2019-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120180019",
+              "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+              "value": 500000,
+              "details": {
+                "code": "3621120180019",
+                "name": "2015 - Aperfeiçoamento do Sistema Único de Saúde (Ação: 3921 - Melhorias Habitacionais para Controle da Doença de Chagas)",
+                "cps": null,
+                "items": "Unidades Habitacionais",
+                "couterpartRule": "A contrapartida não é exigida, por tratar-se de transferência de recursos no âmbito do SUS, conforme Art. 74. § 4º, Inciso I, da Lei nº 13.473 de 08/08/2017. Para contrapartida voluntária, vide Anexo [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 500000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.295.514-** - VINICIUS JOSE MARIANO DE LIMA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "871491/2018",
+            "validity": "31/12/2018 a 31/12/2021",
+            "limitDate": "2022-03-01T00:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 500000,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "802637/2014",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2014-12-31T00:00:00.000Z",
+        "end": "2021-07-12T00:00:00.000Z",
+        "program": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "024245/2014",
+            "organId": "00005/2014",
+            "processId": "25100.009867/2014-37",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decretonº6.170/2007 e Portaria Interministerial MP/MF/CGU nº507/2011.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O MUNICIPIO DE CANAPI TEM UMA POPULAÇÃO 17.793,SEGUNDO IBGE/2007.POSSUI IDH DE 0,521 CONSIDERADO MUITO BAIXO PARA OS PADRÕES ATUAIS. O MUNICÍPIO DE CANAPI POSSUI UMA POPULAÇÃO DESPROVIDA DE RECURSOS FINANCEIROS, NECESSITANDO PORTANTO, DE AÇÕES GOVERNAMENTAIS VOLTADAS À MELHORIA SANITÁRIA DOMICILIAR COMO UMA DAS ESTRATÉGIAS PARA O CONTROLE DE DOENÇAS E PREVENÇÃO DE AGRAVOS, COM REDUÇÃO DA EXTREMA POBREZA E MELHORIA DA QUALIDADE DE VIDA DA POPULAÇÃO. A IMPLANTAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES NO MUNICÍPIO DE CANAPI/AL TEM COMO OBJETIVO FOMENTAR A CONSTRUÇÃO/INSTALAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES PARA CONTROLE DE DOENÇAS E PREVENÇÃO DE AGRAVOS OCASIONADOS PELA FALTA OU INADEQUAÇÃO DAS CONDIÇÕES DE SANEAMENTO BÁSICO NOS DOMICÍLIOS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES",
+            "information": "O MUNICÍPIO DE CANAPI/AL, POSSUI CAPACIDADE TECNICA E GERENCIAL PARA O CONTRATO ACIMA SOLICITADO.",
+            "proposalDate": "2014-03-06T00:00:00.000Z",
+            "biddingDate": "2014-12-31T00:00:00.000Z",
+            "homologationDate": "2015-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120140019",
+              "name": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+              "value": 599578.98,
+              "details": {
+                "code": "3621120140019",
+                "name": "Implanta??o de Melhorias Sanit?rias Domiciliares para Preven??o e Controle de Doen?as e Agravos",
+                "cps": null,
+                "items": "Implantação de Melhorias Sanitárias Domiciliares para Prevenção e Controle de Doenças e Agravos",
+                "couterpartRule": "A contrapartida (no caso dos municípios) dependerá da comprovação, na forma definida pelo art. 60 da Lei 12.919/2013 (LDO 2014) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 599578.98,
+                "couterpartValues": {
+                  "total": 599.58,
+                  "financial": 599.58,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 598979.4,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.295.514-** - VINICIUS JOSE MARIANO DE LIMA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-05-14T00:00:00.000Z",
+              "processId": "032018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "032018",
+                "biddingId": "03/2018",
+                "object": "EXECUÇÃO DE OBRAS E SERVIÇOS DE ENGENHARIA PARA CONSTRUÇÃO DE MÓDULOS SANITÁRIOS NO MUNICÍPIO DE CANAPI",
+                "legalFoundation": "LEI 8666",
+                "justification": "LICITAÇÃO DA AEXECUÇÃO DA OBRA DE IMPLANTAÇÃO DE MELHORIAS SANITÁRIAS",
+                "publishDate": "2018-05-14T00:00:00.000Z",
+                "beginDate": "2018-05-30T00:00:00.000Z",
+                "endDate": "2018-06-18T00:00:00.000Z",
+                "biddingValue": 599578.98,
+                "homologationDate": "2018-06-15T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000017/2018",
+              "biddingId": "03/2018",
+              "date": "2018-11-09T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11446462000153",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Obras",
+                "object": "EXECUÇÃO DE OBRAS E SERVIÇOS DE ENGENHARIA PARA CONSTRUÇÃO DE MÓDULOS SANITÁRIOS NO MUNICÍPIO DE CANAPI",
+                "totalValue": 599578.98,
+                "publishDate": "2018-11-09T00:00:00.000Z",
+                "beginDate": "2018-06-18T00:00:00.000Z",
+                "endDate": "2018-12-31T00:00:00.000Z",
+                "signDate": "2018-06-18T00:00:00.000Z",
+                "executionProcessId": "03/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "032018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "802637/2014",
+            "validity": "31/12/2014 a 12/07/2021",
+            "limitDate": "2021-09-10T00:00:00.000Z",
+            "totalValue": 599578.98,
+            "transferValue": 598979.4,
+            "counterpartValue": 599.58,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "796347/2013",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-12-31T00:00:00.000Z",
+        "end": "2021-07-12T00:00:00.000Z",
+        "program": "2068 - Saneamento Básico (7652 - Melhorias Sanitárias Domiciliares - MSD)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "082537/2013",
+            "organId": "00214/2013",
+            "processId": "25100.031209/2013-41",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 507/2011.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O MUNICIPIO DE CANAPI TEM UMA POPULAÇÃO 17.793,SEGUNDO IBGE/2007.POSSUI IDH DE 0,521 CONSIDERADO MUITO BAIXO PARA OS PADRÕES ATUAIS. O MUNICÍPIO DE CANAPI POSSUI UMA POPULAÇÃO DESPROVIDA DE RECURSOS FINANCEIROS, NECESSITANDO PORTANTO, DE AÇÕES GOVERNAMENTAIS VOLTADAS À MELHORIA SANITÁRIA DOMICILIAR COMO UMA DAS ESTRATÉGIAS PARA O CONTROLE DE DOENÇAS E PREVENÇÃO DE AGRAVOS, COM REDUÇÃO DA EXTREMA POBREZA E MELHORIA DA QUALIDADE DE VIDA DA POPULAÇÃO. A IMPLANTAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES NO MUNICÍPIO DE CANAPI/AL TEM COMO OBJETIVO FOMENTAR A CONSTRUÇÃO/INSTALAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES PARA CONTROLE DE DOENÇAS E PREVENÇÃO DE AGRAVOS OCASIONADOS PELA FALTA OU INADEQUAÇÃO DAS CONDIÇÕES DE SANEAMENTO BÁSICO NOS DOMICÍLIOS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES.",
+            "information": "O MUNICÍPIO DE CANAPI/AL, POSSUI CAPACIDADE TECNICA E GERENCIAL PARA O CONTRATO ACIMA SOLICITADO.",
+            "proposalDate": "2013-11-21T00:00:00.000Z",
+            "biddingDate": "2013-12-31T00:00:00.000Z",
+            "homologationDate": "2014-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120130008",
+              "name": "2068 - Saneamento Básico (7652 - Melhorias Sanitárias Domiciliares - MSD)",
+              "value": 499226.47,
+              "details": {
+                "code": "3621120130008",
+                "name": "2068 - Saneamento Básico (7652 - Melhorias Sanitárias Domiciliares - MSD)",
+                "cps": null,
+                "items": "Dotar os domicílios e estabelecimentos coletivos de condições sanitárias adequadas visando à prevenção e controle de doenças e agravos.",
+                "couterpartRule": "Municípios com até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 499226.47,
+                "couterpartValues": {
+                  "total": 9984.53,
+                  "financial": 9984.53,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 489241.94,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.295.514-** - VINICIUS JOSE MARIANO DE LIMA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-05-14T00:00:00.000Z",
+              "processId": "032018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "032018",
+                "biddingId": "03/2018",
+                "object": "EXECUÇÃO DE OBRAS E SERVIÇOS DE ENGENHARIA PARA CONSTRUÇÃO DE MÓDULOS SANITÁRIOS NO MUNICÍPIO DE CANAPI",
+                "legalFoundation": "LEI 8666",
+                "justification": "LICITAÇÃO PARA EXECUÇÃO DE IMPLANTAÇÃO DE MELHORIAS DOMICILIARES",
+                "publishDate": "2018-05-14T00:00:00.000Z",
+                "beginDate": "2018-05-30T00:00:00.000Z",
+                "endDate": "2018-06-18T00:00:00.000Z",
+                "biddingValue": 499226.47,
+                "homologationDate": "2018-06-15T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000016/2018",
+              "biddingId": "03/2018",
+              "date": "2018-11-09T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11446462000153",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Obras",
+                "object": "EXECUÇÃO DE OBRAS E SERVIÇOS DE ENGENHARIA PARA CONSTRUÇÃO DE MÓDULOS SANITÁRIOS NO MUNICÍPIO DE CANAPI",
+                "totalValue": 499226.47,
+                "publishDate": "2018-11-09T00:00:00.000Z",
+                "beginDate": "2018-06-18T00:00:00.000Z",
+                "endDate": "2018-12-31T00:00:00.000Z",
+                "signDate": "2018-06-18T00:00:00.000Z",
+                "executionProcessId": "03/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "032018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "796347/2013",
+            "validity": "31/12/2013 a 12/07/2021",
+            "limitDate": "2021-09-10T00:00:00.000Z",
+            "totalValue": 499226.47,
+            "transferValue": 489241.94,
+            "counterpartValue": 9984.53,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "763771/2011",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2012-01-24T00:00:00.000Z",
+        "end": "2014-01-20T00:00:00.000Z",
+        "program": "ALAGOAS OGU 2011",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "058638/2011",
+            "organId": "58638/2011",
+            "processId": "058638/2011",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Canapi, situado no sertão alagoano é relativamente novo e teve origem em uma propriedade denominada Cavalo Morto. A casa grande da fazenda situava-se onde hoje está a sede da Prefeitura. Com uma população de 17.793 habitantes, contagem feita pelo IBGE em 2007 e uma área de 532Km2. É possuidor do IDH de 0,521 considerado muito baixo para os padrões atuais. O município tem como uma de suas atividades principais a agricultura, daí o grande numero de associações agrícolas comunitárias vinte e oito, totalizando 1.119 associados, o projeto beneficiar diretamente em media duzentas (200) famílias e indiretamente seiscentas(600) famílias, e tem como meta otimizar as atividades dessas associações criando condições de um melhor desempenho de suas atividades na zona rural,e com isso podendo conquistar novos associados, espera-se que dentro de 12 meses um aumento da ordem de 25%. Hoje o município conta com 7.803 pessoas ocupadas em estabelecimentos agropecuários com uma renda media de quatrocentos (400,00)reais. As principais culturas exploradas no município são: o feijão com uma produção de 1.594 ton., o milho com 1.172 ton, a mandioca com 54 ton e a palma forrageira com 1.860 estabelecimentos que a cultivam, todas serão objeto do trabalho a ser executado pelo projeto, ou seja, pelo maquinário a ser adquirido. Esses equipamentos contribuirão com o aumento das culturas acima explicitadas haja vista, que com a possibilidade de otimização das atividades das associações através do trabalho dos maquinários, seus associados estendam a área plantada e conseqüentemente o resultado para as próximas colheitas tenham um aumento significativo da ordem de 35%. Dentro desse contexto o poder publico não poderia deixar de apoiar através de ações de política pública visando a melhoria do desempenho dessas associações. O município já foi beneficiado com recursos do Ministério da Agricultura que foram: Aquisição de equipamentos agrícolas com a finalidade de melhorar o desempenho das diversas associações agrícolas comunitárias.- Número do Convênio 707372/2009 (Já foi adquirido e prestado contas) e; Aquisição de Materiais agrícolas destinado a melhoria das atividades das associações agrícolas comunitárias - Número do Convênio 714313/2009 (Já foi adquirido e prestado contas). O projeto conta com emenda parlamentar do Senador Renan Calheiros nº 2289.0001, Funcional Programática nº 20.605.6003.7H17.0027 , PROGRAMA APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO, pelo Ministério da Agricultura, Pecuária e Abastecimento. .",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE MÁQUINAS AGRÍCOLAS",
+            "information": "A Prefeitura possui Técnicos capacitados para o acompanhamento e gerenciamento das obras a serem executadas neste convênio.",
+            "proposalDate": "2011-10-19T00:00:00.000Z",
+            "biddingDate": "2012-01-24T00:00:00.000Z",
+            "homologationDate": "2012-01-27T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020110006",
+              "name": "ALAGOAS OGU 2011",
+              "value": 300000,
+              "details": {
+                "code": "2200020110006",
+                "name": "ALAGOAS OGU 2011",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra-Estrutura Agropecuária.",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 7500,
+                  "financial": 7500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "007/2012",
+              "type": "Licitação - Pregão",
+              "date": "2012-04-12T00:00:00.000Z",
+              "processId": "007",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial para Registro de Preço",
+                "processId": "007",
+                "biddingId": "007/2012",
+                "object": "AQUISIÇÃO DE 03 (TRÊS) TRATORES",
+                "legalFoundation": "LEI Nº 8666 E LEI 10.520",
+                "justification": "PREGÃO PRESENCIAL PARA A AQUISIÇÃO DE 03 TRATORES PARA O MUNICÍPIO DE CANAPÍ/AL",
+                "publishDate": "2012-04-12T00:00:00.000Z",
+                "beginDate": "2012-04-24T00:00:00.000Z",
+                "endDate": "2012-04-24T00:00:00.000Z",
+                "biddingValue": 272400,
+                "homologationDate": "2012-05-30T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000007/2012",
+              "biddingId": "007/2012",
+              "date": "2012-07-23T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 08489098000102",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE 03 (TRES) TRATORES",
+                "totalValue": 272400,
+                "publishDate": "2012-07-23T00:00:00.000Z",
+                "beginDate": "2012-06-11T00:00:00.000Z",
+                "endDate": "2013-06-11T00:00:00.000Z",
+                "signDate": "2012-06-11T00:00:00.000Z",
+                "executionProcessId": "007/2012 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "007 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "763771/2011",
+            "validity": "24/01/2012 a 20/01/2014",
+            "limitDate": "2013-06-17T00:00:00.000Z",
+            "totalValue": 21,
+            "transferValue": 300000,
+            "counterpartValue": 292500,
+            "yieldValue": 7500
+          }
+        }
+      },
+      {
+        "agreementId": "755636/2011",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2011-06-30T00:00:00.000Z",
+        "end": "2013-02-27T00:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - CONVÊNIOS - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "013343/2011",
+            "organId": "00148/2011",
+            "processId": "72031.005595/2011-02",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto 6170/2007, Portaria Interministerial 127/2008 e Portaria MTur 88/2010.",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O municipio de CANAPI realizara os tradicionais festejos juninos no periodo de 30 de junho a 01 de julho de 2011. Municipio Localizado no Sertão Alagoano, com uma população de aproximadamente 19.000 habitantes, tem na sua base da economia a agricultura e o comercio, alguns atrativos turisticos do municipio são, A casa grande da fazenda onde hoje situava-se a prefeitura, a igreja reformada e ampliada em 1970 - que hoje é a matriz de São José, padroeiro da cidade, o rio capia que desemboca no rio São Francisco, e servia de caminho pelo bando de Virgulino Lampião, no qual os turistas podem refazer esta rota de um mito da cultura do Nordeste, assim como sua culinaria tipica e unica (bode)no sertão Alagoano, as belezas naturais da serra do Urubu com sua nascente de agua mineral e a serra do exu, que divide os estados de Alagoas e Pernanbuco, assim como seu bioma A CAATINGA unica no planeta . Os Festejos Juninos traduz a cultura popular do povo Nordestino, principalmente a do sertanejo, e com este intuito que todos os anos a prefeitura municipal realiza este evento, para divulgar o municipio de Canapi no contexto Turistico, no qual podemos gerar emprego e renda para a população da região durante a realização do evento. A Programação do evento contara com diversas atividades Artisticas e Culturais como folguedos e as tradicionais quadrilhas juninas e não podendo deixar de ter a culinaria tipica dos festejos juninos, que atrai os turistas para este evento. No intuito de aumentarmos o fluxo turistico dos festejos juninos, em aproximadamente 30%, que será de esencial importancia o patrocinio do MTur, como ja foi em anos anteriores. Como podemos constatar em eventos correlatos, um publico de aproximadamente 6.000 pessoas por dia do evento, com o apoio do Mtur em 2010 constatamos o crescimento do publico e do evento. E consequentemente no decorrer dos anos poderemos transformar atreves destes eventos o municipio de Canapi/AL, como um dos principais destinos turisticos do sertão Alagoano, gerando emprego e renda na região. Como constamos nos eventos ja realizados no municipio e ja tradicionais O carnaval (fevereiro), Emancipação Politica (22 de agosto), Festa de São José (19 de março), eventos que geram fluxo turistico em toda a região, com um publico sempre superior a 6.000 pessoas, por evento. O evento dos Festejos Juninos tem um alto pontencial turistico na região, com uma estimativa de publico de 6.000 pessoas por dia, na sua maioria jovens, estudantes, profisionais liberais dentre outros, gerando cerca de 500 empregos diretos e indiretos por consequencia do evento, consequentemente uma renda significativa para o municipio e região.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "FESTEJOS JUNINOS 2011",
+            "information": "O MUNICIPIO DE CANAPI, TEM CAPACIDADE TECNICA E GERENCIAL PARA EXECUÇÃO DO CONVENIO",
+            "proposalDate": "2011-04-15T00:00:00.000Z",
+            "biddingDate": "2011-06-10T00:00:00.000Z",
+            "homologationDate": "2011-06-29T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020110014",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - CONVÊNIOS - EMENDAS",
+              "value": 110000,
+              "details": {
+                "code": "5400020110014",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - CONVÊNIOS - EMENDAS",
+                "cps": null,
+                "items": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - CONVÊNIOS - EMENDAS, e) Festas Juninas",
+                "couterpartRule": "PARA MUNICIPIOS COM ATÉ 50.000 (CINQUENTA MIL) HABITANTES [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 110000,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.889.701-** - FREDERICO SILVA DA COSTA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "755636/2011",
+            "validity": "30/06/2011 a 27/02/2013",
+            "limitDate": "2013-03-29T00:00:00.000Z",
+            "totalValue": 110000,
+            "transferValue": 100000,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "742523/2010",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2010-06-29T00:00:00.000Z",
+        "end": "2011-07-27T00:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "034140/2010",
+            "organId": "01155/2010",
+            "processId": "72031.010777/2010-14",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto 6.170/2007 e Portaria Interministerial 127/2008",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O municipio de CANAPI realizara os tradicionais festejos juninos no periodo de 29 a 30 de junho de 2010. Municipio Localizado no Sertão Alagoano, com uma população de aproximadamente 19.000 habitantes, tem na sua base da economia a agricultura e o comercio. Os Festejos Juninos traduz a cultura popular do povo Nordestino, principalmente a do sertanejo, e com este intuito que todos os anos a prefeitura municipal realiza este evento, para divulgar o municipio de Canapi no contexto Turistico, no qual podemos gerar emprego e renda para a população da região durante a realização do evento. A Programação do evento contara com diversas atividades Artisticas e Culturais como folguedos e as tradicionais quadrilhas juninas e não podendo deixar de ter a culinaria tipica dos festejos juninos, que atrai os turistas para este evento. No intuito de aumentarmos o fluxo turistico dos festejos juninos, em aproximadamente 30%, que será de esencial importancia o patrocinio do MTur. Pois como podemos constatar em eventos anteriores, um publico de aproximadamente 6.000 pessoas por dia do evento, com este apoio a tendencia é o crescimento do publico e do evento. E consequentemente no decorrer do ano poderemos transformar atreves destes eventos o municipio de Canapi/AL, como um dos principais detinos turisticos do setão Alagoano, gerando emprego e renda na região. Como constamos nos eventos ja realizados no municipio e ja tradicionais O carnaval (fevereiro), Emancipação Politica (22 de agosto), Festa de São José (19 de março), eventos que geram fluxo turistico em toda a região, com um publico sempre superior a 6.000 pessoas, por evento. O evento dos Festejos Juninos tem um alto pontencial turistico na região, com uma estimativa de publico de 6.000 pessoas por dia, na sua maioria jovens, estudantes, profisionais liberais dentre outros, gerando cerca de 500 empregos diretos e indiretos por consequencia do evento, consequentemente uma renda significativa para o municipio.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "FESTIVIDADES JUNINAS",
+            "information": "O municipio de Canapi possue capaciadade tecnica e gerencial para executar este convenio.",
+            "proposalDate": "2010-04-05T00:00:00.000Z",
+            "biddingDate": "2010-06-28T00:00:00.000Z",
+            "homologationDate": "2010-07-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100019",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 105000,
+              "details": {
+                "code": "5400020100019",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "E) FESTAS JUNINAS;",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 105000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.797.948-** - CARLOS ALBERTO DA SILVA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "004",
+              "type": "Inexigibilidade",
+              "date": null,
+              "processId": "004",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "004",
+                "biddingId": null,
+                "object": "CONTRATAÇÃO DAS BANDAS DE FORRÓ CAPA DE REVISTA E EXPRESSO FORRONEJO",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "CONTRATAÇÃO DE BANDAS PARA REALIZAÇÃO DO EVENTO",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 105000,
+                "homologationDate": "2010-06-18T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2010",
+              "biddingId": "004",
+              "date": "2010-07-12T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04428831000110",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DAS BANDAS DE FORRÓ CAPA DE REVISTA E EXPRESSO FORRONEJO",
+                "totalValue": 105000,
+                "publishDate": "2010-07-12T00:00:00.000Z",
+                "beginDate": "2010-06-29T00:00:00.000Z",
+                "endDate": "2010-12-19T00:00:00.000Z",
+                "signDate": "2010-06-22T00:00:00.000Z",
+                "executionProcessId": "004 ",
+                "biddingModality": "Inexigibilidade ",
+                "processId": "004 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "742523/2010",
+            "validity": "29/06/2010 a 27/07/2011",
+            "limitDate": "2011-07-27T00:00:00.000Z",
+            "totalValue": 105000,
+            "transferValue": 100000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "739098/2010",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-24T00:00:00.000Z",
+        "end": "2012-09-24T00:00:00.000Z",
+        "program": "Apoio à Política Nacional de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "064047/2010",
+            "organId": "64047/2010",
+            "processId": "064047/2010",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "o municipio esta situado no alto sertào alagoano. sua população e de 17.793,segundo o IBGE/2007.Possui IDH de 0,521considerado muito baixo para os padrões atuais e consequentemente precisa de grandes investimentos na sua infraestrutura. A pavimentação de ruas trará grande beneficios a comunidade melhorando a condição de saude(higiene/limpeza),acessibilidade e uma melhor convivência social.O projeto benifiará 700 familias diretamente e 1400 indiretamente.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇAO DE RUAS NA CIDADE DE CANAPI.",
+            "information": "o municipio de canapi possui capacidade tecnica e gerencial para a execuçaõ deste convenio.",
+            "proposalDate": "2010-05-27T00:00:00.000Z",
+            "biddingDate": "2010-12-24T00:00:00.000Z",
+            "homologationDate": "2011-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100118",
+              "name": "Apoio à Política Nacional de Desenvolvimento Urbano",
+              "value": 515000,
+              "details": {
+                "code": "5300020100118",
+                "name": "Apoio à Política Nacional de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "INFRAESTRUTURA URBANA",
+                "couterpartRule": "",
+                "totalValue": 515000,
+                "couterpartValues": {
+                  "total": 21900,
+                  "financial": 21900,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 493100,
+                  "amendment": "R$ 493.100,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "739098/2010",
+            "validity": "24/12/2010 a 24/09/2012",
+            "limitDate": "2012-10-24T00:00:00.000Z",
+            "totalValue": 515000,
+            "transferValue": 493100,
+            "counterpartValue": 21900,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "728641/2009",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-01-19T00:00:00.000Z",
+        "end": "2011-11-26T00:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "131653/2009",
+            "organId": "01348/2009",
+            "processId": "59050.004042/2009-13",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A POPULAÇAO DE CANAPI ERA DE 17.793 HABITANTES DE ACORDO COM CENSO DEMOGRAFICO DO IBGE 2007 SUA AREA É DE 532Km2. SEU INDICE DE DESENVOVIMENTO HUMANO (IDH) É DE 0,521 CONSIDERADO MUITO BAIXO PARA OS PADRÕES ATUAIS.O MUNICIPIO ENCONTRA-SE EM SITUAÇÃO DE EMERGENCIA POR SECA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE CARRO PIPA COMPLETO.",
+            "information": "",
+            "proposalDate": "2009-12-22T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090016",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 250000,
+              "details": {
+                "code": "5300020090016",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Todos os municípios, com população abaixo de 50.000 habitantes, localizados em todas as regiões do Brasil. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 7500,
+                  "financial": 7500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 242500,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.042.835-** - IVONE MARIA VALENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2011",
+              "type": "Licitação - Pregão",
+              "date": "2011-01-17T00:00:00.000Z",
+              "processId": "02",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "02",
+                "biddingId": "02/2011",
+                "object": "AQUISIÇÃO DE 01 (UM) CAMINHÃO PIPA",
+                "legalFoundation": "LEI Nº 10.520/2002",
+                "justification": "HOUVE 3 CHAMADAS PUBLICAS PARA O TÉRMINO DA LICITAÇÃO",
+                "publishDate": "2011-01-17T00:00:00.000Z",
+                "beginDate": "2011-01-27T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 249900,
+                "homologationDate": "2011-06-27T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2011",
+              "biddingId": "02/2011",
+              "date": "2011-06-10T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12450888000143",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE 01 (UM) CAMINHÃO PIPA",
+                "totalValue": 249900,
+                "publishDate": "2011-06-10T00:00:00.000Z",
+                "beginDate": "2011-07-08T00:00:00.000Z",
+                "endDate": "2011-08-07T00:00:00.000Z",
+                "signDate": "2011-06-10T00:00:00.000Z",
+                "executionProcessId": "02/2011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "02 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "728641/2009",
+            "validity": "19/01/2010 a 26/11/2011",
+            "limitDate": "2011-12-26T00:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 242500,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "714313/2009",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2011-08-27T00:00:00.000Z",
+        "program": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "036743/2009",
+            "organId": "36743/2009",
+            "processId": "036743/2009",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Canapi, situado no sertão alagoano é relativamente novo e teve origem em uma propriedade denominada Cavalo Morto. A casa grande da fazenda situava-se onde hoje está a sede da Prefeitura. Com uma população de 17.793 habitantes, contagem feita pelo IBGE em 2007 e uma área de 532Km2. É possuidor do IDH de 0,521 considerado muito baixo para os padrões atuais. O município tem como uma de suas atividades principais a agricultura, daí o grande numero de associações agrícolas comunitárias vinte e oito, totalizando 1.119 associados, o projeto benificiarar diretamente em media duzentas(200)familias e indiretamente seissentas(600) familias, e tem como meta otimizar as atividades dessas associações criando condições de um melhor desempenho de suas atividades na zona rural,e com isso podendo conquistar novos associados, espera-se que dentro de 12 meses um aumento da ordem de 25%. Hoje o município conta com 7.803 pessoas ocupadas em estabelecimentos agropecuários com uma renda media de quatrocentos (400,00)reais. As principais culturas exploradas no município são: o feijão com uma produção de 1.594 ton, o milho com 1.172 ton, a mandioca com 54 ton e a palma forrageira com 1.860 estabelecimentos que a cultivam, todas serão objeto do trabalho a ser executado pelo projeto ou seja pelo maquinário a ser adquirido. Esses equipamentos contribuirão com o aumento das culturas acima explicitadas haja vista, que com a possibilidade de otimização das atividades das associações através do trabalho dos maquinários, seus associados estendam a área plantada e consequentemente o resultado para as próximas colheitas tenham um aumento significativo da ordem de 35%. dentro desse contexto o poder publico não poderia deixar de apoiar através de ações de política pública visando a melhoria do desempenho dessas associações. O projeto conta com emenda parlamentar do Senador Fernando Collor de Mello nº. 7 informada através de Ofício nº 141/2009, Funcional Programática nº 2200020090066 no valor de R$ 200.000,00 (duzentos mil reais).",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Materiais agrícolas destinado a melhoria das atividades das associações agrícolas comunitárias.",
+            "information": "O municipio de Canapí,possui capacidade técnica e gerencial,além de aquisição dos materiais e assesoramento técnico as associações comunitárias envolvidas no projeto.",
+            "proposalDate": "2009-06-06T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090055",
+              "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+              "value": 200000,
+              "details": {
+                "code": "2200020090055",
+                "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+                "cps": "",
+                "items": "Apoio ao Pequeno e Médio Produtor Agropecuário",
+                "couterpartRule": "Municípios com até 50.000 (cinqüenta mil) habitantes. (Lei 11768/08, art. 40 §1º, inc I-a) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 200000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 195000,
+                  "amendment": "R$ 195.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "08/2010",
+              "type": "Licitação - Pregão",
+              "date": "2010-06-11T00:00:00.000Z",
+              "processId": "2382010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "2382010",
+                "biddingId": "08/2010",
+                "object": "Aquisição de materiais (equipamentos)agrícolas, destinados à melhoria das atividades das associações comunitárias do Município de Canapi/AL.",
+                "legalFoundation": "LEI Nº 10.520/02 E 8.666/93",
+                "justification": "A presente aquisição se justifica pela necessidade que o Município tem em equipar as associações comunitárias visando beneficiar os agricultores cooperados no plantio e na colheita, tanto para o consumo humano, como para o consumo de ração animal.",
+                "publishDate": "2010-06-11T00:00:00.000Z",
+                "beginDate": "2010-06-23T00:00:00.000Z",
+                "endDate": "2010-06-23T00:00:00.000Z",
+                "biddingValue": 196299.52,
+                "homologationDate": "2010-06-29T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000000/2010",
+              "biddingId": "08/2010",
+              "date": "2010-07-02T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12685749000603",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Material",
+                "object": "Aquisição de materiais (equipamentos)agrícolas destinados à melhoria das atividades das associações comunitárias de Canapi/AL.",
+                "totalValue": 196299.52,
+                "publishDate": "2010-07-02T00:00:00.000Z",
+                "beginDate": "2010-07-02T00:00:00.000Z",
+                "endDate": "2010-12-31T00:00:00.000Z",
+                "signDate": "2010-06-30T00:00:00.000Z",
+                "executionProcessId": "08/2010 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "2382010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "714313/2009",
+            "validity": "31/12/2009 a 27/08/2011",
+            "limitDate": "2011-08-27T00:00:00.000Z",
+            "totalValue": 200000,
+            "transferValue": 195000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "712733/2009",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2015-08-30T00:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "083525/2009",
+            "organId": "83525/2009",
+            "processId": "83525/2009",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "dec. 6170",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "CANAPI, SITUADO NO SERTÃO ALAGOANO É RELATIVAMENTE NOVO E TEVE ORIGEM UMA PROPRIEDADE DENOMINADA CAVALO MORTO. A CASA GRANDE DA FAZENDA SITUAVA-SE ONDE HOJE ESTA A SEDE DA PREFEITURA.COM UMA POPULAÇÃO DE 17.793 HAB.CONTAGEM FEITA PELO IBGE EM 2007,O SEU IDH É DE 0,521 CONSIDERA BAIXO PARA OS PADRÕES ATUAIS E COM RENDA FAMILIAR R$450,00.O PROJETO VISA INCENTIVAR A PRATICA DE ESPORTES E LASER NOS POVOADOS DE FURQUILHA E QUEIMADA REDONDA ZONA RURAL DESTE MUNICIPIO,ATRAVÉS DA DISPONIBILIZAÇÃO E MODERNIZAÇÃO DA ESTRUTURA E INSTALAÇÕES DE EQUIPAMENTOS ESPORTIVOS, O QUE REDUZ A EXCLUSÃO E O RISCO SOCIAL, MELHORANDO A QUALIDADE DE VIDA E GARANTINDO A ACESSIBILIDADE A ESPAÇOS ESPORTIVOS PARA AS MAIS DE 700 FAMILIAS BENEFICIADAS COM O PROJETO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE 02(DUAS)QUADRAS POLIESPORTIVAS NOS POVOADOS DE FURQUILHA E QUEIMADA REDONDA. .",
+            "information": "",
+            "proposalDate": "2009-10-19T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 180000,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na LDO vigente, podendo haver redução para municípios incluídos nos bolsões de pobreza, conforme legislação em vigor. [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 180000,
+                "couterpartValues": {
+                  "total": 4500,
+                  "financial": 4500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 175500,
+                  "amendment": "R$ 175.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.720.434-** - CELSO LUIZ TENORIO BRANDAO",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.719.813-** - HERBERT BUENOS AIRES DE CARVALHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2011",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2011-05-20T00:00:00.000Z",
+              "processId": "015",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "015",
+                "biddingId": "02/2011",
+                "object": "CONSTRUÇÃO  DE 02 (DUAS) QUADRAS POLÍESPORTIVAS NAS LOCALIDADE DE FORQUILHA E QUEIMADA REDONDA",
+                "legalFoundation": "LEI N] 8.666",
+                "justification": "TP PARA CONSTRUÇÃO DE 02 QUADRAS",
+                "publishDate": "2011-05-20T00:00:00.000Z",
+                "beginDate": "2011-06-03T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 179200,
+                "homologationDate": "2011-06-15T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000015/2011",
+              "biddingId": "02/2011",
+              "date": "2011-06-17T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12212296000193",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Serviço",
+                "object": "CONSTRUÇÃO DE 02 (DUAS) QUADRAS POLIESPORTIVAS NAS LOCALIDADES DE FORQUILHA E QUEIMADA REDONDA",
+                "totalValue": 179200,
+                "publishDate": "2011-06-17T00:00:00.000Z",
+                "beginDate": "2011-06-17T00:00:00.000Z",
+                "endDate": "2012-06-17T00:00:00.000Z",
+                "signDate": "2011-06-16T00:00:00.000Z",
+                "executionProcessId": "02/2011 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "015 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "712733/2009",
+            "validity": "31/12/2009 a 30/08/2015",
+            "limitDate": "2015-08-30T00:00:00.000Z",
+            "totalValue": 180000,
+            "transferValue": 175500,
+            "counterpartValue": 4500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "712294/2009",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-23T00:00:00.000Z",
+        "end": "2012-10-17T00:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "096202/2009",
+            "organId": "50011/2009",
+            "processId": "59550.000967/2009-54",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto nº 6.170/2007 c/ Portaria Interministerial MP/MF/MCT nº 165/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "ESTE PROJETO DE RECUPRAÇÃO DA MALHA VIARIA VICINAL AS FORTES CHUVAS TORRÊNCCIAIS CAIDAS NO MUNICIPIO CAUSANDO TRANTORNOS O POPULAÇÃO CONFORME O RELATORIO DE AVALIAÇÃO DE DANOS REFERENTE AO DIA 22/05/2009.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "RECUPERAÇÃO DE 94Km DA MALHA VIARIA DO MUNICÍPIO.",
+            "information": "",
+            "proposalDate": "2009-11-06T00:00:00.000Z",
+            "biddingDate": "2009-12-23T00:00:00.000Z",
+            "homologationDate": "2009-12-28T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320090122",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 280000,
+              "details": {
+                "code": "2220320090122",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Alínea b, parágrafo 2º, do Artigo 40, da LDO/2009 - Os limites mínimos de contrapartida poderão ser reduzidos para 1%. (Portaria nº 58-A, de 26/03/2009, publicada no DOU de 08/04/2009) [Percentual Mínimo Contrapartida: 1.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 280000,
+                "couterpartValues": {
+                  "total": 5600,
+                  "financial": 5600,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 274400,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001/2010",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "13",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "13",
+                "biddingId": null,
+                "object": "Contratação de empresa de engenharia para elaboração de projeto básico de recuperação de estradas vicinais no Município de Canapi/AL.",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "A presente dispensa de Licitação em função do valor da contratação encontra amparo legal especificamente no art. 24, inciso II, da Lei 8.666/93.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": "2010-02-24T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000013/2010",
+              "biddingId": "001/2010",
+              "date": "2010-04-07T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 08028660000192",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Material",
+                "object": "ELABORAR PROJETO BÁSICO DE RECUPERAÇÃO DE APROXIIMADAMENTE 94 KM DE ESTRADAS VICINAIS NO MUNICÍPIO DE CANAPÍ",
+                "totalValue": 8000,
+                "publishDate": "2010-04-07T00:00:00.000Z",
+                "beginDate": "2010-02-24T00:00:00.000Z",
+                "endDate": "2010-04-25T00:00:00.000Z",
+                "signDate": "2010-02-24T00:00:00.000Z",
+                "executionProcessId": "001/2010 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "13 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "712294/2009",
+            "validity": "23/12/2009 a 17/10/2012",
+            "limitDate": "2013-04-27T00:00:00.000Z",
+            "totalValue": 280000,
+            "transferValue": 274400,
+            "counterpartValue": 5600,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "708404/2009",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2015-08-30T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "042344/2009",
+            "organId": "42344/2009",
+            "processId": "042344/2009",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto 6.170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Canapí está situado no sertão alagoano, teve origem em uma propriedade denominada Cavalo Morto. Sua população é de 17.793, contagem populacional IBGE 2007. É possuidor do IDH de 0,521 considerado muito baixo para os padrões atuais e consequentemente precisa de grandes investimentos de infra-estrutura turística. A construção de praças na área central dos distritos de Carié que possui 4.000 habitantes, Irã com 600 habitantes e Iraque com 1500 habitantes. O projeto beneficiará as comunidades residente nesses distritos inserida no meio urbano/rural, população essa que possuem uma renda média familiar de aproximadamente um salário mínimo. A construção desses equipamentos turísticos criará a oportunidade da convivência social em lugar aprazível para confraternizações, espaço onde poderá encontrar o artesanato e degustar da gastronomia local. Isso vai alavancar o fluxo turístico, adicionando ao comércio um aumento significativo em suas vendas, gerando vários empregos temporários e fixos. Os hotéis, bares e restaurantes serão os grandes contemplados porque passarão a trabalhar com sua capacidade máxima, quando da realização das festas comemorativas a exemplo da Entrega das Medalhas da Pega do Boi do Mato, Missa do Vaqueiro, Festa dos Motoristas e dos Motoqueiros, Corrida do Cavalo Marchador e a Festa da Padroeira do Distrito de Carié “Nossa Senhora Aparecida.”, proporcionando a consolidação do turismo na região. Para construção das praças se faz necessário a realização de algumas ações tais como: Serviços preliminares, Movimentação de terra, Estrutura e fundação, Revestimento, Iluminação, Paisagismo, Parque Infantil, Fonte Luminosa, Bancos em madeira, Pintura, Revestimento e Demarcação de estacionamento. Com a Construção das praças, esperamos atender um público direto e indireto de 12.000 (doze mil) pessoas e diminuir a demanda existente por espaços de lazer, garantindo a continuidade e o fortalecimento da política municipal do turismo, como também garantindo a acessibilidade aos portadores de necessidades especiais. O Projeto conta com Emenda Individual- LOA 2009-Infra-Estrutura nº 2403.0003- Canapi/AL do Deputado Joaquim Beltrão, Funcional Programática 23.695.1166.10V0.0027 no valor de R$ 300.000,00",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de praças na área central dos distritos de Iran, Iraque e Carié com espaços reservados para realização de eventos.",
+            "information": "A Prefeitura Municipal de Canapi/AL declara que possui capacidade técnica e gerencial para executar o projeto.",
+            "proposalDate": "2009-06-24T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090006",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+              "value": 300000,
+              "details": {
+                "code": "5400020090006",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 300000,
+                "couterpartValues": {
+                  "total": 7500,
+                  "financial": 7500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.720.434-** - CELSO LUIZ TENORIO BRANDAO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.719.813-** - HERBERT BUENOS AIRES DE CARVALHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001/2011",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2011-05-19T00:00:00.000Z",
+              "processId": "014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "014",
+                "biddingId": "001/2011",
+                "object": "CONSTRUÇÃO DE 03 PRAÇAS COM ESPAÇO DE EVENTOS NO MUNICÍPIO DE CANAPÍ/AL",
+                "legalFoundation": "LEI Nº 8.666 DE 21 DE JUNHO DE 1993",
+                "justification": "LICITAÇÃO PARA EXECUÇÃO DE 03 PRAÇAS COM ESPAÇO DE EVENTOS NO MUNICÍPIO DE CANAPÍ/AL, REFERENTE AO CONTRTAO DE REPASSE Nº 0300.381-54/2009",
+                "publishDate": "2011-05-19T00:00:00.000Z",
+                "beginDate": "2011-06-02T00:00:00.000Z",
+                "endDate": "2011-06-14T00:00:00.000Z",
+                "biddingValue": 294178.76,
+                "homologationDate": "2011-06-14T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2011",
+              "biddingId": "001/2011",
+              "date": "2011-06-16T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12212296000193",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Serviço",
+                "object": "CONSTRUÇÃO DE 03 PRAÇAS COM ESPAÇOS DE EVENTOS NO MUNICÍPIO DE CANAPÍ/AL",
+                "totalValue": 294178.76,
+                "publishDate": "2011-06-16T00:00:00.000Z",
+                "beginDate": "2011-06-16T00:00:00.000Z",
+                "endDate": "2012-06-16T00:00:00.000Z",
+                "signDate": "2011-06-15T00:00:00.000Z",
+                "executionProcessId": "001/2011 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "708404/2009",
+            "validity": "31/12/2009 a 30/08/2015",
+            "limitDate": "2015-08-30T00:00:00.000Z",
+            "totalValue": 300000,
+            "transferValue": 292500,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "707727/2009",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-30T00:00:00.000Z",
+        "end": "2011-05-31T00:00:00.000Z",
+        "program": "Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo - EDITAL Nº 07/2010",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "051250/2009",
+            "organId": "00194/2009",
+            "processId": "71000.065513/2009-51",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto Nº 6.170/2007 e Portaria Nº 127/2008",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "A Política de Segurança Alimentar deverá ser implementada no ano de 2010, com a criação do CRAS com verba municipal até o final do ano de 2009. Os agricultores familiares necessitam de incentivos financeiros, capacitações e estruturalização para implementar uma visão empreendedora e dessa forma poder ser auto-sustentável as diversas atividades agrícolas que desenvolvem, conseguindo proporcionar uma melhora na renda e conseqüentemente na vida das famílias beneficiadas. Outro fator que vale ressaltar é a importância de estruturar a oferta de produtos/alimentos de qualidade para a população local, através de feiras comunitárias em que os agricultores irão comercializar seus próprios alimentos, de forma higiênica, seleção de alimentos, organização do armazenamento, qualidade de atendimento, isso tudo sendo feito por produtores locais com apoio dos governos local e federal. O município de Canapi resguarda grandes características das cidades com tradições de feiras que ainda impulsionam parte do desenvolvimento da cidade. Atualmente a principal feira da cidade ocorre nos dia de quarta-feira, a população tem um grande hábito de deixar para comprar nesses dias produtos alimentícios como: frutas, verduras, legumes, carnes, cereais e outros. Grande parte das instituições sociais que precisam fazer refeições em seus estabelecimentos, reservam os dias da feira para adquirir os produtos acima citados. Entre os vendedores que comercializam nas feiras, encontramos um grande número de agricultores da própria região, que estão inseridos no programa Bolsa Família. Porém essas feiras não oferecem condições de estruturas, atendimentos e higienização que possibilite a oferta de produtos de qualidade para sua população. Através desse Programa o município pretende incentivar os agricultores a dimensionar o comercio local de forma organizada, buscando capacitar os mesmos para que desenvolvam habilidades e competência de forma empreendedora e auto-sustentável. Essa ação tanto contribuirá para melhorar a qualidade de vida dos beneficiários quanto da população em geral, pois serão comercializados alimentos que irão beneficiar os hábitos alimentares.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "- Estruturar feira livre para garantir a comercialização dos agricultores familiares, através da aquisição de 50 barracas e demais materiais para estruturação da feira, além de capacitar os agricultores para a comercialização.",
+            "information": "O MUNICÍPIO POSSUI UM CORPO TÉCNICO MULTIDISCIPLINAR PARA REALIZAÇÃO DESTE PROJETO, BEM COMO AS SECRETARIAS DE ASSISTÊNCIA SOCIAL, AGRICULTURA QUE TRABALHARÃO EM PARCERIA NA REALIZAÇÃO DESTE PROJETO.",
+            "proposalDate": "2009-07-17T00:00:00.000Z",
+            "biddingDate": "2009-12-30T00:00:00.000Z",
+            "homologationDate": "2010-01-14T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020090015",
+              "name": "Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo - EDITAL Nº 07/2010",
+              "value": 106812,
+              "details": {
+                "code": "5500020090015",
+                "name": "Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo - EDITAL Nº 07/2010",
+                "cps": null,
+                "items": "Emenda: 08.306.1049.8458.0066 Apoio à Agricultura Urbana, Periurbana e Sistemas Coletivos de Produção para o Autoconsumo - no Estado de Alagoas",
+                "couterpartRule": "Para Municípios: a) 4 % - Municípios acima de 50 mil hab. no âmbito da PNDR, nas áreas da SUDENE e da SUDAM e no Centro-Oeste; b) 8 % - Demais municípios. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 106812,
+                "couterpartValues": {
+                  "total": 6812,
+                  "financial": 6812,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.864.406-** - Patrus Ananias de Souza"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "05/2010",
+              "type": "Licitação - Pregão",
+              "date": "2010-03-02T00:00:00.000Z",
+              "processId": "74",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "74",
+                "biddingId": "05/2010",
+                "object": "AQUISIÇÃO DE MATERIAIS PERMANENTES E DE CONSUMO PARA PADRONIZAÇÃO DA FEIRA LIVRE",
+                "legalFoundation": "LEI 8.666 E LEI 10.520",
+                "justification": "AQUISIÇÃO POR PREGÃO PRESENCIAL - 2 CHAMADAS",
+                "publishDate": "2010-03-02T00:00:00.000Z",
+                "beginDate": "2010-03-12T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 171900,
+                "homologationDate": "2010-04-22T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Análise",
+            "number": "707727/2009",
+            "validity": "30/12/2009 a 31/05/2011",
+            "limitDate": "2018-03-24T00:00:00.000Z",
+            "totalValue": null,
+            "transferValue": 106812,
+            "counterpartValue": 100000,
+            "yieldValue": 6812
+          }
+        }
+      },
+      {
+        "agreementId": "707372/2009",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2011-03-30T00:00:00.000Z",
+        "program": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "027976/2009",
+            "organId": "27976/2009",
+            "processId": "027976/2009",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "decreto 6107/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Canapi, situado no sertão alagoano é relativamente novo e teve origem em uma propriedade denominada Cavalo Morto. A casagrande da fazenda situava-se onde hoje está a sede da Prefeitura. Com uma população de 17.793 habitantes, contagem feita pelo IBGE em 2007 e uma área de 532Km2. É possuidor do IDH de 0,521 considerado muito baixo para os padrões atuais. O município tem como uma de suas atividades principais a agricultura, daí o grande numero de associações agrícolas comunitárias vinte e sete, totalizando 1.119 associados, o projeto beneficiará diretamente em media duzentas (200)familias,e indiretamente seicentas(600) familias, tem como meta otimizar as atividades dessas associações criando condições de um melhor desempenho de suas atividades na zona rural,e com isso podendo conquistar novos associados, espera-se que dentro de 12 meses haja aumento da ordem de 25%. Hoje o município conta com 7.803 pessoas ocupadas em estabelecimentos agropecuários com uma renda media de quatrcentos reais (400,00). As principais culturas exploradas no município são: o feijão com uma produção de 1.594 ton, o milho com 1.172 ton, a mandioca com 54 ton e a palma forrageira com 1.860 estabelecimentos que a cultivam, todas serão objeto do trabalho a ser executado pelo projeto ou seja pelo maquinário a ser adquirido. Esses equipamentos contribuirão com o aumento das culturas acima explicitadas haja vista, que com a possibilidade de otimização das atividades das associações através do trabalho dos maquinários, seus associados estendam a área plantada e consequentemente o resultado para as próximas colheitas tenham um aumento significativo da ordem de 35%. dentro desse contexto o poder publico não poderia deixar de apoiar através de ações de política pública visando a melhoria do desempenho dessas associações. O projeto conta com emenda parlamentar do Senador Renan Calheiros nº 22890005 informada através de Ofício nº 523/2009/SEPDAG/DT/GAB/SFA-AL/MAPA, Funcional Programática nº 20.605.6003.7H17.0027 e do Programa nº 2200020090066 no valor de R$ 390.000,00 (trezentos e noventa mil reais).",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de equipamentos agricolas com a finalidade de melhorar o desempenho das diversas associações agrícolas comunitárias.",
+            "information": "A Prefeitura de Canapi/AL, é possuidora de capacidade técnica e gerencial para fazer a aquisição dos equipamentos agrícolas assim como acompanhar sua instalação e proceder a fiscalização quanto ao uso dos mesmos.",
+            "proposalDate": "2009-05-18T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020090055",
+              "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+              "value": 403690.4,
+              "details": {
+                "code": "2200020090055",
+                "name": "APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO",
+                "cps": "",
+                "items": "Apoio ao Desenvolvimento do Setor Agropecuário",
+                "couterpartRule": "Municípios com até 50.000 (cinqüenta mil) habitantes. (Lei 11768/08, art. 40 §1º, inc I-a) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 403690.4,
+                "couterpartValues": {
+                  "total": 13690.4,
+                  "financial": 13690.4,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "07/2010",
+              "type": "Licitação - Pregão",
+              "date": "2010-06-11T00:00:00.000Z",
+              "processId": "2372010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "2372010",
+                "biddingId": "07/2010",
+                "object": "Aquisição de Equipamentos agrícolas destinados à melhoria das atividades das Associações Comunitárias do Município de Canapi/AL.",
+                "legalFoundation": "LEI Nº 10.520/02 E 8.666/93",
+                "justification": "A referida aquisição justifica-se pelo fato do referido contrato está em vigor e da premente necessidade que o Município tem em melhorar as atividades das Associações Comunitárias, estimulando o plantio e a colheita, seja ela pra consumo humano ou para ração animal.",
+                "publishDate": "2010-06-11T00:00:00.000Z",
+                "beginDate": "2010-06-23T00:00:00.000Z",
+                "endDate": "2010-06-23T00:00:00.000Z",
+                "biddingValue": 403690.4,
+                "homologationDate": "2010-06-29T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000000/2010",
+              "biddingId": "07/2010",
+              "date": "2010-07-02T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12685749000603",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Material",
+                "object": "Aquisição de Equipamentos Agrícolas destinados à melhoria das atividades das associações comunitárias de Canapi/AL.",
+                "totalValue": 403690.4,
+                "publishDate": "2010-07-02T00:00:00.000Z",
+                "beginDate": "2010-07-02T00:00:00.000Z",
+                "endDate": "2010-12-31T00:00:00.000Z",
+                "signDate": "2010-06-30T00:00:00.000Z",
+                "executionProcessId": "07/2010 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "2372010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "707372/2009",
+            "validity": "31/12/2009 a 30/03/2011",
+            "limitDate": "2012-10-31T00:00:00.000Z",
+            "totalValue": 403690.4,
+            "transferValue": 390000,
+            "counterpartValue": 13690.4,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "707181/2009",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-30T00:00:00.000Z",
+        "end": "2011-12-31T00:00:00.000Z",
+        "program": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "013751/2009",
+            "organId": "00166/2009",
+            "processId": "71000.044316/2009-06",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto Nº 6.170/2007 e Portaria Nº 127/2008",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Estado de Alagoas com (27.933 km²) corresponde a menos de 0,5% da área do Brasil e a cerca de 1,8% do Nordeste. Os dados da pesquisa populacional do IBGE em 2002 identificaram uma população de 2.882.621 habitantes, sendo 66,5% na área urbana e 33,5% em áreas rurais. Alagoas conta atualmente com 102 municípios, dos quais apenas 10 concentram cerca de 50% da população de Alagoas. O semi-árido alagoano corresponde à cerca de 52% da área do Estado e 35% de sua população, sendo banhado pelo R. São Francisco. A forma histórica de ocupação do espaço transformou o semi-árido num cenário de enormes contradições e injustiças sociais que assumem proporções de calamidade com as freqüentes estiagens prolongadas. As principais problemáticas enfrentadas pela população empobrecida do semi-árido são: a dificuldade de acesso à água e alimentos em quantidade e qualidade para o consumo humano, principalmente nos períodos de estiagem prolongada na região. Com isso Os agricultores/as enfrentam grandes dificuldades para a melhoria e diversificação da produção, o que tem provocado na região o empobrecimento das famílias e o êxodo de jovens para os centros urbanos. As práticas inapropriadas de manejo do solo raso e arenoso tem tornado a região uma das mais susceptíveis ao processo de desertificação, reduzindo ainda mais as chances de êxito na produção agropecuária de subsistência. A perda de sementes nativas e o difícil acesso às sementes apropriadas à região e no período do plantio, a ausência de capacitação e assistência técnica agravam ainda mais essa situação. O apoio a iniciativas que tenham como princípio a implantação de unidades para captação de água de chuva para consumo humano (cisternas de placas). Será possível melhorar a renda familiar possibilitar a segurança alimentar das famílias e fortalecer na região a cultura da convivência com o semi-árido. É com este objetivo que apresentamos a proposta de parceria ao Ministério do Desenvolvimento Social e Combate a Fome – MDS, por intermédio da Secretaria Nacional de Segurança Alimentar Nutricional – SESAN, através de emenda parlamentar programática com o propósito de contribuir para transformar esta iniciativa em centro de referencia da administração pública municipal no semi-árido. O MUNICIPIO DE CANAPI fica situado na região semi-árida do Estado, ocupando uma área de aproximadamente 572 km². A sua população é constituída por 17.334 habitantes, sendo 23,72% residentes em áreas urbanas e 76,28% na área rural. Segundo o Atlas de Desenvolvimento Humano, seu Índice de Desenvolvimento é de 0,50, situando-se abaixo da média para o Estado. Em relação aos outros municípios do Estado, Canapi apresenta uma situação ruim: ocupa a 97ª posição, sendo que 96 municípios (95,0%) estão em situação melhor e 4 municípios (5,0%) estão em situação pior ou igual. Com relação ao acesso a água, apenas 13% dos domicílios possuem água encanada, 1,82% se abastecem de poço ou nascente e a maioria, 85,03% utiliza outras formas para o abastecimento doméstico. Existem no município 258 cisternas construídas pela Articulação do Semi-Árido através do Programa 1 Milhão de Cisternas, o que tem contribuído para minimizar a demanda da população por água para o consumo humano. No entanto, é um quantitativo ainda bastante reduzido para a demanda emergencial estimada em 1780 famílias. Se considerarmos os dados referentes Índice de Degradação para o Município de Canapi (88,33%), que mede a propensão dos municípios a estarem em algum grau de desertificação, pode-se perceber que o quadro sócio-econômico e ambiental revelado nos dados acima se torna ainda mais grave. Neste sentido, a parceria com o Ministério de Desenvolvimento Social – MDS/SESAN – vem contribuir para atender a demanda da população por água de qualidade e em quantidade suficiente ao consumo das famílias durante o ano. É uma ação que tem efeitos positivos e significativos na saúde, na educação e na renda das famílias. O município de Canapi corresponde às prioridades de atendimento do MDS por possuir precipitação pluviométrica média anual inferior a 800 milímetros; índice de aridez de até 0,5 e risco de seca maior que 60%. Acreditamos que a execução da presente proposta vem contribuir para transformar a difícil realidade vivenciada pela população de Canapi num cenário de possibilidades concretas para a melhoria da qualidade de vida. O acesso e controle da água por parte das famílias é também um passo importante na conquista de relações autônomas, solidárias e democráticas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "O Projeto visa à dotação de infra-estrutura hídrica para consumo humano através da construção de cisternas de placas. Realizar-se-á por meio do estabelecimento de vínculo de cooperação entre as partes, em benefício da população de baixa renda e com dificuldade no acesso a recursos hídricos, no Município de Canapi, localizado na região semi-árida do Estado de Alagoas, desde que os beneficiários se enquadrem nos critérios de elegibilidade do Programa Bolsa Família do Governo Federal. (CadÚnico) O Projeto objetiva o acesso, o gerencia-mento e a valorização da água como um direito essencial da vida e da cidadania, ampliando a compreensão e a prática da convivência sustentável e solidária com o ecossistema do semi-árido.",
+            "information": "",
+            "proposalDate": "2009-04-21T00:00:00.000Z",
+            "biddingDate": "2009-12-29T00:00:00.000Z",
+            "homologationDate": "2009-12-30T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020090011",
+              "name": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+              "value": 746699.22,
+              "details": {
+                "code": "5500020090011",
+                "name": "Construção de Cisternas para Armazenamento de Água - EDITAL Nº 05/2010",
+                "cps": null,
+                "items": "Emenda: 08.306.1049.11V.0060 Construção de Cisternas para Armazenamento de Água – No Estado de Alagoas – AL.",
+                "couterpartRule": "Será exigida dos proponentes a apresentação de contrapartida financeira de acordo com os percentuais dispostos na Lei nº. 11.768 de 14 de agosto de 2008 (Lei de Diretrizes Orçamentárias) [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 746699.22,
+                "couterpartValues": {
+                  "total": 29830,
+                  "financial": 29830,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 716869.22,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.864.406-** - Patrus Ananias de Souza"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2010",
+              "type": "Licitação - Pregão",
+              "date": "2010-02-09T00:00:00.000Z",
+              "processId": "0162010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0162010",
+                "biddingId": "02/2010",
+                "object": "Fornecimento de Material de Construção de cisternas de placas",
+                "legalFoundation": "Lei nº 8.666, de 21/06/93, com as alterações introduzidas pela Lei nº 8.883, de 08/06/94, pela Lei nº 9.648, de 27/05/98, pela Lei nº 10.520/2002 e pelo Decreto Federal nº 5.450/2005 de 31 de maio de 2005",
+                "justification": "Licitação pública para aquisição de material de construção de cisternas no município de Canapi. conforme Lei 8666/93.",
+                "publishDate": "2010-02-09T00:00:00.000Z",
+                "beginDate": "2010-02-23T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 124121.02,
+                "homologationDate": "2010-03-02T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2010",
+              "biddingId": "02/2010",
+              "date": "2010-03-22T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 00407959000146",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Material",
+                "object": "Fornecimento de Material de Construção de cisternas de placas",
+                "totalValue": 124121.02,
+                "publishDate": "2010-03-22T00:00:00.000Z",
+                "beginDate": "2010-03-04T00:00:00.000Z",
+                "endDate": "2010-12-31T00:00:00.000Z",
+                "signDate": "2010-03-04T00:00:00.000Z",
+                "executionProcessId": "02/2010 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0162010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Análise",
+            "number": "707181/2009",
+            "validity": "30/12/2009 a 31/12/2011",
+            "limitDate": "2012-03-02T00:00:00.000Z",
+            "totalValue": null,
+            "transferValue": 746699.22,
+            "counterpartValue": 716869.22,
+            "yieldValue": 29830
+          }
+        }
+      },
+      {
+        "agreementId": "701564/2008",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2008-12-29T00:00:00.000Z",
+        "end": "2009-12-28T00:00:00.000Z",
+        "program": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0104 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - Canapi - AL",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "007596/2008",
+            "organId": "50114/2008",
+            "processId": "59550.000636/2008-33",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto 6.170/2007 e Portaria Interministerial 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "O município de Canapi se localiza no Alto Sertão de Alagoas, região com baixa precipitação pluviométrica, em torno de 450mm anuais, sendo bastante concentrada no período invernoso de 03 a 04 meses. A população sofre intensamente com a escassez de água na região. Os estudos propostos possibilitarão a implantação de um empreendimento que beneficiará todo o município, com população aproximada de 18.000 habitantes, fornecendo água para a população atender suas necessidades básicas como o consumo humano e animal, possibilitar a exploração da piscicultura e pequena irrigação, podendo gerar emprego e renda para os mais carentes, minimizando os efeitos das estiagens prolongadas que são freqüentes na região, justificando sua implementação.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Elaboração do Projeto Básico da Barragem Pita Chinan, no município de Canapi, no estado de Alagoas, compreendendo, dentre outros, os estudos hidrológicos, hidráulicos, meteorológicos, geológicos e geotécnicos, topográficos, de alternativas e de desapropriações e avaliações econômica e ambiental.",
+            "information": "",
+            "proposalDate": "2008-11-11T00:00:00.000Z",
+            "biddingDate": "2008-12-29T00:00:00.000Z",
+            "homologationDate": "2008-12-31T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320080046",
+              "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0104 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - Canapi - AL",
+              "value": 293815,
+              "details": {
+                "code": "2220320080046",
+                "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0104 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - Canapi - AL",
+                "cps": null,
+                "items": "Atenuar nítidas desigualdades intra e inter-regionais agindo, sobretudo, sobre as seguintes necessidades: a) de que a atuação do Governo Federal se dê, de forma integrada, em novas escalas espaciais, preferencialmente em sub-regiões; b) de que as demandas e as possíveis soluções sejam identificadas com a participação efetiva da sociedade civil, que, para tanto, deve estar organizada e legitimamente representada; e c) de consolidação, segundo as diretrizes da PNDR, formulada pelo MI.",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 3.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 293815,
+                "couterpartValues": {
+                  "total": 8815,
+                  "financial": 8815,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 285000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "701564/2008",
+            "validity": "29/12/2008 a 28/12/2009",
+            "limitDate": "2010-02-26T00:00:00.000Z",
+            "totalValue": 293815,
+            "transferValue": 285000,
+            "counterpartValue": 8815,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "701563/2008",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-12-29T00:00:00.000Z",
+        "end": "2012-10-27T00:00:00.000Z",
+        "program": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0092 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - Em Municípios - No Estado de Alagoas",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "017998/2008",
+            "organId": "50115/2008",
+            "processId": "59550.001288/2008-11",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto 6.170/2007 e Portaria Interministerial 127/2008.",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "Os povoados localizados na zona rural de Canapi são interligados à sede do município através de estradas vicinais, sem revestimento de qualquer espécie, que cortam riachos e rios intermitentes da região, que ficam totalmente intransitáveis na época de chuvas, que compreende o período abril/julho. Nessas ocasiões a população dos povoados fica com dificuldades de locomoção, ficando alguns completamente ilhados. A construção das passagens molhadas irá proporcionar maior conforto e segurança à população da região, estando plenamente justificadas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Elaboração de projetos básicos de 06 passagens molhadas para beneficiar os povoados de Queimada Redonda, Várzea da Palha, Barro Branco, Cova do Casado e União localizados na zona rural do município de Canapi, estado de Alagoas, e construção das passagens molhadas em alvenaria de pedra União, Várzea da Palha, Cova do Casado, Queimada Redonda, Caititu e Barro Branco beneficiando uma população de cerca de 4.000 habitantes.",
+            "information": "",
+            "proposalDate": "2008-12-01T00:00:00.000Z",
+            "biddingDate": "2008-12-29T00:00:00.000Z",
+            "homologationDate": "2008-12-31T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320080043",
+              "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0092 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - Em Municípios - No Estado de Alagoas",
+              "value": 357415.58,
+              "details": {
+                "code": "2220320080043",
+                "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0092 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - Em Municípios - No Estado de Alagoas",
+                "cps": null,
+                "items": "Atenuar nítidas desigualdades intra e inter-regionais agindo, sobretudo, sobre as seguintes necessidades: a) de que a atuação do Governo Federal se dê, de forma integrada, em novas escalas espaciais, preferencialmente em sub-regiões; b) de que as demandas e as possíveis soluções sejam identificadas com a participação efetiva da sociedade civil, que, para tanto, deve estar organizada e legitimamente representada; e c) de consolidação, segundo as diretrizes da PNDR, formulada pelo MI.",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 3.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 357415.58,
+                "couterpartValues": {
+                  "total": 27415.58,
+                  "financial": 27415.58,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 330000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2009",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "27812009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "27812009",
+                "biddingId": null,
+                "object": "Contratação de empresa para elaboração de 06 (seis)projetos básicos para construção de passagens molhadas na zona rural de canapi, objeto do convenio 701563/2008.",
+                "legalFoundation": "Art. 24 da Lei 8.666/93",
+                "justification": "Ref. elaboração de 06 (seis) projetos basicos para construção de passagens molhadas nos povoados denominados: CV 701563/2008 - Cova do Casso, União, Caititu, Queimada Redonda, Barro Branco e Varzea da Palha.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": "2009-03-30T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000018/2009",
+              "biddingId": "02/2009",
+              "date": "2009-04-24T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 08028660000192",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Material",
+                "object": "Elaboração de 06 (nove)projetos básicos para construção de passagens molhadas na zona rural de canapi.",
+                "totalValue": 9906,
+                "publishDate": "2009-04-24T00:00:00.000Z",
+                "beginDate": "2009-04-24T00:00:00.000Z",
+                "endDate": "2009-06-23T00:00:00.000Z",
+                "signDate": "2009-04-01T00:00:00.000Z",
+                "executionProcessId": "02/2009 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "27812009 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "701563/2008",
+            "validity": "29/12/2008 a 27/10/2012",
+            "limitDate": "2013-09-18T00:00:00.000Z",
+            "totalValue": 359421.87,
+            "transferValue": 330000,
+            "counterpartValue": 27415.58,
+            "yieldValue": 2006.29
+          }
+        }
+      },
+      {
+        "agreementId": "701070/2008",
+        "company": {
+          "id": "035177cc-0360-427b-bf5b-451936af0dba",
+          "cnpj": "12367892000142",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+          "sphere": "Municipal",
+          "city": {
+            "id": "e6302cd2-078b-48b7-9221-b4dfcad7f2ba",
+            "name": "Canapi",
+            "uf": "AL",
+            "ibge": "2701605"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-12-29T00:00:00.000Z",
+        "end": "2011-11-13T00:00:00.000Z",
+        "program": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0100 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "007530/2008",
+            "organId": "50103/2008",
+            "processId": "59550000641/2008-46",
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "legalFoundation": "Decreto 6.170/2007 e Portaria Interministerial 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "Os povoados localizados na zona rural de Canapi são interligados à sede do município através de estradas vicinais, sem revestimento de qualquer espécie, que cortam riachos e rios intermitentes da região, que ficam totalmente intransitáveis na época de chuvas, que compreende o período abril/julho. Nessas ocasiões a população dos povoados fica com dificuldades de locomoção, ficando alguns completamente ilhados. A construção das passagens molhadas irá proporcionar maior conforto e segurança à população da região, estando plenamente justificadas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Elaboração de projetos básicos de 03 passagens molhadas para beneficiar os povoados de Forquilha, Capiá e União localizados na zona rural do município de Canapi, estado de Alagoas, e construção das passagens molhadas em alvenaria de pedra Forquilha I, Forquilha II e Lages, beneficiando uma população de cerca de 3.500 habitantes.",
+            "information": "",
+            "proposalDate": "2008-11-11T00:00:00.000Z",
+            "biddingDate": "2008-12-29T00:00:00.000Z",
+            "homologationDate": "2008-12-31T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320080045",
+              "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0100 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas",
+              "value": 137115,
+              "details": {
+                "code": "2220320080045",
+                "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - Ação 15.244.1025.7K66.0100 - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas",
+                "cps": null,
+                "items": "Atenuar nítidas desigualdades intra e inter-regionais agindo, sobretudo, sobre as seguintes necessidades: a) de que a atuação do Governo Federal se dê, de forma integrada, em novas escalas espaciais, preferencialmente em sub-regiões; b) de que as demandas e as possíveis soluções sejam identificadas com a participação efetiva da sociedade civil, que, para tanto, deve estar organizada e legitimamente representada; e c) de consolidação, segundo as diretrizes da PNDR, formulada pelo MI.",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 3.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 137115,
+                "couterpartValues": {
+                  "total": 4115,
+                  "financial": 4115,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 133000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.367.892/0001-42 - MUNICIPIO DE CANAPI",
+            "respProponent": "***.034.754-** - JOSE HERMES DE LIMA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2009",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "27812009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "27812009",
+                "biddingId": null,
+                "object": "Contração da elaboração de projeto básico para construção de 03 (tres) passagens molhadas no Municipio de Canapi, objeto do convenio 701070/2008.",
+                "legalFoundation": "Lei 8666/93",
+                "justification": "Valor estimado na contratação abaixo do valor estabelecido do art. 24 da Lei 8666/93.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": "2009-03-30T00:00:00.000Z",
+                "city": "2731 - CANAPI",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000030/2009",
+              "biddingId": "01/2009",
+              "date": "2009-08-18T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05091789000157",
+                "hirerDocument": "CNPJ: 12367892000142",
+                "type": "Material",
+                "object": "Contratação da construção de Passagens Molhadas em diversas localidades do município de Canapi, objeto dos convênios CV 701563/2008 e CV 701070/2008, celebrados entre a Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba e a Prefeitura Municipal de Canapi.",
+                "totalValue": 473629.15,
+                "publishDate": "2009-08-18T00:00:00.000Z",
+                "beginDate": "2009-07-30T00:00:00.000Z",
+                "endDate": "2009-12-28T00:00:00.000Z",
+                "signDate": "2009-07-30T00:00:00.000Z",
+                "executionProcessId": "01/2009 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "49912009 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE CANAPI",
+            "documentNumber": "12.367.892/0001-42",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "701070/2008",
+            "validity": "29/12/2008 a 13/11/2011",
+            "limitDate": "2012-12-30T00:00:00.000Z",
+            "totalValue": 137115,
+            "transferValue": 133000,
+            "counterpartValue": 4115,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

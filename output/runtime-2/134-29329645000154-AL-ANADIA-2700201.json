@@ -1,0 +1,12 @@
+{
+  "beginDate": "2020-09-01T21:58:20.970Z",
+  "endDate": "2020-09-01T23:08:49.110Z",
+  "data": {
+    "location": {
+      "city": "Anadia",
+      "uf": "AL",
+      "ibge": "2700201"
+    },
+    "agreements": []
+  }
+}

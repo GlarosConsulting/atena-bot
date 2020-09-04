@@ -1,0 +1,1474 @@
+{
+  "beginDate": "2020-09-01T21:59:39.856Z",
+  "endDate": "2020-09-02T01:16:56.162Z",
+  "data": {
+    "location": {
+      "city": "Minador do Negrão",
+      "uf": "AL",
+      "ibge": "2705309"
+    },
+    "agreements": [
+      {
+        "agreementId": "881218/2018",
+        "company": {
+          "id": "4908110a-a59c-45ce-b2bd-f31faa2569d2",
+          "cnpj": "12237038000161",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+          "sphere": "Municipal",
+          "city": {
+            "id": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+            "name": "Minador do Negrão",
+            "uf": "AL",
+            "ibge": "2705309"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-12-28T00:00:00.000Z",
+        "end": "2020-09-28T00:00:00.000Z",
+        "program": "2029 – DESENVOLVIMENTO REGIONAL E TERRITORIAL : PT - 15.244.2029.7k66.0027 - Ação Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas – (EMENDA)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Iniciada por Antecipação",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "062324/2018",
+            "organId": "514600/2018",
+            "processId": "59550.001052/2018-57",
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "legalFoundation": "Portaria 424/2016",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "O município de minador do negrão com uma área de 167,5 km² está situado na mesorregião do agreste de alagoas. Apresenta uma população de baixo poder aquisitivo, sua economia é baseada na agricultura de subsistência no plantio de (feijão, milho e mandioca), na pecuária na criação de bovino e caprina, há predominância de minifúndio, formado de pequenos e médios produtores rurais com renda familiar a baixo do salário mínimo brasileira. A zona urbana da cidade é composta por uma avenida de eixo central e várias ruas que se interligam ao eixo facilitando transito local, porém algumas dessas ruas ainda não possui pavimentação. Por tanto, faz necessário investimentos na área de infraestrutura urbana, (as ruas projetadas A,B,C,D,E) essas ruas não pavimentadas vem causando transtorno no trafego de veículos, além de dificultar o escoamento da produção agrícola local. Assim, o objeto desse pleito a pavimentação em paralelepípedo das ruas projetadas A,B,C,D,E, visa a melhoria da trafegabilidade e o fortalecimento às atividades econômicas uma vez que facilitará o escoamento da produção, favorecendo aos produtores, compradores, atingindo direta e indiretamente mais de 450 pessoas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Implantação de Pavimentação em Paralelepípedo nas ruas indicadas no Plano de Trabalho, visando melhorar o tráfego e o escoamento da produção agrícola local do município de Minador do Negrão -AL",
+            "information": "Declaramos, para devidos fins e a quem possa interessar, e sob as penalidades da Lei, que este Município dispõe de capacidade Técnica com quadro de profissionais, Setor de Contabilidade, GMC – Gestor Municipal de Convênio e contratos, Engenheiro Civil, para a Implantação de Pavimentação em Paralelepípedo nas ruas indicadas no Plano de Trabalho, visando melhorar o tráfego e o escoamento da produção agrícola local do município de Minador do Negrão -AL, para maior clareza e veracidade dos fatos da proposta nº 062324/2018 no sicvonv, esclarecemos outro sim, que a execução dos serviços serão acompanhado e fiscalizados pelo Engenheiro Civil, Pedro Henrique Araújo Bulhões, CREA N°021514229-2.",
+            "proposalDate": "2018-11-12T00:00:00.000Z",
+            "biddingDate": "2018-12-28T00:00:00.000Z",
+            "homologationDate": "2019-01-10T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320180008",
+              "name": "2029 – DESENVOLVIMENTO REGIONAL E TERRITORIAL : PT - 15.244.2029.7k66.0027 - Ação Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas – (EMENDA)",
+              "value": 278960.92,
+              "details": {
+                "code": "2220320180008",
+                "name": "2029 – DESENVOLVIMENTO REGIONAL E TERRITORIAL : PT - 15.244.2029.7k66.0027 - Ação Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas – (EMENDA)",
+                "cps": null,
+                "items": "Pavimentação",
+                "couterpartRule": "Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 278960.92,
+                "couterpartValues": {
+                  "total": 10684.2,
+                  "financial": 10684.2,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 268276.72,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "respProponent": "***.299.904-** - GLEYSSON CORREIA CARDOSO FERRO",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "003/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-05-16T00:00:00.000Z",
+              "processId": "20180509002",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20180509002",
+                "biddingId": "003/2019",
+                "object": "Implantação de Pavimentação em Paralelepípedo nas ruas (as ruas projetadas A,B,C e D).(rua projetada ``A´´Coordenada: UTM SIRGAS 2000 24 S 734501,00 E 8970326,00 S).(rua projetada ``B´´Coordenada: UTM SIRGAS 2000 24 S 734680,00 E 8970336,00 S).(rua projetada ``C´´Coordenada: UTM SIRGAS 2000 24 S 734538,00 E 8970407,00 S).(rua projetada ``D´´Coordenada: UTM SIRGAS 2000 24 S 734531,00 E 8970316,00 S).",
+                "legalFoundation": "Lei 8.6666/1993",
+                "justification": "O certame ocorreu dentro da Lei 8666/93 e suas alterações.",
+                "publishDate": "2019-05-16T00:00:00.000Z",
+                "beginDate": "2019-06-05T00:00:00.000Z",
+                "endDate": "2019-06-05T00:00:00.000Z",
+                "biddingValue": 276013.5,
+                "homologationDate": "2019-06-06T00:00:00.000Z",
+                "city": "2805 - MINADOR DO NEGRAO",
+                "analysisDate": "2019-07-24T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2019",
+              "biddingId": "003/2019",
+              "date": "2019-06-21T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 19037895000167",
+                "hirerDocument": "CNPJ: 12237038000161",
+                "type": "Obras",
+                "object": "Implantação de Pavimentação em Paralelepípedo nas ruas (as ruas projetadas A,B,C e D).(rua projetada ``A´´Coordenada: UTM SIRGAS 2000 24 S 734501,00 E 8970326,00 S).(rua projetada ``B´´Coordenada: UTM SIRGAS 2000 24 S 734680,00 E 8970336,00 S).(rua projetada ``C´´Coordenada: UTM SIRGAS 2000 24 S 734538,00 E 8970407,00 S).(rua projetada ``D´´Coordenada: UTM SIRGAS 2000 24 S 734531,00 E 8970316,00 S).",
+                "totalValue": 276013.5,
+                "publishDate": "2019-06-21T00:00:00.000Z",
+                "beginDate": "2019-06-10T00:00:00.000Z",
+                "endDate": "2019-11-10T00:00:00.000Z",
+                "signDate": "2019-06-10T00:00:00.000Z",
+                "executionProcessId": "003/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20180509002 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE MINADOR DO NEGRAO",
+            "documentNumber": "12.237.038/0001-61",
+            "modality": "Convênio",
+            "status": "Aguardando Prestação de Contas (por antecipação)",
+            "number": "881218/2018",
+            "validity": "28/12/2018 a 28/09/2020",
+            "limitDate": "2020-08-07T00:00:00.000Z",
+            "totalValue": 27,
+            "transferValue": 278960.92,
+            "counterpartValue": 268276.72,
+            "yieldValue": 10684.2
+          }
+        }
+      },
+      {
+        "agreementId": "855841/2017",
+        "company": {
+          "id": "4908110a-a59c-45ce-b2bd-f31faa2569d2",
+          "cnpj": "12237038000161",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+          "sphere": "Municipal",
+          "city": {
+            "id": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+            "name": "Minador do Negrão",
+            "uf": "AL",
+            "ibge": "2705309"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T00:00:00.000Z",
+        "end": "2021-07-11T00:00:00.000Z",
+        "program": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "095295/2017",
+            "organId": "01340/2017",
+            "processId": "25100.017199/2017-64",
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 424/2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O município de Minador do Negrão com uma área de 167,5 km² está situado na mesorregião do Agreste de Alagoas. Municípios limítrofes norte e a oeste faz limite com o estado de Pernambuco, a sul com o município de Cacimbinhas, a leste com Estrela de Alagoas. Distância até a capital 169 km Características geográficas Área 164,476 km² [2] População5 280 hab. IBGE/2010[3] Densidade 32,1 hab./km² Altitude 270 m Clima Clima quente e seco Fuso horário UTC−3 Indicadores IDH-M 0,569 baixo PNUD/2000[4]. Em uma análise superficial realizada recentemente pela Secretaria Municipal de Saúde através das Equipes de Saúde da Família, foram observados vários problemas de ordem sanitária em algumas localidades do Município, dentre os principais destacam-se: a ausência de estruturas de suprimento de água potável; a ausência de banheiros (conjunto sanitário) na sua concepção mais simples; e total inexistência de estruturas de destinação adequada dás águas servidas (águas residuais). O cenário constatado é de precariedade e de exposição da população a ambientes insalubres, sendo a própria residência uma fonte direta de doenças. Com o objetivo de promover soluções sanitárias domiciliares para controle das doenças e outros agravos ocasionados pela falta das condições sanitárias mínimas nos domicílios, de forma a dotar as residências beneficiadas com os equipamentos e estruturas básicas, temos como proposta a utilização dos recursos nas intervenções de Implantação de Melhorias Sanitárias Domiciliares - MSD no Município de Minador do Negrão -AL. Deve-se considerar que esta proposta busca atender o que está estabelecido nas diretrizes da Política Nacional de Saneamento Básico com base nos princípios fundamentais da equidade, da universalização e da integralidade da prestação dos serviços públicos de Saneamento Básico. Escolhemos os beneficiários por apresentarem as condições mais difíceis quanto ao uso adequado da água potável, à higiene e ao destino adequado dos esgotos domiciliares. Pretendemos implantar soluções individuais de pequeno porte em observância ao manual de elaboração das intervenções ofertado pela FUNASA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Melhorias Sanitárias Domiciliares - MSD no Município de Minador do Negrão -AL",
+            "information": "Pelo presente instrumento, o Município de Minador do Negrão, pessoa jurídica de direito público, inscrita no CNPJ sob o nº 12.237.038/0001-61, com sede administrativa na R. Belarminio Vieira de Barros, 32, Minador do Negrão - AL, 57615-000, neste ato representado por seu (sua) Prefeito (a) Municipal, Sr (a). GLEYSSON CORREIA CARDOSO FERRO, brasileiro, casado, RG: 1686191, Órgão expedidor: SSP-AL, CPF: 029.299.904-65, Endereço: PC TEREZA ARAUJO BARROS, S/N CENTRO, em conformidade com o art.1º, §1º, XXIX, DECLARO, para fins de formalização de convênio com a Fundação Nacional de Saúde -Funasa, que possui experiência nas atividades referentes à matéria relacionada ao convênio, bem como que possui capacidade técnica e gerencial para celebrar, executar e prestar contas, observadas as condições previstas no convênio e no Plano de Trabalho. Por ser verdadeira a informação prestada, estou ciente que esta declaração estará sujeita as penalidades da lei, conforme dispõe o art. 299 do Código Penal, que prevê a pena por falsidade ideológica: “Art. 299 - Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante: Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o documento é particular.”",
+            "proposalDate": "2017-11-22T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170027",
+              "name": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+              "value": 488416.04,
+              "details": {
+                "code": "3621120170027",
+                "name": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+                "cps": null,
+                "items": "Implantação de Melhorias Sanitárias Domiciliares para Prevenção e Controle de Doenças e Agravos",
+                "couterpartRule": "Não será exigida a contrapartida, conforme Art. 79, §4, da Lei de Diretrizes Orçamentárias – LDO 2017 (Lei nº 13.408, de 26 de dezembro de 2016). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 488416.04,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 488416.04,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "respProponent": "***.299.904-** - GLEYSSON CORREIA CARDOSO FERRO",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.017.354-** - JEAN JACKS CAVALCANTE GOMES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-03-22T00:00:00.000Z",
+              "processId": "20190311006",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "20190311006",
+                "biddingId": "001/2019",
+                "object": "Implantação de Melhorias Sanitárias Domiciliares - MSD no Município de Minador do Negrão -AL",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "O certame ocorreu dentro da lei 8.666/93, e suas alterações.",
+                "publishDate": "2019-03-22T00:00:00.000Z",
+                "beginDate": "2019-05-22T00:00:00.000Z",
+                "endDate": "2019-05-22T00:00:00.000Z",
+                "biddingValue": 488416.04,
+                "homologationDate": "2019-05-27T00:00:00.000Z",
+                "city": "2805 - MINADOR DO NEGRAO",
+                "analysisDate": "2019-11-13T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "001280/2019",
+              "biddingId": "001/2019",
+              "date": "2019-05-29T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 14827507000128",
+                "hirerDocument": "CNPJ: 12237038000161",
+                "type": "Obras",
+                "object": "Implantação de Melhorias Sanitárias Domiciliares - MSD no  Município de Minador do Negrão -AL",
+                "totalValue": 488416.04,
+                "publishDate": "2019-05-29T00:00:00.000Z",
+                "beginDate": "2019-05-28T00:00:00.000Z",
+                "endDate": "2019-12-31T00:00:00.000Z",
+                "signDate": "2019-05-28T00:00:00.000Z",
+                "executionProcessId": "001/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "20190311006 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE MINADOR DO NEGRAO",
+            "documentNumber": "12.237.038/0001-61",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "855841/2017",
+            "validity": "29/12/2017 a 11/07/2021",
+            "limitDate": "2021-09-09T00:00:00.000Z",
+            "totalValue": 488416.04,
+            "transferValue": 488416.04,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "854653/2017",
+        "company": {
+          "id": "4908110a-a59c-45ce-b2bd-f31faa2569d2",
+          "cnpj": "12237038000161",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+          "sphere": "Municipal",
+          "city": {
+            "id": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+            "name": "Minador do Negrão",
+            "uf": "AL",
+            "ibge": "2705309"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T00:00:00.000Z",
+        "end": "2021-07-11T00:00:00.000Z",
+        "program": "2068 - Saneamento Basico (Acao: 7656 - Saneamento Basico em Comunidades Rurais, Tradicionais e Areas Especiais)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "094930/2017",
+            "organId": "00794/2017",
+            "processId": "25100.016653/2017-60",
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 424/2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O MUNICÍPIO DE MINADOR DO NEGRÃO COM UMA ÁREA DE 167,5 KM² ESTÁ SITUADO NA MESORREGIÃO DO AGRESTE DE ALAGOAS. MUNICÍPIOS LIMÍTROFES NORTE E A OESTE FAZ LIMITE COM O ESTADO DE PERNAMBUCO, A SUL COM O MUNICÍPIO DE CACIMBINHAS, A LESTE COM ESTRELA DE ALAGOAS. DISTÂNCIA ATÉ A CAPITAL 169 KM CARACTERÍSTICAS GEOGRÁFICAS ÁREA 164,476 KM² [2] POPULAÇÃO5 280 HAB. IBGE/2010[3] DENSIDADE 32,1 HAB./KM² ALTITUDE 270 M CLIMA CLIMA QUENTE E SECO FUSO HORÁRIO UTC−3 INDICADORES IDH-M 0,569 BAIXO PNUD/2000[4].O MUNICÍPIO SI ENCONTRA COM DECRETO DE SECA, O SITIO JIQUIRI ZONA RURAL DO MUNICÍPIO LATITUDE: 9°17'35.16 S E longitudes: 36°53'40.42 O, POSSUI CERCA DE 180 RESIDÊNCIAS COM UMA POPULAÇÃO DE APROXIMADAMENTE 720 HABITANTES, CONSTA COM ATRAVÉS DE INTERVENÇÕES QUE PROPORCIONE À SUA POPULAÇÃO RESIDENTE NA MELHOR OFERTA DOS SERVIÇOS NOS LOCAIS PÚBLICOS TAIS COMO: POSTO DE SAÚDE, ESCOLA PÚBLICA, E CONSEQUENTEMENTE, UMA ELEVAÇÃO NO NÍVEL DE QUALIDADE DE VIDA DA POPULAÇÃO DO SITIO JIQUIRI A SEREM BENEFICIADA. COM A IMPLANTAÇÃO E MELHORIA DE SISTEMA DE ABASTECIMENTO DE ÁGUA NO SITIO JIQUIRI ZONA RURAL DESTE MUNICPIO IRÁ CONTRIBUIR COM A PROTEÇÃO À SAÚDE POR MEIO DO SUPRIMENTO DE ÁGUA POTÁVEL A PARTIR DE TRATAMENTO DE BAIXO CUSTO E AINDA A OBTENÇÃO DE VANTAGENS DECORRENTES DIRETAMENTE DE MEDIDAS DE SANEAMENTO, TAIS COMO AUMENTO DA VIDA MÉDIA E DA VIDA PRODUTIVA DO CIDADÃO; PRETENDE PROPORCIONAR MELHORES CONDIÇÕES PARA QUE OS USUÁRIOS POSSAM CHEGAR A IDADE ECONOMICAMENTE PRODUTIVA EM CONDIÇÕES SAUDÁVEIS. AS SOLUÇÕES ADOTADAS SERÃO ASSOCIADAS A AÇÕES DE EDUCAÇÃO EM SAÚDE E MOBILIZAÇÃO SOCIAL QUE PERMITE A PARTICIPAÇÃO DIRETA DOS FAMILIARES EXTENSIVO A ALUNOS E PROFISSIONAIS DA EDUCAÇÃO E SAÚDE COM VISTAS À MUDANÇA E INCORPORAÇÃO DE NOVAS ATITUDES E HÁBITOS DE SAÚDE, MELHORANDO DESSA FORMA A QUALIDADE DE VIDA.IMPLANTAÇÃO DE SISTEMA DE ABASTECIMENTO EM ÁREAS RURAIS DO MUNICÍPIO DE MINADOR DO NEGRÃO - AL",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÃO DE SISTEMA DE ABASTECIMENTO EM ÁREAS RURAIS DO MUNICÍPIO DE MINADOR DO NEGRÃO - AL",
+            "information": "Pelo presente instrumento, o O Município de Minador do Negrão, pessoa jurídica de direito público, inscrita no CNPJ sob o nº 12.237.038/0001-61, com sede administrativa na R. Belarminio Vieira de Barros, 32, Minador do Negrão - AL, 57615-000, neste ato representado por seu (sua) Prefeito (a) Municipal, Sr (a). GLEYSSON CORREIA CARDOSO FERRO, brasileiro, casado, RG: 1686191, Órgão expedidor: SSP-AL, CPF: 029.299.904-65, Endereço: RUA BELARMINO VIEIRA BARROS, S/N CENTRO, em conformidade como art.1º, §1º, XXIX,DECLARO, para fins de formalização de convênio com a Fundação Nacional de Saúde -Funasa, que possui experiência nas atividades referentes à matéria relacionada ao convênio, bem como que possui capacidade técnica e gerencial para celebrar, executar e prestar contas, observadas as condições previstas no convênio e no Plano de Trabalho. Por ser verdadeira a informação prestada, estou ciente que esta declaração estará sujeita as penalidades da lei, conforme dispõe o art. 299 do Código Penal, que prevê a pena por falsidade ideológica: “Art. 299 - Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante: Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o documento é particular.”",
+            "proposalDate": "2017-11-22T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170026",
+              "name": "2068 - Saneamento Basico (Acao: 7656 - Saneamento Basico em Comunidades Rurais, Tradicionais e Areas Especiais)",
+              "value": 937422.07,
+              "details": {
+                "code": "3621120170026",
+                "name": "2068 - Saneamento Basico (Acao: 7656 - Saneamento Basico em Comunidades Rurais, Tradicionais e Areas Especiais)",
+                "cps": null,
+                "items": "Implantação, Ampliação ou Melhoria de Ações e Serviços Sustentáveis de Saneamento Básico em Comunidades Rurais, Tradicionais e Especiais.",
+                "couterpartRule": "Não será exigida a contrapartida, conforme Art. 79, §4, da Lei de Diretrizes Orçamentárias - LDO (Lei nº 13.408, de 26 de dezembro de 2016). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 937422.07,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 937422.07,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "respProponent": "***.299.904-** - GLEYSSON CORREIA CARDOSO FERRO",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE MINADOR DO NEGRAO",
+            "documentNumber": "12.237.038/0001-61",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "854653/2017",
+            "validity": "29/12/2017 a 11/07/2021",
+            "limitDate": "2021-09-09T00:00:00.000Z",
+            "totalValue": 937422.07,
+            "transferValue": 937422.07,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "769207/2011",
+        "company": {
+          "id": "4908110a-a59c-45ce-b2bd-f31faa2569d2",
+          "cnpj": "12237038000161",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+          "sphere": "Municipal",
+          "city": {
+            "id": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+            "name": "Minador do Negrão",
+            "uf": "AL",
+            "ibge": "2705309"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2012-04-19T00:00:00.000Z",
+        "end": "2015-04-18T00:00:00.000Z",
+        "program": "1025 -PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO - PT - 11.334.1025.6591.0096 -Ação: Apoio à Geração de Empreendmentos Produtivos em Espaços Sub-Regionais no Estado de Alagoas -AL - DESTAQUE - MI.",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "077970/2011",
+            "organId": "50006/2011",
+            "processId": "59550.001202/2011-56",
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "legalFoundation": "Decreto nº 6.170/2007 c/ Portaria Interministerial nº 507/2011",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "A bacia leiteira em Alagoas, concentra a maior parte da produção leiteira do estado, centrado basicamente em pequenos produtores. Os diversos municípios estão em escala produtiva diferentes em função da atuação em menor ou maior grau de entidades públicas e privadas. É visível, que os municípios dentro da área, já estão em situação bem melhor, em função da intervenção que conta com assistência técnica, instalação de tanques de resfriamento de leite e transporte do leite em condições adequadas. O município de Minador de Negrão, que conta com sua produção agricola/pecuária centrada no agricultor familiar, se destaca também com a produção de pequenos animais e fruticultura. O Ministério da Integração Nacional é o um dos principais implementadores de políticas públicas para desenvolvimento territorial, através dos Programas de Desenvolvimento Regional, sendo prioritária a aplicação de recursos, principalmente em projetos focados em Arranjos Produtivos Locais (APL), já priorizados pelos diversos atores envolvidos e comprometidos com a melhoria das condições de vida das populações locais; impactos positivos na economia da região e criação de trabalho e renda. Este Plano de Trabalho, objetiva promover ações visando o intercâmbio de conhecimento e a capacitação de agricultores familiares, dirigentes de organizações associativas e técnicos, para a melhoria nas condições de trabalho e o incremento da renda na região, contribuindo de forma efetiva na melhoria da produção e produtividade da agricultura e pecuária em Alagoas, através do conhecimento de realidade de outras regiões mais desenvolvidas do Brasil. Desta forma irá promover ações de capacitação, com a realização de 05 (cinco) cursos para dirigentes associativos e técnicos nas áreas de contabilidade, administração, financeiro e formação de núcleos econômicos de produção, buscando levar ao campo uma visão produtiva diferenciada. Irá também realizar uma missão de intercâmbio tecnológico, visando o conhecimento por parte dos agricultores familiares, dirigente e técnicos de experiências de êxito e a realizada produtiva de outras regiões, como o oeste da Bahia, oeste do Paraná e DF, procurando criar as condições para que essas experiências possam ser multiplicadas e implantadas com as devidas adaptações as condições do estado de Alagoas. A elaboração do Plano Integrado, consiste no levantamento de dados e a elaboração de um programa voltado ao planejamento e a execução de ações que visam fortalecer a produção as organizações dos agricultores familiares, através de políticas integradas pela diversas instituições públicas e privadas que atuam no segmento rural. Estima-se que serão atendidas diretamente 114 famílias do municio de Minador do Negrão, sendo aproximadamente 84 beneficiarias de programas sociais do Governo Federal, com as ações de capacitação e intercâmbio e praticamente toda a organizações e associações de produtores rurais com a elaboração do programa integrado.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Promover ações visando o intercâmbio de conhecimento a capacitação de agricultores familiares, dirigentes de organizações associativas e técnicos, visando a melhoria nas condições de trabalho e o incremento da renda na região e apresenta um programa de desenvolvimento da agricultura e pecuária no município.",
+            "information": "",
+            "proposalDate": "2011-12-26T00:00:00.000Z",
+            "biddingDate": "2012-04-19T00:00:00.000Z",
+            "homologationDate": "2012-05-14T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320110042",
+              "name": "1025 -PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO - PT - 11.334.1025.6591.0096 -Ação: Apoio à Geração de Empreendmentos Produtivos em Espaços Sub-Regionais no Estado de Alagoas -AL - DESTAQUE - MI.",
+              "value": 105000,
+              "details": {
+                "code": "2220320110042",
+                "name": "1025 -PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO - PT - 11.334.1025.6591.0096 -Ação: Apoio à Geração de Empreendmentos Produtivos em Espaços Sub-Regionais no Estado de Alagoas -AL - DESTAQUE - MI.",
+                "cps": null,
+                "items": "Promover a inser��o produtiva e competitiva no mercado de comunidades situadas nas �reas priorit�rias da Pol�tica Nacional de Desenvolvimento Regional (PNDR).",
+                "couterpartRule": "Municípios com até 50.000 habitantes. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 105000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "respProponent": "***.226.564-** - MARIA DO SOCORRO CARDOSO FERRO",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.330.724-** - IVAN CRAVEIRO BARROS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "03/2013",
+              "type": "Licitação - Pregão",
+              "date": "2013-01-15T00:00:00.000Z",
+              "processId": "0032013",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Eletrônico",
+                "processId": "0032013",
+                "biddingId": "03/2013",
+                "object": "INTERCAMBIO TECNOLÓGICO,SOCIAL E CULTURAL ENTRE OS PRODUTORES,MULHERES,JOVENS E OS DIRIGENTES E TÉCNICOS DAS ORGANIZAÇÕES SOCIAIS QUE ATUAM NO MUNICÍPIO QUE TEM COMO META A CONVIVÊNCIA E TRANSFERÊNCIA DE NOVAS TECNOLOGIA.",
+                "legalFoundation": "FUDAMENTO LEGAL NA LEI 8.666, DE 21 DE JUNHO DE 1993",
+                "justification": "A PREFEITA DO MUNICIPAL DE MINADOR DO NEGRÃO/AL, USANDO DE SUAS ATRIBUIÇÕES LEGAIS E DE CONFORMIDADE COM O QUE DISPÕE A LEI DE Nº 8.666 DE 21 DE JUNHO DE 1993 E SUAS ALTERAÇÕES POSTERIORES PASSA A HOMOLOGAR E ADJUDICAR DA DECISÃO DA COMISSÃO DE LICITAÇÃO REFERENTE AO PROCESSO LICITATÓRIO.",
+                "publishDate": "2013-01-15T00:00:00.000Z",
+                "beginDate": "2013-01-25T00:00:00.000Z",
+                "endDate": "2013-01-25T00:00:00.000Z",
+                "biddingValue": 47438,
+                "homologationDate": "2013-01-28T00:00:00.000Z",
+                "city": "2805 - MINADOR DO NEGRAO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2013",
+              "biddingId": "03/2013",
+              "date": "2013-05-29T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 02716392000115",
+                "hirerDocument": "CNPJ: 12237038000161",
+                "type": "Material",
+                "object": "INTERCAMBIO TECNOLÓGICO,SOCIAL E CULTURAL ENTRE OS PRODUTORES,MULHERES,JOVENS E OS DIRIGENTES E TÉCNICOS DAS ORGANIZAÇÕES SOCIAIS QUE ATUAM NO MUNICÍPIO QUE TEM COMO META A CONVIVÊNCIA E TRANSFERÊNCIA DE NOVAS TECNOLOGIA.",
+                "totalValue": 47438,
+                "publishDate": "2013-05-29T00:00:00.000Z",
+                "beginDate": "2013-01-28T00:00:00.000Z",
+                "endDate": "2013-12-31T00:00:00.000Z",
+                "signDate": "2013-01-29T00:00:00.000Z",
+                "executionProcessId": "03/2013 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0032013 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE MINADOR DO NEGRAO",
+            "documentNumber": "12.237.038/0001-61",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "769207/2011",
+            "validity": "19/04/2012 a 18/04/2015",
+            "limitDate": "2015-07-17T00:00:00.000Z",
+            "totalValue": 105000,
+            "transferValue": 100000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "763844/2011",
+        "company": {
+          "id": "4908110a-a59c-45ce-b2bd-f31faa2569d2",
+          "cnpj": "12237038000161",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+          "sphere": "Municipal",
+          "city": {
+            "id": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+            "name": "Minador do Negrão",
+            "uf": "AL",
+            "ibge": "2705309"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2011-12-30T00:00:00.000Z",
+        "end": "2012-12-30T00:00:00.000Z",
+        "program": "ALAGOAS OGU 2011",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "029593/2011",
+            "organId": "29593/2011",
+            "processId": "029593/2011",
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Minador Negrão com uma área de 167,3 Km², está localizado no Agreste Alagoano, seu principal acesso é através da Rodovia BR 316, distante do entroncamento cerca de 12 Km, faz fronteira com os Municípios Alagoanos de Palmeira dos Índios, Cacimbinhas e limitasse ao Norte com o Estado de Pernambuco. Inserido no “Territórios da Cidadania – Bacia Leiteira” no programa do Governo Federal. Sua população total é de 5.399 habitantes, de cordo com o Censo Demográfico do IBGE (2000). Seu Índice de Desenvolvimento Humano (IDH) é de 0,57. Segundo o Atlas de Desenvolvimento Humano/PNUD (2000), sua economia é baseada na agricultura de subsistência (feijão, milho e mandioca) e Pecuária bovina e caprina, há predominância de minifúndio, formado de pequenos e médios produtores rurais com renda familiar a baixo do salário mínimo brasileiro. O acesso as comunidades da zona rural para escoamento de produção é feito através da malha viária composta por estradas vicinais, que necessitam de reparos constantes, como construção de passagens mulhadas e pontilhões, melhoramento no sistema de drenagem e piçarramento de estradas. Com a aqusição da Patrulha Mecanizada, o Município terá condições de propiciar aos seus produtores rerais uma melhoria na manutenção das estradas vicinais, favorecendo um melhor escoamento dos produtos agropecuários para os variados centros de consumo. O Objeto desta proposta está vinculada a emenda parlamentar nº 22890001 do Senador Renan Calheiros, funcional programática n° 20.605.6003.7H17.0027, no valor de R$ 385.875,00 (trezentos e oitenta e cinco mil e oitocentos e setenta e cinco reais), cujo título – Apoio a Projetos de Desenvolvimento do Setor Agropecuário - No Estado de Alagoas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Patrulha Mecanizada",
+            "information": "Declaramos que a Prefeitura Municipal de Minador do Negrão, através de seu quadro de profissionais, tem CAPACIDADE TÉCNICA E GERENCIAL para execução do objeto proposto, projeto “Manutenção e recuperação de estradas vicinais”, na zona rural do município, obedecendo ao Plano de Trabalho proposto através do SICONV ao Ministério da Agricultura, Pecuária e Abastecimento.",
+            "proposalDate": "2011-07-01T00:00:00.000Z",
+            "biddingDate": "2011-12-30T00:00:00.000Z",
+            "homologationDate": "2012-01-17T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020110006",
+              "name": "ALAGOAS OGU 2011",
+              "value": 365000,
+              "details": {
+                "code": "2200020110006",
+                "name": "ALAGOAS OGU 2011",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra-Estrutura Agropecuária.",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 365000,
+                "couterpartValues": {
+                  "total": 9125,
+                  "financial": 9125,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 355875,
+                  "amendment": "R$ 355.875,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "respProponent": "***.226.564-** - MARIA DO SOCORRO CARDOSO FERRO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "042012",
+              "type": "Licitação - Pregão",
+              "date": "2012-04-25T00:00:00.000Z",
+              "processId": "0042012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Eletrônico",
+                "processId": "0042012",
+                "biddingId": "042012",
+                "object": "Aquisição de Patrulha Mecanizada",
+                "legalFoundation": "Lei 10520/2002 Lei 8666/93 Decreto Federal 5450/2005",
+                "justification": "O Município de Minador Negrão com uma área de 167,3 Km², está localizado no Agreste Alagoano, seu principal acesso é através da Rodovia BR 316, distante do entroncamento cerca de 12 Km, faz fronteira com os Municípios Alagoanos de Palmeira dos Índios, Cacimbinhas e limitasse ao Norte com o Estado de Pernambuco. Inserido no “Territórios da Cidadania – Bacia Leiteira” no programa do Governo Federal. Sua população total é de 5.399 habitantes, de cordo com o Censo Demográfico do IBGE (2000). Seu Índice de Desenvolvimento Humano (IDH) é de 0,57. Segundo o Atlas de Desenvolvimento Humano/PNUD (2000), sua economia é baseada na agricultura de subsistência (feijão, milho e mandioca) e Pecuária bovina e caprina, há predominância de minifúndio, formado de pequenos e médios produtores rurais com renda familiar a baixo do salário mínimo brasileiro. O acesso as comunidades da zona rural para escoamento de produção é feito através da malha viária composta por estradas vicinais, que necessitam de reparos constantes, como construção de passagens mulhadas e pontilhões, melhoramento no sistema de drenagem e piçarramento de estradas. Com a aqusição da Patrulha Mecanizada, o Município terá condições de propiciar aos seus produtores rerais uma melhoria na manutenção das estradas vicinais, favorecendo um melhor escoamento dos produtos agropecuários para os variados centros de consumo. O Objeto desta proposta está vinculada a emenda parlamentar nº 22890001 do Senador Renan Calheiros, funcional programática n° 20.605.6003.7H17.0027, no valor de R$ 385.875,00 (trezentos e oitenta e cinco mil e oitocentos e setenta e cinco reais), cujo título – Apoio a Projetos de Desenvolvimento do Setor Agropecuário - No Estado de Alagoas.",
+                "publishDate": "2012-04-25T00:00:00.000Z",
+                "beginDate": "2012-05-11T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 365000,
+                "homologationDate": "2012-05-31T00:00:00.000Z",
+                "city": "2805 - MINADOR DO NEGRAO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2012",
+              "biddingId": "042012",
+              "date": "2012-06-01T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 60850617000128",
+                "hirerDocument": "CNPJ: 12237038000161",
+                "type": "Material",
+                "object": "aquisição de uma retroescavadeira",
+                "totalValue": 195000,
+                "publishDate": "2012-06-01T00:00:00.000Z",
+                "beginDate": "2011-12-30T00:00:00.000Z",
+                "endDate": "2012-12-30T00:00:00.000Z",
+                "signDate": "2012-05-30T00:00:00.000Z",
+                "executionProcessId": "042012 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0042012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE MINADOR DO NEGRAO",
+            "documentNumber": "12.237.038/0001-61",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "763844/2011",
+            "validity": "30/12/2011 a 30/12/2012",
+            "limitDate": "2013-01-29T00:00:00.000Z",
+            "totalValue": 365000,
+            "transferValue": 355875,
+            "counterpartValue": 9125,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "759188/2011",
+        "company": {
+          "id": "4908110a-a59c-45ce-b2bd-f31faa2569d2",
+          "cnpj": "12237038000161",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+          "sphere": "Municipal",
+          "city": {
+            "id": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+            "name": "Minador do Negrão",
+            "uf": "AL",
+            "ibge": "2705309"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2011-12-30T00:00:00.000Z",
+        "end": "2020-06-05T00:00:00.000Z",
+        "program": "SEGUNDO TEMPO - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "007346/2011",
+            "organId": "07346/2011",
+            "processId": "007346/2011",
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Minador do Negrão está localizado no Agreste alagoano e inserido no “Territórios da Cidadania – Bacia Leiteira” no programa do Governo Federal. Sua população total é de 5399 habitantes, de acordo com o Censo Demográfico do IBGE (2000). Seu Índice de Desenvolvimento Humano (IDH) é de 0,57 segundo o Atlas de Desenvolvimento Humano/PNUD (2000), sua economia é baseada na agricultura de subsistência (feijão, milho e mandioca) e Pecuária bovina. Sua população jovem está desprovida de equipamentos de esporte e lazer acarretando ociosidade violência, para familiares e a comunidade. O Poder Público Municipal definiu o Esporte Educacional como uma das prioridades como estratégia para minimizar os índices de violência, disponibilizando um espaço para a prática esportiva, porem o Município necessita da Cooperação financeira para inplantação de infra-estrutura Esportiva, contribuindo para reduzir a exclusão e o risco social e para melhorar a qualidade de vida dessa população jovem e desprovida de incentivos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de uma Piscina Escola",
+            "information": "",
+            "proposalDate": "2011-03-28T00:00:00.000Z",
+            "biddingDate": "2011-12-30T00:00:00.000Z",
+            "homologationDate": "2012-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020080043",
+              "name": "SEGUNDO TEMPO - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 355568.28,
+              "details": {
+                "code": "5500020080043",
+                "name": "SEGUNDO TEMPO - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação de Infra-Estrutura para o Desenvolvimento do Esporte Educacional (Ampliar e manter a oferta de espaço físicos esportivos de qualidade para a prática de atividade esportiva)",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 355568.28,
+                "couterpartValues": {
+                  "total": 111818.28,
+                  "financial": 111818.28,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "respProponent": "***.299.904-** - GLEYSSON CORREIA CARDOSO FERRO",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-08-02T00:00:00.000Z",
+              "processId": "07270022018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "07270022018",
+                "biddingId": "002/2018",
+                "object": "Construção de uma Piscina Escola",
+                "legalFoundation": "lei 8666/93",
+                "justification": "o processo licitatário ocorreu conforme preceitua a LEI 8666/93",
+                "publishDate": "2018-08-02T00:00:00.000Z",
+                "beginDate": "2018-09-21T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 221168,
+                "homologationDate": "2018-09-26T00:00:00.000Z",
+                "city": "2805 - MINADOR DO NEGRAO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2013",
+              "biddingId": "032013",
+              "date": "2013-06-20T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04918243000164",
+                "hirerDocument": "CNPJ: 12237038000161",
+                "type": "Material e Serviço",
+                "object": "construção de uma pescina",
+                "totalValue": 250745.23,
+                "publishDate": "2013-06-20T00:00:00.000Z",
+                "beginDate": "2013-06-20T00:00:00.000Z",
+                "endDate": "2014-06-20T00:00:00.000Z",
+                "signDate": "2013-06-18T00:00:00.000Z",
+                "executionProcessId": "032013 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "032013 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE MINADOR DO NEGRAO",
+            "documentNumber": "12.237.038/0001-61",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "759188/2011",
+            "validity": "30/12/2011 a 05/06/2020",
+            "limitDate": "2020-08-04T00:00:00.000Z",
+            "totalValue": 355568.28,
+            "transferValue": 243750,
+            "counterpartValue": 111818.28,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "735305/2010",
+        "company": {
+          "id": "4908110a-a59c-45ce-b2bd-f31faa2569d2",
+          "cnpj": "12237038000161",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+          "sphere": "Municipal",
+          "city": {
+            "id": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+            "name": "Minador do Negrão",
+            "uf": "AL",
+            "ibge": "2705309"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-21T00:00:00.000Z",
+        "end": "2012-12-11T00:00:00.000Z",
+        "program": "ALAGOAS - OGU 2010",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "041817/2010",
+            "organId": "41817/2010",
+            "processId": "041817/2010",
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Minador Negrão com uma área de 167,3 Km², está localizado no Agreste Alagoano, seu principal acesso é através da Rodovia BR 316, distante do entroncamento cerca de 12 Km, faz fronteira com os Municípios Alagoanos de Palmeira dos Índios, Cacimbinhas e limitasse ao Norte com o Estado de Pernambuco. Inserido no “Territórios da Cidadania – Bacia Leiteira” no programa do Governo Federal. Sua população total é de 5.399 habitantes, de acordo com o Censo Demográfico do IBGE (2000). Seu Índice de Desenvolvimento Humano (IDH) é de 0,57. Segundo o Atlas de Desenvolvimento Humano/PNUD (2000), sua economia é baseada na agricultura de subsistência (feijão, milho e mandioca) e Pecuária bovina e caprina, há predominância de minifúndio, formado de pequenos e médios produtores rurais com renda familiar a baixo do salário mínimo brasileiro. Sua topografia é levemente acidentada, sendo, possível o uso da mecanização agrícola, que irá beneficiar diretamente cerca de 100 famílias. As comunidades da zona rural do município que vivem da agricultura e pecuária de pequeno porte não possuem estrutura de máquinas e implementos agrícolas que os auxiliem no preparo do solo, colheita, beneficiamento e escoamento da produção. Destarte, a Prefeitura através do programa 220020100069 - APOIO AO DESENVOLVIMENTO DO SETOR AGROPECUÁRIO, objetivando a aquisição de trator e implementos agrícolas, vem proporcionar aos produtores rurais a condição de melhoria na infraestrutura rural.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de uma Patrulha Mecanizada",
+            "information": "",
+            "proposalDate": "2010-04-15T00:00:00.000Z",
+            "biddingDate": "2010-12-21T00:00:00.000Z",
+            "homologationDate": "2011-01-06T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020100069",
+              "name": "ALAGOAS - OGU 2010",
+              "value": 179100,
+              "details": {
+                "code": "2200020100069",
+                "name": "ALAGOAS - OGU 2010",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra- Estrutura Agropecuária",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 179100,
+                "couterpartValues": {
+                  "total": 3600,
+                  "financial": 3600,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 175500,
+                  "amendment": "R$ 175.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "respProponent": "***.226.564-** - MARIA DO SOCORRO CARDOSO FERRO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "05/2011",
+              "type": "Licitação - Pregão",
+              "date": "2011-06-06T00:00:00.000Z",
+              "processId": "0112011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial para Registro de Preço",
+                "processId": "0112011",
+                "biddingId": "05/2011",
+                "object": "Aquisição de Patrulha Mecanizada",
+                "legalFoundation": "Lei 10520/2002",
+                "justification": "Atender ao objeto do Contrato de Repasse SICONV nº 735305/2010",
+                "publishDate": "2011-06-06T00:00:00.000Z",
+                "beginDate": "2011-06-21T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 168000,
+                "homologationDate": "2011-07-12T00:00:00.000Z",
+                "city": "2805 - MINADOR DO NEGRAO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2011",
+              "biddingId": "05/2011",
+              "date": "2011-07-20T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 05453608000195",
+                "hirerDocument": "CNPJ: 12237038000161",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE PATRULHA MECANIZADA",
+                "totalValue": 168000,
+                "publishDate": "2011-07-20T00:00:00.000Z",
+                "beginDate": "2011-07-12T00:00:00.000Z",
+                "endDate": "2012-07-12T00:00:00.000Z",
+                "signDate": "2011-07-12T00:00:00.000Z",
+                "executionProcessId": "05/2011 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0112011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE MINADOR DO NEGRAO",
+            "documentNumber": "12.237.038/0001-61",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "735305/2010",
+            "validity": "21/12/2010 a 11/12/2012",
+            "limitDate": "2013-10-13T00:00:00.000Z",
+            "totalValue": 179100,
+            "transferValue": 175500,
+            "counterpartValue": 3600,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "731269/2009",
+        "company": {
+          "id": "4908110a-a59c-45ce-b2bd-f31faa2569d2",
+          "cnpj": "12237038000161",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+          "sphere": "Municipal",
+          "city": {
+            "id": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+            "name": "Minador do Negrão",
+            "uf": "AL",
+            "ibge": "2705309"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-01-20T00:00:00.000Z",
+        "end": "2011-11-23T00:00:00.000Z",
+        "program": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "131865/2009",
+            "organId": "01272/2009",
+            "processId": "59050.004021/2009-06",
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Minador Negrão com uma área de 167,3 Km², está localizado no Agreste alagoano e inserido no “Territórios da Cidadania – Bacia Leiteira” no programa do Governo Federal. Sua população total é de 5399 habitantes, de acordo com o Censo Demográfico do IBGE (2000). Seu Índice de Desenvolvimento Humano (IDH) é de 0,57 segundo o Atlas de Desenvolvimento Humano/PNUD (2000), sua economia é baseada na agricultura de subsistência (feijão, milho e mandioca) e Pecuária bovina. As comunidades situadas na zona rural do Município de Minador do Negrão, vivem sem nenhuma condição de abastecimento d`água, ficando a população dependente do pouco armazenamento de água de chuva, que geralmente é insuficiente quando sessam as chuvas na região. Para ajudar as famílias carentes, e manter um mínimo de água potável para cozinhar e beber, será necessário a complementação da oferta de água, através de carros pipas, levando a água até as comunidades mais atingidas pelos efeitos da seca que assola a região entre os meses de setembro a março.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Carro Pipa completo",
+            "information": "",
+            "proposalDate": "2009-12-22T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090016",
+              "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+              "value": 255200,
+              "details": {
+                "code": "5300020090016",
+                "name": "1029 - RESPOSTA AOS DESASTRES E RECONSTRUÇÃO",
+                "cps": null,
+                "items": "Tem por finalidade ações emergenciais e de reconstrução de cenários com recuperação e reconstrução de infraestrutura e de edificações danificadas e/ou destruídas por desastres, visando o restabelecimento da normalidade. (VIDE, NA PÁGINA DE DADOS, AS AÇÕES MAIS COMUNS, NA DESCRIÇÃO DO PROGRAMA)",
+                "couterpartRule": "Todos os municípios, com população abaixo de 50.000 habitantes, localizados em todas as regiões do Brasil. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 255200,
+                "couterpartValues": {
+                  "total": 5200,
+                  "financial": 5200,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "respProponent": "***.226.564-** - MARIA DO SOCORRO CARDOSO FERRO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.042.835-** - IVONE MARIA VALENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "006/2010",
+              "type": "Licitação - Pregão",
+              "date": "2010-11-24T00:00:00.000Z",
+              "processId": "0162010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Eletrônico",
+                "processId": "0162010",
+                "biddingId": "006/2010",
+                "object": "Aquisição de Veículo (Caminhão Pipa)",
+                "legalFoundation": "Lei 10520/2002 Lei 8666/93 Decreto Federal 5450/2005",
+                "justification": "Aquisição de Caminhão Pipa para levar a água potável até as comunidades mais atingidas pelos efeitos da seca que assola a região entre os meses de setembro a março.",
+                "publishDate": "2010-11-24T00:00:00.000Z",
+                "beginDate": "2010-12-07T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 230000,
+                "homologationDate": "2010-12-27T00:00:00.000Z",
+                "city": "2805 - MINADOR DO NEGRAO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2010",
+              "biddingId": "006/2010",
+              "date": "2010-12-28T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10768884000182",
+                "hirerDocument": "CNPJ: 12237038000161",
+                "type": "Material",
+                "object": "Aquisição de Veículo (Caminhão Pipa)",
+                "totalValue": 230000,
+                "publishDate": "2010-12-28T00:00:00.000Z",
+                "beginDate": "2010-12-28T00:00:00.000Z",
+                "endDate": "2011-11-23T00:00:00.000Z",
+                "signDate": "2010-12-28T00:00:00.000Z",
+                "executionProcessId": "006/2010 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0162010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE MINADOR DO NEGRAO",
+            "documentNumber": "12.237.038/0001-61",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada",
+            "number": "731269/2009",
+            "validity": "20/01/2010 a 23/11/2011",
+            "limitDate": "2011-12-23T00:00:00.000Z",
+            "totalValue": 255200,
+            "transferValue": 250000,
+            "counterpartValue": 5200,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "727710/2009",
+        "company": {
+          "id": "4908110a-a59c-45ce-b2bd-f31faa2569d2",
+          "cnpj": "12237038000161",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+          "sphere": "Municipal",
+          "city": {
+            "id": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+            "name": "Minador do Negrão",
+            "uf": "AL",
+            "ibge": "2705309"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2011-12-25T00:00:00.000Z",
+        "program": "Habitação de Interesse Social",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "047941/2009",
+            "organId": "04794/2009",
+            "processId": "047941/2009",
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Minador Negrão com uma área de 167,3 Km² está situado na mesorregião do Agreste de Alagoas. Com uma população de 5399 habitantes (Senso IBGE 2000) o município representa uma população de baixo poder aquisitivo, em sua grande maioria vivendo de agricultura de subsistência, com condições habitacionais e sanitárias precárias. Fazendo-se necessário, portando de investimentos na área habitacional para melhoria da qualidade de vida da população deste município. As unidades Habitacionais serão construídas na Zona Urbana, CJ José Belarmino Barros - Centro. As famílias a serem diretamente benefiadas no conjunto são de baixa renda, a maioria de emprego informal girando em torno de R$ 300,00 mensais, sendo benefiado diretamente 10 famílias.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de 10 unidades habitacionais para famílias carentes no município de Minador do Negrão – AL.",
+            "information": "",
+            "proposalDate": "2009-07-08T00:00:00.000Z",
+            "biddingDate": null,
+            "homologationDate": "2010-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020091524",
+              "name": "Habitação de Interesse Social",
+              "value": 202390.4,
+              "details": {
+                "code": "5600020091524",
+                "name": "Habitação de Interesse Social",
+                "cps": "",
+                "items": "Construção de Habitações Populares",
+                "couterpartRule": "",
+                "totalValue": 202390.4,
+                "couterpartValues": {
+                  "total": 5990.4,
+                  "financial": 5990.4,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 196400,
+                  "amendment": "R$ 196.400,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "respProponent": "***.226.564-** - MARIA DO SOCORRO CARDOSO FERRO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MINADOR DO NEGRAO",
+            "documentNumber": "12.237.038/0001-61",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "727710/2009",
+            "validity": "31/12/2009 a 25/12/2011",
+            "limitDate": "2011-12-25T00:00:00.000Z",
+            "totalValue": 202390.4,
+            "transferValue": 196400,
+            "counterpartValue": 5990.4,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "719564/2009",
+        "company": {
+          "id": "4908110a-a59c-45ce-b2bd-f31faa2569d2",
+          "cnpj": "12237038000161",
+          "name": "SECRETARIA MUNICIPAL DE EDUCAÇAO",
+          "cityId": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+          "sphere": "Municipal",
+          "city": {
+            "id": "76bd33a4-16db-4a0b-bdae-6e4b12efac39",
+            "name": "Minador do Negrão",
+            "uf": "AL",
+            "ibge": "2705309"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2011-12-25T00:00:00.000Z",
+        "program": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "092626/2009",
+            "organId": "09262/2009",
+            "processId": "092626/2009",
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Minador do Negrão com uma área de 167,5 km² está situado na mesorregião do Agreste de Alagoas. Com uma população de 5339 habitantes (Senso IBGE 2000) o município apresenta uma população de baixo poder aquisitivo, em sua grande maioria vivendo de agricultura de subsistência . A zona urbana da cidade é composta por uma avenida de eixo central e várias ruas que se interligam ao eixo facilitando transito local, porém algumas dessas ruas que passam por conjuntos populacionais de baixa renda ainda não possui pavimentação e paseios. Por tanto, faz necessário investimentos na área de infraestrutura urbana, afim de seja pavimentada, inserida paseios e sinalizadas essas ruas que ainda não foram beneficiadas por programas anteriores. As famílias benefiadas no conjunto são de baixa renda, a maioria de emprego informal girando em torno de R$ 300,00 mensais, sendo benefiado diretamente cerca de 50 famílias.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Execução de pavimentação em paralelepípedo, passeios, sinalização de ruas e redutor de velocidades.",
+            "information": "",
+            "proposalDate": "2009-10-30T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020094713",
+              "name": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+              "value": 207232.64,
+              "details": {
+                "code": "5600020094713",
+                "name": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+                "cps": "",
+                "items": "Infra-Estrutura no Sistema Viario Para Promover a Redução de Acidentes no Transito - Recursos de Investimentos.",
+                "couterpartRule": "I - Municípios - 2% e 4%, para Municípios com até 50.000 habitantes; [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 207232.64,
+                "couterpartValues": {
+                  "total": 7232.64,
+                  "financial": 7232.64,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 200000,
+                  "amendment": "R$ 200.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.237.038/0001-61 - MUNICIPIO DE MINADOR DO NEGRAO",
+            "respProponent": "***.226.564-** - MARIA DO SOCORRO CARDOSO FERRO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MINADOR DO NEGRAO",
+            "documentNumber": "12.237.038/0001-61",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "719564/2009",
+            "validity": "31/12/2009 a 25/12/2011",
+            "limitDate": "2011-12-25T00:00:00.000Z",
+            "totalValue": 207232.64,
+            "transferValue": 200000,
+            "counterpartValue": 7232.64,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

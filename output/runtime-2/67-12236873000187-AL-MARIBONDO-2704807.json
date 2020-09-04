@@ -1,0 +1,2220 @@
+{
+  "beginDate": "2020-09-01T16:59:32.174Z",
+  "endDate": "2020-09-01T17:11:32.591Z",
+  "data": {
+    "location": {
+      "city": "Maribondo",
+      "uf": "AL",
+      "ibge": "2704807"
+    },
+    "agreements": [
+      {
+        "agreementId": "857349/2017",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-29T00:00:00.000Z",
+        "end": "2021-07-11T00:00:00.000Z",
+        "program": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "096021/2017",
+            "organId": "01532/2017",
+            "processId": "25100.017391/2017-51",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto nº 6.170, de 25 de julho de 2007, e Portaria Interministerial nº 424, de 30 de dezembro de 2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "EM LEVANTAMENTO COM A EQUIPE DE EDEMIAS, LOCALIZAMOS UMA DEMANDA NO POVOADO MATA VERDE NO MUNICÍPIO DE MARIBONDO QUE CARECE URGENTEMENTE DE CONSTRUÇÃO DE MÓDULOS SANITÁRIOS. NOSSA PREOCUPAÇÃO É A SAÚDE DOS MORADORES DAS RESPECTIVAS CASAS. DENTRO DESSE QUADRO SOLICITAMOS O ACEITE DA NOSSA PROPOSTA PARA QUE POSSAMOS MUDAR A VIDA DESSAS FAMÍLIAS E PROMOVER UMA SAÚDE PÚBLICA EFICAZ.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "IMPLANTAÇÕES DE MELHORIAS SANITÁRIAS DOMICILIARES MUNICÍPIOS DE MARIBONDO-AL.",
+            "information": "Declaro, para os devidos fins, perante a Fundação Nacional de Saúde, que a Prefeitura Municipal de Maribondo/AL possui capacidade técnica e gerencial para celebrar, executar e prestar contas de convênio com a União, incluindo a elaboração de projetos básicos, contratação e acompanhamento das obras e outras etapas necessárias para a consecução do objeto em tela.",
+            "proposalDate": "2017-11-23T00:00:00.000Z",
+            "biddingDate": "2017-12-29T00:00:00.000Z",
+            "homologationDate": "2018-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170027",
+              "name": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+              "value": 250000,
+              "details": {
+                "code": "3621120170027",
+                "name": "2068 - Saneamento Basico ( Acao - 7652 - Melhorias Sanitarias Domiciliares - MSD)",
+                "cps": null,
+                "items": "Implantação de Melhorias Sanitárias Domiciliares para Prevenção e Controle de Doenças e Agravos",
+                "couterpartRule": "Não será exigida a contrapartida, conforme Art. 79, §4, da Lei de Diretrizes Orçamentárias – LDO 2017 (Lei nº 13.408, de 26 de dezembro de 2016). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 250000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.605.364-** - CARLOS SERGIO MARQUES JUNIOR",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "857349/2017",
+            "validity": "29/12/2017 a 11/07/2021",
+            "limitDate": "2021-09-09T00:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 250000,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "847140/2017",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-08-30T00:00:00.000Z",
+        "end": "2021-10-30T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "015189/2017",
+            "organId": "15189/2017",
+            "processId": "0151892017",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICIPIO DE MARIBONDO ESTÁ LOCALIZADO NA MICRORREGIÃO DE PALMEIRA DOS ÍNDIOS NO AGRESTE DO ESTADO DE ALAGOAS. SUA POPULAÇÃO ESTÁ ESTIMADA EM 13.587 HABITANTES SEGUNDO O SITE DO IBGE ENQUANTO QUE O SEU ÍNDICE DE DESENVOLVIMENTO HUMANO/PNUD É DE 0,597 SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2000). SUA ECONOMIA É BASEADA NA ATIVIDADE AGROPASTORIL DE FORTE INFLUÊNCIA NO MUNICÍPIO. A POPULAÇÃO DE MARIBONDO CRESCE CONTINUAMENTE E DESEJA MELHORIAS DE INFRAESTRUTURA NA COMUNIDADE, SENDO ESTA TAMBÉM A META DA ADMINISTRAÇÃO PÚBLICA, OU SEJA, PROPICIAR AOS MUNÍCIPES UMA MELHOR QUALIDADE DE VIDA, PARA O BOM DESEMPENHO EM SUAS ATIVIDADES SOCIAIS DE FORMA GERAL. COM ESSA VISÃO O MUNICÍPIO DE MARIBONDO LANÇA A PRESENTE PROPOSTA PARA DEFINITIVAMENTE EXECUTAR E ATENDER AS DEMANDAS SOCIAIS DA COMUNIDADE. DIVERSAS RUAS NECESSITAM DE UMA FORTE RECUPERAÇÃO, CONSIDERANDO QUE ESTÁ INTRANSITÁVEL EM ALGUNS PONTOS, DIFICULTANDO O TRÁFEGO DE SEUS MORADORES. TENDO EM VISTA ESSES FATO O MUNICÍPIO RESOLVEU DESENVOLVER UM PROJETO DE PAVIMENTAÇÃO COM O OBJETIVO DE MELHORAR A QUALIDADE DE VIDA E O TRABALHO DE NOSSOS MUNÍCIPES. DESSA FORMA, COMO O MUNICÍPIO NÃO POSSUI CONDIÇÕES ORÇAMENTÁRIAS, O PODER PÚBLICO RESOLVEU SOLICITAR APOIO DA UNIÃO PARA A PAVIMENTAÇÃO DESSAS RUAS DE FORMA A POSSIBILITAR À POPULAÇÃO UMA MELHORIA A DIVERSOS ACESSOS DO MUNICÍPIO COM SEGURANÇA E CONFORTO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO EM DIVERSAS RUAS DO MUNICÍPIO DE MARIBONDO/AL",
+            "information": "",
+            "proposalDate": "2017-03-15T00:00:00.000Z",
+            "biddingDate": "2017-08-30T00:00:00.000Z",
+            "homologationDate": "2017-09-01T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 354011,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 354011,
+                "couterpartValues": {
+                  "total": 360,
+                  "financial": 360,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 353651,
+                  "amendment": "R$ 353.651,00 - Cícero Almeida"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.030.044-** - LEOPOLDO CESAR AMORIM PEDROSA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-05-30T00:00:00.000Z",
+              "processId": "001001180418",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "001001180418",
+                "biddingId": "02/2018",
+                "object": "Contratação de empresa para execução de pavimentação em diversas ruas do município de Maribondo.",
+                "legalFoundation": "LEI 8666/1993",
+                "justification": "Licitação baseada na legislação vigente",
+                "publishDate": "2018-05-30T00:00:00.000Z",
+                "beginDate": "2018-06-14T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 290063.62,
+                "homologationDate": "2018-08-10T00:00:00.000Z",
+                "city": "2795 - MARIBONDO",
+                "analysisDate": null,
+                "accepted": ""
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000038/2018",
+              "biddingId": "02/2018",
+              "date": "2018-08-28T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 08418714000126",
+                "hirerDocument": "CNPJ: 12236873000187",
+                "type": "Serviço",
+                "object": "Pavimentação de diversas ruas no município de Maribondo/AL",
+                "totalValue": 290063.62,
+                "publishDate": "2018-08-28T00:00:00.000Z",
+                "beginDate": "2018-08-14T00:00:00.000Z",
+                "endDate": "2019-08-14T00:00:00.000Z",
+                "signDate": "2018-08-14T00:00:00.000Z",
+                "executionProcessId": "02/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "001001180418 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "847140/2017",
+            "validity": "30/08/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T00:00:00.000Z",
+            "totalValue": 354011,
+            "transferValue": 353651,
+            "counterpartValue": 360,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "794559/2013",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2013-12-31T00:00:00.000Z",
+        "end": "2016-12-30T00:00:00.000Z",
+        "program": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "078389/2013",
+            "organId": "78389/2013",
+            "processId": "0783892013",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Maribondo Localiza-se no Agreste Alagoano. Possui 171,279 km² de área e está a 86 quilômetros de Maceió, com sua população estimada em 13.614 habitantes e seu IDH 0,636. Por estar entre o Sertão e a Mata Atlântica, Marimbondo possui características dos dois, mas predomina a vegetação típica de Mata Atlântica, apresenta clima quente e seco. Conta a história do município que um pequeno sítio chamado “Poço da Caatinga” foi implantado em 1905 a 18 km de Anadia e tinha esse nome por possuir um poço de água cristalina localizado entre ingazeiros e canafístulas. Em meio à vegetação formou-se uma grande casa de maribondos, passando o lugar a se chamar “Poço da Casa de Maribondos”. Em 1913 chegou à região a família Azevedo e, logo depois, José Xavier de Azevedo instalou a primeira feira, destruída, sem explicação, pela guarda municipal de Anadia. A história da cidade, porém, reconhece como seu fundador João Antonio dos Santos, que em 1919 comprou uma grande fazenda, construindo nela uma casa e a primeira mercearia do município, abrindo também uma pequena loja de tecidos. Em 1930, com apenas 45 moradores, Maribondo servia de parada para repouso dos viajantes que vinham para a Capital ou iam para o Interior. Em 1947, foi implantada uma nova feira. O governador Silvestre Péricles, em 1948, criou a Escola Rural. Em 1950, a primeira igreja. A BR-316 também deu importante impulso ao desenvolvimento do município, levando um grupo a trabalhar pela autonomia. Em 1962, o distrito foi emancipado de Anadia. Elevado à categoria de município com a denominação de Maribondo, pela lei estadual nº 2467, de 24-08-1962, desmembrado de Anadia. Sede no atual distrito de Maribondo. Constituído do distrito sede. Instalado em 26-09-1962. As maiores atrações do município são as festividades, onde se destacam o Micabondo (carnaval fora de época), a Feira de Ciências e Cultura (FECICUM), a Festa da Padroeira (6 a 15 de janeiro) e a festa de Emancipação Política (24 de agosto). A feira livre, aos domingos, também atrai visitantes. Maribondo sua população é carente e desprovida de locais de integração e lazer, fazendo com que a juventude de Maribondo passe muito tempo ociosa, fator que contribui para o aumento do consumo de droga(Especialmente o Crack) e a violência em nosso Município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE UM COMPLEXO ESPORTIVO EDUCACIONAL RECREATIVO E LAZER.",
+            "information": "O Município possui toda capacidade técnica necessária para executar o empreendimento.",
+            "proposalDate": "2013-11-12T00:00:00.000Z",
+            "biddingDate": "2013-12-31T00:00:00.000Z",
+            "homologationDate": "2014-01-14T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020130002",
+              "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+              "value": 500000,
+              "details": {
+                "code": "5100020130002",
+                "name": "Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - ( CONTRATO DE REPASSE )",
+                "cps": "",
+                "items": "Implantação e Modernização de Infraestrutura Esportiva",
+                "couterpartRule": "A contrapartida será exigida de acordo com os percentuais estabelecidos na Lei de Diretrizes Orçamentárias vigente. [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 500000,
+                "couterpartValues": {
+                  "total": 12500,
+                  "financial": 12500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 487500,
+                  "amendment": "R$ 487.500,00 - ROSINHA DA ADEFAL"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.846.974-** - ANTONIO FERREIRA DE BARROS",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.121.504-** - JOSE ALDO REBELO FIGUEIREDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "794559/2013",
+            "validity": "31/12/2013 a 30/12/2016",
+            "limitDate": "2017-02-28T00:00:00.000Z",
+            "totalValue": 500000,
+            "transferValue": 487500,
+            "counterpartValue": 12500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "776319/2012",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2012-12-31T00:00:00.000Z",
+        "end": "2016-02-28T00:00:00.000Z",
+        "program": "ESTRUTURAÇÃO DA REDE DE SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA – CONSTRUÇÃO DE CRAS – RESOLUÇÃO CIT 06/2012 E RESOLUÇÃO CNAS Nº 10/2012.",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "037757/2012",
+            "organId": "37757/2012",
+            "processId": "037757/2012",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "As informações gerais do projeto encontram-se no formulário PROPOSTA CONTRATO DE REPASSE - REFERÊNCIA MÉRITO SOCIAL, anexado na Aba Termo de Referência.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE CENTRO DE REFERÊNCIA DE ASSISTÊCIA SOCIAL - CRAS",
+            "information": "Em conformidade com o que estabelece o artigo 19, inciso V, da Portaria Interministerial MP/MF/CGU 507/2011, declaro que esta prefeitura dispõe de estrutura física e de pessoal, com capacidade administrativa, técnica e gerencial para a execução do objeto proposto, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legalmente, inclusive as que se referem a licitação, acompanhamento da execução e prestação de contas",
+            "proposalDate": "2012-08-17T00:00:00.000Z",
+            "biddingDate": "2012-12-31T00:00:00.000Z",
+            "homologationDate": "2013-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020120021",
+              "name": "ESTRUTURAÇÃO DA REDE DE SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA – CONSTRUÇÃO DE CRAS – RESOLUÇÃO CIT 06/2012 E RESOLUÇÃO CNAS Nº 10/2012.",
+              "value": 275510.2,
+              "details": {
+                "code": "5500020120021",
+                "name": "ESTRUTURAÇÃO DA REDE DE SERVIÇOS DE PROTEÇÃO SOCIAL BÁSICA – CONSTRUÇÃO DE CRAS – RESOLUÇÃO CIT 06/2012 E RESOLUÇÃO CNAS Nº 10/2012.",
+                "cps": "",
+                "items": "CONSTRUÇÃO DE CRAS.",
+                "couterpartRule": "",
+                "totalValue": 275510.2,
+                "couterpartValues": {
+                  "total": 5510.2,
+                  "financial": 5510.2,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 270000,
+                  "amendment": "R$ 270.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.467.346-** - TEREZA HELENA GABRIELLI BARRETO CAMPELLO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "012014",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-06-30T00:00:00.000Z",
+              "processId": "012014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "012014",
+                "biddingId": "012014",
+                "object": "CONSTRUÇÃO DE CENTRO DE REFERÊNCIA DE ASSISTÊCIA SOCIAL - CRAS.",
+                "legalFoundation": "Leis 8.666/93, 8.883/94, 9.648/98 e 10.520/02",
+                "justification": "em atendimento ao contrato n°400580-84/2012, entre o município e o Ministério do Desenvolvimento Social e Combate a Fome, com interveniência da Caixa Econômica Federal.",
+                "publishDate": "2014-06-30T00:00:00.000Z",
+                "beginDate": "2014-07-15T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 274831.98,
+                "homologationDate": "2015-02-26T00:00:00.000Z",
+                "city": "2795 - MARIBONDO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2015",
+              "biddingId": "012014",
+              "date": "2015-03-19T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 18286438000143",
+                "hirerDocument": "CNPJ: 12236873000187",
+                "type": "Material",
+                "object": "CONSTRUCAO DE CENTRO DE REFERENCIA DE ASSISTECIA SOCIAL - CRAS.",
+                "totalValue": 274831.98,
+                "publishDate": "2015-03-19T00:00:00.000Z",
+                "beginDate": "2015-03-06T00:00:00.000Z",
+                "endDate": "2015-12-31T00:00:00.000Z",
+                "signDate": "2015-03-06T00:00:00.000Z",
+                "executionProcessId": "012014 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "012014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "776319/2012",
+            "validity": "31/12/2012 a 28/02/2016",
+            "limitDate": "2016-04-28T00:00:00.000Z",
+            "totalValue": 275510.2,
+            "transferValue": 270000,
+            "counterpartValue": 5510.2,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "763845/2011",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2011-12-30T00:00:00.000Z",
+        "end": "2013-06-30T00:00:00.000Z",
+        "program": "ALAGOAS OGU 2011",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "029602/2011",
+            "organId": "29602/2011",
+            "processId": "029602/2011",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Maribondo localizado no Agreste Alagoano na micro-região de Palmeira dos Índios. Sua população total é de 13.614 habitantes, desse 48,34% estão na zona rural, de acordo com o Censo Demográfico do IBGE (2000). Seu Índice de Desenvolvimento Humano (IDH) é de 0,636 segundo o Atlas de Desenvolvimento Humano/PNUD (2000), sua economia é baseada na Pecuária bovina. Maribondo dispõe de agricultura familiar com produções agrícolas de inhame, batata-doce, macaxeira, milho, feijão, produção de mel, entre outros produtos. Possui em seu território três assentamentos, associações rurais e uma média de 950 pronafianos. Além disso, o município desenvolve um programa de apoio ao pequeno agricultor através da secretaria municipal de agricultura desenvolvendo a agricultura familiar com assistência técnica. Contudo a secretaria sofre pelo fato de não dispor de uma Patrulha mecanizada para o serviço de conservação e manutenção de estradas e de construção e melhorias de açudes, barreiros e drenagem hídrica para atender o escoamento da produção e o fornecimento de água das pequenas propriedades. Por isso busca implementar através da ação do governo federal por intermédio do programa “APOIO A PROJETO DE DESENVOLVIMENTO DO SETOR AGROPECUARIO” : Para a aquisição de uma Patrulha Mecanizada( Caminhão Truck com caçamba e uma retroescavadeira 4x4). Os equipamentos supracitados serão adquiridos com recursos da emenda parlamentar do Senador Renan Calheiros n° 22890001 com a funcional programática n° 20.605.6003.7H17 no valor de R$ 390.000,00.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Aquisição de Patrulha Mecanizada",
+            "information": "O município dispõe de operador de maquinas, engenheiro agrônomo, técnicos agrícola, galpão para guardar todos objetos e maquina e se compromete em fazer manutenção dos mesmos.",
+            "proposalDate": "2011-07-01T00:00:00.000Z",
+            "biddingDate": "2011-12-30T00:00:00.000Z",
+            "homologationDate": "2012-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020110006",
+              "name": "ALAGOAS OGU 2011",
+              "value": 409500,
+              "details": {
+                "code": "2200020110006",
+                "name": "ALAGOAS OGU 2011",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra-Estrutura Agropecuária.",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 409500,
+                "couterpartValues": {
+                  "total": 19500,
+                  "financial": 19500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00 - Renan Calheiros"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0032012",
+              "type": "Licitação - Pregão",
+              "date": "2012-05-28T00:00:00.000Z",
+              "processId": "0032012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "0032012",
+                "biddingId": "0032012",
+                "object": "AQUISIÇÃO DE PATRULHA MECANIZADA.",
+                "legalFoundation": "10.520/2002",
+                "justification": "AQUISIÇÃO DE PATRULHA MECANIZADA.",
+                "publishDate": "2012-05-28T00:00:00.000Z",
+                "beginDate": "2012-06-11T00:00:00.000Z",
+                "endDate": "2012-07-03T00:00:00.000Z",
+                "biddingValue": 409500,
+                "homologationDate": "2012-07-03T00:00:00.000Z",
+                "city": "2795 - MARIBONDO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "002003/2012",
+              "biddingId": "0032012",
+              "date": "2012-07-04T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 03079649000138",
+                "hirerDocument": "CNPJ: 12236873000187",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE CAMINHÃO TRUCK 0KM.",
+                "totalValue": 215000,
+                "publishDate": "2012-07-04T00:00:00.000Z",
+                "beginDate": "2012-07-04T00:00:00.000Z",
+                "endDate": "2012-09-02T00:00:00.000Z",
+                "signDate": "2012-07-04T00:00:00.000Z",
+                "executionProcessId": "0032012 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "0032012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "763845/2011",
+            "validity": "30/12/2011 a 30/06/2013",
+            "limitDate": "2013-07-30T00:00:00.000Z",
+            "totalValue": 409500,
+            "transferValue": 390000,
+            "counterpartValue": 19500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "759295/2011",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2011-12-30T00:00:00.000Z",
+        "end": "2013-11-30T00:00:00.000Z",
+        "program": "Gestao da Politica de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "062956/2011",
+            "organId": "62956/2011",
+            "processId": "062956/2011",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Maribondo, está localizado no agreste alagoano com sua população de 13.614(treze mil seiscentos e quatorze) habitantes, segundo levantamento IBGE/2010 e seu IDH é de 0,64 a cidade fica localizada as margens da BR 316, onde diariamente circulam em média 3.000 (três mil) veículos que transitam do agreste e sertão e que naturalmente nos tornamos uma cidade estratégica de parada obrigatória dos que circulam por ela. O Município necessita demasiado de investimentos em infraestrutura urbana para dinamizar o desenvolvimento que vem acontecendo graças a implantação do novo distrito industrial que já conta 10 novas empresas, porem a receita de Maribondo é toda proveniente dos repasses constitucionais que é destinado quase que em sua totalidade para Educação Saúde, ações sociais e manutenção. Por este motivo esta emenda parlamentar é de suma importância para a Cidade de Maribondo, será utilizada na pavimentação asfáltica de diversas ruas e os resultados que obteremos será o fluxo maior condições de melhor trafego e o incremento da economia local com a geração de emprego e renda.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação Asfáltica em diversas ruas",
+            "information": "O Município possui toda capacidade técnica e gerencial para executar o empreendimento. Possuindo como quadros técnicos a Engenheira Civil Mariana Mendonça Houli CREA 6608-D e a Arquiteta Litiane Monteiro Santos CREA 8301-D",
+            "proposalDate": "2011-11-01T00:00:00.000Z",
+            "biddingDate": "2011-12-30T00:00:00.000Z",
+            "homologationDate": "2012-01-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020110024",
+              "name": "Gestao da Politica de Desenvolvimento Urbano",
+              "value": 251550,
+              "details": {
+                "code": "5600020110024",
+                "name": "Gestao da Politica de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "",
+                "totalValue": 251550,
+                "couterpartValues": {
+                  "total": 5700,
+                  "financial": 5700,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00 - Com. Desenv. Urbano"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.196.619-** - LEODEGAR DA CUNHA TISCOSKI"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "759295/2011",
+            "validity": "30/12/2011 a 30/11/2013",
+            "limitDate": "2014-01-29T00:00:00.000Z",
+            "totalValue": 251550,
+            "transferValue": 245850,
+            "counterpartValue": 5700,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "745631/2010",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-09-27T00:00:00.000Z",
+        "end": "2012-09-30T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "027294/2010",
+            "organId": "27294/2010",
+            "processId": "027294/2010",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Pavimentação em paralelepipedo nas ruas Antonio Honorato Pereira, Travessa Frei Damião, Travessa Professora Alaide do Carmo (01), Travessa Professora Alaide do Carmo (02), Av Senador Arnon de Mello, Rua Projetada, Distritos: Baixa de Areia, Serra do Zé Correia, Oiteiro e Antonio Gomes, beneficiando aproximadamente 1000 familias, em zona urbana deste Município. Essa proposta é emenda parlamentar do Senador Fernando Collor.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em paralelepipedos de Ruas no Município de Maribondo/AL.",
+            "information": "Declaramos para os devidos fins, junto ao Ministério das Cidades, que o município de Maribondo, têm capacidade Técnica e Gerencial para a execução do referido projeto, dispondo de eng.º Renato Gamaleira Cavalcante Costa- CREA_AL 0208313850. Sebastião Rocha Silva, Gerente Municipal de Convênios Claúdia Maria Souza de Holanda, Assist. Social com o CRESS 1573 da 16ª região.",
+            "proposalDate": "2010-03-29T00:00:00.000Z",
+            "biddingDate": "2010-09-27T00:00:00.000Z",
+            "homologationDate": "2010-10-04T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020100061",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 1010,
+              "details": {
+                "code": "5300020100061",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infraestrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 1010,
+                "couterpartValues": {
+                  "total": 22400,
+                  "financial": 22400,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "745631/2010",
+            "validity": "27/09/2010 a 30/09/2012",
+            "limitDate": "2012-10-30T00:00:00.000Z",
+            "totalValue": 1010,
+            "transferValue": 987600,
+            "counterpartValue": 22400,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "739290/2010",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2010-12-30T00:00:00.000Z",
+        "end": "2013-02-08T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "021894/2010",
+            "organId": "21894/2010",
+            "processId": "021894/2010",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Maribondo, está localizado no agreste alagoano com sua população de 15.000 (quinze) mil habitantes, segundo levantamento IBGE e seu IDH é de 0,64 e renda familiar em torno de R$ 370,00 (trezentos e setenta reais) a cidade fica localizada as margens da BR 316, onde diariamente circulam em média 3.000 (três mil) veículos que transitam do agreste e sertão e que naturalmente nos tornamos uma cidade estratégica de parada obrigatória dos que circulam por ela, sendo beneficiada em torno de 1.000 (mil) famílias em nossa Zona Rural existe um povoado que sua denominação de Mata Verde com 3.000 (três mil habitantes) com alto grau de analfabetismo e abaixo da linha de pobreza, tendo como principal porta de acesso a estrada vicinal Manoel Correia de Araújo,localizada a 6,5 Km da rodovia que liga a uma região muita rica em matas e água e torna-se uma porta de acesso a cidade de Mar Vermelho, sendo está a cidade mais alta do Estado com uma altitude acima de 600 mt do nível do mar, que é muito procurada por ter uma temperatura variando entre 10º e 22º, ,sendo considerada a suíça alagoana. Com a pavimentação da estrada de acesso ao povoado atenderemos a uma população em média de 1.000 (mil) familias que residem no povoado e ao público principalmente turistas que buscam a pratica de esportes radicais e a exploração do turismo ecologico,resolvendo ainda o problema do acesso que fica dificil devido as condições da estrada de terra. Os resultados que obteremos é um fluxo maior de visitantes ao local devido as condições de melhor trafego e o incremento da economia local com a geração de empreço e renda. Essa proposta é emenda parlamentar do Deputado Federal Carlos Alberto Canuto.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em paralelepípedo da estrada vicinal Manoel Correia de Araújo.",
+            "information": "Mario de Araújo. Eng. Civil CREA 410-D Sebastiao Rocha Silva. Gestor Municipal de Convênios do Municipio. Claudia Maria Souza de Holanda. Assist. Social CRESS 1573 da 16ª Região.",
+            "proposalDate": "2010-03-22T00:00:00.000Z",
+            "biddingDate": "2010-12-30T00:00:00.000Z",
+            "homologationDate": "2011-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100021",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+              "value": 400000,
+              "details": {
+                "code": "5400020100021",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+                "cps": "",
+                "items": "Infraestrutura em ferrovias, rodovias, estradas, túneis, viadutos e pontes",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 400000,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "739290/2010",
+            "validity": "30/12/2010 a 08/02/2013",
+            "limitDate": "2017-02-08T00:00:00.000Z",
+            "totalValue": 400000,
+            "transferValue": 390000,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "737583/2010",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-06-11T00:00:00.000Z",
+        "end": "2012-12-18T00:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "026328/2010",
+            "organId": "00750/2010",
+            "processId": "720310099992010-86",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/2007, Portaria Interministerial 127/2008 e Portaria MTur 153/2009",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Maribondo/Al realiza entre os dias 11 A 13 de junho de 2010, os FESTEJOS JUNINOS 2010, evento de tradicional importância no calendário turístico e cultural da região. Município localizado na região do agreste, próximo da região metropolitana de Arapiraca, com uma população de aproximadamente 15.000 habitantes, sua economia e baseada na pecuaria e agricultura, tendo como principais atrativos turisticos a serra da Mata Verde e as reservas de Mata Atlantica, alem do seu artesanato de plumas e folha de bananeira. Por conta desta localização as margens da BR 316, principal porta de acesso do agreste e sertão Alagoano a nossa capital. Possibilitando um fácil acesso aos visitantes e turistas. As Festas Juninas traduz a cultura do Nordestino e incrementa nossa economia local, gerando 500 emprego diretos e renda no comercio local no periodo do evento, com os shows, as apresentaçoes das quadrilhas juninas e a culinaria tipica da epoca, atraindo visitantes e turistas desta região e de estados vizinhos, com uma estimativa de publico de 6.000 pessoas por dia nas edições anteriores, este ano com o apoio do Ministério do Turismo, deverá ter um incremento de aproximadamente 30% de fluxo turistico, por conta destes fatores o tradicional Festejos Juninos, que todos os anos acontece no mes de junho, gerando fluxo turístico, econômico e cultural não só durante o evento mais também após sua realização, fortalecendo cada vez mais nossa região e ampliando a divulgação do evento que só tende a aumentar, como ja se constatou nas edições anteriores do evento, assim como na cavalgada ( 30/04 a 01/05), carnaval (fevereiro), o Micabondo (semana santa) e a Festa da Banana (dezembro) evento este que no ano de 2009, contou com o apoio do Ministerio do Turismo, que gera um grande fluxo de turistas em nosso municipio, proporcionando no periodo destes eventos como constatamos geração de emprego e renda consideravel, e uma demanda mais uniforme ao decorer do ano no fluxo turistico do municipio, consequencia destes eventos. Por conta deste e outros fatores a prefeitura de Maribondo tem interesse na realização deste evento, pois o mesmo promove a geração de emprego e renda na região, fortalecendo a economia e aumentando o fluxo turismo da região.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "FESTEJOS JUNINOS",
+            "information": "O MUNICIPIO DE MARIBONDO POSSUI CAPACIDADE TECNICA E GERENCIAL PARA EXECUTAR ESTE CONVENIO",
+            "proposalDate": "2010-03-27T00:00:00.000Z",
+            "biddingDate": "2010-06-11T00:00:00.000Z",
+            "homologationDate": "2010-08-16T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100019",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 105000,
+              "details": {
+                "code": "5400020100019",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "E) FESTAS JUNINAS;",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 105000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.797.948-** - CARLOS ALBERTO DA SILVA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "737583/2010",
+            "validity": "11/06/2010 a 18/12/2012",
+            "limitDate": "2012-12-18T00:00:00.000Z",
+            "totalValue": 105000,
+            "transferValue": 100000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "736380/2010",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-30T00:00:00.000Z",
+        "end": "2013-02-08T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Sob Liminar Judicial e Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "028729/2010",
+            "organId": "28729/8729",
+            "processId": "028729",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Maribondo, está localizado no agreste alagoano com sua população de 15.000 (quinze) mil habitantes, segundo levantamento IBGE e seu IDH é de 0,64, a cidade fica localizada as margens da BR 316, onde diariamente circulam em média 3.000 (três) mil veículos que transitam do agreste e sertão e que naturalmente nos tornamos uma cidade estratégica de parada obrigatória dos que circulam pela BR 316. Nossa cidade possui uma excelente gastronomia, acompanhada de bom artesanato local e diversos pontos pra banhos e a prática de esportes radicais no povoado Mata Verde na zona rural, sendo também um dos acesso a cidade de Mar Vermelho localizada a 600mt de altitude acima do nível do mar, com temperatura variando entre 10º e 22º, sendo considerada a suíça alagoana. Com a Revitalização do Centro da cidade, estaremos assim implantando um ponto de apoio para os turistas que transitam pela BR 316, bem como, com aqueles que estarão embarcando para a cidade de Mar Vermelho e para os banhos e esportes radicais na zona rural, não deixando que os turistas fiquem sem uma estrutura de apoio enquanto aguardam para seguir para seu destino, proporcionara ainda a comercialização de produtos regionais objetivando atender o fluxo de turistas que circulam diariamente em nossa cidade, transformando o centro da cidade em local atrativo e com infra estrutura adequada, resolvendo dessa forma a grande necessidade de melhorar tanto visualmente bem como fisicamente o Centro da cidade, gerando ainda emprego e renda para os que sobrevivem do atendimento ao turista na localidade.Emenda parlamentar do Senador Renan Calheiros.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Revitalização do Calcadão do Centro da Cidade.",
+            "information": "Mario Araujo- Eng Civil CREA-Al 410-D, Helijan Dionisio da Silva Gerente Municipal de Convênios, Claudia Maria Souza de Holanda- Assistente Social CRESS 1573 16ª Região.",
+            "proposalDate": "2010-03-30T00:00:00.000Z",
+            "biddingDate": "2010-12-30T00:00:00.000Z",
+            "homologationDate": "2011-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100021",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+              "value": 400000,
+              "details": {
+                "code": "5400020100021",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA – EMENDAS",
+                "cps": "",
+                "items": "Infraestrutura urbanística",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 400000,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "736380/2010",
+            "validity": "30/12/2010 a 08/02/2013",
+            "limitDate": "2013-03-10T00:00:00.000Z",
+            "totalValue": 400000,
+            "transferValue": 390000,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "735195/2010",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-09-27T00:00:00.000Z",
+        "end": "2012-09-30T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "053547/2010",
+            "organId": "53547/2010",
+            "processId": "053547/2010",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Pavimentação em paralelepipedo nas Ruas Maria Teixeira do Nacimento e José Bastos de Araújo, beneficiando ao todo aproximadamente 400 familias, na zona urbana deste Município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em paralelepipedo.",
+            "information": "Mario de Araújo-Eng. Civil CREA 410-D, Helijan Dionisio da Silva- Gerente Municipal de Convênios, Claudia Maria Souza de Holanda- Assistência Social CRESS 1573 16ª Região.",
+            "proposalDate": "2010-05-07T00:00:00.000Z",
+            "biddingDate": "2010-09-27T00:00:00.000Z",
+            "homologationDate": "2010-10-04T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020100150",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 305300,
+              "details": {
+                "code": "5600020100150",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infraestrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 305300,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 295300,
+                  "amendment": "R$ 295.300,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "735195/2010",
+            "validity": "27/09/2010 a 30/09/2012",
+            "limitDate": "2012-10-30T00:00:00.000Z",
+            "totalValue": 305300,
+            "transferValue": 295300,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "723196/2009",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-16T00:00:00.000Z",
+        "end": "2010-06-18T00:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - PROGRAMAÇÃO.",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Rejeitada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "093602/2009",
+            "organId": "01693/2009",
+            "processId": "72031.006787/2009-11",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07 e Portaria interministerial 127/ 08",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Maribondo/Al realiza entre os dias 18 a 20 de dezembro de 2009, a 5º Festa da Banana, evento de tradicional importância no calendário turístico e cultura da região. Município localizado na região do agreste, próximo da região metropolitana de Arapiraca, com uma população de aproximadamente 15.000 habitantes, sua economia e baseada na pecuaria e agricultura, tendo como principais atrativos turisticos a serra da Mata Verde e as reservas de Mata Atlantica, alem do seu artesanato de plumas e folha de bananeira. Por conta desta localização as margens da BR 316, principal porta de acesso do agreste e sertão Alagoano a nossa capital. Possibilitando um fácil acesso aos visitantes e turistas. A Festa da Banana traduz a nossa produção agrícola e incrementa nossa economia local, agregando valores desde a sua produção até sua comercialização, gerando 500 emprego diretos e renda no comercio local no periodo do evento, atraindo visitantes e turistas desta região e de estados vizinhos, com uma estimativa de publico de 8.000 pessoas por dia nas edições anteriores, este ano com o apoio do Ministério do Turismo, deverá ter um incremento de aproximadamente 30% de fluxo turistico, por conta destes fatores foi criado este evento, que já vai a sua 5º edição, gerando fluxo turístico, econômico e cultural não só durante o evento mais também após sua realização, fortalecendo cada vez mais nossa região e ampliando a divulgação do evento que só tende a aumentar, como ja se constatou nas edições anteriores do festival, assim como nas festas juninas ( 12 a 30 de junho), carnaval (fevereiro)e o Micabondo (semana santa), que gera um grande fluxo de turistas em nosso municipio, proporcionando no periodo destes eventos como constatamos geração de emprego e renda consideravel, e uma demanda mais uniforme ao decorer do ano no fluxo turistico do municipio, consequencia destes eventos.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "5º FESTA DA BANANA",
+            "information": "RAUL EDUARDO TENORIO PEIXOTO, DRT Nº 002301/99-43.",
+            "proposalDate": "2009-10-30T00:00:00.000Z",
+            "biddingDate": "2009-12-16T00:00:00.000Z",
+            "homologationDate": "2010-01-14T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090041",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - PROGRAMAÇÃO.",
+              "value": 134000,
+              "details": {
+                "code": "5400020090041",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - PROGRAMAÇÃO.",
+                "cps": null,
+                "items": "FESTIVAIS CULTURAIS",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 134000,
+                "couterpartValues": {
+                  "total": 24000,
+                  "financial": 24000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 110000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0012009",
+              "type": "Inexigibilidade",
+              "date": null,
+              "processId": "0012009",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "0012009",
+                "biddingId": null,
+                "object": "Contratação da atração musical Banda Karisma.",
+                "legalFoundation": "art. 25, III e art. 26 da lei 866693",
+                "justification": "É inexigível a licitação quando houver inviabilidade de competição, em especial:para contratação de profissional de qualquer setor artístico, diretamente ou através de empresário exclusivo.....",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 20000,
+                "homologationDate": "2009-12-01T00:00:00.000Z",
+                "city": "2795 - MARIBONDO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2009",
+              "biddingId": "0012009",
+              "date": "2010-04-28T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 09332569000129",
+                "hirerDocument": "CNPJ: 12236873000187",
+                "type": "Serviço",
+                "object": "contratação da atração musical Banda Karisma.",
+                "totalValue": 20000,
+                "publishDate": "2010-04-28T00:00:00.000Z",
+                "beginDate": "2009-12-16T00:00:00.000Z",
+                "endDate": "2009-12-20T00:00:00.000Z",
+                "signDate": "2009-12-16T00:00:00.000Z",
+                "executionProcessId": "0012009 ",
+                "biddingModality": "Inexigibilidade ",
+                "processId": "0012009 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Rejeitada",
+            "number": "723196/2009",
+            "validity": "16/12/2009 a 18/06/2010",
+            "limitDate": "2010-06-18T00:00:00.000Z",
+            "totalValue": 134000,
+            "transferValue": 110000,
+            "counterpartValue": 24000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "719561/2009",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2012-06-26T00:00:00.000Z",
+        "program": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "093510/2009",
+            "organId": "09351/2009",
+            "processId": "093510/2009",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Pavimentação em paralelepipedo com varios sonorizadores e quebra molas em todo o seu trajeto evitando desta maneira acidente com trauseantes bem como ciclista por excesso de velocidade por parte dos motorista quer irão trafega por ela, da 2º/06 etapa da estrada que tem uma extensão de 6,5 km, que da acesso ao povoado Mata Verde,denominada de Manoel Correia de Araújo, que tem uma população carente de 3.000 (três mil) habitantes com renda familiar em torno de R$370,00 reais, beneficinado desta forma mais de 1000 familias.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em paralelepipedo da estrada de acesso ao povoado Mata Verde denominada de Manoel Correia de Araújo.",
+            "information": "Maria Agra Eng. Civil CREA-AL, 410 - D, Sebastião Rocha Silva, Gestor Municipal de Convênios e Claudia Maria Souza de Holanda, Assistente Social CRESS 1573 16ª Região.",
+            "proposalDate": "2009-10-30T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020094713",
+              "name": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+              "value": 251100,
+              "details": {
+                "code": "5600020094713",
+                "name": "PROGRAMA 0660-SEGURANÇA E EDUCAÇÃO:DIREITO E RESPONSABILIDADE DE TODOS",
+                "cps": "",
+                "items": "Infra-Estrutura no Sistema Viario Para Promover a Redução de Acidentes no Transito - Recursos de Investimentos.",
+                "couterpartRule": "I - Municípios - 2% e 4%, para Municípios com até 50.000 habitantes; [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 251100,
+                "couterpartValues": {
+                  "total": 5250,
+                  "financial": 5250,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "719561/2009",
+            "validity": "31/12/2009 a 26/06/2012",
+            "limitDate": "2012-06-26T00:00:00.000Z",
+            "totalValue": 251100,
+            "transferValue": 245850,
+            "counterpartValue": 5250,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "718010/2009",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2014-07-15T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "062043/2009",
+            "organId": "62043/2009",
+            "processId": "062043/2009",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Maribondo, está localizado no agreste alagoano com sua população de 15.000 (quinze) mil habitantes, segundo levantamento IBGE e seu IDH é de 0,64,com renda familiar em torno de 370,00 reais a cidade fica localizada as margens da BR 316, onde diariamente circulam em média 3.000 (três) mil veículos que transitam do agreste e sertão e que naturalmente nos tornamos uma cidade estratégica de parada obrigatória dos que circulam pela BR 316. beneficiando em torno de 75 familias, Nossa cidade possui uma excelente gastronomia, acompanhada de bom artesanato local e diversos pontos pra banhos e a prática de esportes radicais no povoado Mata Verde na zona rural, sendo também um dos acesso a cidade de Mar Vermelho localizada a 600mt de altitude acima do nível do mar, com temperatura variando entre 10º e 22º, sendo considerada a suíça alagoana. Com a construção da praça, estaremos assim implantando um ponto de apoio para os turistas que transitam pela BR 316, bem como, com aqueles que estarão embarcando para a cidade de Mar Vermelho e para os banhos e esportes radicais na zona rural, não deixando que os turistas fiquem sem uma estrutura de apoio enquanto aguardam para seguir para seu destino. Conforme orientação desse Ministério estamos enviando o nº 23.695.1166.10V0.0027 da funcional programática sendo uma emenda do Dep. Federal Francisco Tenório, PMN-AL.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "construção de uma praça na avenida Senador Arnon de Melo as margens da BR-316, na zona urbana deste município.",
+            "information": "",
+            "proposalDate": "2009-08-14T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090006",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+              "value": 129440,
+              "details": {
+                "code": "5400020090006",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 129440,
+                "couterpartValues": {
+                  "total": 2690,
+                  "financial": 2690,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 126750,
+                  "amendment": "R$ 126.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.846.974-** - ANTONIO FERREIRA DE BARROS",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01062011",
+              "type": "Licitação - Convite",
+              "date": "2011-02-07T00:00:00.000Z",
+              "processId": "01062011",
+              "status": "Em elaboração",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Em elaboração",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "01062011",
+                "biddingId": "01062011",
+                "object": "CONSTRUÇÃO DE PRAÇA DE ACESSO.",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "DECLARO SOB AS PENAS DA LEI QUE O PROCESSO LICITATÓRIO MODALIDADE TOMADA DE PREÇO COM O Nº 002/2011, EFETUADA PARA CONSTRUÇÃO DE PRAÇA DE ACESSO, PELA PREFEITURA MUNICIPAL DE MARIBONDO, ATENDE A TODOS OS DISPOSITIVOS CONSTANTES NA LEGISLAÇÃO EM VIGOR EM ESPECIAL À LEI 8.666/93 E SUAS ALTERAÇÕES",
+                "publishDate": "2011-02-07T00:00:00.000Z",
+                "beginDate": "2011-02-24T00:00:00.000Z",
+                "endDate": "2011-06-17T00:00:00.000Z",
+                "biddingValue": 52108.59,
+                "homologationDate": "2011-06-17T00:00:00.000Z",
+                "city": "2795 - MARIBONDO",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Aguardando Prestação de Contas",
+            "number": "718010/2009",
+            "validity": "31/12/2009 a 15/07/2014",
+            "limitDate": "2014-07-15T00:00:00.000Z",
+            "totalValue": 129440,
+            "transferValue": 126750,
+            "counterpartValue": 2690,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "710664/2009",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2012-07-01T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "072449/2009",
+            "organId": "72449/2009",
+            "processId": "072449/2009",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "dec 6170",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Maribondo, esta localizado no agreste alagoano com sua população de 15.000 (quinze mil) habitantes, segundo levantamento do IBGE e seu IDH é de 0,64, cpm renda familiar em torno de R$470,00 reais, a cidade fica as margens da BR 316, onde diariamente circulam em média 3.000 (três) mil veículos que transitam do agreste e sertão com destino a capital do Estado, beneficiando deste maneira 200 familias. Sendo a principal porta de acesso a capital do Estado de duas grandes regiões agreste e sertão e que naturalmente nos tornamos uma cidade de parada obrigatória dos que pela BR 316 transitam, pois temos uma gastronomia excelente, acompanhada de um bom artesanato local e essa comercialização ocorre de forma precária em quiosques improvisados. Melhorar o atendimento aos turistas que nos visita e buscando incrementar e aumentar a renda dos que trabalham na venda de comidas típicas da região na Avenida Senador Arnon de Melo, com a construção de quiosques públicos, ficando assim demarcados e sinalizados os locais aptos para a comercialização desses produtos, para atender o fluxo de turistas que circulam diariamente em nossa cidade, transformando a avenida em local atrativo e com infra estrutura adequada.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Revitalização das margens da BR-316, na Avenida Senador Arnon de Mello no perímetro urbano, bem como construção de varios quiosques públicos padronizados no local.",
+            "information": "- Mario Araújo Eng. Civil CREA-AL. 410 – D -Sebastião Rocha Silva Gestor Municipal de Convênios do Município -Claudia Maria Souza de Holanda Assistente Social CRESS 1573 16ª Região",
+            "proposalDate": "2009-09-17T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090005",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+              "value": 298500,
+              "details": {
+                "code": "5400020090005",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - PROGRAMAÇÃO",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 298500,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "710664/2009",
+            "validity": "31/12/2009 a 01/07/2012",
+            "limitDate": "2012-07-01T00:00:00.000Z",
+            "totalValue": 298500,
+            "transferValue": 292500,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "710085/2009",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2015-11-25T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "071439/2009",
+            "organId": "71439/2009",
+            "processId": "071439/2009",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 1670/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Fazer uma 1ª etapa de calçamento em paralelepípedo da estrada que tem uma extensão de 6,5 km de acesso ao povoado Mata Verde na zona rural deste município, que tem uma população de 3.500 (três mil e quinhentos) habitantes com renda familiar em torno de R$370,00 reais ou seja abaixo da linha de pobreza, beneficiando desta forma 1000 familias.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em paralelepípedos",
+            "information": "- Mario Araújo Eng. Civil CREA-AL. 410 – D -Sebastião Rocha Silva Gestor Municipal de Convênios do Município -Claudia Maria Souza de Holanda Assistente Social CRESS 1573 16ª Região",
+            "proposalDate": "2009-09-15T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020094507",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 251000,
+              "details": {
+                "code": "5600020094507",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Infra-estrutura",
+                "couterpartRule": "",
+                "totalValue": 251000,
+                "couterpartValues": {
+                  "total": 5150,
+                  "financial": 5150,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245850,
+                  "amendment": "R$ 245.850,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.846.974-** - ANTONIO FERREIRA DE BARROS",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "710085/2009",
+            "validity": "31/12/2009 a 25/11/2015",
+            "limitDate": "2015-11-25T00:00:00.000Z",
+            "totalValue": 251000,
+            "transferValue": 245850,
+            "counterpartValue": 5150,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "710004/2009",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-30T00:00:00.000Z",
+        "end": "2013-12-03T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "063429/2009",
+            "organId": "63429/2009",
+            "processId": "063429/2009",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "Decreto 1670/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Calçamento em paralelepipedo nas ruas Dr. Ulisses Botelho e Rua José Correia de Araújo, beneficiado ao todo aproximadamente 270 familias carente com renda familia em tor de R$370,00 reais ou seja abaixo da linha de pobreza do Povoado Marta Verde, na zona rural deste município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Ações de infra-estrutura urbana",
+            "information": "O Município tem capacidade técnica de gerenciar para executar o projeto de implantação de construção da praça, pois o mesmo tem equipe técnica composta por arquiteto, engenheiro, assistente social, com vínculo empregatício com o Município e o mesmo tem capacidade financeira para aportar recursos para contra partida.",
+            "proposalDate": "2009-08-20T00:00:00.000Z",
+            "biddingDate": "2009-12-30T00:00:00.000Z",
+            "homologationDate": "2010-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020092620",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 149948.98,
+              "details": {
+                "code": "5600020092620",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 149948.98,
+                "couterpartValues": {
+                  "total": 2998.98,
+                  "financial": 2998.98,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 146950,
+                  "amendment": "R$ 146.950,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.207.624-** - JOSE AREMILTON FERNANDES SILVA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "710004/2009",
+            "validity": "30/12/2009 a 03/12/2013",
+            "limitDate": "2016-03-20T00:00:00.000Z",
+            "totalValue": 149948.98,
+            "transferValue": 146950,
+            "counterpartValue": 2998.98,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "708971/2009",
+        "company": {
+          "id": "18dac82b-d19b-403f-9a74-26186bde0bf0",
+          "cnpj": "12236873000187",
+          "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+          "cityId": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+          "sphere": "Municipal",
+          "city": {
+            "id": "a504ef05-1be0-428b-a076-cb3c809efbc6",
+            "name": "Maribondo",
+            "uf": "AL",
+            "ibge": "2704807"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2013-07-23T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "071548/2009",
+            "organId": "71548/2009",
+            "processId": "071548/2009",
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "legalFoundation": "decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Municipio de Maribondo, esta localizado no agreste alagoano com sua população de 15.000 (quinze mil) habitantes, segundo levantamento IBGE e seu IDH é de 0,64, e renda familiar em torno de R$370,00 reais a cidade fica localizada as margens da BR 316, onde diariamente circulam em média 3.000 (três mil) veículos que transitam do agreste e sertão e que naturalemente nos tornamos uma cidade estratégica de parada obrigatória dos que circulam por ela, sendo beneficiada em torno de 1000 familia, em nossa Zona Rural existe um povoaodo que tem sua denominaçao de Mata Verde com 3.000 (treis mil habitante) com alto grau de analfabetismo e abaixo da linha de pobreza localizado a 6,5 Km da rodovia e que liga a uma região muita rica em matas e água e torna-se uma porta de acesso a cidade de Mar Vermelho, sendo está a cidade mais alta do Estado com uma altitude acima de 600mt do nível do mar, que é muito procurada por ter uma temperatura variando entre 10º e 22º, sendo considerada a suiça alagoana. Com a pavimentação da estrada de acesso ao povoaodo atenderemos um público que busca a prática de esportes radicais e impulsionaremos a exploração do turismo econlógico no local, pois os resultados que obteremos será o incremento da economia local e geração de emprego e renda. Essa porposta é uma emenda parlamentar do Deputado Federal Carlos Alberto Canuto.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em paralelepípedo em estrada denominada de Manoel Correia de Araújo na zona rural que da acesso ao Povoado Mata Verde.",
+            "information": "-Mario Araújo. Eng. Civil CREA. 410 - D –al; Sebastião Rocha Silva. Gestor Municipal de Convênios do Município; Claudia Maria Souza de Holanda. Assistente Social. CRESS 1573 16ª Região",
+            "proposalDate": "2009-09-15T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090006",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+              "value": 251100,
+              "details": {
+                "code": "5400020090006",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - EMENDAS",
+                "cps": "",
+                "items": "Infraestrutura em ferrovias, rodovias, estradas, túneis, viadutos e pontes",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 251100,
+                "couterpartValues": {
+                  "total": 7350,
+                  "financial": 7350,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.236.873/0001-87 - MUNICIPIO DE MARIBONDO",
+            "respProponent": "***.726.984-** - JOSE MARCIO TENORIO DE MELO",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE MARIBONDO",
+            "documentNumber": "12.236.873/0001-87",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "708971/2009",
+            "validity": "31/12/2009 a 23/07/2013",
+            "limitDate": "2016-03-25T00:00:00.000Z",
+            "totalValue": 251100,
+            "transferValue": 243750,
+            "counterpartValue": 7350,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

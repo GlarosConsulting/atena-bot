@@ -1,0 +1,12 @@
+{
+  "beginDate": "2020-09-01T21:25:28.191Z",
+  "endDate": "2020-09-02T01:01:40.184Z",
+  "data": {
+    "location": {
+      "city": "Rio Largo",
+      "uf": "AL",
+      "ibge": "2707701"
+    },
+    "agreements": []
+  }
+}

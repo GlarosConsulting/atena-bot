@@ -1,0 +1,2764 @@
+{
+  "beginDate": "2020-09-01T22:53:09.025Z",
+  "endDate": "2020-09-01T23:07:29.982Z",
+  "data": {
+    "location": {
+      "city": "Piaçabuçu",
+      "uf": "AL",
+      "ibge": "2706802"
+    },
+    "agreements": [
+      {
+        "agreementId": "873858/2018",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTERIO DA CIDADANIA",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-07-05T00:00:00.000Z",
+        "end": "2021-07-30T00:00:00.000Z",
+        "program": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "033970/2018",
+            "organId": "33970/2018",
+            "processId": "339702018",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Piaçabuçu, localizado no Nordeste Brasileiro, no litoral Sul do Estado de Alagoas. Banhado pelo Rio da Integração Nacional, como é chamado o São Francisco. Tem como principal destino indutor, Maceió. Seu acesso é feito através da Rodovia AL 101 Sul, com percurso de aproximadamente 184 km. Sua população estimada é de 17.880 hab, segundo dados do IBGE, com densidade demográfica de 69,33 hab/KM², seu IDH é de 0,572 segundo o atlas de desenvolvimento humano/PNUD (2013), sua economia além de esta baseada na pesca, agricultura do coco, arroz, tem como principal atividade econômica o turismo. Sua população está desprovida implantação infraestrutura Esportiva portanto estamos solicitando a implantação de uma Quadra Poliesportiva. Com base nesses fatos o Poder Público Municipal definiu o Esporte e Lazer como uma das prioridades como estratégia para o desenvolvimento do esporte educacional, recreativo e de lazer no município para minimizar os índices de violência, disponibilizando um espaço para a prática esportiva, visando contemplar todas as famílias de Piaçabuçu, principalmente os adolescentes, porém necessita de Cooperação financeira para aumentar a infraestrutura esportiva no município de Piaçabuçu/AL, contribuindo dessa forma para a redução, a exclusão e o risco social e para melhorar a qualidade de vida de sua população através do esporte e lazer. O resultado esperado com esta implantação é dotar de um local adequado para pratica esportiva no município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Construção de uma Quadra Poliesportiva no município de Piaçabuçu/AL",
+            "information": "Em conformidade com o que estabelece o artigo 16, inciso V, da Portaria Interministerial MP/MF/MTC 424/2016, declaro que esta prefeitura dispõe de estrutura física e de pessoal, com capacidade administrativa, técnica e gerencial para a execução do objeto proposto, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legalmente, inclusive as que se referem a licitação, acompanhamento da execução e prestação de contas",
+            "proposalDate": "2018-03-27T00:00:00.000Z",
+            "biddingDate": "2018-07-05T00:00:00.000Z",
+            "homologationDate": "2018-07-11T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5500020180051",
+              "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+              "value": 232641.95,
+              "details": {
+                "code": "5500020180051",
+                "name": "EMENDAS PARLAMENTARES - Esporte e Grandes Eventos Esportivos - Implantacao e Modernizacao de Infraestrutura para Esporte Educacional, Recreativo e de Lazer - (CONTRATO DE REPASSE)",
+                "cps": "001/2018",
+                "items": "Equipamentos Comunitários",
+                "couterpartRule": "a) 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com ATÉ cinquenta mil habitantes. [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 232641.95,
+                "couterpartValues": {
+                  "total": 261,
+                  "financial": 261,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 232380.95,
+                  "amendment": "R$ 232.380,95 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.811.424-** - DJALMA GUTTEMBERG SIQUEIRA BREDA",
+            "grantor": "55000 - MINISTERIO DA CIDADANIA",
+            "respGrantor": "***.714.780-** - OSMAR GASPARINI TERRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2020",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2020-01-17T00:00:00.000Z",
+              "processId": "00962020",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aguardando Aceite",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "00962020",
+                "biddingId": "02/2020",
+                "object": "CONSTRUÇÃO DE 01 (UMA) QUADRA POLIESPORTIVA DESCOBERTA NO MUNICÍPIO DE PIAÇABUÇU",
+                "legalFoundation": "LEI 8.666",
+                "justification": "TOMADA DE PREÇO PARA A OBRA DE CONSTRUÇÃO DE 01 (UMA) QUADRA POLIESPORTIVA DESCOBERTA NO POVOADO RETIRO NO MUNICÍPIO DE PIAÇABUÇU",
+                "publishDate": "2020-01-17T00:00:00.000Z",
+                "beginDate": "2020-02-12T00:00:00.000Z",
+                "endDate": "2020-02-19T00:00:00.000Z",
+                "biddingValue": 243740.23,
+                "homologationDate": "2020-02-19T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": null,
+                "accepted": "Aguardando Aceite"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000012/2020",
+              "biddingId": "02/2020",
+              "date": "2020-03-10T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 30144632000190",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Obras",
+                "object": "CONSTRUÇÃO DE -1 (UMA) QUADRA POLIESPORTIVA DESCOBERTA NO MUNICÍPIO DE PIAÇABUÇU/AÇ",
+                "totalValue": 243740.23,
+                "publishDate": "2020-03-10T00:00:00.000Z",
+                "beginDate": "2020-02-20T00:00:00.000Z",
+                "endDate": "2021-02-10T00:00:00.000Z",
+                "signDate": "2020-02-20T00:00:00.000Z",
+                "executionProcessId": "02/2020 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "00962020 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "55000 - MINISTERIO DA CIDADANIA",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "873858/2018",
+            "validity": "05/07/2018 a 30/07/2021",
+            "limitDate": "2021-09-28T00:00:00.000Z",
+            "totalValue": 232641.95,
+            "transferValue": 232380.95,
+            "counterpartValue": 261,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "870901/2018",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2018-07-05T00:00:00.000Z",
+        "end": "2021-07-30T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "038223/2018",
+            "organId": "38223/2018",
+            "processId": "382232018",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Piaçabuçu é localizado junto às margens do Rio São Francisco tendo uma situação geográfica estratégica e privilegiada para a consolidação e ampliação dos seus atrativos de passeios náuticos pelos circundantes do Rio São Francisco e sua belíssima Foz no oceano atlântico. Sua população é de 17.203hab o IBGE 2010, com densidade demográfica de 69,33 hab/KM2, seu IDH é de 0,572 segundo o atlas de desenvolvimento humano/PNUD (2013), sua economia além de esta baseada na pesca, agricultura do coco, arroz, tem como principal atividade econômica o turismo. O fortalecimento da Política Pública do Turismo vem sendo trabalhado como prioridade, tendo como principal fator motivador o apoio Institucional, obtido nos últimos anos, através dos desdobramentos das metas dos Planos de desenvolvimento Turístico Nacional e Estadual. Com isso, o Município tem como objeto dessa proposta, a realização de ações de investimento em infraestrutura turística, que além de movimentar a economia local com a geração de emprego e renda, permitirá a acessibilidade e inclusão social de todos os públicos nos destinos turísticos locais. Possui relevância histórica vinculada a pesca e a passeios turísticos através da utilização de embarcações há longos anos necessitando além de sua consolidação como produto turístico, maior e melhor infraestrutura para ampliação das operações. Neste sentido, se constitui por um expressivo potencial turístico relacionado principalmente ao turismo de grupos junto a Rio São Francisco, a paisagem exuberante atrelada à fauna e flora do contexto, as manifestações culturais e a gastronomia peculiar relacionada ao pescado coletado no rio e no oceano. Com o objetivo de melhor acolher os grupos de turistas e ampliar as operações, faz-se necessário à reforma da Orla Fluvial, no sentido de melhorar a acessibilidade e segurança , no embarque e desembarque junto ao terminal turístico. Outro ponto significativo é que a Edificação do Terminal Turístico recebeu recursos para ampliação de suas instalações e comportará um restaurante panorâmico para receber grupos de turistas. Este fato irá ampliar sensivelmente a absorção de maior demanda de turistas desencadeando a necessidade para a tal reforma onde irá garantir uma infraestrutura turística compatível com o equipamento turístico. A reforma da Orla junto ao Terminal turístico dará apoio, principalmente ao embarque e desembarque de turistas com destino a Foz do Rio São Francisco e demais passeios de roteiros alternativos por todo o seu leito. A orla será preparada para receber embarcações variadas de pequeno e médio porte comportando o acesso de grupos de 100 pessoas que chegam à localidade de ônibus locados e de receptivos turísticos com origem principalmente de Maceió. As instalações da Orla, além de serem pensadas e preparadas para embarque e desembarque, receberão também iluminação, e mobiliários de apoio como bancos e lixeiras para melhor acolher o público turista. A reforma da orla de Piaçabuçu é uma ação de infraestrutura turística necessária e fundamental para a requalificação turística, melhorando consideravelmente o acolhimento dos turistas já frequentes e possibilitando a ampliação para o atracamento de embarcações de pequeno e médio porte como catamarãs e escunas. Esta obra terá flexibilidade e ajustes técnicos e arquitetônicos para acomodar distintos tipos de embarcações, possibilitando atender um maior número de escalas variadas conforme a característica das embarcações e o nível do espelho de água do rio. Também será um projeto elegante e adequado a paisagem natural e cultural do contexto de inserção para que suas alterações venham a agregar qualidade paisagística ao cenário peculiar de Piaçabuçu.É importante esclarecer que atualmente o Terminal Turístico possui apenas uma escadaria nas margens do rio e um pequeno acesso tipo passarela construído em madeira perpetuando instalações bastante precárias e que dificultam a logística das operações, fragilizando a segurança e a atratividade turística do local.Dentro destes fatores, entende-se ser de expressiva relevância a Reforma da Orla Fluvial, sobretudo quando levamos em consideração o fluxo turístico extraído de dados municipais de controle de fluxo, percebemos que ultrapassa de 8 mil pessoas mês, em baixa temporada. Se levarmos em consideração os meses de alta temporada, chegamos a ter um acréscimo de 30 á 35% no valor do fluxo turístico na Cidade. Entende-se que além de aumentar sensivelmente a demanda turística do local através de uma oferta melhor estruturada a partir da reforma do equipamento, desencadeará um processo de desenvolvimento econômico a toda a cadeia do turismo local influenciando e refletindo ganhos para os pescadores locais, para os restaurantes, agências de turismo, acomodações hoteleiras, comercialização de artesanato e arrecadação municipal. A obra será realizada na sede do município com Coordenadas: 10°24'29.31´´S 36°26'05.60´´W. A obra esta em conformidade com o programa governamental.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Reforma da orla fluvial turística no município de Piaçabuçu-AL",
+            "information": "Em conformidade com o que estabelece o artigo 16, inciso V, da Portaria Interministerial MP/MF/MTC 424/2016, declaro que esta prefeitura dispõe de estrutura física e de pessoal, com capacidade administrativa, técnica e gerencial para a execução do objeto proposto, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legalmente, inclusive as que se referem a licitação, acompanhamento da execução e prestação de contas",
+            "proposalDate": "2018-03-31T00:00:00.000Z",
+            "biddingDate": "2018-07-05T00:00:00.000Z",
+            "homologationDate": "2018-07-11T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020180004",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+              "value": 265173.48,
+              "details": {
+                "code": "5400020180004",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+                "cps": "007/2018",
+                "items": "Equipamentos Comunitários",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 265173.48,
+                "couterpartValues": {
+                  "total": 283,
+                  "financial": 283,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 264890.48,
+                  "amendment": "R$ 264.890,48 - Marx Beltrão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.811.424-** - DJALMA GUTTEMBERG SIQUEIRA BREDA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.544.281-** - JOSE ANTONIO SILVA PARENTE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "870901/2018",
+            "validity": "05/07/2018 a 30/07/2021",
+            "limitDate": "2021-09-28T00:00:00.000Z",
+            "totalValue": 265173.48,
+            "transferValue": 264890.48,
+            "counterpartValue": 283,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "870721/2018",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-07-05T00:00:00.000Z",
+        "end": "2021-07-30T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "038225/2018",
+            "organId": "38225/2018",
+            "processId": "382252018",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Piaçabuçu, localizado no Nordeste Brasileiro, especificamente, no litoral Sul do Estado de Alagoas. Banhado pelo Rio da Integração Nacional, como é chamado o São Francisco. Tem como principal destino indutor, a Capital Maceió. Seu acesso é feito através da Rodovia AL 101 Sul, com percurso de aproximadamente 184 km. Sua população estimada é de 17.203 habitantes, segundo dados do Instituto Brasileiro de Geografia e Estatística-IBGE 2010, com densidade demográfica de 69,33 habitantes por quilômetros quadrados, seu índice de desenvolvimento humano (IDH) é de 0,572 segundo o atlas de desenvolvimento humano/PNUD (2013), sua economia além de esta baseada na pesca, agricultura do coco, arroz, tem como principal atividade econômica o turismo. O Povoado Penedinho situado no município de Piaçabuçu apresenta localização privilegiada junto às margens do Rio São Francisco e seu complexo de ilhas. Possui tradição histórica de ser um local perpetuado de intensas atividades de lazer aos finais de semana tanto para sua comunidade local, como para os cidadãos do município. Por sua exuberância paisagística, carrega potencial para receber turistas potenciais desde que apresente melhor infraestrutura e embelezamento paisagístico. Atualmente não apresenta nenhum tratamento arquitetônico, paisagístico ou urbanístico estando consolidado por dois bares e um restaurante. A proposta prevê a readequação arquitetônica dos estabelecimentos gastronômicos, assim como toda a requalificação da área através de projeto paisagístico e urbanístico que contemplarão decks e níveis variados para acesso e contemplação do rio, ajustes para acessibilidade das pequenas embarcações dos pescadores artesanais locais, espaço preparado com infraestrutura para eventos e atividades culturais variadas, assim como a inserção de mobiliários urbanos como bancos, lixeiras, iluminação, sinalização turística, vegetação nativa, espaços de lazer para crianças e áreas de contemplação e estar. Relacionando-se a sua consolidação histórica e sua exuberância paisagística, o Praça MultiEventosdo Povoado Penedinho possui expressivo potencial para ser implementada e receber qualificação espacial para melhor absorver as comunidades locais e futuros visitantes.Será proposto um projeto arquitetônico e urbanístico que contemple adequação a paisagem do Rio São Francisco potencializando ao máximo as cenas naturais existentes. Receberá inserções de equipamentos e mobiliários com grau de sustentabilidade econômica que priorizem fácil manutenção e durabilidade. As áreas de superfície receberão pavimentação em alguns setores intercalando com saibro e vegetação para melhor permeabilidade do solo e drenagem natural. Dentro destes fatores, entende-se ser de expressiva relevância a constituição e materialização da Praça de Lazer e Eventos do Povoado Penedinho, sobretudo , quando levamos em consideração o fluxo turístico que ultrapassa de 4.500 pessoas mês, em baixa temporada. Se levarmos em consideração os meses de alta temporada , chegamos a ter um acréscimo de 40 á 45% no valor do fluxo turístico no Povoado. Esse aspecto se dá pela disponibilidade do turismo de sol e praia, bem como o de contemplação com as proximidades da Foz do São Francisco e ilhas vizinhas ao Povoado, como já explanado em parágrafos anteriores. O fortalecimento da Política Pública do Turismo vem sendo trabalhado como prioridade, tendo como principal fator motivador o apoio Institucional, obtido nos últimos anos, através dos desdobramentos das metas dos Planos de desenvolvimento Turístico Nacional e Estadual. Garantindo a diversificação, exploração sustentável da atividade turística, sobretudo, como principal atividade geradora de emprego e renda na Cidade de Piaçabuçu. Com isso, o Município tem como objeto dessa proposta, a realização de ações de investimento em infraestrutura turística, que além de movimentar a economia local com a geração de emprego e renda, permitirá a acessibilidade e inclusão social de todos os públicos nos destinos turísticos locais. O problema a ser resolvido com a construção da Praça será dotar de um local adequado de lazer para os turistas que são o publico alvo que ali transitam fazendo que a região aumente as visitas cada vez mais este é o resultado esperado, um conforto maior aos turistas. Esta obra é de grande importância para os turistas que transitam pelo município e pela região, pois o município necessita fazer praça para realizar os eventos e assim atrair mais turistas. A coordenada geográfica da obra será 10°23´53.14´´S 36°29´24.65´´W. A obra esta em conformidade com o programa governamental.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Construção de praça de eventos no município de Piaçabuçu-AL",
+            "information": "Em conformidade com o que estabelece o artigo 16, inciso V, da Portaria Interministerial MP/MF/MTC 424/2016, declaro que esta prefeitura dispõe de estrutura física e de pessoal, com capacidade administrativa, técnica e gerencial para a execução do objeto proposto, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legalmente, inclusive as que se referem a licitação, acompanhamento da execução e prestação de contas",
+            "proposalDate": "2018-03-31T00:00:00.000Z",
+            "biddingDate": "2018-07-05T00:00:00.000Z",
+            "homologationDate": "2018-07-11T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020180004",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+              "value": 276268.73,
+              "details": {
+                "code": "5400020180004",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR 2018",
+                "cps": "007/2018",
+                "items": "Equipamentos Comunitários",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 276268.73,
+                "couterpartValues": {
+                  "total": 276.27,
+                  "financial": 276.27,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 275992.46,
+                  "amendment": "R$ 275.992,46 - Marx Beltrão"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.811.424-** - DJALMA GUTTEMBERG SIQUEIRA BREDA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "003/2020",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2020-03-12T00:00:00.000Z",
+              "processId": "590",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "590",
+                "biddingId": "003/2020",
+                "object": "CONSTRUÇÃO DA PRAÇA DA EVENTOS NO MUNICÍPIO DE PIAÇABUÇU/AL",
+                "legalFoundation": "LEI 8.666",
+                "justification": "LICITAÇÃO TOMADA DE PREÇO PARA CONSTRUÇÃO DA PRAÇA DA EVENTOS NO MUNICÍPIO DE PIAÇABUÇU/AL",
+                "publishDate": "2020-03-12T00:00:00.000Z",
+                "beginDate": "2020-03-30T00:00:00.000Z",
+                "endDate": "2020-05-05T00:00:00.000Z",
+                "biddingValue": 267353.12,
+                "homologationDate": "2020-05-05T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": "2020-07-16T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000031/2020",
+              "biddingId": "003/2020",
+              "date": "2020-05-21T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 34214051000138",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Obras",
+                "object": "CONSTRUÇÃO DA PRAÇA DE EVENTOS",
+                "totalValue": 267353.12,
+                "publishDate": "2020-05-21T00:00:00.000Z",
+                "beginDate": "2020-05-07T00:00:00.000Z",
+                "endDate": "2021-05-07T00:00:00.000Z",
+                "signDate": "2020-05-07T00:00:00.000Z",
+                "executionProcessId": "003/2020 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "590 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "870721/2018",
+            "validity": "05/07/2018 a 30/07/2021",
+            "limitDate": "2021-09-28T00:00:00.000Z",
+            "totalValue": 276268.73,
+            "transferValue": 275992.46,
+            "counterpartValue": 276.27,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "855362/2017",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-13T00:00:00.000Z",
+        "end": "2020-10-30T00:00:00.000Z",
+        "program": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "024216/2017",
+            "organId": "24216/2017",
+            "processId": "0242162017",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de Piaçabuçu, localizado no Nordeste Brasileiro, no litoral Sul do Estado de Alagoas. Banhado pelo Rio da Integração Nacional, como é chamado o São Francisco. Tem como principal destino indutor, Maceió. Seu acesso é feito através da Rodovia AL 101 Sul, com percurso de aproximadamente 184 km. Sua população estimada é de 17.880 hab, segundo dados do IBGE, com densidade demográfica de 69,33 hab/KM², seu IDH é de 0,572 segundo o atlas de desenvolvimento humano/PNUD (2013), sua economia além de esta baseada na pesca, agricultura do coco, arroz, tem como principal atividade econômica o turismo. A matriz de exploração turística municipal é bastante diversificada, desde o Turismo do Sol e Praia (Praia do Peba, Foz do Rio São Francisco), Turismo de contemplação (Áreas de Preservação ambientais da Marituba e APA Piaçabuçu), turismo religioso (Procissões de Bom Jesus dos Navegantes, Procissão de São Francisco de Borja) até o Turismo Histórico e Cultural (Rota do Imperador,Reisado, Quadrilhas Juninas, Côco de Roda) e por ultimo, mas não menos importante, o Turismo de Eventos, com as tradicionais Festas de Bom Jesus na sede do Município e em 3 dos seus nove povoados, que já acontecem a mais de 50 anos, que movimenta sobretudo no primeiro semestre uma média de visitação de aproximadamente 30 a 35% a mais da média do segundo semestre do ano. Outro evento consolidado na Cidade é o Festival do Camarão que ocorre já a três anos no mês de janeiro, com uma média de público durante os dois dias de evento de aproximadamente 40 mil pessoal visitando a praia do Peba e participando das atrações musicais durante a noite, e sobretudo, apreciando a boa culinária local. O fortalecimento da Política Pública do Turismo vem sendo trabalhado como prioridade, tendo como principal fator motivador o apoio Institucional, obtido nos últimos anos, através dos desdobramentos das metas dos Planos de desenvolvimento Turístico Nacional e Estadual. Garantindo a diversificação, exploração sustentável da atividade turística, sobretudo, como principal atividade geradora de emprego e renda no município.O Município tem como objeto, a realização de ações de investimento em infraestrutura turística, que além de movimentar a economia local com a geração de emprego e renda, permitirá a acessibilidade e inclusão social de todos os públicos nos destinos turísticos locais.O projeto trata-se de uma reestruturação e requalificação da atual edificação que abriga hoje, o Centro de Turismo de Piaçabuçu(Situado na Pr Virgílio de Lemos S/N). Trata-se de uma edificação de valor histórico, situada junto ao calçadão na beira do Rio São Francisco que hoje contempla as funções de Secretaria do Turismo, centro de venda de artesanato e lembranças da cidade e um pequeno palco para apresentações. Pela sua localização estratégica de estar junto ao atual Pier de atracadouro das embarcações que saem para os passeios para a Foz do Rio São Francisco, sustenta em si estrategicamente de ser um espaço de apoio direto ao turista que além de oferecer informações e auxilio ao turista, contempla a função de comercialização de produtos e artefatos locais.Sendo assim, possui o potencial de ser a principal edificação do calçadão da Orla necessitando ser reestruturado para melhor atender o turista que chega a região. Nesta perspectiva futura, a prefeitura entende ser fundamental que o prédio receba intervenções arquitetônicas para sua requalificação e aparato para suporte de atividades conectadas ao turismo. A edificação deverá passar por uma reforma e ampliação intervencionista que possibilite suporte para suas novas atividades sofrendo adaptações de seu layout interno, ampliação de pavimento com mezanino e terraço panorâmico e tratamento de suas áreas externas adjacentes para configurar o Beco Cultural.Seu conceito pretende preservação as linguagens históricas atrelando uma estética contemporânea com aparato de conforto e funcionalidade para ordenação dos novos usos. A arquitetura proposta irá atrelar harmonia à paisagem concretizada pelo conjunto urbano, juntamente com o semblante constitutivo do Velho Chico. Um conceito intrínseco de preservar a estética histórica de uma arquitetura eclética vernacular, inserindo funcionalidade e modernidade ao conjunto da obra.Coordenadas Geográficas : 10°24’28.9” S 36°26’04.9” W",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Reforma e Ampliação do Centro Integrado de Ações Turísticas no município de Piaçabuçu",
+            "information": "Em conformidade com o que estabelece o artigo 16, inciso V, da Portaria Interministerial MP/MF/MTC 424/2016, declaro que esta prefeitura dispõe de estrutura física e de pessoal, com capacidade administrativa, técnica e gerencial para a execução do objeto proposto, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legalmente, inclusive as que se referem a licitação, acompanhamento da execução e prestação de contas",
+            "proposalDate": "2017-03-25T00:00:00.000Z",
+            "biddingDate": "2017-12-13T00:00:00.000Z",
+            "homologationDate": "2017-12-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020170005",
+              "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+              "value": 886623.58,
+              "details": {
+                "code": "5400020170005",
+                "name": "APOIO A PROJETOS DE INFRAESTRUTURA TUR?STICA - CONTRATO DE REPASSE - EMENDA PARLAMENTAR",
+                "cps": "",
+                "items": "VI – construção, revitalização e reforma de edificações de uso público ou coletivo destinadas a atividades indutoras de turismo, como centros de cultura, museus, teatros, casas de memória, centros de convenções, feiras, centros de eventos, centros de apoio ao turista e centros de comercialização de produtos associados ao turismo;",
+                "couterpartRule": "MUNICÍPIOS - 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até cinquenta mil habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 886623.58,
+                "couterpartValues": {
+                  "total": 886.62,
+                  "financial": 886.62,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 885736.96,
+                  "amendment": "R$ 885.736,96 - ROSINHA DA ADEFAL"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.811.424-** - DJALMA GUTTEMBERG SIQUEIRA BREDA",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "02/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2020-01-09T00:00:00.000Z",
+              "processId": "32612019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "32612019",
+                "biddingId": "02/2019",
+                "object": "REFORMA E AMPLIAÇÃO DO TERMINAL TURÍSTICO",
+                "legalFoundation": "LEI 8.666",
+                "justification": "LICITAÇÃO TOMADA DE PREÇO PARA EXECUÇÃO DA OBRA DE REFORMA E AMPLIAÇÃO DO TERMINAL TURÍSTICO",
+                "publishDate": "2020-01-09T00:00:00.000Z",
+                "beginDate": "2020-01-29T00:00:00.000Z",
+                "endDate": "2020-02-18T00:00:00.000Z",
+                "biddingValue": 886623.58,
+                "homologationDate": "2020-02-18T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": "2020-07-28T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000010/2020",
+              "biddingId": "02/2019",
+              "date": "2020-03-10T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 11446462000153",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Obras",
+                "object": "Reforma e Ampliação do Terminal Turístico",
+                "totalValue": 886623.58,
+                "publishDate": "2020-03-10T00:00:00.000Z",
+                "beginDate": "2020-02-19T00:00:00.000Z",
+                "endDate": "2020-10-30T00:00:00.000Z",
+                "signDate": "2020-02-19T00:00:00.000Z",
+                "executionProcessId": "02/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "32612019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "855362/2017",
+            "validity": "13/12/2017 a 30/10/2020",
+            "limitDate": "2020-12-29T00:00:00.000Z",
+            "totalValue": 886623.58,
+            "transferValue": 885736.96,
+            "counterpartValue": 886.62,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "847640/2017",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-08-25T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "2029 – DESENVOLVIMENTO REGIONAL E TERRITORIAL PT -22.333.2029.20NK.0027 - Ação: Estruturação e Dinamização de Arranjos Produtivos Locais em Espaços Sub-regionais - No Estado de Alagoas - (EMENDA)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "027767/2017",
+            "organId": "50330/2017",
+            "processId": "59550.000227/2017-28",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto nº 6.170/2007 c/c Portaria Interministerial nº 424/2016.",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "O município de Piaçabuçu, localizado no Nordeste Brasileiro, especificamente, no litoral Sul do Estado de Alagoas. Banhado pelo Rio da Integração Nacional, como é chamado o São Francisco. Tem como principal destino indutor, a Capital Maceió. Seu acesso é feito através da Rodovia AL 101 Sul, com percurso de aproximadamente 184 km. Sua população estimada é de 17.880 habitantes, segundo dados do Instituto Brasileiro de Geografia e Estatística-IBGE, com densidade demográfica de 69,33 habitantes por quilômetros quadrados, seu índice de desenvolvimento humano (IDH) é de 0,572 segundo o atlas de desenvolvimento humano/PNUD (2013), sua economia além de esta baseada na pesca, agricultura do coco, arroz, tem como principal atividade econômica o turismo. A presente proposta tem como objetivo aumentar a sustentabilidade de espaços sub-regionais da Política Nacional de Desenvolvimento Regional, para a redução das desigualdades inter e intra-regionais. O objeto Pavimentação em Paralelepípedo em Ruas do Povoado de Penedinho vai garantir o êxito da proposta tendo em vista que nessas Ruas consta a Fabrica Arrozeira Penedinho Ltda - uma Fábrica de Arroz e a Associação de coo. Agricola para Desenvolvimento da Agricultura.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação em Paralelepípedo em Ruas do Povoado de Penedinho conforme descritas no Plano de Trabalho",
+            "information": "Em conformidade com o que estabelece o artigo 16, inciso V, da Portaria Interministerial MP/MF/MTC 424/2016, declaro que esta prefeitura dispõe de estrutura física e de pessoal, com capacidade administrativa, técnica e gerencial para a execução do objeto proposto, assumindo inteira responsabilidade pelo cumprimento de todas as fases exigidas legalmente, inclusive as que se referem a licitação, acompanhamento da execução e prestação de contas",
+            "proposalDate": "2017-03-28T00:00:00.000Z",
+            "biddingDate": "2017-08-25T00:00:00.000Z",
+            "homologationDate": "2017-09-06T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320170028",
+              "name": "2029 – DESENVOLVIMENTO REGIONAL E TERRITORIAL PT -22.333.2029.20NK.0027 - Ação: Estruturação e Dinamização de Arranjos Produtivos Locais em Espaços Sub-regionais - No Estado de Alagoas - (EMENDA)",
+              "value": 450466.78,
+              "details": {
+                "code": "2220320170028",
+                "name": "2029 – DESENVOLVIMENTO REGIONAL E TERRITORIAL PT -22.333.2029.20NK.0027 - Ação: Estruturação e Dinamização de Arranjos Produtivos Locais em Espaços Sub-regionais - No Estado de Alagoas - (EMENDA)",
+                "cps": null,
+                "items": "Desenvolver o potencial e a capacidade produtiva de empreendimentos locais, potencialmente competitivos, visando sua inserção nas economias local, regional, nacional e internacional",
+                "couterpartRule": "Municípios com até 50 mil habitantes [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 450466.78,
+                "couterpartValues": {
+                  "total": 466.78,
+                  "financial": 466.78,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 450000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.811.424-** - DJALMA GUTTEMBERG SIQUEIRA BREDA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-09-11T00:00:00.000Z",
+              "processId": "012019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "012019",
+                "biddingId": "01/2019",
+                "object": "PAVIMENTAÇÃO EM PARALELEPÍPEDO E SINALIZAÇÃO VERTICAL EM DIVERSAS RUAS (PENEDINHO) NO MUNIC´PIO DE PIAÇABUÇU/AL",
+                "legalFoundation": "LEI 8.666",
+                "justification": "LICITAÇÃO TOMADA DE PREÇO PARA OBRA DE PAVIMENTAÇÃO EM PARALELEPÍPEDO E SINALIZAÇÃO VERTICAL EM DIVERSAS RUAS (PENEDINHO) NO MUNIC´PIO DE PIAÇABUÇU/AL",
+                "publishDate": "2019-09-11T00:00:00.000Z",
+                "beginDate": "2019-10-18T00:00:00.000Z",
+                "endDate": "2020-01-22T00:00:00.000Z",
+                "biddingValue": 450466.78,
+                "homologationDate": "2020-01-22T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": "2020-04-01T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2020",
+              "biddingId": "01/2019",
+              "date": "2020-01-30T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 08533362000150",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Obras",
+                "object": "PAVIMENTAÇÃO EM PARALELEPÍPEDO E SINALIZAÇÃO VERTICAL EM DIVERSAS RUAS (PENEDINHO) NO MUNICÍPIO DE PIAÇABUÇU/AL",
+                "totalValue": 447910.88,
+                "publishDate": "2020-01-30T00:00:00.000Z",
+                "beginDate": "2020-01-22T00:00:00.000Z",
+                "endDate": "2020-08-25T00:00:00.000Z",
+                "signDate": "2020-01-22T00:00:00.000Z",
+                "executionProcessId": "01/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "012019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "847640/2017",
+            "validity": "25/08/2017 a 31/12/2020",
+            "limitDate": "2021-03-01T00:00:00.000Z",
+            "totalValue": 450466.78,
+            "transferValue": 450000,
+            "counterpartValue": 466.78,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "811853/2014",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2014-12-30T00:00:00.000Z",
+        "end": "2018-10-30T00:00:00.000Z",
+        "program": "2054 - PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Rescindido",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "032254/2014",
+            "organId": "32254/2014",
+            "processId": "0322542014",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PIACABUCU E UMA CIDADE LOCALIZADA A 137 QUILOMETROS DA CAPITAL DE ALAGOAS MACEIO E MICRORREGIAO DE PENEDO, A CIDADE E RICA NA PRODUÇAO DE COCO, ARROZ, NA PESCA NO RIO SAO FRANCISCO E NO MAR E NO TURISMO LOCAL QUE TEM COMO PRINCIPAIS PONTOS TURISTICOS A PRAIA DO POVOADO PONTAL DO PEBA E A FOZ DO RIO SAO FRANCISCO, O RIO DA INTEGRAÇAO NACIONAL. A POPULAÇAO DE PIACABUCU E DE APROXIMADAMENTE 18.000 HABITANTES EM 2013. E UMA CIDADE EM DESENVOLVIMENTO E QUE PRECISA E MUITO DO APOIO DO GOVERNO FEDERAL PARA QUE POSSAMOS TRAZER A REALIDADE LOCAL MOBILIDADE URBANA, TEMOS AQUI NO MUNICÍPIO O BAIRRO CONHECIDO COMO PACIÊNCIA COM UMA POPULAÇÃO DE APROXIMADAMENTE 5.238 HABITANTES SEGUNDO ULTIMO CENSO, ESSA POPULAÇÃO SERÁ BENEFICIADA COM A CONSTRUÇÃO DE UM CONJUNTO HABITACIONAL COM 170 NOVAS UNIDADES HABITACIONAIS UM DOS GRANDES PROBLEMAS EM FRETADOS POR ESSE BAIRRO É QUE O ÚNICO ACESSO A ELE SE DÁ PELA RODOVIA AL-225 COM UM ACOSTAMENTO PRECÁRIO ONDE ACONTECERAM JÁ FORAM REGISTRADOS VARIOS ACIDADES PELA PROXIMIDADE SEM SINALIZAÇÃO E ESPAÇO ENTRE VEÍCULOS E PESSOAS QUE ALI TRANSITAM, VALE RESSALTAR QUE A OCORRÊNCIA DE ACIDENTE PODE AUMENTAR COM O TERMINO DA CONSTRUÇÃO DESSAS NOVAS UNIDADES HABITACIONAIS JÁ PENSANDO NISSO ESTAMOS CORRENDO PARA CONTEMPLAR ESSA COMUNIDADE COM A CONSTRUÇÃO DE UMA CICLOVIA DANDO ASSIM SEGURANÇA A ESSA POPULAÇÃO EM CRESCIMENTO QUE TEM COMO PRINCIPAL ECONOMIA A PRESTAÇÃO DE SERVIÇOS, QUE NA SUA GRANDE MAIORIA É PRESTADA NO CENTRO DA CIDADE OU NA SUA ORLA. COM A CONSTRUÇÃO DA CICLOVIA TODA COMUNIDADE SERÁ BENEFICIADA DANDO CONFORTO E SEGURANÇA A QUEM PRECISA PARA TRABALHAR OU AO PROPRIO ACESSO A COMUNIDADE. O OUTRO LOCAL NO CENTRO DA CIDADE A RUA MESTRE FRANCELINO QUE E UMA DAS PRINCIPAIS RUAS DA CIDADE, ESSA RUA VEM ENFRENTANDO DIFICULDADES COM O TRAFEGO DE VEICULOS O ACESSO DE PESSOAS E OUTRO GRANDE IMPLICADOR E O FLUXO DE BOA PARTE DE PRODUTOS QUE CHEGAM A CIDADE, POR ESSA RUA DAR O PRINCIPAL ACESSO A ORLA DA CIDADE, ONDE FICA O PRINCIPAL PONTO DE ACESSO DE PESSOAS A FOZ DO RIO SAO FRANCISCO, ILHAS E INCLUSIVE AO NOSSO ESTADO VIZINHO QUE E O DE SERGIPE, COM A RECUPERACAO DESSA RUA TODO O MUNICIPIO TEM A GANHAR E ASSIM DESENVOLVEREMOS MAIS ESSA CIDADE CARENTE DE INFRAESTRUTURA INCLUSIVE GERANDO MAIS RENDA COM O MAIOR FLUXO DE PRODUTOS COMERCIALIZADOS NA REGIAO COM O PESCADO UMA DAS GRANDES ECONOMIAS DA REGIAO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE CICLOVIA E PAVIMENTAÇÃO DE RUA",
+            "information": "DECLARAMOS PARA OS DEVIDOS FINS QUE A PREFEITURA MUNICIPAL DE PIAÇABUÇU-AL, INSCRITA NO CNPJ 12.247.268/0001-01, LOCALIZADA PRAÇA SÃO FRANCISCO DE BORJA, S/N, NA CIDADE DE PIAÇABUÇU, ESTADO DE ALAGOAS, POSSUI EQUIPE COM CAPACIDADE TÉCNICA E GERENCIAL PARA ATUAR NESTE PROJETO, APÓS 100% DA SUA EXECUÇÃO. ESTA EQUIPE ESTA DEVIDAMENTE APTA A DESENVOLVER AS ATIVIDADES PARA A PERFEITA EXECUÇÃO DO PROJETO DE CONSTRUÇÃO DE UMA CICLOVIA E PAVIMENTAÇÃO DE RUA NO MUNICIPIO DE PIAÇABUÇU, COM RECURSOS ORIUNDOS DE EMENDA DO DEPUTADO FEDERAL ARTHUR CESAR PEREIRA DE LIRA , NO VALOR DE 490.133,00, BEM COMO, EXECUTAR TODAS AS AÇÕES PLANEJADAS NO REFERIDO PLANO DE TRABALHO.",
+            "proposalDate": "2014-03-20T00:00:00.000Z",
+            "biddingDate": "2014-12-30T00:00:00.000Z",
+            "homologationDate": "2015-01-05T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020140001",
+              "name": "2054 - PLANEJAMENTO URBANO",
+              "value": 491000,
+              "details": {
+                "code": "5600020140001",
+                "name": "2054 - PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "Implantação de pavimentação em vias públicas urbanas. (Vide aba ANEXOS - Arquivo PAVIMENTAÇÃO), Adequação e requalificação de vias de transporte público coletivo urbano. (Vide aba ANEXOS - Arquivo MOBILIDADE URBANA).",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 491000,
+                "couterpartValues": {
+                  "total": 867,
+                  "financial": 867,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 490133,
+                  "amendment": "R$ 490.133,00 - Arthur Lira"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.211.464-** - AGUINALDO VELLOSO BORGES RIBEIRO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Rescindido - Encerrado",
+            "number": "811853/2014",
+            "validity": "30/12/2014 a 30/10/2018",
+            "limitDate": "2018-12-29T00:00:00.000Z",
+            "totalValue": 491000,
+            "transferValue": 490133,
+            "counterpartValue": 867,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "781365/2012",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2013-05-23T00:00:00.000Z",
+        "end": "2019-04-30T00:00:00.000Z",
+        "program": "OGU 2012",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Liminar Judicial",
+            "status": {
+              "value": "Prestação de Contas em Análise",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "048146/2012",
+            "organId": "48146/2012",
+            "processId": "048146/2012",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE PIAÇABUÇU ESTÁ LOCALIZADO NA REGIÃO SUL DO ESTADO DE ALAGOAS E É BANHADO PELO RIO SÃO FRANCISCO. O ACESSO A PARTIR DE MACEIÓ É FEITO ATRAVÉS DA RODOVIA AL 101 SUL, COM PERCURSO EM TORNO DE 137KM, SEGUNDO O IBGE, SUA POPULAÇÃO É DE 17.219 HABITANTES SENDO 10.452 DA ZONA URBANA E 6.767 DA ZONA RURAL IBGE 2010 . SEU IDH 0,613. Com esse projeto irá beneficiar 200 produtores, onde existem 04 Associações;01 cooperativa 01 assentamento(crédito fundiário). Trata-se também de 4.300 bovinos e 2000 ovinos na região, onde há uma pastagem de 800ha. Existem vária unidades agroindustriais na região como: 3 Beneficiadora de arroz, 1 beneficiadora aroeira 1 processamento de cocoem construção). Quanto a situação do uso dos recursos naturais renováveis: Vegetação ciliar relativamente preservada, Solo moderadamente conservado, poucas áreas degradadas, médio assoreamento no rio São Francisco e afluentes, Rotação de cultura, agricultura de baixo impacto, Desmatamento médio, porém contínuo ,Baixa utilização de agrotóxicos, trabalho de conscientização dos agricultores. Quanto a caracterização do pleito: Feira muito tradicional, porém muito espalhada, pulverizada, desordenada, sem padronização. Fortalecimento dos negócios dos pequenos, concentração da feira, manutenção da tradição da feira e etc. População de um modo geral, incluindo moradores da zona rural. Com tudo isso tem o objetivo de estimular e apoiar a pequena produção agropecuária, por meios de agregação de valor a seus produtos, melhorando a renda e a qualidade da vida dos produtores.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Construção de Mercado Público",
+            "information": "possui capacidade técnica",
+            "proposalDate": "2012-11-27T00:00:00.000Z",
+            "biddingDate": "2013-05-23T00:00:00.000Z",
+            "homologationDate": "2013-05-27T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020120040",
+              "name": "OGU 2012",
+              "value": 700408.16,
+              "details": {
+                "code": "2200020120040",
+                "name": "OGU 2012",
+                "cps": "",
+                "items": "APOIO AO PEQUENO E MÉDIO PRODUTOR AGROPECUÁRIO *************************************************************** AÇÃO: 8611****************************************************** I - INVESTIMENTO 1.Projetos de Recuperação e Correção de Solos 2.Projetos de Mecanização Agrícola 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Infra-Estrutura Agropecuária 7.Projetos de Energização Rural",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 700408.16,
+                "couterpartValues": {
+                  "total": 17908.16,
+                  "financial": 17908.16,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 682500,
+                  "amendment": "R$ 682.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.811.424-** - DJALMA GUTTEMBERG SIQUEIRA BREDA",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.265.978-** - SANDRO PEPE"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "003/2014",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2014-08-15T00:00:00.000Z",
+              "processId": "26822014",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "26822014",
+                "biddingId": "003/2014",
+                "object": "CONSTRUÇÃO DE 01 (UM) MERCADO PUBLICO",
+                "legalFoundation": "305/2014",
+                "justification": "ESSE MERCADO PUBLICO IRA BENEFICIAR COMERCIANTES E A POPULAÇÃO LOCAL QUE NECESSITA DE UMA NOVA ESTRUTURA.",
+                "publishDate": "2014-08-15T00:00:00.000Z",
+                "beginDate": "2014-09-01T00:00:00.000Z",
+                "endDate": "2014-09-01T00:00:00.000Z",
+                "biddingValue": 659779.4,
+                "homologationDate": "2014-09-08T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000003/2015",
+              "biddingId": "003/2014",
+              "date": "2015-01-27T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 14554855000179",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Material",
+                "object": "CONSTRUÇÃO DE UM MERCADO PUBLICO",
+                "totalValue": 659779.4,
+                "publishDate": "2015-01-27T00:00:00.000Z",
+                "beginDate": "2014-09-08T00:00:00.000Z",
+                "endDate": "2015-04-08T00:00:00.000Z",
+                "signDate": "2014-09-08T00:00:00.000Z",
+                "executionProcessId": "003/2014 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "26822014 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas em Análise",
+            "number": "781365/2012",
+            "validity": "23/05/2013 a 30/04/2019",
+            "limitDate": "2019-06-29T00:00:00.000Z",
+            "totalValue": 24,
+            "transferValue": 700408.16,
+            "counterpartValue": 682500,
+            "yieldValue": 17908.16
+          }
+        }
+      },
+      {
+        "agreementId": "762444/2011",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2012-02-02T00:00:00.000Z",
+        "end": "2014-05-15T00:00:00.000Z",
+        "program": "OGU 2011",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Liminar Judicial",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "065688/2011",
+            "organId": "65688/2011",
+            "processId": "065688/2011",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE PIAÇABUÇU ESTÁ LOCALIZADO NA REGIÃO SUL DO ESTADO DE ALAGOAS E É BANHADO PELO RIO SÃO FRANCISCO. O ACESSO A PARTIR DE MACEIÓ É FEITO ATRAVÉS DA RODOVIA AL 101 SUL, COM PERCURSO EM TORNO DE 184 KM, SEGUNDO O IBGE2010. SUA POPULAÇÃO É DE 17.219 HABITANTES, SENDO 10.452 DA ZONA URBANA E 6.767 DA ZONA RURAL. E A DENSIDADE DEMOGRÁFICA É DE 69,33 HABITANTES POR QUILÔMETROS QUADRADOS. AS PRINCIPAIS ATIVIDADES ECONÔMICAS DO MUNICÍPIO SÃO O TURISMO, DEVIDO AO DELTA DO RIO SÃO FRANCISCO E A PESCA. TODAVIA A POPULAÇÃO DE PIAÇABUÇU, AO PASSO QUE CRESCE,DESEJA E NECESSITA DE OUTRAS ATIVIDADES QUE PREDAM O HOMEM NO CAMPO E PROPICIEM UMA MELHORIA EM SUA RENDA FAMILIAR. SENDO ESTA TAMBÉM A META DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, OU SEJA, PROPORCIONAR AOS MUNÍCIPES UMA MELHOR QUALIDADE DE VIDA E ASSIM PERMITIR A TODOS O BOM DESEMPENHO EM SUAS ATIVIDADES SOCIAIS. NOSSA PREOCUPAÇÃO É COM O PEQUENO E MÉDIO PRODUTOR AGROPECUÁRIO QUE NÃO TEM CONDIÇÕES DE CULTIVAR ADEQUADAMENTE SUAS TERRAS, DEIXANDO-OS IMPOSSIBILITADOS DE TEREM A QUALIDADE NESCESSARIA DE SEUS PRODUTOS, PARA COMPETIR COM OUTROS MUNICIPIOS E GARANTIREM SUA RENDA, VISANDO TEREM ACESSO PERMANENTE AS BENFEITORIAS NOS CULTIVOS AGRÍCOLAS, ESTAMOS PLEITEANDO A AQUISIÇÃO DA PATRULHA MECANIZADA, QUE SERÁ DE GRANDE IMPORTÂNCIA, POIS AJUDARÁ DIRETAMENTE AOS PRODUTORES RURAIS A ESCOAREM SUA PRODUÇÃO COM MAIS FACILIDADE, AUMENTO DA PRODUTIVIDADE E CONSEGUETEMENTE DA RENDA FAMILIAR QUE POSSUEM RENDA MÉDIA DE R$300,00/MÊS. A PATRULHA MECANIZADA SERÁ ADQUIRIDA COM RECURSOS DA EMENDA PARLAMENTAR Nº 50100002 DO DEPUTADO FEDERAL ARTUR LIRA, FUNCIONAL PROGRAMÁTICA Nº 20.605.6003.7H17.1588, NO VALOR DE R$ 243.750,00 (DUZENTOS E QUARENTA E TRÊS MIL SETECENTOS E CINQUENTA REAIS), CUJO TÍTULO - APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO - MÁQUINAS E EQUIPAMENTOS NACIONAIS, CONTEMPLA O OBJETO PRETENDIDO DA PROPOSTA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE PATRULHA MECANIZADA PARA O MUNICÍPIO DE PIAÇABUÇU/AL",
+            "information": "DECLARO QUE O MUNICIPIO POSSUI PLENA CAPACIDADE TÉCNICA E GERENCIAL PARA O OBJETO PLETEIADO.",
+            "proposalDate": "2011-11-16T00:00:00.000Z",
+            "biddingDate": "2012-02-02T00:00:00.000Z",
+            "homologationDate": "2012-02-06T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020110057",
+              "name": "OGU 2011",
+              "value": 253750,
+              "details": {
+                "code": "2200020110057",
+                "name": "OGU 2011",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra-Estrutura Agropecuária",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 253750,
+                "couterpartValues": {
+                  "total": 10000,
+                  "financial": 10000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": "R$ 243.750,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.719.813-** - HERBERT BUENOS AIRES DE CARVALHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "004/2012",
+              "type": "Licitação - Pregão",
+              "date": "2012-09-03T00:00:00.000Z",
+              "processId": "70012012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "70012012",
+                "biddingId": "004/2012",
+                "object": "AQUISIÇÃO DE PATRULHA MECANIZADA.",
+                "legalFoundation": "DECRETO Nº 5.450, DE 31 DE MAIO DE 2005.",
+                "justification": "A AQUISIÇÃO DESSA PATRULHA MECANIZADA IRÁ BENEFICIAR O AGRICULTORES LOCAIS QUE NÃO POSSUEM ESTRUTURA PARA BENEFICIAR SEUS PRODUTOS AGRÍCOLAS.",
+                "publishDate": "2012-09-03T00:00:00.000Z",
+                "beginDate": "2012-09-14T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 235000,
+                "homologationDate": "2012-12-06T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2012",
+              "biddingId": "004/2012",
+              "date": "2012-12-06T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 14730000000232",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE MAQUINA E EQUIPAMENTOS",
+                "totalValue": 235000,
+                "publishDate": "2012-12-06T00:00:00.000Z",
+                "beginDate": "2012-12-06T00:00:00.000Z",
+                "endDate": "2013-05-06T00:00:00.000Z",
+                "signDate": "2012-12-06T00:00:00.000Z",
+                "executionProcessId": "004/2012 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "70012012 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "762444/2011",
+            "validity": "02/02/2012 a 15/05/2014",
+            "limitDate": "2014-06-14T00:00:00.000Z",
+            "totalValue": 253750,
+            "transferValue": 243750,
+            "counterpartValue": 10000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "759700/2011",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2011-12-30T00:00:00.000Z",
+        "end": "2013-12-30T00:00:00.000Z",
+        "program": "0122 – Serviços Urbanos de Água e Esgoto",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "056475/2011",
+            "organId": "00004/2011",
+            "processId": "25100.030.050/2011-85",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto nº 6.170/2007 e Portaria Interministerial MP/MF/CGU nº 127/2008",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "LOCALIZADA A POUCO MAIS DE UMA HORA E MEIA DA CAPITAL ALAGOANA, E A POUCO MAIS DE 20 MINUTOS DE PENEDO E DO ESTADO DE SERGIPE, PIAÇABUÇU ESBANJA BELEZA E TRADIÇÃO ÀS MARGENS DO RIO SÃO FRANCISCO, O VELHO CHICO, QUE POR CAPRICHO DA NATUREZA TEM A SUA FOZ NESSA BELA E HOSPITALEIRA CIDADE, QUE POSSUI 17.219 MIL HABITANTES ONDE 10.452 MORAM NA ZONA URBANA E 6.767 NA ZONA RURAL IBGE 2010, ECONOMIA: PIAÇABUÇU ABRIGA O MAIOR BANCO DE CAMARÕES DO NORDESTE, ANUALMENTE, MAIS DE 1.500 TONELADAS DO CAMARÃO BRANCO, ROSA E ESPIGÃO, ESTE EXPORTADO PARA OUTROS ESTADOS BRASILEIROS. A ATIVIDADE PESQUEIRA É COMPLEMENTADA PELO CAÇÃO, MANJUBA, BAGRE, PESCADA, SERRA E XARÉU. SUA AGRICULTURA ESTÁ MARCADA PELOS EXTENSOS COQUEIRAIS, POR UMA PRODUÇÃO LIMITADA DE ARROZ QUE VEM DIMINUINDO A CADA ANO E POR PEQUENAS ÁREAS COM MANGA E BANANA. É COM TODAS ESSAS CARACTERISTICAS QUE O MUNICIPIO VISLUMBRA EM ELABORAR O PLANO DIRETOR MUNICIPAL DE SANEAMENTO AMBIENTAL CONTEMPLANDO O BASTECIMENTODE ÁGUA EM QUANTIDADE E QUALIDADE, A COLETA, TRATAMENTO E DISPOSIÇÃO FINAL ADEQUADA DOS RESÍDUOS LÍQUIDOS, SÓLIDOS E GASOSOS, A PREVENÇÃO E O CONTROLE DO EXCESSO DE RUÍDOS, A DRENAGEM DAS ÁGUAS PLUVIAIS, PROMOÇÃO DADISCIPLINA SANITÁRIA DO USO E OCUPAÇÃO DO SOLO, O CONTROLE AMBIENTAL DE VETORES DE DOENÇAS TRANSMISSÍVEIS E DEMAIS SERVIÇOS E OBRAS ESPECIALIZADOS, BUSCANDO CONTRIBUIR PARA PROMOVER A SAÚDE, O BEM-ESTAR E A CIDADANIA, AS CONDIÇÕES DE SALUBRIDADE AMBIENTAL NA MAIORIA DOS MUNICÍPIOS BRASILEIROS SÃO AINDA MUITO PRECÁRIAS DEVIDO A AUSÊNCIA OU DEFICIÊNCIA DE SERVIÇOS PÚBLICOS DE SANEAMENTO AMBIENTAL, AGRAVADO PELA FALTA DE PLANEJAMENTO EM NÍVEL MUNICIPAL, O QUE TEM CONDUZIDO AS INTERVENÇÕES FRAGMENTADAS, REPRESENTANDO UM DESPERDÍCIO DE RECURSOS E BAIXA EFICÁCIA, ALÉM DA MANUTENÇÃO DE GRANDE PASSIVO SÓCIO-AMBIENTAL. EM RELAÇÃO ÀS PEQUENAS LOCALIDADES, A SITUAÇÃO DOS SERVIÇOS DE SANEAMENTO AMBIENTAL, SEGUNDO AVALIAÇÕES REALIZADAS PELO GOVERNO BRASILEIRO, TEM SE CARACTERIZADO PELOS BAIXOS NÍVEIS DE ATENDIMENTO, COM IMPACTOS NEGATIVOS NAS CONDIÇÕES DE VIDA E DE BEM-ESTAR DA POPULAÇÃO E, CONSEQÜENTEMENTE, NO SEU GRAU DE DDESENVOLVIMENTO. TAL PRECARIEDADE É PRODUTO DA INEXISTÊNCIA DE UMA POLÍTICA DE SANEAMENTO AMBIENTAL PARA OS MUNICÍPIOS CLARAMENTE DEFINIDA. UMA MANEIRA DE FORTALECER OS MUNICÍPIOS É A RETOMADA DO PLANEJAMENTO POR MEIO DO PROCESSO DE ELABORAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO AMBIENTAL, DE FORMA DEMOCRÁTICA, E QUE CONSIDERE OS PRINCÍPIOS DE UNIVERSALIDADE, EQUIDADE, INTEGRALIDADE, INTERSETORIALIDADE, SUSTENTABILIDADE, GESTÃO PÚBLICA E PARTICIPAÇÃO E CONTROLE SOCIAL.ESTE PROJETO SE IMPLANTADO CORRETAMENTE TERÁ UMA VIABLIDADE TOTAL, POIS AO INVESTIR NESTE PROPOPORCIONARÁ PARA O GOVERNO E PARA A SOCIEDADE O RESPEITO PARA COM O MEIO AMBIENTE. E PRINCIPALMENTE, POR CAUSA DA AMEAÇA À BIODIVERSIDADE QUE ESTÁ PRESENTE EM TODOS OS BIOMAS, EM DECORRÊNCIA, PRINCIPALMENTE, DO DESENVOLVIMENTO DESORDENADO DE ATIVIDADES PRODUTIVAS, COMO A DEGRADAÇÃO DO SOLO, A POLUIÇÃO ATMOSFÉRICA E A CONTAMINAÇÃO DOS RECURSOS HÍDRICOS SÃO ALGUNS DOS EFEITOS NOCIVOS OBSERVADOS, INCLUSIVE NO CENTRO URBANO MUNICIPAL, OS RESÍDUOS SÓLIDOS AINDA SÃO DEPOSITADOS NO LIXÃO, QUE SE ENCONTRA A CÉU ABERTO. ASSOCIA-SE A ISSO UM QUADRO DE EXCLUSÃO SOCIAL E ELEVADO NÍVEL DE POBREZA DA POPULAÇÃO. MUITAS PESSOAS VIVEM EM ÁREAS DE RISCO, COMO ENCOSTAS, MARGENS DE RIOS E PERIFERIAS INDUSTRIAIS. A EDUCAÇÃO AMBIENTAL ASSUME POSIÇÃO DE DESTAQUE PARA CONSTRUIR OS FUNDAMENTOS DA SOCIEDADE SUSTENTÁVEL, APRESENTANDO UMA DUPLA FUNÇÃO A ESSA TRANSIÇÃO SOCIETÁRIA: PROPICIAR OS PROCESSOS DE MUDANÇAS CULTURAIS EM DIREÇÃO À INSTAURAÇÃO DE UMA ÉTICA ECOLÓGICA E DE MUDANÇAS SOCIAIS EM DIREÇÃO AO EMPODERAMENTO DOS INDIVÍDUOS, GRUPOS E SOCIEDADES QUE SE ENCONTRAM EM CONDIÇÕES DE VULNERABILIDADE EM FACE DOS DESAFIOS DA CONTEMPORANEIDADE. PARA QUE A ATUAÇÃO NO CAMPO DA EDUCAÇÃO AMBIENTAL POSSA OCORRER DE MODO ARTICULADO TANTO ENTRE AS INICIATIVAS EXISTENTES NO ÂMBITO EDUCATIVO COMO ENTRE AS AÇÕES VOLTADAS À PROTEÇÃO, RECUPERAÇÃO E MELHORIA SÓCIO-AMBIENTAL, E ASSIM PROPORCIAR UM EFEITO MULTIPLICADOR COM SOCIEDADE, FAZ-SE NECESSÁRIA A FORMULAÇÃO E A IMPLEMENTAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO AMBIENTAL QUE INTEGREM ESSA PERSPECTIVA. NESSE SENTIDO, O DESENVOLVIMENTO DESTE PROJETO SE CONFIGURA COMO UM ESFORÇO DO GOVERNO MUNICIPAL DE BRANQUINHA, NO ESTABELECIMENTO DAS CONDIÇÕES NECESSÁRIAS PARA A GESTÃO DA POLÍTICA MUNICIPAL DE SANEAMENTO AMBIENTAL, FORTALECENDO OS PROCESSOS EXISTENTES NESSA DIREÇÃO NA SOCIEDADE DE BRANQUINHA. PORTANTO É NO SENTIDO DE PROMOVER A ARTICULAÇÃO E MELHORIA SÓCIOAMBIENTAL, E DE POTENCIALIZAR A FUNÇÃO DA EDUCAÇÃO PARA AS MUDANÇAS CULTURAIS E SOCIAIS, QUE SE INSERE O PLANO MUNICIPAL DE SANEAMENTO AMBIENTAL DESTE PROJETO NO PLANEJAMENTO ESTRATÉGICO DO GOVERNO MUNICIPAL DE BRANQUINHA. BENEFICIANDO TODA A SUA POPULAÇÃO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ELABORAÇÃ DO PLANO MUNICIPAL DE SANEAMENTO BÁSICO DO MUNICÍPIO DE PIAÇABUÇU/AL",
+            "information": "DECLARO SOB AS PENAS DA LEI,QUE O MUNICÍPIO DE FEIRA GRANDE POSSUI PLENA CAPACIDADE TÉCNICA E GERENCIAL PARA GERIR O OBJETO PLEITEADO.",
+            "proposalDate": "2011-10-06T00:00:00.000Z",
+            "biddingDate": "2011-12-30T00:00:00.000Z",
+            "homologationDate": "2012-01-17T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120110006",
+              "name": "0122 – Serviços Urbanos de Água e Esgoto",
+              "value": 240000,
+              "details": {
+                "code": "3621120110006",
+                "name": "0122 – Serviços Urbanos de Água e Esgoto",
+                "cps": null,
+                "items": "Promover e apoiar, técnica e financeiramente, o desenvolvimento e a transferência de tecnologias para o fortalecimento institucional dos modelos de gestão dos serviços públicos de saneamento ambiental de estados e municípios.",
+                "couterpartRule": "Municípios com até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 240000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 235000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.191.096-** - GILSON DE CARVALHO QUEIROZ FILHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "759700/2011",
+            "validity": "30/12/2011 a 30/12/2013",
+            "limitDate": "2014-02-28T00:00:00.000Z",
+            "totalValue": 240000,
+            "transferValue": 235000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "758114/2011",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2012-02-02T00:00:00.000Z",
+        "end": "2014-02-15T00:00:00.000Z",
+        "program": "OGU 2011",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Liminar Judicial",
+            "status": {
+              "value": "Prestação de Contas Aprovada",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "047162/2011",
+            "organId": "47162/2011",
+            "processId": "047162/2011",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE PIAÇABUÇU ESTÁ LOCALIZADO NA MESORREGIAO DO LESTE ALAGOANO FICA DISTANTE 140 KM DA CAPITAL DE ALAGOAS, SEGUNDO CENSO DO IBGE DE 2010, POSSUI CERCA DE 17.211 HABITANTES, ONDE 10.452 VIVEM NA ZONA URBANA, E 6.767 NA ZONA RURAL. PIAÇABUÇU FOI FUNDADA EM 1660 PELO EXPLORADOR ANDRÉ ROCHA DANTAS E É UMA DAS CIDADES CENTENÁRIAS DO NORDESTE BRASILEIRO. ERA O LOCAL PREFERIDO DAQUELES QUE ATRAVESSAVAM O RIO QUANDO VIAJAVAM PARA UM OU OUTRO LADO EM PEQUENAS CANOAS E TOSCAS JANGADAS, QUE ALI FICAVAM MAIS A SALVO DO RIO CAUDALOSO EM VIRTUDE DA EXISTÊNCIA DE DUAS GRANDES ILHAS NO LOCAL QUE TORNAVAM A PASSAGEM MENOS PERIGOSA PARA OS VIAJANTES. INDUBITAVELMENTE, OS PRIMEIROS HABITANTES DE SUAS PARAGENS FORAM OS ÍNDIOS. OS VALENTES CAETÉS FORAM ESCORRAÇADOS DA REGIÃO APÓS O EPISÓDIO DO BISPO SARDINHA. O MUNICÍPIO DE PIAÇABUÇU SE DESTACA POR TER COMO BASE ECONOMICA O TURISMO, EM ESPECIAL OS PASSEIOS OFERTADOS POR DIVERSOS BARCOS QUE VISITAM A FOZ DO RIO SÃO FRANCISCO, QUE BANHA A CIDADE. É POR ISSO QUE PIAÇABUÇU POSSUI UM DOS MAIORES ATRATIVOS TURÍSTICOS DO ESTADO COM A SUA FOZ, SENDO ESTÁ UM CENÁRIO INDESCRITÍVEL DE BELEZA, PRINCIPALMENTE QUANDO AS SUAS ÁGUAS SE ENCONTRAM COM O MAR. DIANTE DESTAS INFORMAÇÕES É DE MUITA RELEVÂNCIA PARA O PODER EXECUTIVO IMPLANTAR E APOIAR O DESENVOLVIMENTO DA PISCICULTURA E DA COMERCIALIZAÇÃO DOS PRODUTOS ORIUNDOS DA AGRICULTURA FAMILIAR, COM O EQUIPAMENTO ORA SOLICITADO, POIS A ÉPOCA DAS CHUVAS COINCIDE TAMBÉM COM A ÉPOCA DE COLHEITA E COMERCIALIZAÇÃO DE VÁRIAS CULTURAS, IMPEDINDO O ACESSO A VÁRIAS COMUNIDADES, AFETADAS PELA FALTA PERMANENTE DA RECUPERAÇÃO DAS ESTRADAS VICINAIS. A AQUISIÇÃO DESTE EQUIPAMENTO POSSIBILITARÁ AOS AGRICULTORES OFERECER CONDIÇÕES PARA ESCOAR PRODUTOS, O QUE PROPORCIONARÁ MELHOR QUALIDADE DE VIDA A TODA POPULAÇÃO ASSISTIDA. É EXATAMENTE DESENVOLVIMENTO SOCIAL QUE A AQUISIÇÃO DESSE EQUIPAMENTO IRÁ PROPORCIONAR. POIS SERÁ POSSÍVEL ASSIM ALAVANCAR A ECONOMIA DO MUNICÍPIO GERANDO EMPREGO E RENDA, E O DESENVOLVIMENTO DE AÇÕES QUE PODERÃO CONTRIBUIR COM A ATIVIDADE AGRÍCOLA DO MUNICÍPIO, QUE AINDA NÃO TEVE O PRIVILÉGIO DE RECEBER RECURSOS ORIUNDOS DESTE CONCEITUADO ÓRGÃO. SERÁ BENEFICIADA PRINCIPALMENTE A POPULAÇÃO RURAL, QUE PODERÁ ESCOAR MAIS FACILMENTE OS PRODUTOS FRUTOS DE SEU TRABALHO, ORIUNDOS DE SUAS PEQUENAS PROPRIEDADES, QUE LHE PROPORCIONAM ATUALMENTE UMA RENDA MÉDIA DE 01 (UM) SALÁRIO MÍNIMO. OS BENS SERÃO ADQUIRIDOS COM RECURSOS DA EMENDA PARLAMENTAR Nº 50100002 DO PARLAMENTAR ARTHUR LIRA, FUNCIONAL PROGRAMÁTICA N° 20.605.6003.7H17.1588, VALOR DO REPASSE DE R$ 341.250,00 (TREZENTOS E QUARENTA E UM MIL E DUZENTOS E CINQUENTA REAIS), CUJO TÍTULO – APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO - MÁQUINAS E EQUIPAMENTOS - NACIONAL, CONTEMPLA O OBJETO DA PROPOSTA.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE MÁQUINAS E EQUIPAMENTOS",
+            "information": "DECLARO QUE O MUNICIPIO POSSUI PLENA CAPACIDADE TÉCNICA E GERENCIAL PARA O OBJETO PLEITEADO",
+            "proposalDate": "2011-08-29T00:00:00.000Z",
+            "biddingDate": "2012-02-02T00:00:00.000Z",
+            "homologationDate": "2012-02-06T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2200020110057",
+              "name": "OGU 2011",
+              "value": 348450,
+              "details": {
+                "code": "2200020110057",
+                "name": "OGU 2011",
+                "cps": "",
+                "items": "APOIO A PROJETOS DE DESENVOLVIMENTO DO SETOR AGROPECUÁRIO *************************************** ********************** AÇÃO: 7H17 ******************** I - INVESTIMENTO 1.Projetos de Mecanização Agrícola 2.Projetos de Recuperação de Estradas Vicinais 3.Projetos de Irrigação e Drenagem 4.Projetos de Desenvolvimento da Pecuária 5.Projetos de Agroindustrialização 6.Projetos de Meteorologia Agropecuária 7.Projetos de Infra-Estrutura Agropecuária",
+                "couterpartRule": "Municípios com até 50.000 (cinquenta mil) habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 348450,
+                "couterpartValues": {
+                  "total": 7200,
+                  "financial": 7200,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 341250,
+                  "amendment": "R$ 341.250,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "respGrantor": "***.418.301-** - RICARDO MAGNO PAULA RAMOS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "004/2012",
+              "type": "Licitação - Pregão",
+              "date": "2012-09-03T00:00:00.000Z",
+              "processId": "004",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Pregão",
+                "biddingType": "Presencial",
+                "processId": "004",
+                "biddingId": "004/2012",
+                "object": "AQUISIÇÃO DE MÁQUINAS E EQUIPAMENTOS",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "AQUISIÇÃO DE MÁQUINAS E EQUIPAMENTOS",
+                "publishDate": "2012-09-03T00:00:00.000Z",
+                "beginDate": "2012-09-14T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 335000,
+                "homologationDate": "2012-12-06T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000004/2012",
+              "biddingId": "004/2012",
+              "date": "2012-12-06T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12029427001505",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Material",
+                "object": "AQUISIÇÃO DE MÁQUINA E EQUIPAMENTO",
+                "totalValue": 335000,
+                "publishDate": "2012-12-06T00:00:00.000Z",
+                "beginDate": "2012-02-02T00:00:00.000Z",
+                "endDate": "2014-02-15T00:00:00.000Z",
+                "signDate": "2012-10-18T00:00:00.000Z",
+                "executionProcessId": "004/2012 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "004 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22000 - MINISTÉRIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Aprovada",
+            "number": "758114/2011",
+            "validity": "02/02/2012 a 15/02/2014",
+            "limitDate": "2017-02-12T00:00:00.000Z",
+            "totalValue": 348450,
+            "transferValue": 341250,
+            "counterpartValue": 7200,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "750258/2010",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-14T00:00:00.000Z",
+        "end": "2020-12-31T00:00:00.000Z",
+        "program": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - PT 15.244.1025.7K66.0027 - Ação: Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas (Emenda-2461 0005 )",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "082424/2010",
+            "organId": "50003/2010",
+            "processId": "59550.000772/2010-48",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto 6.170/2007 c/ Portaria Interm. 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "PIAÇABUÇU É UMA CIDADE COM MUITAS RIQUEZAS NATURAIS, COMO AS MARGENS DO RIO SÃO FRANCISCO, SENDO O NOSSO PRINCIPAL PONTO TURISTICO A FOZ DO RIO SÃO FRANCISCO, QUE ATRAI PESSOAS DO MUNDO INTEIRO. UMA ESTRUTURA DESSA GRANDEZA TRAZ INÚMEROS RESULTADOS POSITIVOS PARA A REGIÃO, COMO O AQUECIMENTO DA ECONOMIA LOCAL, A ATRAÇÃO DE NOVOS E MODERNOS INVESTIMENTOS, A CAPACITAÇÃO DE PROFISSIONAIS, ALÉM DA GERAÇÃO DE EMPREGO E RENDA, QUE DÁ OPORTUNIDADE A TODA POPULAÇÃO. PIAÇABUÇU JÁ É DESTINO DE DESTAQUE NO TURISMO DO ESTADO E DO PAÍS. DIARIAMNETE CENTENAS DE TURISTAS VINDOS DE TODAS AS PARTES DO BRASIL E DO MUNDO SE DESLUMBRAM COM AS PAISAGENS DE UMA NATUREZA VISTA EM POUCOS LUGARES. SEM FALAR NO INESQUECIVÉL O PASSEIO DE ESCUNA ATÉ A FOZ DO VELHO CHICO, ONDE PODEM APRECIAR UMA DAS MAIS RICAS GASTRONOMIAS DA REGIÃO, SEMPRE A BASE DE CAMARÕES, PEIXES, SIRIS E OUTRAS MARAVILHAS DO MAR, QUE É A BASE DA ECONOMIA DO POVOADO SUDENE, UM DOS PRINCIPAIS POLOS DE PESCA DO MUNICÍPIO. A POPULAÇÃO RIBEIRINHA VIVE UMA GRANDE EXPECTATIVA E SABE QUE COM O APOIO DO MINISTÉRIO DA INTEGRAÇÃO E DO GOVERNO FEDERAL, PIAÇABUÇU GANHARÁ AINDA MAIS DESTAQUE NO TURISMO NACIONAL E ENTRARÁ DE VEZ NO ROTEIRO DE VIAGENS DE TODOS QUE PASSAREM EM NOSSA CIDADE. TODAS AS FAMÍLIAS DE PIAÇABUÇU SERÃO BENEFICIADAS INDIRETAMENTE COM ESSA OBRA, COM A GERAÇÃO DE EMPREGO E RENDA PARA UMA POPULAÇÃO QUE VIVE EM MÉDIA COM APENAS 01 (UM) SALARIO MÍNIMO POR FAMÍLIA. FUNCIONAL PROGRAMATICA Nº 15.244.1025.7K66.0027 EMENDA PARLAMENTAR Nº 24610005 DEPUTADO FEDERAL FRANCISCO TENORIO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "URBANIZAÇÃO DO POVOADO SUDENE NO MUNICIPIO DE PIAÇABUÇU/ALAGOAS.",
+            "information": "A Prefeitura Municipal de Piaçabuçu declara para os devidos fins de direito junto ao Ministério da Integração Nacional que possui capacidade técnica e gerencial para fazer gestão e execução do objeto por ora pleiteado. Informamos, ainda que o acompanhamento da execução da obra tem o Sr. Marcello Lessa Santos CREA-AL 02082900-95, como responsável pelo gerenciamento técnico da Obra – Engenheiro Civil (a).",
+            "proposalDate": "2010-08-03T00:00:00.000Z",
+            "biddingDate": "2010-12-14T00:00:00.000Z",
+            "homologationDate": "2015-05-21T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320100076",
+              "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO - PT 15.244.1025.7K66.0027 - Ação: Apoio a Projetos de Desenvolvimento Sustentável Local Integrado - No Estado de Alagoas (Emenda-2461 0005 )",
+              "value": 630102.2,
+              "details": {
+                "code": null,
+                "name": null,
+                "cps": null,
+                "items": null,
+                "couterpartRule": null,
+                "totalValue": 0,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 0,
+                  "amendment": null
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.811.424-** - DJALMA GUTTEMBERG SIQUEIRA BREDA",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.567.204-** - JAMES MARLAN FERREIRA BARBOSA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "003/2012",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2012-05-04T00:00:00.000Z",
+              "processId": "9822012",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "9822012",
+                "biddingId": "003/2012",
+                "object": "EXECUÇÃO DAS OBRAS DE IMPLANTAÇÃO E URBANIZAÇÃO DO POVOADO SUDENE.",
+                "legalFoundation": "368/2011 - LOA2012",
+                "justification": "OBRA ESSA QUE IRA AJUDAR NO DESENVOLVIMENTO DESSA COMUNIDADE RICA NA ECONOMIA DA PESCA E DO TURISMO.",
+                "publishDate": "2012-05-04T00:00:00.000Z",
+                "beginDate": "2012-05-23T00:00:00.000Z",
+                "endDate": "2012-05-23T00:00:00.000Z",
+                "biddingValue": 593895.95,
+                "homologationDate": "2012-05-23T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": null,
+                "accepted": null
+              }
+            },
+            {
+              "executionId": "01-11/2011",
+              "type": "Licitação - Convite",
+              "date": "2011-11-17T00:00:00.000Z",
+              "processId": "11872011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": null
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000111/2011",
+              "biddingId": "01-11/2011",
+              "date": "2011-12-09T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CPF: 66283850430",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE PROFISSIONAL ESPECIALIZADO EM ELABORAÇÃO DE PROJETO PARA URBANIZAÇÃO DO POVOADO SUDENE.",
+                "totalValue": 31014,
+                "publishDate": "2011-12-09T00:00:00.000Z",
+                "beginDate": "2011-11-28T00:00:00.000Z",
+                "endDate": "2011-12-14T00:00:00.000Z",
+                "signDate": "2011-11-28T00:00:00.000Z",
+                "executionProcessId": "01-11/2011 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "11872011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "750258/2010",
+            "validity": "14/12/2010 a 31/12/2020",
+            "limitDate": "2021-01-30T00:00:00.000Z",
+            "totalValue": 630102.2,
+            "transferValue": 617500,
+            "counterpartValue": 12602.2,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "742119/2010",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-06-26T00:00:00.000Z",
+        "end": "2011-10-23T00:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas em Complementação",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "019351/2010",
+            "organId": "01248/2010",
+            "processId": "72031.010850/2010-40",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto 6.170/2007 e Portaria Interministerial 127/2008",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICIPIO TEM COMO OBJETIVO DA PROPOSTA A REALIZAÇÃO DO FESTIVAL DE QUADRILHA JUNINA QUE SERÁ REALIZADO NOS DIAS 26 E 27 DE JUNHO. ONDE NO DIA 26 ACONTECERÁ A APRESENTAÇÃO DE DIVERSAS QUADRILHAS QUE IRÃO MOSTRAR O QUE TEM DE MELHOR, ENCANTANDO A CADA UMA DAS PESSOAS QUE IRÃO PRESTIGIAR A CULTURA QUE PREDOMINA NO NORDESTE. ENTRE ESSAS APRESENTAÇÕES, ACONTECE O TÃO ESPERADO CASAMENTO DO MATUTO, UMA FORMA DIVERTIDA DE INTERPRETAR O MODO COMO ERAM REALIZADOS OS CASAMENTOS ANTIGAMENTE. A FESTA TERÁ SEU ENCERRAMENTO NO DIA 27 ONDE TERÁ A APRESENTAÇÃO DE DIVERSAS BANDAS TRAZENDO AINDA MAIS ALEGRIA E EMOÇÃO PARA O POVO. O MUNICÍPIO DE PIAÇABUÇU FICA LOCALIZADO NO LITORAL SUL DE ALAGOAS E É BANHADO PELO RIO SÃO FRANCISCO, O ACESSO A PARTIR DE MACEIÓ É FEITO ATRAVÉS DA RODOVIA AL 101 SUL, COM PERCURSO EM TORNO DE 184 km, SEGUNDO O IBGE. SUA POPULAÇÃO É DE 17.880 HABITANTES DE ACORDO COM O CENSO DEMOGRÁFICO DO IBGE (2007) E A DENSIDADE DEMOGRÁFICA É DE 69,33 HABITANTES POR QUILÔMETROS QUADRADOS, SEU ÍNDICE DE DESENVOLVIMENTO HUMANO (IDH) É DE 0,61 SEGUNDO O ATLAS DE DESENVOLVIMENTO HUMANO/PNUD (2000), SUA ECONOMIA É BASEADA NA PESCA, AGRICULTURA DO COCO, ARROZ E TEM AINDA COMO PRINCIPAL ATIVIDADE ECONÔMICA O TURISMO. DURANTE O PERÍODO DESTE EVENTO PRETENDEMOS PROMOVER A INTEGRAÇÃO SOCIOCULTURAL E DESENCADEAR AS MULTIDÕES ARTÍSTICAS DE NOSSA TERRA E DE NOSSA GENTE, O RESGATE DAS TRADIÇÕES JUNINAS DE TODA A COMUNIDADE E DAS COMUNIDADES VIZINHAS, É PRECISO RESSALTAR QUE COM A QUALIDADE DAS BANDAS E A DIMENSÃO DAS QUADRILHAS QUE VIRÃO SE APRESENTAR EM NOSSO MUNICÍPIO. O DESENVOLVIMENTO DA ATIVIDADE TURÍSTICA NO MUNICÍPIO DE PIAÇABUÇU SERÁ DE GRANDE VALIA AJA VISTA QUE O PROPÓSITO DE DIVULGAR A CULTURA LOCAL AGREGANDO VALORES AOS FESTEJOS JUNINOS PROPORCIONARÁ UMA GRANDE MOVIMENTAÇÃO NA ECONOMIA TANTO FORMAL QUANTO INFORMAL UMA VEZ QUE ESTE É UM EVENTO DE GRANDE APORTE NO SETOR TURÍSTICO, DO QUAL BENEFICIARÁ TODOS OS SEGMENTOS LIGADOS À OFERTA DE SERVIÇOS; AUMENTAR O DESENVOLVIMENTO DO MERCADO ECONÔMICO DA REGIÃO, GERANDO EMPREGO E RENDA PARA A COMUNIDADE LOCAL COM A VENDA DE BEBIDAS ARTESANATO LOCAL E COMIDAS TÍPICAS. O RESPECTIVO EVENTO TEM COMO FOCO PRINCIPAL OS RESULTADOS ESPERADOS QUE VÃO DESDE: FOMENTAR O AUMENTO DA DEMANDA TURÍSTICA PARA O MUNICÍPIO DE PIAÇABUÇU E REGIÃO; INCREMENTAR O CRESCIMENTO DA OFERTA TURÍSTICA EM GERAL, ASSIM COMO A AMPLIAÇÃO DOS SERVIÇOS DO MERCADO TURÍSTICO; ESTIMULAR A CADEIA PRODUTIVA DO TURISMO PARA INVESTIMENTOS PROPORCIONANDO A GERAÇÃO DE EMPREGO E RENDA; VALORIZAÇÃO DA CULTURA POPULAR E DA MÚSICA NORDESTINA, VIABILIZANDO A CONSOLIDAÇÃO DA IDENTIDADE CULTURAL. O MUNICIPIO TERÁ UM FLUXO CRESCENTE DE VISITANTES, POIS SE ESPERA RECEBER APROXIMADAMENTE MAIS DE 8 MIL PESSOAS, OU SEJA, UM PÚBLICO AINDA MAIOR QUE O ALCANÇADO NO FESTIVAL DO COCO QUE FOI REALIZADO NO PERIODO DE 18 A 19 DE SETEMBRO DE 2009. O REFERIDO EVENTO CERTAMENTE DURANTE ESTE PERÍODO FESTIVO ULTRAPASSARA O VOLUME DE VISITANTES E NEGOCIOS COM O APOIO DO MINISTERIO DO TURISMO, VISTO QUE A META A SER ALCANÇADA SERÁ DE NO MINIMO 30% DO FLUXO TURISTICO,TENDO COMO CONSEQUENCIA O INCREMENTO DA ECONOMIA LOCAL, AO QUAL BENEFICIARÁ A TODA A POPULAÇÃO E SERÁ MAIS UM ATRATIVO NO CALENDÁRIO FESTIVO DA REGIÃO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "FESTIVAL DE QUADRILHA JUNINA.",
+            "information": "DECLARO QUE O MUNICIPIO DE PIAÇABUÇU POSSUI CAPACIDADE TÉCNICA GERENCIAL.",
+            "proposalDate": "2010-03-17T00:00:00.000Z",
+            "biddingDate": "2010-06-25T00:00:00.000Z",
+            "homologationDate": "2010-07-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020100019",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 104500,
+              "details": {
+                "code": "5400020100019",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "E) FESTAS JUNINAS;",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 104500,
+                "couterpartValues": {
+                  "total": 4500,
+                  "financial": 4500,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 100000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.797.948-** - CARLOS ALBERTO DA SILVA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01-06/2010",
+              "type": "Licitação - Convite",
+              "date": "2010-06-18T00:00:00.000Z",
+              "processId": "03682010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "03682010",
+                "biddingId": "01-06/2010",
+                "object": "Locação de Estrutura para realização do evento Festival de Quadrilha Junina, realizado nos dias 26 e 27 de junho de 2010.",
+                "legalFoundation": "8666",
+                "justification": "Locação de Estrutura para realização de evento.",
+                "publishDate": "2010-06-18T00:00:00.000Z",
+                "beginDate": "2010-06-25T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 29500,
+                "homologationDate": "2010-06-25T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000106/2010",
+              "biddingId": "01-06/2010",
+              "date": "2012-03-30T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 69974731000134",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Serviço",
+                "object": "Locação de Estruturas para o Festival de Quadrilha Junina 2010.",
+                "totalValue": 29500,
+                "publishDate": "2012-03-30T00:00:00.000Z",
+                "beginDate": "2010-06-26T00:00:00.000Z",
+                "endDate": "2010-07-25T00:00:00.000Z",
+                "signDate": "2010-06-25T00:00:00.000Z",
+                "executionProcessId": "01-06/2010 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "03682010 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Convênio",
+            "status": "Prestação de Contas em Complementação",
+            "number": "742119/2010",
+            "validity": "26/06/2010 a 23/10/2011",
+            "limitDate": "2013-10-10T00:00:00.000Z",
+            "totalValue": 104500,
+            "transferValue": 100000,
+            "counterpartValue": 4500,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "741060/2010",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-12-29T00:00:00.000Z",
+        "end": "2012-11-29T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "057612/2010",
+            "organId": "57612/2010",
+            "processId": "057612/2010",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICIPIO DE PIAÇABUÇU ESTÁ LOCALIZADO NA MESORREGIAO DO LESTE ALAGOANO FICA DISTANTE 140 km DA CAPITAL DE ALAGOAS, SEGUNDO CENSO DO IBGE DE 2007, POSSUI 17.466 HABITANTES, onde: 6.894 vivem na zona RURAL E 10.572 NA ZONA URBANA. O MUNICIPIO DE PIAÇABUÇU SE DESTACA POR TER COMO BASE ECONOMICA O TURISMO, EM ESPECIAL OS PASSEIOS OFERTADOS POR DIVERSOS BARCOS QUE VISITAM A FOZ DO RIO SÃO FRANCISCO, QUE BANHA A CIDADE. É POR ISSO QUE PIAÇABUÇU POSSUI UM DOS MAIORES ATRATIVOS TURISTICOS DO ESTADO COM A SUA FOZ, SENDO ESTE UM CENARIO INDESCRITIVEL DE BELEZA PRINCIPALMENTE QUANDO AS SUAS AGUAS SE ENCONTRAM COM O MAR. É DIANTE DESTAS CARACTERISTICAS QUE O MUNICIPIO PRETENDE IMPLANTAR A PAVIMENTAÇÃO ASFALTICA COM CICLOVIA INTERLIGANDO PIAÇABUÇU AO BAIRRO DA PACIENCIA, VISTO QUE A RESPECTIVA OBRA PROVERÁ O MUNICIPIO DE INFRA-ESTRUTURA ADEQUADA PARA A EXPANSAO DA ATIVIDADE TURISTICA E MELHORIA DOS PRODUTOS E SERVIÇOS OFERTADOS CONFORME PRECONIZA O PLANO NACIONAL DO TURISMO 2007/2010. A EXECUÇÃO DA RESPECTIVA OBRA PROMOVERÁ A MELHORIA NO SEU SISTEMA VIARIO E CICLOVIARIO, AJA VISTA QUE A MESMA ESTABELECERÁ MELHORES CONDIÇOES DE SEGURANÇA PARA O TRANSITO DE VEICULOS, PEDESTRES E DAS PESSOAS QUE SE UTILIZAM DA BICICLETA COMO MEIO DE TRANSPORTE E LAZER. PROPORCIONANDO UMA MELHORA A QUALIDADE DE VIDA, REDUZINDO A POLUIÇÃO DO AR, DIMINUINDO O TRANSITO EM NOSSAS RUAS, E GARANTINDO UMA MELHOR AMPLIAÇÃO QUANTO A SEGURANÇA DOS CICLISTAS.É IMPORTANTE RESSALTAR QUE O OBJETO PROPOSTO É DE INTERESSE TURISTICO PARA O MUNICIPIO, TENDO EM VISTA QUE, OS RESULTADOS ESPERADOS COM A IMPLANTAÇÃO DO OBJETO COMPREENDEM DOTAR O MUNICIPIO DESTA IMPORTANTE INFRA-ESTRUTURA TURISTICA, MELHORANDO A QUALIDADE DE VIDA DA POPULAÇÃO, POR MEIO DA GERAÇÃO DE EMPREGO E RENDA E DISPONIBILIZAR AO TURISTA CONFORTO E SEGURANÇA. EMENDA Nº 2612.0008, FUNCIONAL PROGRAMATICANº15.451.0310.1D73.0156. SERAM BENEFICIADAS APROXIMADAMENTE 800 FAMÍLIAS/4.000 PESSOAS DAS ZONAS URBANA/RURAL DE RENDA R$400,00, SEM CONTAR COM OS TURÍSTAS.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO ASFALTICA COM CICLOVIA INTERLIGANDO PIAÇABUÇU AO BAIRRO DA PACIENCIA.",
+            "information": "",
+            "proposalDate": "2010-05-17T00:00:00.000Z",
+            "biddingDate": "2010-12-29T00:00:00.000Z",
+            "homologationDate": "2011-01-20T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020100168",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 503163.27,
+              "details": {
+                "code": "5600020100168",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infraestrutura Urbana",
+                "couterpartRule": "",
+                "totalValue": 503163.27,
+                "couterpartValues": {
+                  "total": 10063.27,
+                  "financial": 10063.27,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 493100,
+                  "amendment": "R$ 493.100,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "005/2012",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2012-06-18T00:00:00.000Z",
+              "processId": "305",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "305",
+                "biddingId": "005/2012",
+                "object": "Pavimentação Asfaltica com Ciclovia Interligando Piaçabuçu ao Bairro da Paciencia.",
+                "legalFoundation": "lei 8.666/1993",
+                "justification": "O MUNICIPIO DE PIAÇABUÇU ESTÁ LOCALIZADO NA MESORREGIAO DO LESTE ALAGOANO FICA DISTANTE 140 km DA CAPITAL DE ALAGOAS, SEGUNDO CENSO DO IBGE DE 2007, POSSUI 17.466 HABITANTES, onde: 6.894 vivem na zona RURAL E 10.572 NA ZONA URBANA. O MUNICIPIO DE PIAÇABUÇU SE DESTACA POR TER COMO BASE ECONOMICA O TURISMO, EM ESPECIAL OS PASSEIOS OFERTADOS POR DIVERSOS BARCOS QUE VISITAM A FOZ DO RIO SÃO FRANCISCO, QUE BANHA A CIDADE. É POR ISSO QUE PIAÇABUÇU POSSUI UM DOS MAIORES ATRATIVOS TURISTICOS DO ESTADO COM A SUA FOZ, SENDO ESTE UM CENARIO INDESCRITIVEL DE BELEZA PRINCIPALMENTE QUANDO AS SUAS AGUAS SE ENCONTRAM COM O MAR. É DIANTE DESTAS CARACTERISTICAS QUE O MUNICIPIO PRETENDE IMPLANTAR A PAVIMENTAÇÃO ASFALTICA COM CICLOVIA INTERLIGANDO PIAÇABUÇU AO BAIRRO DA PACIENCIA, VISTO QUE A RESPECTIVA OBRA PROVERÁ O MUNICIPIO DE INFRA-ESTRUTURA ADEQUADA PARA A EXPANSAO DA ATIVIDADE TURISTICA E MELHORIA DOS PRODUTOS E SERVIÇOS OFERTADOS CONFORME PRECONIZA O PLANO NACIONAL DO TURISMO 2007/2010. A EXECUÇÃO DA RESPECTIVA OBRA PROMOVERÁ A MELHORIA NO SEU SISTEMA VIARIO E CICLOVIARIO, AJA VISTA QUE A MESMA ESTABELECERÁ MELHORES CONDIÇOES DE SEGURANÇA PARA O TRANSITO DE VEICULOS, PEDESTRES E DAS PESSOAS QUE SE UTILIZAM DA BICICLETA COMO MEIO DE TRANSPORTE E LAZER. PROPORCIONANDO UMA MELHORA A QUALIDADE DE VIDA, REDUZINDO A POLUIÇÃO DO AR, DIMINUINDO O TRANSITO EM NOSSAS RUAS, E GARANTINDO UMA MELHOR AMPLIAÇÃO QUANTO A SEGURANÇA DOS CICLISTAS.É IMPORTANTE RESSALTAR QUE O OBJETO PROPOSTO É DE INTERESSE TURISTICO PARA O MUNICIPIO, TENDO EM VISTA QUE, OS RESULTADOS ESPERADOS COM A IMPLANTAÇÃO DO OBJETO COMPREENDEM DOTAR O MUNICIPIO DESTA IMPORTANTE INFRA-ESTRUTURA TURISTICA, MELHORANDO A QUALIDADE DE VIDA DA POPULAÇÃO, POR MEIO DA GERAÇÃO DE EMPREGO E RENDA E DISPONIBILIZAR AO TURISTA CONFORTO E SEGURANÇA. EMENDA Nº 2612.0008, FUNCIONAL PROGRAMATICANº15.451.0310.1D73.0156. SERAM BENEFICIADAS APROXIMADAMENTE 800 FAMÍLIAS/4.000 PESSOAS DAS ZONAS URBANA/RURAL DE RENDA R$400,00, SEM CONTAR COM OS TURÍSTAS.",
+                "publishDate": "2012-06-18T00:00:00.000Z",
+                "beginDate": "2012-07-03T00:00:00.000Z",
+                "endDate": "2012-07-03T00:00:00.000Z",
+                "biddingValue": 503163.27,
+                "homologationDate": "2012-07-04T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "741060/2010",
+            "validity": "29/12/2010 a 29/11/2012",
+            "limitDate": "2012-12-29T00:00:00.000Z",
+            "totalValue": 503163.27,
+            "transferValue": 493100,
+            "counterpartValue": 10063.27,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "728497/2009",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2010-01-11T00:00:00.000Z",
+        "end": "2012-01-10T00:00:00.000Z",
+        "program": "SPR - PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "109848/2009",
+            "organId": "01290/2009",
+            "processId": "59200.000357/2009-21",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Dec 6170/2007 e Port 127/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICÍPIO DE PIAÇABUÇU, LOCALIZADO NA ZONA DA MATA ALAGOANA, DISTA EM 140 KM DA CAPITAL DO ESTADO, MACEIÓ, TEM APROXIMADAMENTE 19 MIL HABITANTES E POSSUI UM IDH DE 0,613. TEM NA ATIVIDADE TURÍSTICA O PONTO FORTE DA SUA ECONOMIA. OBJETIVANDO ATENDER AS DEMANDAS DO MUNICÍPIO DE PIAÇABUÇU – ALAGOAS, QUE CONSISTEM BASICAMENTE EM QUESTÕES COMO DESEMPREGO, FALTA DE SEGURANÇA, DEFICIT HABITACIONAL, DENTRO OUTROS, ESTAMOS PROPONDO A EXECUÇÃO DE UMA OBRA PARA IMPLANTAÇÃO DE INFRAESTRUTURA URBANÍSTICA CONSTITUINDO BASICAMENTE NA CONSTRUÇÃO DE PIER NA ORLA DO MUNICÍPIO DE PIAÇABUÇU. TUDO ISSO CONSTRUÍDO COM AS MAIS MODERNAS TECNOLOGIAS ORGÂNICAS DE ENGENHARIA. TRATA-SE DE UMA INTERVENÇÃO ARQUITETÔNICA E DE ENGENHARIA SUSTENTÁVEL QUE IRÁ CATAPULTAR O TURISMO DA REGIÃO TRAZENDO A OPORTUNIDADE DE GERAÇÃO DE RENDA PARA OS MUNÍCIPES DA REGIÃO. TUDO ISSO EM COMPLETA SINTONIA COM OS OBJETIVOS DOS PROGRAMAS GOVERNAMENTAIS QUE COMPÕEM TÃO IMPORTANTE MINISTÉRIO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE PIER NO MUNICÍPIO DE PIAÇABUÇU/ALAGOAS.",
+            "information": "",
+            "proposalDate": "2009-11-30T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-11T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020090028",
+              "name": "SPR - PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO",
+              "value": 205000,
+              "details": {
+                "code": "5300020090028",
+                "name": "SPR - PROMOÇÃO DA SUSTENTABILIDADE DE ESPAÇOS SUB-REGIONAIS - PROMESO",
+                "cps": null,
+                "items": "Apoio a Projetos de Desenvolvimento Sustentável Local Integrado",
+                "couterpartRule": "Municípios com até 50.000 habitantes localizados nas Mesorregiões Prioritárias da PNDR [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 205000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 200000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.669.809-** - MARCIA REGINA SARTORI DAMO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "728497/2009",
+            "validity": "11/01/2010 a 10/01/2012",
+            "limitDate": "2012-02-09T00:00:00.000Z",
+            "totalValue": 205000,
+            "transferValue": 200000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "718539/2009",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-29T00:00:00.000Z",
+        "end": "2012-05-13T00:00:00.000Z",
+        "program": "1025 Promoção da Sustentabilidade de Espaços Sub-Regionais – PROMESO – PT 15.244.1025.7K66.0027 – Ação: Apoio A Projetos De Desenvolvimento Sustentável Local Integrado - No Estado De Alagoas (Emenda)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "072059/2009",
+            "organId": "50009/2009",
+            "processId": "59550.000888/2009-43",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto nº 6.170/2007 c/ Portaria Interministerial MP/MF/MCT nº 165/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "O acesso ao povoado Potengy, no município de Piaçabuçu, se dá através de estrada vicinal que liga a AL 101-Sul e que necessita de uma forte recuperação, considerando que fica intransitável em alguns pontos nos períodos das chuvas na região. Sendo assim, essa recuperação é importante para que os habitantes das localidades, cerca de 836 pessoas que lá habitam (dados da Secretaria Municipal de Saúde), tenham condições de locomoção durante todo o ano, além de facilitar o acesso de turistas à região, que fica próximo à foz do rio São Francisco, podendo o turismo se tornar uma forte atividade econômica do município, justificando esta proposta.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Elaboração do Projeto Básico e serviços de terraplenagem para recuperação da estrada vicinal que interliga a AL 101-Sul ao povoado Potengy, numa extensão total aproximada de 5,7 km.",
+            "information": "A PREFEITURA MUNICIPAL DE PIAÇABUÇU DECLARA QUE DISPÕE DE EQUIPE CAPACITADA PARA ATUAR NA COORDENAÇÃO E FISCALIZAÇÃO DOS SERVIÇOS DE OBRAS DE ENGENHARIA QUE VENHAM A SER EXECUTADOS QUANDO DA FORMALIZAÇÃO DESTE CONVÊNIO.",
+            "proposalDate": "2009-09-16T00:00:00.000Z",
+            "biddingDate": "2009-12-29T00:00:00.000Z",
+            "homologationDate": "2009-12-31T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320090057",
+              "name": "1025 Promoção da Sustentabilidade de Espaços Sub-Regionais – PROMESO – PT 15.244.1025.7K66.0027 – Ação: Apoio A Projetos De Desenvolvimento Sustentável Local Integrado - No Estado De Alagoas (Emenda)",
+              "value": 147150,
+              "details": {
+                "code": "2220320090057",
+                "name": "1025 Promoção da Sustentabilidade de Espaços Sub-Regionais – PROMESO – PT 15.244.1025.7K66.0027 – Ação: Apoio A Projetos De Desenvolvimento Sustentável Local Integrado - No Estado De Alagoas (Emenda)",
+                "cps": null,
+                "items": "Aumentar a sustentabilidade de espaços sub-regionais da Política Nacional de Desenvolvimento Regional, para a redução das desigualdades inter e intra-regionais.",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 147150,
+                "couterpartValues": {
+                  "total": 4650,
+                  "financial": 4650,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 142500,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "01-10/2010",
+              "type": "Licitação - Convite",
+              "date": "2010-12-28T00:00:00.000Z",
+              "processId": "01",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Convite",
+                "biddingType": "Menor Valor",
+                "processId": "01",
+                "biddingId": "01-10/2010",
+                "object": "CONTRATACAO DE UMA EMPRESA ESPECIALIZADA EM CONSTRUCAO CIVIL, PARA RECUPERACAO DA ESTRADA VICINAL QUE DA ACESSO AO POVOADO POTENGY.",
+                "legalFoundation": "8666",
+                "justification": "RECUPERACAO DA ESTRADA VICINAL QUE DA ACESSO AO POVOADO POTENGY.",
+                "publishDate": "2010-12-28T00:00:00.000Z",
+                "beginDate": "2010-11-10T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 139601,
+                "homologationDate": "2010-11-11T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000110/2010",
+              "biddingId": "01-10/2010",
+              "date": "2010-11-11T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10597666000122",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE UMA EMPRESA ESPECIALIZADA EM CONSTRUÇÃO CIVIL, PARA RECUPERAÇÃO DA ESTRADA VICINAL QUE DÁ ACESSO AO POVOADO POTENGY, NO MUNICÍPIO DE PIAÇABUÇU.",
+                "totalValue": 139601,
+                "publishDate": "2010-11-11T00:00:00.000Z",
+                "beginDate": "2010-11-11T00:00:00.000Z",
+                "endDate": "2011-01-11T00:00:00.000Z",
+                "signDate": "2010-11-11T00:00:00.000Z",
+                "executionProcessId": "01-10/2010 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "01 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "718539/2009",
+            "validity": "29/12/2009 a 13/05/2012",
+            "limitDate": "2013-08-29T00:00:00.000Z",
+            "totalValue": 147150,
+            "transferValue": 142500,
+            "counterpartValue": 4650,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "717928/2009",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-12-22T00:00:00.000Z",
+        "end": "2012-05-02T00:00:00.000Z",
+        "program": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO-Ação-15.244.1025.7K66.0092-AL (Emenda)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "080133/2009",
+            "organId": "50029/2009",
+            "processId": "59550.000889/2009-98",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto nº 6.170/2007 c/ Portaria Interministerial MP/MF/MCT nº 165/2008",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "description": null,
+            "justification": "DURANTE O PERÍODO CHUVOSO NA REGIÃO DO MUNICÍPIO DE PIAÇABUÇU OCORRE EROSÕES AO POVOADO PENEDINHO, PARTINDO DA AL 225 ATÉ O CENTRO DO POVOADO. ESSAS EROSÕES CAUSAM DIFICULDADES NO TRÂNSITO POR ESSA RUA, ÚNICO ACESSO AO POVOADO. ESSE FATO GERA PROBLEMAS SOCIOECONÔMICOS PARA OS HABITANTES DE PENEDINHO, TENDO EM VISTA ÀS PÉSSIMAS CONDIÇÕES DE ESCOAMENTO DA PRODUÇÃO, DIFICULDADES DE LOCOMOÇÃO DE ESTUDANTES PARA AS ESCOLAS DA SEDE DO MUNICÍPIO E DEMAIS ATIVIDADES DOS MORADORES DAQUELE POVOADO. TAMBÉM OCORRE O ACÚMULO DE ÁGUAS PLUVIAIS NESSA RUA, CAUSANDO PROBLEMAS NA SAÚDE DEVIDO AO AUMENTO DE AGENTES DE PATOLOGIAS ENDÊMICAS. A PAVIMENTAÇÃO DESSE LOGRADOURO PROPORCIONARÁ A MELHORIA DAS CONDIÇÕES DE VIDA DOS HABITANTES DE PENEDINHO, CONSIDERANDO A SAÚDE E O FATOR SOCIOECONÔMICO DA REGIÃO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "URBANIZAÇÃO DE LOGRADOUROS NO POVOADO PENEDINHO, MUNICÍPIO DE PIAÇABUÇU, ATRAVÉS DA EXECUÇÃO DE PAVIMENTAÇÃO COM PARALELEPÍPEDOS SOBRE LASTROS DE AREIA E MEIO FIO DE CONCRETO PREMOLDADO ASSENTADOS SOBRE LASTRO DE AREIA.",
+            "information": "A PREFEITURA MUNICIPAL DE PIAÇABUÇU DECLARA QUE DISPÕE DE EQUIPE CAPACITADA PARA ATUAR NA COORDENAÇÃO E FISCALIZAÇÃO DOS SERVIÇOS DE OBRAS DE ENGENHARIA QUE VENHAM A SER EXECUTADOS QUANDO DA FORMALIZAÇÃO DESTE CONVÊNIO.",
+            "proposalDate": "2009-10-09T00:00:00.000Z",
+            "biddingDate": "2009-12-22T00:00:00.000Z",
+            "homologationDate": "2009-12-23T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "2220320090002",
+              "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO-Ação-15.244.1025.7K66.0092-AL (Emenda)",
+              "value": 513801.26,
+              "details": {
+                "code": "2220320090002",
+                "name": "1025 - Promoção da Sustentabilidade de Espaços Sub-Regionais - PROMESO-Ação-15.244.1025.7K66.0092-AL (Emenda)",
+                "cps": null,
+                "items": "Aumentar a sustentabilidade de espaços sub-regionais da Política Nacional de Desenvolvimento Regional, para a redução das desigualdades inter e intra-regionais.",
+                "couterpartRule": "Municípios com até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 513801.26,
+                "couterpartValues": {
+                  "total": 10301.26,
+                  "financial": 10301.26,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 503500,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "respGrantor": "***.923.104-** - ANTONIO NELSON OLIVEIRA DE AZEVEDO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002/2010",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2010-06-10T00:00:00.000Z",
+              "processId": "002",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "002",
+                "biddingId": "002/2010",
+                "object": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA A EXECUÇÃO DE OBRAS DA 1ª ETAPA DA PAVIMENTAÇÃO EM PARALELEPÍPEDO",
+                "legalFoundation": "8666",
+                "justification": "PAVIMENTAR ALGUMAS RUAS DO MUNICÍPIO.",
+                "publishDate": "2010-06-10T00:00:00.000Z",
+                "beginDate": "2010-06-25T00:00:00.000Z",
+                "endDate": null,
+                "biddingValue": 498885.74,
+                "homologationDate": "2010-06-25T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000002/2010",
+              "biddingId": "002/2010",
+              "date": "2010-06-30T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 10597666000122",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Serviço",
+                "object": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUTAR OBRAS DE PAVIMENTAÇÃO E DRENAGEM DE RUAS NO POVOADO PENEDINHO.",
+                "totalValue": 498885.74,
+                "publishDate": "2010-06-30T00:00:00.000Z",
+                "beginDate": "2010-06-28T00:00:00.000Z",
+                "endDate": "2011-12-06T00:00:00.000Z",
+                "signDate": "2010-06-28T00:00:00.000Z",
+                "executionProcessId": "002/2010 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "002 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "717928/2009",
+            "validity": "22/12/2009 a 02/05/2012",
+            "limitDate": "2013-10-28T00:00:00.000Z",
+            "totalValue": 513801.26,
+            "transferValue": 503500,
+            "counterpartValue": 10301.26,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "710286/2009",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2012-11-30T00:00:00.000Z",
+        "program": "Gestão da Política de Desenvolvimento Urbano",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "092838/2009",
+            "organId": "92838/2009",
+            "processId": "092838/2009",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O ACESSO AO POVOADO BONITO, NO MUNICÍPIO DE PIAÇABUÇU, SE DÁ ATRAVÉS DE ESTRADA VICINAL QUE NECESSITA DE UMA FORTE RECUPERAÇÃO, CONSIDERANDO QUE ESTÁ INTRANSITÁVEL EM ALGUNS PONTOS, SENDO ASSIM, ESSA RECUPERAÇÃO É IMPORTANTE PARA QUE OS HABITANTES DESTA LOCALIDADE TENHAM CONDIÇÕES DE LOCOMOÇÃO DURANTE TODO O ANO. COMO TAMBÉM A NECESSIDADE DE IMPLANTAR MELHORIA DE INFRAESTRUTURA NO CONJUNTO HABITACIONAL DALMO MOREIRA SANTANA COM VISTAS AO PLENO DESENVOLVIMENTO DAS FUNÇÕES SOCIAIS E BEM ESTAR DE SEUS MORADORES, USANDO DESTAS ATRIBUIÇÕES E GARANTINDO O PROCESSO DE PARTICIPAÇÃO DA POPULAÇÃO.VALE DESTACAR QUE SERÃO BENEFICIADAS CERCA DE 320 FAMÍLIAS,SENDO 200 DO CONJUNTO HABITACIONAL, E O RESTANTE PARA O POVOADO BONITO.A RENDA MÉDIA DESSAS FAMÍLIAS É DE R$350,00.ESTE CONVÊNIO SERÁ EXECUTADO NA ZONA RURAL DO MUNICÍPIO DE PIAÇABUÇU.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "PAVIMENTAÇÃO NO POVOADO BONITO E INFRAESTRUTURA NO CONJUNTO HABITACIONAL DALMO MOREIRA SANTANA.",
+            "information": "",
+            "proposalDate": "2009-10-30T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020094731",
+              "name": "Gestão da Política de Desenvolvimento Urbano",
+              "value": 442760,
+              "details": {
+                "code": "5600020094731",
+                "name": "Gestão da Política de Desenvolvimento Urbano",
+                "cps": "",
+                "items": "Ações de Infra-estrutura Urbana em Municípios",
+                "couterpartRule": "",
+                "totalValue": 442760,
+                "couterpartValues": {
+                  "total": 9000,
+                  "financial": 9000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 433760,
+                  "amendment": "R$ 433.760,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "710286/2009",
+            "validity": "31/12/2009 a 30/11/2012",
+            "limitDate": "2012-11-30T00:00:00.000Z",
+            "totalValue": 442760,
+            "transferValue": 433760,
+            "counterpartValue": 9000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "708663/2009",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2012-11-30T00:00:00.000Z",
+        "program": "IMPLANTAÇÃO DE CENTROS DE INFORMAÇÕES TURÍSTICAS - PROGRAMAÇÃO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Cláusula Suspensiva",
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "070095/2009",
+            "organId": "70095/2009",
+            "processId": "070095/2009",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "decreto 6170",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "PIAÇABUÇU É UMA CIDADE CHEIA DE RIQUEZAS NATURAIS, COMO A FOZ DO RIO SÃO FRANCISCO QUE ATRAI PESSOAS DO MUNDO TODO. UMA ESTRUTURAÇÃO DESSA GRANDEZA TRÁS INÚMEROS RESULTADOS POSITIVOS PARA A REGIÃO, COMO O AQUECIMENTO REAL DA ECONOMIA LOCAL, A ATRAÇÃO DE NOVOS E MODERNOS INVESTIMENTOS, A CAPACITAÇÃO DE PROFISSIONAIS LIGADOS DIRETAMENTE AO SETOR TURÍSTICO, ALÉM DA MELHORIA DOS EQUIPAMENTOS JÁ EXISTENTES E A GERAÇÃO DE EMPREGO E RENDA QUE DÁ OPORTUNIDADE A TODA POPULAÇÃO. PIAÇABUÇU JÁ É DESTINO DE DESTAQUE NO TURISMO DO ESTADO E DO PAÍS. DIARIAMNETE CENTENAS DE TURISTAS VINDOS DE TODAS AS PARTES DO BRASIL E DO MUNDO SE DELICIAM COM AS PAISAGENS E COM O EXUBERANTE PASSEIO DE ESCUNA ATÉ A FOZ DO VELHO CHICO, ONDE PODEM APRECIAR UMA DAS MAIS RICAS GASTRONOMIAS DA REGIÃO, SEMPRE A BASE DE CAMARÕES, PEIXES, SIRIS, LAGOSTAS E OUTRAS MARAVILHAS DO MAR. TODO LITORAL SUL VIVE UMA GRANDE EXPECTATIVA E SABE QUE COM O APOIO DO MINISTÉRIO DO TURISMO E DO GOVERNO FEDERAL, PIAÇABUÇU GANHARÁ AINDA MAIS DESTAQUE NO TURISMO NACIONAL E ENTRARÁ DE VEZ NO ROTEIRO DE VIAGENS DE TODOS QUE PASSAREM PELO NORDESTE BRASILEIRO. O CENTRO DE APOIO E INFORMAÇÕES TURÍSTICAS SERÁ LOCALIZADO NA PRAÇA VIRGÍLIO DE LEMOS NA ZONA URBANA DO MUNICÍPIO. TODAS AS FAMÍLIAS DE PIAÇABUÇU SERÃO BENEFICIADAS INDIRETAMENTE COM ESSA OBRA, COM A GERAÇÃO DE EMPREGO E DE RENDA, PORÉM O PÚBLICO ALVO É O TURISTA, QUE AO VISITAR O MUNICÍPIO, NECESSITA DE ORIENTAÇÃO E INFORMAÇÃO PARA PODER USUFRUIR DE TODOS OS PONTOS TURÍSTICOS QUE NOSSO MUNICÍPIO OFERECE.VALE DESTACAR QUE A RENDA MÉDIA DAS FAMÍLIAS QUE TAMBÉM SERÃO BENEFICIADAS É DE ATÉ 1 SALÁRIO MÍNIMO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CENTRO DE APOIO E INFORMAÇÕES TURISTICAS",
+            "information": "DECLARO TER CAPACIDADE TECNICA.",
+            "proposalDate": "2009-09-04T00:00:00.000Z",
+            "biddingDate": null,
+            "homologationDate": "2010-01-15T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090037",
+              "name": "IMPLANTAÇÃO DE CENTROS DE INFORMAÇÕES TURÍSTICAS - PROGRAMAÇÃO",
+              "value": 298500,
+              "details": {
+                "code": "5400020090037",
+                "name": "IMPLANTAÇÃO DE CENTROS DE INFORMAÇÕES TURÍSTICAS - PROGRAMAÇÃO",
+                "cps": "",
+                "items": "IMPLANTAÇÃO DE CENTROS DE INFORMAÇÕES TURÍSTICAS - PROGRAMAÇÃO",
+                "couterpartRule": "Municípios até 50.000 habitantes [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 298500,
+                "couterpartValues": {
+                  "total": 6000,
+                  "financial": 6000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 292500,
+                  "amendment": "R$ 292.500,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.138.602-** - MARIA DA CONCEIÇÃO MENEZES SIMÕES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Contrato de Repasse",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "708663/2009",
+            "validity": "31/12/2009 a 30/11/2012",
+            "limitDate": "2012-11-30T00:00:00.000Z",
+            "totalValue": 298500,
+            "transferValue": 292500,
+            "counterpartValue": 6000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "704845/2009",
+        "company": {
+          "id": "312811fb-3992-4274-b3d8-90304dae061c",
+          "cnpj": "12247268000101",
+          "name": "PREFEITURA MUNICIPAL",
+          "cityId": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+          "sphere": "Municipal",
+          "city": {
+            "id": "fddfee5b-99d3-4878-b4a3-fbf4961e440c",
+            "name": "Piaçabuçu",
+            "uf": "AL",
+            "ibge": "2706802"
+          }
+        },
+        "name": "MINISTERIO DO TURISMO",
+        "status": "Empenhado, Publicado e Não assinado",
+        "start": "2009-09-11T00:00:00.000Z",
+        "end": "2009-12-06T00:00:00.000Z",
+        "program": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Prestação de Contas Aprovada com Ressalvas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "060229/2009",
+            "organId": "00993/2009",
+            "processId": "72031.001658/2009-29",
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "legalFoundation": "Decreto 6170/07 e Portaria interministerial 127/08",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "DE 12 A 19 DE SETEMBRO PRÓXIMO, NA CIDADE DE PIAÇABUÇU, EM ALAGOAS, ACONTECERÁ O 1° FESTIVAL DO COCO, QUE É UM DOS MAIS ESPERADOS EVENTOS DO ANO, UMA VEZ QUE AS ATRAÇÕES E ESTRUTURA DEFINIDAS SÃO AS MAIORES QUE A CIDADE JÁ TEVE. LOCALIZADA A POUCO MAIS DE UMA HORA E MEIA DA CAPITAL, E A POUCO MAIS DE 20 MINUTOS DE PENEDO E DO ESTADO DE SERGIPE, PIAÇABUÇU ESBANJA BELEZA E TRADIÇÃO ÀS MARGENS DO RIO SÃO FRANCISCO, O VELHO CHICO, QUE POR CAPRICHO DA NATUREZA TEM A SUA FOZ NESSA BELA E HOSPITALEIRA CIDADE, QUE POSSUI CERCA DE 18 MIL HABITANTES, MAS QUE ESPERA RECEBER DURANTE O FESTIVAL DO COCO MAIS DE 20 MIL PESSOAS POR NOITE. UM EVENTO DESSA GRANDEZA TRÁS INÚMEROS RESULTADOS POSITIVOS PARA A REGIÃO, COMO O FOMENTO A FORMAÇÃO DE REDES DE COOPERAÇÃO, O AUMENTO DA OCUPAÇÃO HOTELEIRA, AQUECIMENTO REAL DA ECONOMIA LOCAL, A ATRAÇÃO DE NOVOS E MODERNOS INVESTIMENTOS, A CAPACITAÇÃO DE PROFISSIONAIS LIGADOS DIRETAMENTE AO SETOR TURÍSTICO, ALÉM DA MELHORIA DOS EQUIPAMENTOS JÁ EXISENTES E A GERAÇÃO DE EMPREGO E RENDA QUE DÁ OPORTUNIDADE A TODA POPULAÇÃO QUE APROVEITA A FESTA PARA COMERCIALIZAR BEBIDAS, COMIDAS, ARTESANATO E ATÉ PARA LUCRAR COM O ALUGUEL DE SUAS RESIDÊNCIAS. CONHECIDA POR SUAS BELEZAS NATURAIS, PIAÇABUÇU JÁ É DESTINO DE DESTAQUE NO TURISMO DO ESTADO E DO PAÍS. DIARIAMNETE CENTENAS DE TURISTAS VINDOS DE TODAS AS PARTES DO BRASIL E DO MUNDO SE DELICIAM COM AS PAISAGENS E COM O EXUBERANTE PASSEIO DE ESCUNA ATÉ A FOZ DO VELHO CHICO, ONDE PODEM APRECIAR UMA DAS MAIS RICAS GASTRONOMIAS DA REGIÃO, SEMPRE A BASE DE CAMARÕES, PEIXE, SIRIS, LAGOSTAS E OUTRAS MARAVILHAS DO MAR. TODO LITORAL SUL VIVE UMA GRANDE EXPECTATIVA E SABE QUE COM O APOIO DO MINISTÉRIO DO TURISMO E DO GOVERNO FEDERAL, PIAÇABUÇU GANHARÁ AINDA MAIS DESTAQUE NO TURISMO NACIONAL E ENTRARÁ DE VEZ NO ROTEIRO DE VIAGENS DE TODOS QUE PASSAREM PELO NORDESTE BRASILEIRO.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "1° FESTIVAL DO COCO DE PIAÇABUÇU",
+            "information": "DECLARAÇÃO EM ANEXO",
+            "proposalDate": "2009-08-09T00:00:00.000Z",
+            "biddingDate": "2009-09-11T00:00:00.000Z",
+            "homologationDate": "2009-10-02T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5400020090049",
+              "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+              "value": 315000,
+              "details": {
+                "code": "5400020090049",
+                "name": "PROMOÇÃO DE EVENTOS PARA A DIVULGAÇÃO DO TURISMO INTERNO - EMENDAS",
+                "cps": null,
+                "items": "FESTIVAIS CULTURAIS",
+                "couterpartRule": "MUNICÍPIOS COM MENOS DE 50.000 HABITANTES [Percentual Mínimo Contrapartida: 4.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 315000,
+                "couterpartValues": {
+                  "total": 15000,
+                  "financial": 15000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 300000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.247.268/0001-01 - MUNICIPIO DE PIACABUCU",
+            "respProponent": "***.256.404-** - DALMO MOREIRA SANTANA JUNIOR",
+            "grantor": "54000 - MINISTERIO DO TURISMO",
+            "respGrantor": "***.055.648-** - MARIO AUGUSTO LOPES MOYSES"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "010",
+              "type": "Inexigibilidade",
+              "date": null,
+              "processId": "010",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Inexigibilidade",
+                "buyType": "",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "010",
+                "biddingId": null,
+                "object": "APRESENTAÇÃO DAS BANDAS AVIÕES DO FORRÓ, MIRELLA E BANDA DOCE AVENTURA, GAVIÕES DO FORRÓ, EXPRESSO FORRONAJO E FORRÓ DO BOM, PARA A REALIZAÇÃO DO 1º FESTIVAL DO COCO QUE ACONTECERÁ ENTRE OS DIAS 12 A 19 DE SETEMBO, EM PIAÇABUÇU/AL.",
+                "legalFoundation": "LEI 8666-93",
+                "justification": "Considerados os aspectos e a singularidade da contratação e observadas as disposições da legislação pertinente, entende-se que é inexigível a licitação.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 170500,
+                "homologationDate": "2009-08-28T00:00:00.000Z",
+                "city": "2835 - PIACABUCU",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000017/2009",
+              "biddingId": "017/2009",
+              "date": "2010-03-24T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04668053000136",
+                "hirerDocument": "CNPJ: 12247268000101",
+                "type": "Serviço",
+                "object": "EXECUÇÃO DO SERVIÇO DE PUBLICIDADE PARA A REALIZAÇÃO DO 1º FESTIVAL DO COCO QUE ACONTECERÁ ENTRE OS DIAS 12 A 19 DE SETEMBRO, NO MUNICÍPIO DE PIAÇABUÇU/AL.",
+                "totalValue": 78750,
+                "publishDate": "2010-03-24T00:00:00.000Z",
+                "beginDate": "2009-09-12T00:00:00.000Z",
+                "endDate": "2009-09-19T00:00:00.000Z",
+                "signDate": "2009-09-10T00:00:00.000Z",
+                "executionProcessId": "017/2009 ",
+                "biddingModality": "Licitação - Convite ",
+                "processId": "017 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "convenient": "MUNICIPIO DE PIACABUCU",
+            "documentNumber": "12.247.268/0001-01",
+            "modality": "Convênio",
+            "status": "Prestação de Contas Aprovada com Ressalvas",
+            "number": "704845/2009",
+            "validity": "11/09/2009 a 06/12/2009",
+            "limitDate": "2009-12-06T00:00:00.000Z",
+            "totalValue": 315000,
+            "transferValue": 300000,
+            "counterpartValue": 15000,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1428 @@
+{
+  "beginDate": "2020-09-01T16:42:35.087Z",
+  "endDate": "2020-09-01T16:53:45.657Z",
+  "data": {
+    "location": {
+      "city": "Teotônio Vilela",
+      "uf": "AL",
+      "ibge": "2709152"
+    },
+    "agreements": [
+      {
+        "agreementId": "875660/2018",
+        "company": {
+          "id": "160ee309-d97f-4d02-b8ee-ed1111a9e6ec",
+          "cnpj": "12842829000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5e3da9f6-0846-4845-a162-c65e8266b974",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5e3da9f6-0846-4845-a162-c65e8266b974",
+            "name": "Teotônio Vilela",
+            "uf": "AL",
+            "ibge": "2709152"
+          }
+        },
+        "name": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2018-08-28T00:00:00.000Z",
+        "end": "2021-08-30T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "051891/2018",
+            "organId": "51891/2018",
+            "processId": "518912018",
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "legalFoundation": "Decreto n. 6.170/2007",
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Situada a 110 km da capital, a cidade de Teotônio Vilela está localizada na zona da mata do estado de Alagoas. Sua altitude é de 156 metros acima do nível do mar, entre as coordenadas geográficas Latitude -09°54’19” e Longitude 36°21’10”, fazendo parte da microrregião de São Miguel dos Campos e, limitando-se ao Norte com as cidades de Campo Alegre e Jequiá da Praia, ao Sul com Coruripe e, ao oeste com Junqueiro. Sua emancipação política ocorreu em 1986. Segundo dados do Governo de Estado de Alagoas – Perfil Municipal (2014), Teotônio Vilela tem extensão territorial de 299,223 km² e, o IBGE estima que em 2017, sua população será de aproximadamente 44.666 habitantes, perfazendo densidade demográfica de 138,15 por km². O município apresenta taxa de crescimento anual de 1,34% (IBGE 2012) e Índice de Desenvolvimento Humano (IDH) de 0,564. A estrutura econômica do município é composta pela participação dos setores de serviços e comércio, indústria e agropecuária discriminados da seguinte forma relativos ao PIB municipal: a) os setores de comércio e serviços com 59,07% ; b) o setor industrial conta com a participação de 24,31%, e c) o setor da agropecuária com 16,61% . A renda per capita média de Teotônio Vilela cresceu 93,45% nas últimas duas décadas, passando de R$126,33 em 1991 para R$166,55 em 2000 e R$244,39 em 2010. O desempenho no conjunto de indicadores que compõe o IDH (renda, longevidade e educação) está melhorando, mas ainda assim persiste a desigualdade social refletida no número expressivo de pessoas vivendo em situação de pobreza, em assentamentos precários e vilas, localizadas nas áreas periféricas da cidade. O IDHM passou de 0,398 em 2000 para 0,564 em 2010 - uma taxa de crescimento de 41,71%. O hiato de desenvolvimento humano, ou seja, a distância entre o IDHM do município e o limite máximo do índice, que é 1, foi reduzido em 27,57% entre 2000 e 2010. A cidade conta com 47.1% de domicílios com esgotamento sanitário adequado, 68% de domicílios urbanos em vias públicas com arborização e 19.9% de domicílios urbanos em vias públicas com urbanização adequada (presença de bueiro, calçada, pavimentação e meio-fio). Quando comparado com os outros municípios do estado, fica na posição 16 de 102, 40 de 102 e 21 de 102, respectivamente. Já quando comparado a outras cidades do Brasil, sua posição é 2362 de 5570, 3229 de 5570 e 1863 de 5570, respectivamente (IBGE (201 https://cidades.ibge.gov.br/brasil/al/teotonio-vilela/panorama 09.4.18 15h14min). Dentro da política prioritária de inclusão e desenvolvimento, a atual administração busca recursos que possibilitem a elevação da qualidade de vida de seus munícipes e para tanto, se faz imperativo a pavimentação de ruas sem calçamento porque facilita as relações comerciais, econômicas e socias da cidade, além de influenciar diretamente na área de saúde e de Segurança pública.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "Obras e Serviços de Engenharia",
+            "object": "Pavimentação de Diversas Ruas Urbanas no Muncípio de Teotônio Vilela",
+            "information": "",
+            "proposalDate": "2018-06-12T00:00:00.000Z",
+            "biddingDate": "2018-08-28T00:00:00.000Z",
+            "homologationDate": "2018-08-29T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5300020180033",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 473176.21,
+              "details": {
+                "code": "5300020180033",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "007/2018",
+                "items": "INFRAESTRUTURA URBANA, Unidades Habitacionais, Equipamentos Comunitários, Pavimentação, Drenagem, Abastecimento de Água, Esgotamento Sanitário, Energia Elétrica e Iluminação, Coleta e Tratamento de Resíduos Sólidos, Contenção e Estabilização de Encostas, Regularização Fundiária, Aquisição de Terreno, Aquisição de Equipamentos e Insumos, Elaboração de Estudos e Projetos, Instrumentos e Ações em Planejamento e Gestão Pública, Ações Complementares de Obras, Gerenciamento, Trabalho Social, Transporte Público",
+                "couterpartRule": "0,1% (um décimo por cento) e 4% (quatro por cento) para os. consórcios públicos constituídos por Estado, Distrito Federal e Municípios; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 473176.21,
+                "couterpartValues": {
+                  "total": 12223.83,
+                  "financial": 12223.83,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 460952.38,
+                  "amendment": "R$ 460.952,38 - Pedro Vilela"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "respProponent": "***.910.164-** - JOAO JOSE PEREIRA FILHO",
+            "grantor": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "respGrantor": "***.666.489-** - GUSTAVO HENRIQUE RIGODANZO CANUTO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-09-30T00:00:00.000Z",
+              "processId": "1892019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "1892019",
+                "biddingId": "002/2019",
+                "object": "Serviço de Engenharia - Terraplenagem, Drenagem de Águas Pluviais e Pavimentação em Paralelepípedo em Diversas Ruas do Loteamento Miguel Felizardo, Bairro São Miguel do Município de Teotônio Vilela/AL",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "Procedimento licitatório na modalidade tomada de preço n. 002/2019, tipo menor preço sobre p critério de empreitada por menor preço global para Serviço de Engenharia - Terraplenagem, Drenagem de Águas Pluviais e Pavimentação em Paralelepípedo em Diversas Ruas do Loteamento Miguel Felizardo",
+                "publishDate": "2019-09-30T00:00:00.000Z",
+                "beginDate": "2019-10-16T00:00:00.000Z",
+                "endDate": "2019-10-16T00:00:00.000Z",
+                "biddingValue": 473176.21,
+                "homologationDate": "2019-11-06T00:00:00.000Z",
+                "city": "0971 - TEOTONIO VILELA",
+                "analysisDate": "2020-07-17T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000125/2020",
+              "biddingId": "002/2019",
+              "date": "2019-11-06T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 02308887000105",
+                "hirerDocument": "CNPJ: 12842829000110",
+                "type": "Serviço de Engenharia",
+                "object": "Pavimentação de Diversas Ruas do Município - no bairro M. Felizardo",
+                "totalValue": 473176.21,
+                "publishDate": "2019-11-06T00:00:00.000Z",
+                "beginDate": "2019-11-05T00:00:00.000Z",
+                "endDate": "2020-11-04T00:00:00.000Z",
+                "signDate": "2019-11-05T00:00:00.000Z",
+                "executionProcessId": "002/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "1892019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "53000 - MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+            "convenient": "MUNICIPIO DE TEOTONIO VILELA",
+            "documentNumber": "12.842.829/0001-10",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "875660/2018",
+            "validity": "28/08/2018 a 30/08/2021",
+            "limitDate": "2021-10-29T00:00:00.000Z",
+            "totalValue": 473176.21,
+            "transferValue": 460952.38,
+            "counterpartValue": 12223.83,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "859836/2017",
+        "company": {
+          "id": "160ee309-d97f-4d02-b8ee-ed1111a9e6ec",
+          "cnpj": "12842829000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5e3da9f6-0846-4845-a162-c65e8266b974",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5e3da9f6-0846-4845-a162-c65e8266b974",
+            "name": "Teotônio Vilela",
+            "uf": "AL",
+            "ibge": "2709152"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-30T00:00:00.000Z",
+        "end": "2021-07-12T00:00:00.000Z",
+        "program": "2068 - Saneamento Básico (Ação:10GE - Sistemas Públicos de Esgotamento Sanitário)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "103036/2017",
+            "organId": "06278/2017",
+            "processId": "25100.022497/2017-76",
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "legalFoundation": "Decreto nº 6.170, de 25 de julho de 2007, e Portaria Interministerial nº 424, de 30 de dezembro de 2016.",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de Teotônio Vilela esta inserido na região da Mata Alagoana, tem área de 298km² e população estimada de 41.152 habitantes, de acordo com o Censo Demográfico do IBGE (2010). Seu Índice de Desenvolvimento Humano (IDH) é de 0,567 segundo o Atlas de Desenvolvimento Humano/PNUD (2000) e índice de pobreza igual a 69,89%. A coleta de lixo é executada pela Prefeitura Municipal e o destino final é um lixão a céu aberto próximo a área urbana. Desta forma a implantação do Esgotamento Sanitário é de fundamental importância para o desenvolvimento socioambiental da mesma. Serão 25.000 mil pessoas beneficiadas que deverá atender toda área urbana do município.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Implantação de Esgotamento Sanitário no município de Teotônio Vilela-AL.",
+            "information": "Em atendimento ao disposto no § 5.º, inciso II do Art.7º e o inciso V do Art. 16 da Portaria Interministerial 424/2016, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Teotônio Vilela/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc. Desta proposta, tais como: licitações, execução e fiscalização de obras, etc”.",
+            "proposalDate": "2017-12-22T00:00:00.000Z",
+            "biddingDate": "2017-12-30T00:00:00.000Z",
+            "homologationDate": "2018-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120170003",
+              "name": "2068 - Saneamento Básico (Ação:10GE - Sistemas Públicos de Esgotamento Sanitário)",
+              "value": 30300,
+              "details": {
+                "code": "3621120170003",
+                "name": "2068 - Saneamento Básico (Ação:10GE - Sistemas Públicos de Esgotamento Sanitário)",
+                "cps": null,
+                "items": "Implantação e/ou ampliação de sistemas públicos de esgotamento sanitário em municípios com população abaixo de 50.000 habitantes, contemplando obras necessárias à coleta, tratamento e disposição adequada dos efluentes, compreendendo redes coletoras, interceptores, estações elevatórias, estações de tratamento, emissários, entre outras intervenções",
+                "couterpartRule": "A contrapartida (no caso dos municípios) dependerá da comprovação, por parte do convenente, na forma definida pelo Inciso I, Alíneas (a), (b), (c) e (d) do Art. 79, da Lei nº. 13.408/2016 (LOA 2017) [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 30300,
+                "couterpartValues": {
+                  "total": 300000,
+                  "financial": 300000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 30000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "respProponent": "***.910.164-** - JOAO JOSE PEREIRA FILHO",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.510.368-** - RODRIGO SERGIO DIAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "001/2018",
+              "type": "Licitação - Concorrência",
+              "date": "2018-10-19T00:00:00.000Z",
+              "processId": "2892018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Concorrência",
+                "biddingType": "Técnica e Preço",
+                "processId": "2892018",
+                "biddingId": "001/2018",
+                "object": "PRESTAÇÃO DE SERVIÇOS DE ELABORAÇÃO DE DIAGNÓSTICOS, ESTUDOS DE CONCEPÇÃO E VIABILIDADE, PROJETOS BÁSICOS E EXECUTIVOS DE ENGENHARIA E ESTUDOS AMBIENTAIS PARA SISTEMAS DE ESGOTAMENTO SANITÁRIO",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "Contratação de empresa especializada para a prestação de serviços de elaboração e diagnósticos, estudos de concepção e viabilidade (relatório Técnico Preliminar - RTP) e afins para esgotamento sanitário do município. Celebrando contrato sob regime de execução indireta, de Empreitada por Preço Global, de acordo com a Lei 8666/93 e suas posteriores alterações e legislação pertinente.",
+                "publishDate": "2018-10-19T00:00:00.000Z",
+                "beginDate": "2018-12-07T00:00:00.000Z",
+                "endDate": "2018-12-28T00:00:00.000Z",
+                "biddingValue": 803412.07,
+                "homologationDate": "2018-12-28T00:00:00.000Z",
+                "city": "0971 - TEOTONIO VILELA",
+                "analysisDate": "2020-07-21T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000181/2018",
+              "biddingId": "001/2018",
+              "date": "2018-12-28T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 06267018000130",
+                "hirerDocument": "CNPJ: 12842829000110",
+                "type": "Serviço",
+                "object": "PRESTAÇÃO DE SERVIÇOS DE ELABORAÇÃO DE DIAGNÓSTICOS, ESTUDOS DE CONCEPÇÃO E VIABILIDADE, PROJETOS BÁSICOS E EXECUTIVOS DE ENGENHARIA E ESTUDOS AMBIENTAIS PARA SISTEMAS DE ESGOTAMENTO SANITÁRIO",
+                "totalValue": 803412.07,
+                "publishDate": "2018-12-28T00:00:00.000Z",
+                "beginDate": "2018-12-28T00:00:00.000Z",
+                "endDate": "2019-12-27T00:00:00.000Z",
+                "signDate": "2018-12-28T00:00:00.000Z",
+                "executionProcessId": "001/2018 ",
+                "biddingModality": "Licitação - Concorrência ",
+                "processId": "2892018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE TEOTONIO VILELA",
+            "documentNumber": "12.842.829/0001-10",
+            "modality": "Convênio",
+            "status": "Em execução",
+            "number": "859836/2017",
+            "validity": "30/12/2017 a 12/07/2021",
+            "limitDate": "2021-09-10T00:00:00.000Z",
+            "totalValue": 30300,
+            "transferValue": 30000,
+            "counterpartValue": 300000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "856734/2017",
+        "company": {
+          "id": "160ee309-d97f-4d02-b8ee-ed1111a9e6ec",
+          "cnpj": "12842829000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5e3da9f6-0846-4845-a162-c65e8266b974",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5e3da9f6-0846-4845-a162-c65e8266b974",
+            "name": "Teotônio Vilela",
+            "uf": "AL",
+            "ibge": "2709152"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-19T00:00:00.000Z",
+        "end": "2021-10-30T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "019406/2017",
+            "organId": "19406/2017",
+            "processId": "0194062017",
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Localizado na Mesorregião do leste Alagoano e na Microrregião Geográfica de São Miguel dos Campos, Teotônio Vilela limita-se ao norte com Junqueiro e Campo Alegre, ao sul com Penedo e Coruripe, a leste com Jequiá da Praia e Coruripe e a oeste com Sebastião e Junqueiro. Está inserido na Reserva da Biosfera da Mata Atlântica (RBMA) e abriga a Reserva Particular do Patrimônio Natural (RPPN) Gulandim. Com uma área de 297, 880 km² (IBGE, 2010), Teotônio Vilela se encontra a uma distância de 101 km de Maceió e tem como vias de acesso as rodovias BR316 e BR 101. Com uma população aproximada de 42.200 habitantes. A prefeitura vem com o objetivo de melhorar a infraestrutura urbana do município com a pavimentação em diversas ruas do município. A falta de infraestrutura acarreta vários problemas para a população especialmente nos setores de transporte e mobilidade urbana. O objetivo desta obra irá proporcionar uma melhora significativa nos locais onde forem implantadas. Emenda Parlamentar n° 25790004, Programa: Planejamento Urbano, Emenda do Senador Fernando Affonso Collor de Mello.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação e Drenagem de Diversas Ruas do Município de Teotônio Vilela/AL.",
+            "information": "Em atendimento ao disposto no § 5.º, inciso II do Art.7º e o inciso V do Art. 16 da Portaria Interministerial 424/2016, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Teotônio Vilela /AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras.",
+            "proposalDate": "2017-03-21T00:00:00.000Z",
+            "biddingDate": "2017-12-19T00:00:00.000Z",
+            "homologationDate": "2017-12-22T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 368544.07,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 368544.07,
+                "couterpartValues": {
+                  "total": 23794.07,
+                  "financial": 23794.07,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 344750,
+                  "amendment": "R$ 344.750,00 - Fernando Collor"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "respProponent": "***.910.164-** - JOAO JOSE PEREIRA FILHO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-09-30T00:00:00.000Z",
+              "processId": "1892019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "1892019",
+                "biddingId": "002/2019",
+                "object": "Serviço de Engenharia - Terraplenagem, Drenagem de Águas\nPluviais e Pavimentação em Paralelepípedo em Diversas Ruas\ndo Loteamento Miguel Felizardo, Bairro São Miguel do\nMunicípio de Teotônio Vilela/AL.",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "Procedimento licitatório na modalidade tomada de preço n.\n002/2019, tipo menor preço sobre p critério de empreitada\npor menor preço global para Serviço de Engenharia -\nTerraplenagem, Drenagem de Águas Pluviais e Pavimentação\nem Paralelepípedo em Diversas Ruas do Loteamento Miguel Felizardo",
+                "publishDate": "2019-09-30T00:00:00.000Z",
+                "beginDate": "2019-10-16T00:00:00.000Z",
+                "endDate": "2019-10-16T00:00:00.000Z",
+                "biddingValue": 368544.07,
+                "homologationDate": "2019-11-05T00:00:00.000Z",
+                "city": "0971 - TEOTONIO VILELA",
+                "analysisDate": "2020-07-16T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000125/2020",
+              "biddingId": "002/2019",
+              "date": "2019-11-06T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 02308887000105",
+                "hirerDocument": "CNPJ: 12842829000110",
+                "type": "Material",
+                "object": "Serviço de Engenharia - Terraplenagem, Drenagem de Águas\nPluviais e Pavimentação em Paralelepípedo em Diversas Ruas\ndo Loteamento Miguel Felizardo, Bairro São Miguel do\nMunicípio de Teotônio Vilela/AL.",
+                "totalValue": 368544.07,
+                "publishDate": "2019-11-06T00:00:00.000Z",
+                "beginDate": "2019-11-05T00:00:00.000Z",
+                "endDate": "2020-11-04T00:00:00.000Z",
+                "signDate": "2019-11-05T00:00:00.000Z",
+                "executionProcessId": "002/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "1892019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE TEOTONIO VILELA",
+            "documentNumber": "12.842.829/0001-10",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "856734/2017",
+            "validity": "19/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T00:00:00.000Z",
+            "totalValue": 368544.07,
+            "transferValue": 344750,
+            "counterpartValue": 23794.07,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "847885/2017",
+        "company": {
+          "id": "160ee309-d97f-4d02-b8ee-ed1111a9e6ec",
+          "cnpj": "12842829000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5e3da9f6-0846-4845-a162-c65e8266b974",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5e3da9f6-0846-4845-a162-c65e8266b974",
+            "name": "Teotônio Vilela",
+            "uf": "AL",
+            "ibge": "2709152"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2017-12-19T00:00:00.000Z",
+        "end": "2021-10-30T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "020518/2017",
+            "organId": "20518/2017",
+            "processId": "0205182017",
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Localizado na Mesorregião do leste Alagoano e na Microrregião Geográfica de São Miguel dos Campos, Teotônio Vilela limita-se ao norte com Junqueiro e Campo Alegre, ao sul com Penedo e Coruripe, a leste com Jequiá da Praia e Coruripe e a oeste com Sebastião e Junqueiro. Está inserido na Reserva da Biosfera da Mata Atlântica (RBMA) e abriga a Reserva Particular do Patrimônio Natural (RPPN) Gulandim. Com uma área de 297, 880 km² (IBGE, 2010), Teotônio Vilela se encontra a uma distância de 101 km de Maceió e tem como vias de acesso as rodovias BR316 e BR 101. Com uma população aproximada de 42.200 habitantes. A prefeitura vem com o objetivo de melhorar a infraestrutura urbana do município com a pavimentação em diversas ruas do município. A falta de infraestrutura acarreta vários problemas para a população especialmente nos setores de transporte e mobilidade urbana. O objetivo desta obra irá proporcionar uma melhora significativa nos locais onde forem implantadas. Emenda Parlamentar n° 37400004, Programa: Planejamento Urbano, Emenda do Deputado Federal Pedro Vilela.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação e Drenagem de Diversas Ruas do Município de Teotônio Vilela/AL.",
+            "information": "Em atendimento ao disposto no § 5.º, inciso II do Art.7º e o inciso V do Art. 16 da Portaria Interministerial 424/2016, de 30 de dezembro de 2016, atesto para os devidos fins que a Prefeitura Municipal de Teotônio Vilela /AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras.",
+            "proposalDate": "2017-03-22T00:00:00.000Z",
+            "biddingDate": "2017-12-19T00:00:00.000Z",
+            "homologationDate": "2017-12-22T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020170001",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 346735.7,
+              "details": {
+                "code": "5600020170001",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 346735.7,
+                "couterpartValues": {
+                  "total": 1985.7,
+                  "financial": 1985.7,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 344750,
+                  "amendment": "R$ 344.750,00 - Pedro Vilela"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "respProponent": "***.910.164-** - JOAO JOSE PEREIRA FILHO",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.123.774-** - ANDRE RICARDO MENDES VIEIRA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "002/2019",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2019-09-30T00:00:00.000Z",
+              "processId": "1892019",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": "Aceito",
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "1892019",
+                "biddingId": "002/2019",
+                "object": "Serviço de Engenharia - Terraplenagem, Drenagem de Águas Pluviais e Pavimentação em Paralelepípedo em Diversas Ruas do Loteamento Miguel Felizardo, Bairro São Miguel do Município de Teotônio Vilela/AL",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "Procedimento licitatório na modalidade tomada de preço n. 002/2019, tipo menor preço sobre p critério de empreitada por menor preço global para Serviço de Engenharia - Terraplenagem, Drenagem de Águas Pluviais e Pavimentação em Paralelepípedo em Diversas Ruas do Loteamento Miguel Felizardo",
+                "publishDate": "2019-09-30T00:00:00.000Z",
+                "beginDate": "2019-10-16T00:00:00.000Z",
+                "endDate": "2019-10-16T00:00:00.000Z",
+                "biddingValue": 346735.7,
+                "homologationDate": "2019-11-06T00:00:00.000Z",
+                "city": "0971 - TEOTONIO VILELA",
+                "analysisDate": "2020-02-11T00:00:00.000Z",
+                "accepted": "Aceito"
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000125/2019",
+              "biddingId": "002/2019",
+              "date": "2019-11-05T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 02308887000105",
+                "hirerDocument": "CNPJ: 12842829000110",
+                "type": "Material e Serviço",
+                "object": "Serviço de Engenharia - Terraplenagem, Drenagem de Águas Pluviais e Pavimentação em Paralelepípedo em Diversas Ruas do Loteamento Miguel Felizardo, Bairro São Miguel do Município de Teotônio Vilela/AL",
+                "totalValue": 346735.7,
+                "publishDate": "2019-11-05T00:00:00.000Z",
+                "beginDate": "2019-11-05T00:00:00.000Z",
+                "endDate": "2020-11-04T00:00:00.000Z",
+                "signDate": "2019-11-05T00:00:00.000Z",
+                "executionProcessId": "002/2019 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "1892019 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE TEOTONIO VILELA",
+            "documentNumber": "12.842.829/0001-10",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "847885/2017",
+            "validity": "19/12/2017 a 30/10/2021",
+            "limitDate": "2021-12-29T00:00:00.000Z",
+            "totalValue": 346735.7,
+            "transferValue": 344750,
+            "counterpartValue": 1985.7,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "829121/2016",
+        "company": {
+          "id": "160ee309-d97f-4d02-b8ee-ed1111a9e6ec",
+          "cnpj": "12842829000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5e3da9f6-0846-4845-a162-c65e8266b974",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5e3da9f6-0846-4845-a162-c65e8266b974",
+            "name": "Teotônio Vilela",
+            "uf": "AL",
+            "ibge": "2709152"
+          }
+        },
+        "name": "MINISTERIO DAS CIDADES",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-14T00:00:00.000Z",
+        "end": "2021-02-26T00:00:00.000Z",
+        "program": "PLANEJAMENTO URBANO",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "011761/2016",
+            "organId": "11761/2016",
+            "processId": "0117612016",
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "Localizado na Mesorregião do leste Alagoano e na Microrregião Geográfica de São Miguel dos Campos, Teotônio limita-se ao norte com Junqueiro e Campo Alegre, ao sul com Penedo e Coruripe, a leste com Jequiá da Praia e Coruripe e a oeste com Sebastião e Junqueiro. Está inserido na Reserva da Biosfera da Mata Atlântica (RBMA) e abriga a Reserva Particular do Patrimônio Natural (RPPN) Gulandim, com 41 há. Com uma área de 297, 880 km² (IBGE, 2010), Teotônio Vilela se encontra a uma distância de 101 km de Maceió e tem como vias de acesso as rodovias BR316 e BR 101. Com uma população aproximada há 42.200 habitantes. A prefeitura vem com o objetivo de melhorar a infraestrutura urbana do município com a pavimentação em diversas ruas do município. A falta de infraestrutura acarreta vários problemas para a população especialmente nos setores de transporte e mobilidade urbana. O objetivo desta obra irá proporcionar uma melhora significativa nos locais onde forem implantadas.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Pavimentação de Diversas Ruas no município de Teotônio Vilela",
+            "information": "Em atendimento ao disposto no inciso V, artigo 19, da Portaria Interministerial nº 507, de 24 de novembro de 2011, atesto para os devidos fins que a Prefeitura Municipal de Teotônio Vilela/AL, possui quadro de profissionais, GMC – Gestor Municipal de Convênios e Contrato, CPL – Comissão Permanente de Licitação, Engenheiro, Técnico Social e contrato com escritório Contábil para dar suporte gerencial, que atende aos requisitos necessários de capacidade técnica e gerencial para execução do objeto proposto, tendo experiência no desenvolvimento das atividades que serão requeridas para a execução do objeto desta proposta, tais como: licitações, execução e fiscalização de obras, etc ..",
+            "proposalDate": "2016-03-11T00:00:00.000Z",
+            "biddingDate": "2016-12-14T00:00:00.000Z",
+            "homologationDate": "2016-12-22T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5600020160014",
+              "name": "PLANEJAMENTO URBANO",
+              "value": 1000.381,
+              "details": {
+                "code": "5600020160014",
+                "name": "PLANEJAMENTO URBANO",
+                "cps": "",
+                "items": "AÇÕES DE INFRAESTRUTURA URBANA",
+                "couterpartRule": "→ 0,1% (um décimo por cento) e 4% (quatro por cento) para Municípios com até 50.000 (cinquenta mil) habitantes; [Percentual Mínimo Contrapartida: 0.1% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 1000.381,
+                "couterpartValues": {
+                  "total": 12781.51,
+                  "financial": 12781.51,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 987600,
+                  "amendment": "R$ 987.600,00 - BENEDITO DE LIRA"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "respProponent": "***.584.894-** - PEDRO HENRIQUE DE JESUS PEREIRA",
+            "grantor": "56000 - MINISTERIO DAS CIDADES",
+            "respGrantor": "***.847.618-** - GILBERTO KASSAB"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0372017",
+              "type": "Licitação - Pregão",
+              "date": "2017-06-20T00:00:00.000Z",
+              "processId": "1902017",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Material/Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 10.520/2002 - Pregão",
+                "modality": "Pregão",
+                "biddingType": "Presencial por Maior Desconto",
+                "processId": "1902017",
+                "biddingId": "0372017",
+                "object": "PRESTAÇÃO DE SERVIÇOS DE ENGENHARIA PARA EXECUÇÃO DE TERRAPLENAGEM, DRENAGEM DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO DE RUAS DO CONJ. HAB. JUAREZ ORESTES GOMES DE BARROS",
+                "legalFoundation": "10520202",
+                "justification": "Pavimentação de Diversas Ruas do Município",
+                "publishDate": "2017-06-20T00:00:00.000Z",
+                "beginDate": "2017-07-05T00:00:00.000Z",
+                "endDate": "2017-07-05T00:00:00.000Z",
+                "biddingValue": 727085.72,
+                "homologationDate": "2018-05-15T00:00:00.000Z",
+                "city": "0971 - TEOTONIO VILELA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000098/2018",
+              "biddingId": "0372017",
+              "date": "2018-06-08T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 04020209000178",
+                "hirerDocument": "CNPJ: 12842829000110",
+                "type": "Obras",
+                "object": "PRESTAÇÃO DE SERVIÇOS DE ENGENHARIA PARA EXECUÇÃO DE TERRAPLENAGEM, DRENAGEM DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO DE RUAS DO CONJ. HAB. JUAREZ ORESTES GOMES DE BARROS",
+                "totalValue": 727085.72,
+                "publishDate": "2018-06-08T00:00:00.000Z",
+                "beginDate": "2018-06-08T00:00:00.000Z",
+                "endDate": "2019-06-07T00:00:00.000Z",
+                "signDate": "2018-06-08T00:00:00.000Z",
+                "executionProcessId": "0372017 ",
+                "biddingModality": "Licitação - Pregão ",
+                "processId": "1902017 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "56000 - MINISTERIO DAS CIDADES",
+            "convenient": "MUNICIPIO DE TEOTONIO VILELA",
+            "documentNumber": "12.842.829/0001-10",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "829121/2016",
+            "validity": "14/12/2016 a 26/02/2021",
+            "limitDate": "2021-04-27T00:00:00.000Z",
+            "totalValue": 1000.381,
+            "transferValue": 987600,
+            "counterpartValue": 12781.51,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "751231/2010",
+        "company": {
+          "id": "160ee309-d97f-4d02-b8ee-ed1111a9e6ec",
+          "cnpj": "12842829000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5e3da9f6-0846-4845-a162-c65e8266b974",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5e3da9f6-0846-4845-a162-c65e8266b974",
+            "name": "Teotônio Vilela",
+            "uf": "AL",
+            "ibge": "2709152"
+          }
+        },
+        "name": "FUNDACAO NACIONAL DE SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2010-12-30T00:00:00.000Z",
+        "end": "2016-07-04T00:00:00.000Z",
+        "program": "0122 – Serviços Urbanos de Água e Esgoto (Cooperação Técnica em Saneamento)",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Aguardando Prestação de Contas",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "086409/2010",
+            "organId": "00366/2010",
+            "processId": "25100.041376/2010-57",
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "legalFoundation": "Portaria Insterministerial nº 127/2008",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "description": null,
+            "justification": "O Município de Teotônio Vilela esta inserido na região da Mata Alagoana, tem área de 298km² e população estimada de 40.291 habitantes, de acordo com o Censo Demográfico do IBGE (2008). Seu Índice de Desenvolvimento Humano (IDH) é de 0,567 segundo o Atlas de Desenvolvimento Humano/PNUD (2000) e índice de pobreza igual a 69,89%. Sua economia é baseada na agricultura onde destaca-se o coco da baia, entre as lavouras permanentes, e lavouras temporárias temos: cana de açúcar, com 14925ha, feijão com 260ha, milho com 70ha e mandioca 70ha plantados. O Municipio apresenta índice pluviométricos regulares com bastante chuvas no período do inverno, que variam entre meados de maio até meados de setembro, durante este período tem sérios problemas em função dos danos causados pelas fortes chuvas. Teotônio Vilela conta hoje com Plano Diretor, de acordo com a lei 10.257/2001 e apresenta um sistema de saneamento através de fossas. Por meio das visitas domiciliares realizadas pelos Agentes Comunitários de Saúde foram cadastradas 7.836 famílias das quais 86,03% dos domicílios têm abastecimento de água da rede pública; 34,38% destinam fezes e urina ao esgoto, 99,20% têm o lixo coletado e 5% de drenagem urbana. Para atender as diretrizes da Política Nacional de saneamento, Lei Nº11.445/2007, melhorar a eficiência da gestão e cobertura de serviços de saneamento e aprimorar políticas públicas urbanas com ênfase na gestão participativa, o Município propõe desenvolver e implantar Plano Local de Saneamento Básico. Seguindo o resultado do objeto proposto, será possível otimizar os investimentos para obtenção de melhor relação custo x benefício nas ações de saneamento básico. Será possível também trabalhar a preocupação ambiental para preservação e conservação dos recursos naturais e articular as ações propostas no plano com outros programas do governo federal.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ELABORAÇÃO DE PLANO MUNICIPAL DE SANEAMENTO BÁSICO",
+            "information": "",
+            "proposalDate": "2010-09-14T00:00:00.000Z",
+            "biddingDate": "2010-12-30T00:00:00.000Z",
+            "homologationDate": "2011-01-17T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3621120100009",
+              "name": "0122 – Serviços Urbanos de Água e Esgoto (Cooperação Técnica em Saneamento)",
+              "value": 250000,
+              "details": {
+                "code": "3621120100009",
+                "name": "0122 – Serviços Urbanos de Água e Esgoto (Cooperação Técnica em Saneamento)",
+                "cps": null,
+                "items": "Promover e apoiar, tecnica e financeiramente, o desenvolvimento e a transferência de tecnologias para o fortalecimento institucional dos modelos de gestão dos serviços públicos de saneamento ambiental de estados e municípios.",
+                "couterpartRule": "Lei n.º 12.017, de 12/08/2009 -Municípios com até 50.000 habitantes - 2% a 4% [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 100.0%]",
+                "totalValue": 250000,
+                "couterpartValues": {
+                  "total": 5000,
+                  "financial": 5000,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 245000,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "respProponent": "***.584.894-** - PEDRO HENRIQUE DE JESUS PEREIRA",
+            "grantor": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "respGrantor": "***.038.564-** - EVERALDO VIEIRA NETO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "228/2011",
+              "type": "Dispensa de Licitação",
+              "date": null,
+              "processId": "012011",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Dispensa de Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "",
+                "financialResource": "",
+                "modality": null,
+                "biddingType": null,
+                "processId": "012011",
+                "biddingId": null,
+                "object": "Serviços Técnicos Especializados - Elaboração do Plano Municipal de Saneamento Básico.",
+                "legalFoundation": "Lei 8.666/93",
+                "justification": "Serviços Técnicos Especializados - Elaboração do Plano Municipal de Saneamento Básico.",
+                "publishDate": null,
+                "beginDate": null,
+                "endDate": null,
+                "biddingValue": 0,
+                "homologationDate": null,
+                "city": "0971 - TEOTONIO VILELA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "001356/2015",
+              "biddingId": "228/2011",
+              "date": "2011-10-18T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 12449880000167",
+                "hirerDocument": "CNPJ: 12842829000110",
+                "type": "Serviço",
+                "object": "Serviços Técnicos Especializados - Elaboração do Plano Municipal de Saneamento Básico.",
+                "totalValue": 249999.82,
+                "publishDate": "2011-10-18T00:00:00.000Z",
+                "beginDate": "2010-12-30T00:00:00.000Z",
+                "endDate": "2016-04-04T00:00:00.000Z",
+                "signDate": "2011-10-18T00:00:00.000Z",
+                "executionProcessId": "228/2011 ",
+                "biddingModality": "Dispensa de Licitação ",
+                "processId": "012011 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36211 - FUNDACAO NACIONAL DE SAUDE",
+            "convenient": "MUNICIPIO DE TEOTONIO VILELA",
+            "documentNumber": "12.842.829/0001-10",
+            "modality": "Convênio",
+            "status": "Aguardando Prestação de Contas",
+            "number": "751231/2010",
+            "validity": "30/12/2010 a 04/07/2016",
+            "limitDate": "2016-09-02T00:00:00.000Z",
+            "totalValue": 250000,
+            "transferValue": 245000,
+            "counterpartValue": 5000,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "731218/2009",
+        "company": {
+          "id": "160ee309-d97f-4d02-b8ee-ed1111a9e6ec",
+          "cnpj": "12842829000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5e3da9f6-0846-4845-a162-c65e8266b974",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5e3da9f6-0846-4845-a162-c65e8266b974",
+            "name": "Teotônio Vilela",
+            "uf": "AL",
+            "ibge": "2709152"
+          }
+        },
+        "name": "MINISTERIO DO ESPORTE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2015-04-27T00:00:00.000Z",
+        "program": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Prestação de Contas Concluída",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "134868/2009",
+            "organId": "13486/2009",
+            "processId": "134868/2009",
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O Município de Teotônio Vilela esta inserido na região da Mata Alagoana, localizado as margens da BR 101, tem área de 298km² e população estimada de 40.291 habitantes, de acordo com o Censo Demográfico do IBGE (2008). Seu Índice de Desenvolvimento Humano (IDH) é de 0,567 segundo o Atlas de Desenvolvimento Humano/PNUD (2000) e índice de pobreza igual a 69,89%. Sua economia é baseada na agricultura de lavouras permanentes, e lavouras temporárias. Teotônio Vilela conta hoje com Plano Diretor, de acordo com a lei 10.257/2001, não obstante o esforço empreendido no sentido de proporcionar medidas eficazes de inclusão social e esportiva vem sofrendo óbices orçamentárias que impossibilitam a consecução dos objetivos propostos. O Ginásio de Esportes é uma iniciativa que visa a democratização dos esportes, uma área de lazer onde se tenha acesso a múltiplas práticas desportivas e promoção social da população carente através do esporte, com conseqüente. Temos hoje em torno de 85% da população na zona urbana, 17 escolas estão localizadas nesta área, causando uma grade concentração de jovens que precisam ser encaminhados a prática esportiva evitando assim o auto índice que chega a 15% de violência e criminalidade no município. Nesta perspectiva, não poderia ser deixado passar em branco um Projeto como este que beneficia ao mesmo tempo jovens, crianças, adultos e idosos, e que incentiva a prática e a descoberta de todos os esportes. Pretende-se, que haja a redução nos índices de delinqüência juvenil ao considerarmos os fatores de ordem social, melhoria na qualidade de vida da população local, faz-se necessário ressaltar outros parâmetros possivelmente alcançados: Aumentar da satisfação pessoal e autoconfiança dos jovens e idosos; Melhora nos índices de aproveitamento escolar; Redução nas incidências criminais e aumento da sensação de segurança da comunidade. Ausência de jovens desocupados nas ruas, aumento do fluxo de pessoas nas regiões centrais para compras, lazer e cultura; Crescimento da economia local. A Renda das famílias esta distribuída da seguinte maneira: 65% das famílias de 0 a 1 salário mínimo; 20% das famílias de 1 a 3 salários mínimos; 15% das famílias de 3 acima. Serão atendidas 600 (seiscentas) famílias com este projeto na localidade do Bairro São Miguel, Zona Urbana do Municipio. Também serão beneficiados os bairros: São Jorge, João José Pereira, Auto da Rosa, Sebastião Vilela, parte dos bairros Centro e Inhumas com mais 2000 (duas mil) famílias. Ressaltamos que próximo a este projeto esta as Escolas Dom Avelar Brandão Vilela (Ensino médio) e Gov. Moacir Lopes de Andrade (Integral).",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "CONSTRUÇÃO DE GINÁSIO POLIESPORTIVO",
+            "information": "",
+            "proposalDate": "2009-12-29T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-19T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "5100020080074",
+              "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+              "value": 630200.09,
+              "details": {
+                "code": "5100020080074",
+                "name": "ESPORTE E LAZER DA CIDADE - INFRAESTRUTURA ESPORTIVA - EMENDAS - CONTRATO DE REPASSE",
+                "cps": "",
+                "items": "Implantação e Modernização de Infra-estrutura Esportiva",
+                "couterpartRule": "Municípios com até 50.000(cinqüenta mil) habitantes (de 2% a 4%). [Percentual Mínimo Contrapartida: 2.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 630200.09,
+                "couterpartValues": {
+                  "total": 240200.09,
+                  "financial": 240200.09,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 390000,
+                  "amendment": "R$ 390.000,00"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "respProponent": "***.584.894-** - PEDRO HENRIQUE DE JESUS PEREIRA",
+            "grantor": "51000 - MINISTERIO DO ESPORTE",
+            "respGrantor": "***.719.813-** - HERBERT BUENOS AIRES DE CARVALHO"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "0022013",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2013-09-09T00:00:00.000Z",
+              "processId": "0022013",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "0022013",
+                "biddingId": "0022013",
+                "object": "Construção de Ginásio Poliesportivo.",
+                "legalFoundation": "8666/93",
+                "justification": "Construção de Ginásio Poliesportivo.",
+                "publishDate": "2013-09-09T00:00:00.000Z",
+                "beginDate": "2013-07-24T00:00:00.000Z",
+                "endDate": "2013-07-24T00:00:00.000Z",
+                "biddingValue": 630200,
+                "homologationDate": "2013-08-20T00:00:00.000Z",
+                "city": "0971 - TEOTONIO VILELA",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000900/2013",
+              "biddingId": "0022013",
+              "date": "2013-09-09T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 17523163000151",
+                "hirerDocument": "CNPJ: 12842829000110",
+                "type": "Serviço",
+                "object": "Construção de Ginásio Poliesportivo.",
+                "totalValue": 630200,
+                "publishDate": "2013-09-09T00:00:00.000Z",
+                "beginDate": "2009-12-31T00:00:00.000Z",
+                "endDate": "2015-04-27T00:00:00.000Z",
+                "signDate": "2013-08-22T00:00:00.000Z",
+                "executionProcessId": "0022013 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "0022013 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "51000 - MINISTERIO DO ESPORTE",
+            "convenient": "MUNICIPIO DE TEOTONIO VILELA",
+            "documentNumber": "12.842.829/0001-10",
+            "modality": "Contrato de Repasse",
+            "status": "Prestação de Contas Concluída",
+            "number": "731218/2009",
+            "validity": "31/12/2009 a 27/04/2015",
+            "limitDate": "2015-04-27T00:00:00.000Z",
+            "totalValue": 630200.09,
+            "transferValue": 390000,
+            "counterpartValue": 240200.09,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "718103/2009",
+        "company": {
+          "id": "160ee309-d97f-4d02-b8ee-ed1111a9e6ec",
+          "cnpj": "12842829000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5e3da9f6-0846-4845-a162-c65e8266b974",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5e3da9f6-0846-4845-a162-c65e8266b974",
+            "name": "Teotônio Vilela",
+            "uf": "AL",
+            "ibge": "2709152"
+          }
+        },
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Não empenhado, Publicado e Não assinado",
+        "start": "2009-12-31T00:00:00.000Z",
+        "end": "2015-12-18T00:00:00.000Z",
+        "program": "1214.8581.0048 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - No Estado de Alagoas - Emenda Parlamentar - 20670007.",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Convênio Anulado",
+              "committed": "não",
+              "publication": "Publicado"
+            },
+            "proposalId": "085149/2009",
+            "organId": "01284/2009",
+            "processId": "25000.657996/2009-05",
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "legalFoundation": "Decreto nº 6170/2007",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O MUNICIPIO DE TEOTONIO VILELA ESTÁ LOCALIZADO NA REGIÃO DA MATA ALAGOANA, DE ACORDO COM O PLANO DIRETOR DA REGIONALIZAÇÃO(PDR) FAZ PARTE DA 1ª MACROREGIÃO MACEIÓ E 13° MICROREGIÃO, ESTÁ SOB GESTÃO PLENA DO SISTEMA APRESENTA 97% EM ESTRATÉGIA SAÚDE DA FAMÍLIA, O1 PACS, 12 EQUIPES DE SAÚDE BUCAL, 105 AGENTES COMUNITÁRIOS DE SAÚDE E 01 EQUIPE DE APOIO A SAÚDE DA FAMÍLIA(NASF), COM PSICOLOGO, FISIOTERAPEUTA, ASSISTENTE SOCIAL, ENTRE OUTRAS. o MUNICIPIO ATUALMENTE ENCONTRA DIFICULDADES NO DESENVOLVIMENTO PLENO DAS AÇÕES BÁSICAS DE SAÚDE REALIZADAS POR ESSES PROFISSIONAIS, DEVIDO A FALTA DE EQUIPAMENTOS E MATERIAL PERMANENTE(VEICULOS)NECESSITANDO DA AQUISIÇÃO DE EQUIPAMENTOS PARA AS UNIDADES BÁSICAS DE SAÚDE (05 UBS - RURAL E 08 UBS - URBANA)CONFORME SEGUE: *Centro de Saúde Manoel A. de Santana Rua Francisco Timóteo, S/N - Centro, Teotônio Vilela-AL Equipe 01 e 06 CNES: 2719738; *Centro de Saúde Teotônio Vilela Rua Jacinto Gerônimo, S/N, Centro, Teotônio Vilela-AL Equipe 02 03 CNES: 2719886; *Unidade de Saúde da Família Francisca Assis Borges Pereira Rua São Cipriano, S/N, Centro, Teotônio Vilela-AL Equipe 04 CNES: 2722585; *Unidade de Saúde da Família Sineide Freire Monteiro Rua Maria Jeane, Maracujá, S/N, Centro, Teotônio Vilela-AL Equipe 05 CNES: 2722623; *Unidade de Saúde da Família Jumelícia M. conceição Povoado Alto da Rosa, s/n, zona rural, Teotônio Vilela, AL Equipe 07 CNES: 2722577; *Unidade de Saúde da Família do Gulandim Povoado Gulandim, S/N, zona rural ,Teotônio Vilela-AL Equipe: 08 CNES: 2722682; *Unidade de Saúde da Família Agua de Meninos Povoado Agua de Meninos, S/N, zona rural, Teotônio Vilela-AL Equipe: 09 CNES: 2722569; *Unidade de Saúde da Família Imburi do Inácio Povoado Imburi do Matão, s/n, zona rural, Teotônio Vilela, AL Equipe: 10 CNES: 2722593; *Unidade de Saúde da Família Tenente José Albino Loteamento Parque do Futuro, S/N, Teotônio Vilela-AL Equipe: 011 CNES: 2722631; *Unidade de Saúde da Família Manoel Jacinto G. da Silva Povoado Gerais, S/N, Teotônio Vilela-AL Equipe: 012 CNES: 2722615; *Unidade de Saúde da Família José Belarmino Soares Rua Maria Augusta, S/N, Centro, Teoônio Vilela-AL Equipe 013 CNES: 2722607; *Unidade de Saúde da Família João Lourival de Souza Rua Maria Jeane Moreira Sampaio, Nº 889, Centro, Teotônio Vilela-AL Equipe: 014 CNES:4020596; *Unidade de Saúde da Família Neuza Josefa do Nascimento Firmino Rua Vereador Manoel Firmino, Nº 179 Centro, Teotônio Vilela-AL Equipe: 015 CNES: 6010989; ONDE SÃO REFERÊNCIAS, E TAMBÉM DA AQUISIÇÃO DE VEÍCULOS UTILITÁRIOS PARA DESLOCAMENTO DOS PROFISSIONAIS PARA AS UBS, E NAS VISITAS DOMICILIARES AS FAMÍLIAS CIRCUNSCRITAS DAS AREAS. COM A AQUISIÇÃO DOS EQUIPAMENTOS E VEÍCULOS UTILITÁRIOS SERÃO MINIMIZADOS OS PROBLEMAS EXISTENTES, OFERECENDO MELHORES CONDIÇÕES DE TRABALHO AOS PROFISSIONAIS DAS EQUIPES DE SAÚDE DA FAMÍLIA, IMPLANTANDO, IMPLEMENTANDO AS AÇÕES BÁSICAS DE SAÚDE, AMPLIANDO A DEMANDA E GRAU DE SATISFAÇÃO DA COMUNIDADE.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL PERMANENTE (VEÍCULOS)",
+            "information": "O MUNICÍPIO DE TEOTONIO VILELA POSSUI RECURSOS FINANCEIROS, MATERIAIS E HUMANOS E CAPACIDADE TÉCNICA PARA EXECUAR AS AÇÕES DO PROJETO.",
+            "proposalDate": "2009-10-21T00:00:00.000Z",
+            "biddingDate": "2009-12-31T00:00:00.000Z",
+            "homologationDate": "2010-01-18T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020091477",
+              "name": "1214.8581.0048 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - No Estado de Alagoas - Emenda Parlamentar - 20670007.",
+              "value": 248724.87,
+              "details": {
+                "code": "3600020091477",
+                "name": "1214.8581.0048 - Estruturação da Rede de Serviços de Atenção Básica de Saúde - No Estado de Alagoas - Emenda Parlamentar - 20670007.",
+                "cps": null,
+                "items": "Aquisição de equipamento e material permanente.",
+                "couterpartRule": "Será exigida contrapartida das Entidades Privadas Sem Fins Lucrativos conforme Artigos 37 e 40 da LDO 11.768/08. Não se aplica às entidades de assistência social e saúde registradas no CNAS. [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 40.0%]",
+                "totalValue": 248724.87,
+                "couterpartValues": {
+                  "total": 4974.87,
+                  "financial": 4974.87,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 243750,
+                  "amendment": ""
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "respProponent": "***.584.894-** - PEDRO HENRIQUE DE JESUS PEREIRA",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.857.811-** - MARCIA BASSIT LAMEIRO DA COSTA MAZZOLI"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "MUNICIPIO DE TEOTONIO VILELA",
+            "documentNumber": "12.842.829/0001-10",
+            "modality": "Convênio",
+            "status": "Convênio Anulado - Encerrado",
+            "number": "718103/2009",
+            "validity": "31/12/2009 a 18/12/2015",
+            "limitDate": "2015-12-18T00:00:00.000Z",
+            "totalValue": 248724.87,
+            "transferValue": 243750,
+            "counterpartValue": 4974.87,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "639307/2008",
+        "company": {
+          "id": "160ee309-d97f-4d02-b8ee-ed1111a9e6ec",
+          "cnpj": "12842829000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5e3da9f6-0846-4845-a162-c65e8266b974",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5e3da9f6-0846-4845-a162-c65e8266b974",
+            "name": "Teotônio Vilela",
+            "uf": "AL",
+            "ibge": "2709152"
+          }
+        },
+        "name": "INSTITUTO DO PATRIMONIO HIST. E ART. NACIONAL",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-24T00:00:00.000Z",
+        "end": "2009-06-30T00:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Concluído no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "086388/2008",
+            "organId": "34302657200800008",
+            "processId": "01450.005386/2008-76",
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "legalFoundation": "",
+            "organ": "54000 - MINISTERIO DO TURISMO",
+            "linkedOrgan": "20411 - INSTITUTO DO PATRIMONIO HIST. E ART. NACIONAL",
+            "description": null,
+            "justification": "Oferecer a populacao de Teotonio Vilela um acervo que busque interagir de forma ludica e digital a medida em que tambem serao criados videos- documentarios e atividades didaticas. O projeto tem como finalidade ga rantir que o museu tenha equipamentos adequados e imprescindiveis para o tratamento, guarda e conservacao de seu acervo.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "Objeto: Criar o Museu Municipal da Cana-de-acu-car na cidade de Teoton io Vilela em Alagoas as-segurando a preservacao da historia da cana-de - acucar e dos engenhos locais e preservando aidentidade historica da comunidade local.",
+            "information": "",
+            "proposalDate": "2008-06-19T00:00:00.000Z",
+            "biddingDate": "2008-06-19T00:00:00.000Z",
+            "homologationDate": "2008-06-24T00:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "respProponent": "***.910.164-** - JOAO JOSE PEREIRA FILHO",
+            "grantor": "20411 - INSTITUTO DO PATRIMONIO HIST. E ART. NACIONAL",
+            "respGrantor": "***.783.166-** - LUIZ FERNANDO DE ALMEIDA"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "20411 - INSTITUTO DO PATRIMONIO HIST. E ART. NACIONAL",
+            "convenient": "MUNICIPIO DE TEOTONIO VILELA",
+            "documentNumber": "12.842.829/0001-10",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "639307/2008",
+            "validity": "24/06/2008 a 30/06/2009",
+            "limitDate": "2009-06-30T00:00:00.000Z",
+            "totalValue": 105520,
+            "transferValue": 100000,
+            "counterpartValue": 5520,
+            "yieldValue": 0
+          }
+        }
+      },
+      {
+        "agreementId": "626842/2008",
+        "company": {
+          "id": "160ee309-d97f-4d02-b8ee-ed1111a9e6ec",
+          "cnpj": "12842829000110",
+          "name": "FUNDO MUNICIPAL DE EDUCAÇAO",
+          "cityId": "5e3da9f6-0846-4845-a162-c65e8266b974",
+          "sphere": "Municipal",
+          "city": {
+            "id": "5e3da9f6-0846-4845-a162-c65e8266b974",
+            "name": "Teotônio Vilela",
+            "uf": "AL",
+            "ibge": "2709152"
+          }
+        },
+        "name": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2008-06-30T00:00:00.000Z",
+        "end": "2012-08-07T00:00:00.000Z",
+        "program": "",
+        "proposalData": {
+          "data": {
+            "modality": "Convênio",
+            "contractingStatus": null,
+            "status": {
+              "value": "Adimplente no SIAFI",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "076442/2008",
+            "organId": "700095/2008",
+            "processId": "23400.000996/2008-10",
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "legalFoundation": "",
+            "organ": "26000 - MINISTERIO DA EDUCACAO",
+            "linkedOrgan": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "description": null,
+            "justification": "029, DE 29 DE JUNHO DE 2007",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "ESTE CONVENIO TEM POR OBJETO CONCEDER APOIO FINANCEIRO PARA O DESENV OLVIMENTO DE ACOES QUE VISAM PROPORCIONAR A SOCIEDADE A MELHORIA DA IN FRA-ESTRUTURA DA REDE FISICA ESCOLAR, COM A CONSTRUCAO DE ESCOLA(S) CO NFORME ESTABELECE O PROGRAMA NACIONAL DE REESTRUTURACAO E APARELHAGEM DA REDE ESCOLAR PUBLICA DE EDUCACAO INFANTIL - PROINF.NCIA.",
+            "information": "",
+            "proposalDate": "2008-06-30T00:00:00.000Z",
+            "biddingDate": "2008-06-30T00:00:00.000Z",
+            "homologationDate": "2008-07-02T00:00:00.000Z"
+          },
+          "programs": [],
+          "participants": {
+            "proponent": "CNPJ 12.842.829/0001-10 - MUNICIPIO DE TEOTONIO VILELA",
+            "respProponent": "***.584.894-** - PEDRO HENRIQUE DE JESUS PEREIRA",
+            "grantor": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "respGrantor": "***.266.584-** - JOSE CARLOS WANDERLEY DIAS DE FREITAS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [],
+          "contracts": []
+        },
+        "accountability": {
+          "data": {
+            "organ": "26298 - FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+            "convenient": "MUNICIPIO DE TEOTONIO VILELA",
+            "documentNumber": "12.842.829/0001-10",
+            "modality": "Convênio",
+            "status": "Proposta do Legado SIAFI",
+            "number": "626842/2008",
+            "validity": "30/06/2008 a 07/08/2012",
+            "limitDate": "2012-08-07T00:00:00.000Z",
+            "totalValue": 750000,
+            "transferValue": 742500,
+            "counterpartValue": 7500,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

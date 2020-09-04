@@ -1,0 +1,175 @@
+{
+  "beginDate": "2020-09-01T23:52:20.926Z",
+  "endDate": "2020-09-01T23:53:03.665Z",
+  "data": {
+    "location": {
+      "city": "São Miguel dos Campos",
+      "uf": "AL",
+      "ibge": "2708600"
+    },
+    "agreements": [
+      {
+        "agreementId": "841375/2016",
+        "company": {
+          "id": "3bdf88e8-0615-4c08-aed2-dc6d8c7d1385",
+          "cnpj": "11891087000150",
+          "name": "FUNDO MUNICIPAL DE SAÚDE",
+          "cityId": "747a2f4d-87d9-471f-b24f-686a139d5da3",
+          "sphere": "Municipal",
+          "city": {
+            "id": "747a2f4d-87d9-471f-b24f-686a139d5da3",
+            "name": "São Miguel dos Campos",
+            "uf": "AL",
+            "ibge": "2708600"
+          }
+        },
+        "name": "MINISTERIO DA SAUDE",
+        "status": "Empenhado, Publicado e Assinado",
+        "start": "2016-12-30T00:00:00.000Z",
+        "end": "2021-03-30T00:00:00.000Z",
+        "program": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / CLINICA - CENTRO DE ESPECIALIDADES - POLICLINICA E UNIDADE MISTA / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+        "proposalData": {
+          "data": {
+            "modality": "Contrato de Repasse.",
+            "contractingStatus": "Normal",
+            "status": {
+              "value": "Em execução",
+              "committed": "sim",
+              "publication": "Publicado"
+            },
+            "proposalId": "039316/2016",
+            "organId": "39316/2016",
+            "processId": "0393162016",
+            "proponent": "CNPJ 11.891.087/0001-50 - FUNDO MUNICIPAL DE SAUDE DE SAO MIGUEL DOS CAMPOS",
+            "legalFoundation": "Decreto 6170/07",
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "linkedOrgan": null,
+            "description": null,
+            "justification": "O município de São Miguel dos Campos possui uma população de 60.539 habitantes e é referência para os outros seis municípios V Região de Saúde, perfazendo um total de 238.271 habitantes (População Residente - Estimativa para o TCU - Alagoas). O Centro de Saúde Olímpia Lins, CNES 2010216, é a única Unidade Municipal de Saúde que oferece prestação de serviços ambulatoriais de clínicas de especialidades. A Unidade dispõe de psicólogo clínico, enfermeiro, nutricionista, médico clínico, médico pediatra, médico ginecologista e obstetra, médico dermatologista, médico pneumologista, médico psiquiatra, devendo receber médico cardiologista e médico oftalmologista que atualmente estão prestando atividades em outra Unidade por falta de uma estrutura adequada. Existe na Unidade Serviço de Atenção ao Paciente com Tuberculose e Serviço de Atenção Psicossocial, além de Regulação de Acesso a Ações e Serviços de Saúde, devendo absorver, após a reforma e adequação da estrutura física, o Serviço de Oftalmologia e o Serviço de Diagnóstico por Métodos Gráficos Dinâmicos com exame eletrocardiográfico, que atualmente são realizados no Centro de Diagnóstico. Não possui leitos e nem serão implantados. A reforma do Centro de Saúde Olímpia Lins, é de grande importância por ser referência de atendimento médico especializado, principalmente para os miguelenses, uma vez que as 17 (dezessete) equipes de saúde da família encaminham e recebem a contrarreferência da referida Unidade. Os recursos humanos para a operacionalidade dos serviços são os mesmos já existentes na Unidade e os que estão atendendo em outra Unidade Municipal por falta de uma estrutura adequada para atendimento aos usuários do SUS. A Unidade funciona em imóvel próprio da Prefeitura, possuindo uma área construída de 373,43 m2, não havendo acréscimo com a reforma. Trata-se de uma construção bastante antiga e que nunca passou por uma reforma geral, necessitando urgentemente de substituição total de piso, revestimentos, esquadO Centro de Saúde Olímpia Lins Lamenha possui uma área construída de 373,43 m2, e não terá acréscimo com a reforma. O pleito justifica-se, considerando que a construção do Centro de Saúde Olímpia Lins (CNES 2010216) é bastante antiga e nunca passou por uma reforma geral, pelo crescente aumento da demanda, pela falta de acessibilidade, pela necessidade de se acrescentar novos serviços e ambientes de apoio, além do cumprimento das normas técnicas vigentes. Os serviços de reforma a serem executados objetivam melhorar acessibilidade, salubridade, fluxo e vida útil da edificação da Unidade, bem como as condições de trabalho dos servidores da Unidade de Saúde, promovendo a qualidade no atendimento aos usuários do SUS, que já vinha sendo comprometida. Verifica-se facilmente que serviços como piso, revestimentos, esquadria, instalação elétrica e cobertura terão que ser substituídos por completo, além de revisão geral das instalações hidráulicas, sanitárias e rede lógica, recuperação de fachada, adequação de acessibilidade, revestimentos de paredes com infiltrações e limpeza geral da edificação.",
+            "targetAudience": null,
+            "problem": null,
+            "result": null,
+            "proposalAndObjectivesRelation": null,
+            "categories": "",
+            "object": "REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+            "information": "",
+            "proposalDate": "2016-12-21T00:00:00.000Z",
+            "biddingDate": "2016-12-30T00:00:00.000Z",
+            "homologationDate": "2017-01-04T00:00:00.000Z"
+          },
+          "programs": [
+            {
+              "programId": "3600020160040",
+              "name": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / CLINICA - CENTRO DE ESPECIALIDADES - POLICLINICA E UNIDADE MISTA / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+              "value": 440572,
+              "details": {
+                "code": "3600020160040",
+                "name": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE / ACAO 2015.8535 / PO - 0000 / CLINICA - CENTRO DE ESPECIALIDADES - POLICLINICA E UNIDADE MISTA / CONTRATO DE REPASSE / EMENDA PARLAMENTAR",
+                "cps": "",
+                "items": "REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+                "couterpartRule": "Entes Publicos (Consorcio Publico, Estados, Distrito Federal e Municipios) Não será exigida contrapartida (Art. 77, paragrafo 4., da Lei 13.242/2015). [Percentual Mínimo Contrapartida: 0.0% | Percentual Máximo Contrapartida em Bens e Serviços: 0.0%]",
+                "totalValue": 440572,
+                "couterpartValues": {
+                  "total": 0,
+                  "financial": 0,
+                  "assetsAndServices": 0
+                },
+                "transferValues": {
+                  "total": 440572,
+                  "amendment": "R$ 440.572,00 - Ronaldo Lessa"
+                }
+              }
+            }
+          ],
+          "participants": {
+            "proponent": "CNPJ 11.891.087/0001-50 - FUNDO MUNICIPAL DE SAUDE DE SAO MIGUEL DOS CAMPOS",
+            "respProponent": "***.312.804-** - JOSE SIVAL CLEMENTE DA SILVA",
+            "grantor": "36000 - MINISTERIO DA SAUDE",
+            "respGrantor": "***.789.799-** - RICARDO JOSE MAGALHAES BARROS"
+          }
+        },
+        "workPlan": {
+          "physicalChrono": null,
+          "disbursementChrono": null,
+          "detailedApplicationPlan": null,
+          "consolidatedApplicationPlan": null,
+          "attachments": null,
+          "notions": null
+        },
+        "convenientExecution": {
+          "executionProcesses": [
+            {
+              "executionId": "05/2018",
+              "type": "Licitação - Tomada de Preços",
+              "date": "2018-06-01T00:00:00.000Z",
+              "processId": "05150032018",
+              "status": "Concluído",
+              "systemStatus": "",
+              "system": "Plataforma +Brasil",
+              "accepted": null,
+              "details": {
+                "executionProcess": "Licitação",
+                "buyType": "Serviço",
+                "status": "Concluído",
+                "origin": "Nacional",
+                "financialResource": "Lei 8.6666/1993",
+                "modality": "Tomada de Preços",
+                "biddingType": "Menor Preço",
+                "processId": "05150032018",
+                "biddingId": "05/2018",
+                "object": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DE OBRA REFERENTE A REFORMA DA UNIDADE BÁSICA DE SAÚDE OLÍMPIA LINS LAMENHA NO MUNICÍPIO DE SÃO MIGUEL DOS CAMPOS/AL.",
+                "legalFoundation": "LEI 8.666/93",
+                "justification": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DE OBRA REFERENTE A REFORMA DA UNIDADE BÁSICA DE SAÚDE OLÍMPIA LINS LAMENHA NO MUNICÍPIO DE SÃO MIGUEL DOS CAMPOS/AL.",
+                "publishDate": "2018-06-01T00:00:00.000Z",
+                "beginDate": "2018-06-25T00:00:00.000Z",
+                "endDate": "2018-06-27T00:00:00.000Z",
+                "biddingValue": 440572,
+                "homologationDate": "2018-07-19T00:00:00.000Z",
+                "city": "2871 - SAO MIGUEL DOS CAMPOS",
+                "analysisDate": null,
+                "accepted": null
+              }
+            }
+          ],
+          "contracts": [
+            {
+              "contractId": "000001/2018",
+              "biddingId": "05/2018",
+              "date": "2018-07-19T00:00:00.000Z",
+              "details": {
+                "hiredDocument": "CNPJ: 18286438000143",
+                "hirerDocument": "CNPJ: 11891087000150",
+                "type": "Obras",
+                "object": "CONTRATAÇÃO DA OBRA DE ENGENHARIA REFERENTE A REFORMA DE UNIDADE DE ATENÇÃO BÁSICA EM SAÚDE OLÍMPIA LINS LAMENHA NO MUNICÍPIO DE SÃO MIGUEL DOS CAMPOS/AL.",
+                "totalValue": 440175.79,
+                "publishDate": "2018-07-19T00:00:00.000Z",
+                "beginDate": "2018-06-27T00:00:00.000Z",
+                "endDate": "2019-06-27T00:00:00.000Z",
+                "signDate": "2018-06-27T00:00:00.000Z",
+                "executionProcessId": "05/2018 ",
+                "biddingModality": "Licitação - Tomada de Preços ",
+                "processId": "05150032018 "
+              }
+            }
+          ]
+        },
+        "accountability": {
+          "data": {
+            "organ": "36000 - MINISTERIO DA SAUDE",
+            "convenient": "FUNDO MUNICIPAL DE SAUDE DE SAO MIGUEL DOS CAMPOS",
+            "documentNumber": "11.891.087/0001-50",
+            "modality": "Contrato de Repasse",
+            "status": "Em execução",
+            "number": "841375/2016",
+            "validity": "30/12/2016 a 30/03/2021",
+            "limitDate": "2021-05-29T00:00:00.000Z",
+            "totalValue": 440572,
+            "transferValue": 440572,
+            "counterpartValue": 0,
+            "yieldValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

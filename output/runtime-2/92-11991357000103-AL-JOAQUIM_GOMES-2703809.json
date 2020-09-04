@@ -1,0 +1,12 @@
+{
+  "beginDate": "2020-09-01T21:09:57.946Z",
+  "endDate": "2020-09-01T21:09:59.474Z",
+  "data": {
+    "location": {
+      "city": "Joaquim Gomes",
+      "uf": "AL",
+      "ibge": "2703809"
+    },
+    "agreements": []
+  }
+}
